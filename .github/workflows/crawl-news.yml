@@ -1,0 +1,50 @@
+name: Crawl IT News
+
+# 매일 오전 9시 KST (UTC 00:00) 실행
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install cheerio for crawling
+        run: npm install cheerio
+
+      - name: Run news crawler
+        run: node scripts/crawl-news.js
+
+      - name: Check if there are changes
+        id: check_changes
+        run: |
+          if git diff --quiet src/data/trends.json; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.name "GitHub Actions Bot"
+          git config --local user.email "actions@github.com"
+          git add src/data/trends.json
+          git commit -m "chore: Update IT trends data - $(date +'%Y-%m-%d')"
+          git push
+
+      - name: No changes detected
+        if: steps.check_changes.outputs.changes == 'false'
+        run: echo "No new articles found. Skipping commit."
