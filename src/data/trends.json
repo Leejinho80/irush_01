@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T00:49:18.794Z",
+  "updatedAt": "2026-01-22T04:16:14.424Z",
   "collectionDate": "2026.01.21",
   "displayDate": "2026.01.22",
   "totalCount": 10,
@@ -11,56 +11,86 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"시리, AI 챗봇으로 전면 개편…애플 AI 전략 바뀐다\"",
+      "title": "GMC, 신차 3종 성수동서 전시…상반기 중 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
       "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122082117",
-      "summary": "애플이 올해 말 디지털 비서 시리를 인공지능(AI) 챗봇으로 개편할 계획이라고 블룸버그 통신이 22일(현지시간) 관계자를 인용해 보도했다. 보도에 따르면, 코드명 '캄포스'로 불리는 이 챗봇은 아이폰, 아이패드, 맥 운영체제에 내장돼 시리 인터페이스를 대체할 예정이다."
+      "link": "https://zdnet.co.kr/view/?no=20260122130701",
+      "summary": "GMC가 신차 3종 출시를 앞두고 국내 고객과의 본격적인 소통 강화를 위해 'GMC 그랜드 런치 팝업스토어'를 운영한다고 22일 밝혔다. 이번 'GMC 그랜드 런치 팝업스토어'는 오는 29일부터 2월 1일까지 4일간 서울 성수동 일대에서 진행되며, 매일 오전 11시부터 오후 7시까지 누구나 자유롭게 방문해 GMC의 신형 모델들을 만나볼 수 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "한컴위드, 얼굴 위변조 탐지 솔루션 '한컴오스 라이브니스' 출시",
+      "title": "벌침 모사형 마이크로 니들 세계 첫 공개…수 개월 피부 부착에도 \"이상없어\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
       "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122094422",
-      "summary": "한컴위드가 고도화되는 안면인증 우회 공격에 대응하기 위해 기존 인프라 교체 없이 보안성을 극대화할 수 있는 솔루션을 내놨다. 한컴위드는 얼굴인증 솔루션 '한컴오스(Hancom Auth)'의 핵심 기능인 '라이브니스 탐지' 기술을 독립형 제품(서버 SDK/API)으로 분리해 출시했다고 22일 밝혔다."
+      "link": "https://zdnet.co.kr/view/?no=20260122125957",
+      "summary": "최소 72시간, 길게는 수개월까지도 통증없이 피부 부착이 가능한 벌침 모사형 마이크로 니들이 세계 최초로 개발됐다. 노인 등 만성질환자 관리나 화학·생물학전 대응체계구축에 효과적일 것으로 분석됐다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "\"두쫀쿠를 타르트로\"…파리바게뜨, ‘두쫀 타르트’ 출시",
+      "title": "벤츠코리아, 신차 10종 직접 판다…본사가 가격·재고 관리",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
       "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122093210",
-      "summary": "파리바게뜨가 ‘두바이 스타일 디저트'의 매력을 담은 신제품 ‘두쫀 타르트’를 출시한다고 22일 밝혔다. 오는 23일 출시하는 ‘두쫀 타르트’는 초코 타르트지 안에 피스타치오 원물로 만든 피스타치오 페이스트와 밀로 만든 얇은 면인 카다이프를 듬뿍 채워 깊고 풍부한 맛을 구현했다."
+      "link": "https://zdnet.co.kr/view/?no=20260122124735",
+      "summary": "메르세데스-벤츠코리아는 올해 총 10종의 차량을 국내 시장에 출시하고, 새로운 판매 방식인 '리테일 오브 더 퓨처'를 도입해 고객 중심의 차별화된 브랜드 경험을 제공할 계획이라고 22일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "에어코드, 시큐레터와 무해화 솔루션 공급 계약",
+      "title": "정부, 전기차 충전기 보조금 5457억 편성…성능 미달 시 지원 제외",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
       "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122092542",
-      "summary": "세종텔레콤 계열사 에어코드와 보안 기업 시큐레터는 ‘웹 전용 콘텐츠 무해화(CDR) 솔루션 공급 계약’을 체결했다고 22일 밝혔다. 협업을 통해 에어코드의 원격 브라우저 격리 솔루션 ‘AirRBI’엔 시큐레터의 고도화된 무해화 및 재구성 엔진이 탑재된다."
+      "link": "https://zdnet.co.kr/view/?no=20260122090921",
+      "summary": "기후에너지환경부는 2026년도 전기차 충전 기반시설(인프라) 구축사업을 본격적으로 추진한다고 22일 밝혔다. 올해 충전 기반시설 예산은 총 5천457억원으로, 급속·완속·중속 충전시설 구축을 지원한다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "SKB \"화면 보고 음성으로 AI 상담하세요\"",
+      "title": "이준희 삼성SDS 대표, 글로벌 불황 속 'AI 풀스택 전략' 선방",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
       "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122094050",
-      "summary": "SK브로드밴드는 말로 문의하면 AI가 답변하고, 필요한 정보를 화면으로 실시간 안내받을 수 있는 ‘보면서 말로 하는 AI 상담’ 서비스를 시범 운영한다고 22일 밝혔다. 그동안 고객이 고객센터에 전화를 걸면 원하는 메뉴를 찾기 위해 긴 ARS 음성 안내를 끝까지 듣고 일일이 버튼을 눌러야 하는 번거로움이 있었다."
+      "link": "https://zdnet.co.kr/view/?no=20260122114529",
+      "summary": "삼성SDS가 글로벌 경기 침체와 물류 운임 하락이라는 악재 속에서도 지난해 연간 매출 14조원에 육박하는 실적을 올리며 선방했다. 이는 이준희 대표가 취임 직후부터 강조해 온 'AI 풀스택(Full Stack)' 전략이 시장에 성공적으로 안착하며 실적 방어와 질적 성장을 동시에 이뤄낸 결과로 풀이된다."
     },
     {
       "id": 6,
       "number": "06",
+      "title": "오픈AI, 챗GPT 광고 빠르면 내달 도입…“최후의 수단”이 현실로",
+      "category": "IT/Tech",
+      "source": "ITWorld Korea",
+      "date": "2026.01.21",
+      "link": "https://www.itworld.co.kr/article/4120411/%ec%98%a4%ed%94%88ai-%ec%b1%97gpt-%ea%b4%91%ea%b3%a0-%eb%b9%a0%eb%a5%b4%eb%a9%b4-%eb%82%b4%eb%8b%ac-%eb%8f%84%ec%9e%85%ec%b5%9c%ed%9b%84%ec%9d%98-%ec%88%98%eb%8b%a8.html",
+      "summary": "CEO가 한때 “최후의 수단”이라고 표현했던 방안이 현실화되고 있다. Credit: PhotoGranary02 / Shutterstock 보도에 따르면, 오픈AI는 광고주들과 협력해 챗GPT 사용자에게 광고를 노출하는 테스트를 진행 중이다. 이 서비스는 빠르면 다음 달 상용화될 가능성이 있다."
+    },
+    {
+      "id": 7,
+      "number": "07",
+      "title": "윈도우 온 ARM용 엑스박스 앱, 게이밍 르네상스를 열까? 아직은 시기상조",
+      "category": "IT/Tech",
+      "source": "ITWorld Korea",
+      "date": "2026.01.21",
+      "link": "https://www.itworld.co.kr/article/4120393/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%98%a8-arm%ec%9a%a9-%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ec%95%b1-%ea%b2%8c%ec%9d%b4%eb%b0%8d-%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4%eb%a5%bc-%ec%97%b4%ea%b9%8c.html",
+      "summary": "게임을 다운로드할 수는 있지만, 윈도우 온 ARM PC에서의 게임 경험은 여전히 불안정하게 작동한다. Credit: Mark Hachman / Foundry 이제 윈도우 온 ARM(Windows on Arm)에서 게임을 즐길 때가 온 걸까? 마이크로소프트는 그렇다고 말한다. 다만 그 확신은 아직 완전하지 않다."
+    },
+    {
+      "id": 8,
+      "number": "08",
+      "title": "RTX 5090 품귀 현상과 되살아난 그래픽 카드 대란",
+      "category": "IT/Tech",
+      "source": "ITWorld Korea",
+      "date": "2026.01.21",
+      "link": "https://www.itworld.co.kr/article/4120385/rtx-5090-%ed%92%88%ea%b7%80-%ed%98%84%ec%83%81%ea%b3%bc-%eb%90%98%ec%82%b4%ec%95%84%eb%82%9c-%ea%b7%b8%eb%9e%98%ed%94%bd-%ec%b9%b4%eb%93%9c-%eb%8c%80%eb%9e%80.html",
+      "summary": "AI 수요 확대가 사용자용 GPU 시장에 직접적인 영향을 미치고 있다. Credit: Foundry 코로나19와 암호화폐 붐 당시, 정가에 그래픽카드를 구하기 어려웠던 상황을 기억하는가? 지난해 RTX 50 시리즈 출시 당시에도 비슷한 일이 벌어졌다. 그리고 지금, 메모리 부족 사태로 다시 한번 악몽 같은 상황이 반복되고 있다."
+    },
+    {
+      "id": 9,
+      "number": "09",
       "title": "“AI 트랜스포메이션에 집중” 베스핀글로벌, AI 중심 조직 개편 발표",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
@@ -69,44 +99,14 @@
       "summary": "AI 서비스 및 솔루션 기업 베스핀글로벌이 2026년을 기점으로 AI 중심의 대대적인 조직 개편을 단행했다고 21일 밝혔다. AI 컨설팅부터 구축, 관리, 운영에 이르기까지 기업 비즈니스 전반에 AI를 내재화하는 AI 전문 파트너로 전환하겠다는 계획이다."
     },
     {
-      "id": 7,
-      "number": "07",
+      "id": 10,
+      "number": "10",
       "title": "오픈소스로 새 출발한 XAML 스튜디오 2.0 살펴보기",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
       "date": "2026.01.21",
       "link": "https://www.itworld.co.kr/article/4119543/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4%eb%a1%9c-%ec%83%88-%ec%b6%9c%eb%b0%9c%ed%95%9c-xaml-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-2-0-%ec%82%b4%ed%8e%b4%eb%b3%b4%ea%b8%b0.html",
       "summary": "마이크로소프트가 .NET 환경에서 XAML 기반 사용자 인터페이스 개발을 지원하는 도구를 오픈소스로 전환했다. 깃허브에 공개된 이번 프로젝트는 어떤 모습일까? Credit: LightField Studios / Shutterstock 마이크로소프트의 새로운 개발 도구를 가장 먼저 써보고 싶다면, 직접 컴파일러를 꺼내 소스에서 빌드해야 할 때가 있다."
-    },
-    {
-      "id": 8,
-      "number": "08",
-      "title": "AI 경쟁에 흔들리는 그린옵스, 지속가능성의 재설계 필요",
-      "category": "IT/Tech",
-      "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4119536/ai-%ea%b2%bd%ec%9f%81%ec%97%90-%ed%9d%94%eb%93%a4%eb%a6%ac%eb%8a%94-%ea%b7%b8%eb%a6%b0%ec%98%b5%ec%8a%a4-%ec%a7%80%ec%86%8d%ea%b0%80%eb%8a%a5%ec%84%b1%ec%9d%98-%ec%9e%ac%ec%84%a4%ea%b3%84-%ed%95%84.html",
-      "summary": "클라우드 AI의 성장이 탄소 회계의 위기를 불러오는 것일까? 많은 기업에서 AI가 전략 과제가 되는 순간 그린옵스는 뒷전으로 밀려난다. Credit: iStock “그린옵스(GreenOps)”가 등장한 이유는 기업이 갑자기 도덕적 각성을 했기 때문이 아니다."
-    },
-    {
-      "id": 9,
-      "number": "09",
-      "title": "“캘린더 초대장이 해킹 도구로” 구글 제미나이서 새 취약점 발견",
-      "category": "IT/Tech",
-      "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4119505/%ec%ba%98%eb%a6%b0%eb%8d%94-%ec%b4%88%eb%8c%80%ec%9e%a5%ec%9d%b4-%ed%95%b4%ed%82%b9-%eb%8f%84%ea%b5%ac%eb%a1%9c-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%84%9c.html",
-      "summary": "캘린더 기반 프롬프트 인젝션 기법은 신뢰할 수 있는 기업 데이터를 통해 생성형 인공지능 시스템이 조작될 수 있음을 보여준다. Credit: gguy – shutterstock.com 구글의 제미나이(Gemini)에서 새롭게 공개된 취약점은 공격자가 일상적인 캘린더 초대 기능을 악용해 모델의 동작을 조작할 수 있음을 보여준다."
-    },
-    {
-      "id": 10,
-      "number": "10",
-      "title": "자동화는 가속, 채용은 둔화…인도 IT 서비스 기업 채용 급감",
-      "category": "IT/Tech",
-      "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4119479/%ec%9e%90%eb%8f%99%ed%99%94%eb%8a%94-%ea%b0%80%ec%86%8d-%ec%b1%84%ec%9a%a9%ec%9d%80-%eb%91%94%ed%99%94%ec%9d%b8%eb%8f%84-it-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b8%b0%ec%97%85-%ec%b1%84%ec%9a%a9.html",
-      "summary": "고객 수요는 늘었지만 인공지능 역량을 갖춘 인력 부족이 고용 확대를 제한하고 있다. Credit: Gorodenkoff / Shutterstock 인도 IT 기업의 대규모 채용 추세가 더욱 절제된 접근 방식으로 전환되고 있다. 기업은 반복 업무를 자동화하며 인력을 줄이지만, AI 전문 인력 채용에는 여전히 어려움을 겪고 있다."
     }
   ]
 }
