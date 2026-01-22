@@ -55,6 +55,7 @@
 html {
   font-size: 16px;
   scroll-behavior: smooth;
+  overscroll-behavior: none;
 }
 
 body {
@@ -64,6 +65,7 @@ body {
   color: var(--color-white);
   background-color: var(--color-black);
   overflow-x: hidden;
+  overscroll-behavior: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   cursor: none;
