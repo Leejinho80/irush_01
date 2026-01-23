@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-01-22T04:16:14.424Z",
-  "collectionDate": "2026.01.21",
-  "displayDate": "2026.01.22",
+  "updatedAt": "2026-01-23T03:59:19.909Z",
+  "collectionDate": "2026.01.22",
+  "displayDate": "2026.01.23",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "GMC, 신차 3종 성수동서 전시…상반기 중 출시",
+      "title": "위메이드커넥트, 신작 모바일 하이브리드 RPG '라스트발키리' 공개…1분기 출시 예정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122130701",
-      "summary": "GMC가 신차 3종 출시를 앞두고 국내 고객과의 본격적인 소통 강화를 위해 'GMC 그랜드 런치 팝업스토어'를 운영한다고 22일 밝혔다. 이번 'GMC 그랜드 런치 팝업스토어'는 오는 29일부터 2월 1일까지 4일간 서울 성수동 일대에서 진행되며, 매일 오전 11시부터 오후 7시까지 누구나 자유롭게 방문해 GMC의 신형 모델들을 만나볼 수 있다."
+      "date": "2026.01.22",
+      "link": "https://zdnet.co.kr/view/?no=20260123112046",
+      "summary": "위메이드커넥트(대표 이호대)는 신작 모바일 하이브리드 RPG '라스트 발키리'를 최초 공개한다고 23일 밝혔다. 니트로엑스가 개발한 라스트 발키리는 전작 '서먼헌터 키우기' 개발 노하우를 계승한 모바일 신작이다. 간편한 조작과 높은 접근성을 갖춘 캐주얼 게임의 강점에 깊이 있는 성장과 전략 요소를 결합한 '하이브리드 미드코어' RPG를 표방한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "벌침 모사형 마이크로 니들 세계 첫 공개…수 개월 피부 부착에도 \"이상없어\"",
+      "title": "\"지역 혁신 R&D 사업 신설…정책 인텔리전스 허브 구축해야\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122125957",
-      "summary": "최소 72시간, 길게는 수개월까지도 통증없이 피부 부착이 가능한 벌침 모사형 마이크로 니들이 세계 최초로 개발됐다. 노인 등 만성질환자 관리나 화학·생물학전 대응체계구축에 효과적일 것으로 분석됐다."
+      "date": "2026.01.22",
+      "link": "https://zdnet.co.kr/view/?no=20260123100741",
+      "summary": "지역 R&D 고도화와 NST의 전략적 역할 설정 등을 본격화할 지원 작업에 시동이 걸렸다. 국가과학기술연구회(NST)는 23일 서울 양재동에서 정책자문위원회(이하 자문위) 2차 회의를 개최했다. 각계 의견을 취합한뒤 정책 기획에 나설 계획이다. 이날 회의에는 자문위원장을 맡은 정진택 고려대학교 기계공학부 교수를 비롯한 정책자문위원 8명이 참석했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "벤츠코리아, 신차 10종 직접 판다…본사가 가격·재고 관리",
+      "title": "캄보디아 진출한 'K-워터'… 태양광 기반 식수·농수 공급나서",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122124735",
-      "summary": "메르세데스-벤츠코리아는 올해 총 10종의 차량을 국내 시장에 출시하고, 새로운 판매 방식인 '리테일 오브 더 퓨처'를 도입해 고객 중심의 차별화된 브랜드 경험을 제공할 계획이라고 22일 밝혔다."
+      "date": "2026.01.22",
+      "link": "https://zdnet.co.kr/view/?no=20260123115648",
+      "summary": "한국 혁신기술로 깨끗한 물을”... STEPI, 캄보디아 국가 파일럿사업 이양 기념식 개최 - 스텅트렝주 최초로 스다오 마을에 태양광 에너지 기반 정수·급수시설 공식 인계 - - 넥서스 기술을 통한 에너지절약+생활용수 공 과학기술정책연구원(STEPI)은 캄보디아 스텅트렝주 세산군 스다오 마을에서 '캄보디아 국가 파일럿사업, 신재생에너지 기반 스마트..."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "정부, 전기차 충전기 보조금 5457억 편성…성능 미달 시 지원 제외",
+      "title": "3월 RSA에 로그프레소 등 5사 한국관 참여",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122090921",
-      "summary": "기후에너지환경부는 2026년도 전기차 충전 기반시설(인프라) 구축사업을 본격적으로 추진한다고 22일 밝혔다. 올해 충전 기반시설 예산은 총 5천457억원으로, 급속·완속·중속 충전시설 구축을 지원한다."
+      "date": "2026.01.22",
+      "link": "https://zdnet.co.kr/view/?no=20260123113059",
+      "summary": "세계 최대 사이버보안 전시회 'RSA 컨퍼런스 2026'에 5곳의 국내 보안 기업이 공동 부스를 마련한다. 한국정보보호산업협회(KISIA)에 따르면, 대한무역투자진흥공사(KOTRA)와 함께 주관하는 'RSA 컨퍼런스 2026'의 한국관에 ▲로그프레소 ▲스토리지안 ▲에스에스엔씨 ▲크로스허브 ▲한국정보인증 5사가 참여, 해외 시장 확대에 속도를 낸다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "이준희 삼성SDS 대표, 글로벌 불황 속 'AI 풀스택 전략' 선방",
+      "title": "스콥정보통신, '2026 파트너스 데이' 개최...\"영업·기술 지원 확대\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.21",
-      "link": "https://zdnet.co.kr/view/?no=20260122114529",
-      "summary": "삼성SDS가 글로벌 경기 침체와 물류 운임 하락이라는 악재 속에서도 지난해 연간 매출 14조원에 육박하는 실적을 올리며 선방했다. 이는 이준희 대표가 취임 직후부터 강조해 온 'AI 풀스택(Full Stack)' 전략이 시장에 성공적으로 안착하며 실적 방어와 질적 성장을 동시에 이뤄낸 결과로 풀이된다."
+      "date": "2026.01.22",
+      "link": "https://zdnet.co.kr/view/?no=20260123113755",
+      "summary": "스콥정보통신(대표 김찬우)은 22일 서울 서초동 투게더앤코에서 '2026 파트너스데이'를 개최했다고 밝혔다. 이번 행사는 전국 지역 파트너와 협력 체계를 한층 공공히하고, 급변하는 보안 시장에서 동반성장 비전을 공유하기 위한 자리로 마련됐다. 총판사인 코닉오토메이션을 비롯해 전국 주요 파트너사 대표 및 임원 등 약 100여 명이 참석했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "오픈AI, 챗GPT 광고 빠르면 내달 도입…“최후의 수단”이 현실로",
+      "title": "“보안 대응 역량은 아직 부족” 포티넷, ‘2026 클라우드 보안 현황 보고서’ 발간",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4120411/%ec%98%a4%ed%94%88ai-%ec%b1%97gpt-%ea%b4%91%ea%b3%a0-%eb%b9%a0%eb%a5%b4%eb%a9%b4-%eb%82%b4%eb%8b%ac-%eb%8f%84%ec%9e%85%ec%b5%9c%ed%9b%84%ec%9d%98-%ec%88%98%eb%8b%a8.html",
-      "summary": "CEO가 한때 “최후의 수단”이라고 표현했던 방안이 현실화되고 있다. Credit: PhotoGranary02 / Shutterstock 보도에 따르면, 오픈AI는 광고주들과 협력해 챗GPT 사용자에게 광고를 노출하는 테스트를 진행 중이다. 이 서비스는 빠르면 다음 달 상용화될 가능성이 있다."
+      "date": "2026.01.22",
+      "link": "https://www.itworld.co.kr/article/4120462/%eb%b3%b4%ec%95%88-%eb%8c%80%ec%9d%91-%ec%97%ad%eb%9f%89%ec%9d%80-%ec%95%84%ec%a7%81-%eb%b6%80%ec%a1%b1-%ed%8f%ac%ed%8b%b0%eb%84%b7-2026-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%b3%b4.html",
+      "summary": "포티넷 조사에 따르면 AI 확산과 멀티클라우드 환경의 보편화로 클라우드 공격 표면이 빠르게 확대되고 있지만, 기업들의 보안 대응 역량은 이를 따라가지 못하고 있는 것으로 나타났다. 이로 인해 클라우드 환경의 변화와 보안팀의 역량 간 구조적인 격차가 커지고 있다고 포티넷은 분석했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "윈도우 온 ARM용 엑스박스 앱, 게이밍 르네상스를 열까? 아직은 시기상조",
+      "title": "오픈AI, 챗GPT 광고 빠르면 내달 도입…“최후의 수단”이 현실로",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4120393/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%98%a8-arm%ec%9a%a9-%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ec%95%b1-%ea%b2%8c%ec%9d%b4%eb%b0%8d-%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4%eb%a5%bc-%ec%97%b4%ea%b9%8c.html",
-      "summary": "게임을 다운로드할 수는 있지만, 윈도우 온 ARM PC에서의 게임 경험은 여전히 불안정하게 작동한다. Credit: Mark Hachman / Foundry 이제 윈도우 온 ARM(Windows on Arm)에서 게임을 즐길 때가 온 걸까? 마이크로소프트는 그렇다고 말한다. 다만 그 확신은 아직 완전하지 않다."
+      "date": "2026.01.22",
+      "link": "https://www.itworld.co.kr/article/4120411/%ec%98%a4%ed%94%88ai-%ec%b1%97gpt-%ea%b4%91%ea%b3%a0-%eb%b9%a0%eb%a5%b4%eb%a9%b4-%eb%82%b4%eb%8b%ac-%eb%8f%84%ec%9e%85%ec%b5%9c%ed%9b%84%ec%9d%98-%ec%88%98%eb%8b%a8.html",
+      "summary": "CEO가 한때 “최후의 수단”이라고 표현했던 방안이 현실화되고 있다. Credit: PhotoGranary02 / Shutterstock 보도에 따르면, 오픈AI는 광고주들과 협력해 챗GPT 사용자에게 광고를 노출하는 테스트를 진행 중이다. 이 서비스는 빠르면 다음 달 상용화될 가능성이 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "RTX 5090 품귀 현상과 되살아난 그래픽 카드 대란",
+      "title": "윈도우 온 ARM용 엑스박스 앱, 게이밍 르네상스를 열까? 아직은 시기상조",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4120385/rtx-5090-%ed%92%88%ea%b7%80-%ed%98%84%ec%83%81%ea%b3%bc-%eb%90%98%ec%82%b4%ec%95%84%eb%82%9c-%ea%b7%b8%eb%9e%98%ed%94%bd-%ec%b9%b4%eb%93%9c-%eb%8c%80%eb%9e%80.html",
-      "summary": "AI 수요 확대가 사용자용 GPU 시장에 직접적인 영향을 미치고 있다. Credit: Foundry 코로나19와 암호화폐 붐 당시, 정가에 그래픽카드를 구하기 어려웠던 상황을 기억하는가? 지난해 RTX 50 시리즈 출시 당시에도 비슷한 일이 벌어졌다. 그리고 지금, 메모리 부족 사태로 다시 한번 악몽 같은 상황이 반복되고 있다."
+      "date": "2026.01.22",
+      "link": "https://www.itworld.co.kr/article/4120393/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%98%a8-arm%ec%9a%a9-%ec%97%91%ec%8a%a4%eb%b0%95%ec%8a%a4-%ec%95%b1-%ea%b2%8c%ec%9d%b4%eb%b0%8d-%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4%eb%a5%bc-%ec%97%b4%ea%b9%8c.html",
+      "summary": "게임을 다운로드할 수는 있지만, 윈도우 온 ARM PC에서의 게임 경험은 여전히 불안정하게 작동한다. Credit: Mark Hachman / Foundry 이제 윈도우 온 ARM(Windows on Arm)에서 게임을 즐길 때가 온 걸까? 마이크로소프트는 그렇다고 말한다. 다만 그 확신은 아직 완전하지 않다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“AI 트랜스포메이션에 집중” 베스핀글로벌, AI 중심 조직 개편 발표",
+      "title": "RTX 5090 품귀 현상과 되살아난 그래픽 카드 대란",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4119680/ai-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ec%97%90-%ec%a7%91%ec%a4%91-%eb%b2%a0%ec%8a%a4%ed%95%80%ea%b8%80%eb%a1%9c%eb%b2%8c-ai-%ec%a4%91%ec%8b%ac-%ec%a1%b0%ec%a7%81-2.html",
-      "summary": "AI 서비스 및 솔루션 기업 베스핀글로벌이 2026년을 기점으로 AI 중심의 대대적인 조직 개편을 단행했다고 21일 밝혔다. AI 컨설팅부터 구축, 관리, 운영에 이르기까지 기업 비즈니스 전반에 AI를 내재화하는 AI 전문 파트너로 전환하겠다는 계획이다."
+      "date": "2026.01.22",
+      "link": "https://www.itworld.co.kr/article/4120385/rtx-5090-%ed%92%88%ea%b7%80-%ed%98%84%ec%83%81%ea%b3%bc-%eb%90%98%ec%82%b4%ec%95%84%eb%82%9c-%ea%b7%b8%eb%9e%98%ed%94%bd-%ec%b9%b4%eb%93%9c-%eb%8c%80%eb%9e%80.html",
+      "summary": "AI 수요 확대가 사용자용 GPU 시장에 직접적인 영향을 미치고 있다. Credit: Foundry 코로나19와 암호화폐 붐 당시, 정가에 그래픽카드를 구하기 어려웠던 상황을 기억하는가? 지난해 RTX 50 시리즈 출시 당시에도 비슷한 일이 벌어졌다. 그리고 지금, 메모리 부족 사태로 다시 한번 악몽 같은 상황이 반복되고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "오픈소스로 새 출발한 XAML 스튜디오 2.0 살펴보기",
+      "title": "“AI 트랜스포메이션에 집중” 베스핀글로벌, AI 중심 조직 개편 발표",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.21",
-      "link": "https://www.itworld.co.kr/article/4119543/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4%eb%a1%9c-%ec%83%88-%ec%b6%9c%eb%b0%9c%ed%95%9c-xaml-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-2-0-%ec%82%b4%ed%8e%b4%eb%b3%b4%ea%b8%b0.html",
-      "summary": "마이크로소프트가 .NET 환경에서 XAML 기반 사용자 인터페이스 개발을 지원하는 도구를 오픈소스로 전환했다. 깃허브에 공개된 이번 프로젝트는 어떤 모습일까? Credit: LightField Studios / Shutterstock 마이크로소프트의 새로운 개발 도구를 가장 먼저 써보고 싶다면, 직접 컴파일러를 꺼내 소스에서 빌드해야 할 때가 있다."
+      "date": "2026.01.22",
+      "link": "https://www.itworld.co.kr/article/4119680/ai-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ec%97%90-%ec%a7%91%ec%a4%91-%eb%b2%a0%ec%8a%a4%ed%95%80%ea%b8%80%eb%a1%9c%eb%b2%8c-ai-%ec%a4%91%ec%8b%ac-%ec%a1%b0%ec%a7%81-2.html",
+      "summary": "AI 서비스 및 솔루션 기업 베스핀글로벌이 2026년을 기점으로 AI 중심의 대대적인 조직 개편을 단행했다고 21일 밝혔다. AI 컨설팅부터 구축, 관리, 운영에 이르기까지 기업 비즈니스 전반에 AI를 내재화하는 AI 전문 파트너로 전환하겠다는 계획이다."
     }
   ]
 }
