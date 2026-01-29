@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-01-28T04:06:52.745Z",
-  "collectionDate": "2026.01.27",
-  "displayDate": "2026.01.28",
+  "updatedAt": "2026-01-29T04:54:36.164Z",
+  "collectionDate": "2026.01.28",
+  "displayDate": "2026.01.29",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "ESS 중앙계약 2차 우선협, 설 이전 발표…결과 관심↑",
+      "title": "삼성전자 \"파운드리 2나노 하반기 양산 순항\"…미·중 고객 수주 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.27",
-      "link": "https://zdnet.co.kr/view/?no=20260128130518",
-      "summary": "배터리3사(LG에너지솔루션·삼성SDI·SK온)가 맞붙은 국내 에너지저장장치(ESS) 중앙계약시장 2차 경쟁입찰 우선협상대상자 발표가 설 연휴 이전에 이뤄질 전망이다. 앞서 1차 사업에서 ‘안전·국산’ 경쟁력이 부각되며 삼성SDI가 사실상 독주 체제를 굳힌 만큼, 2차 결과를 앞두고 업계 긴장감도 커지고 있다."
+      "date": "2026.01.28",
+      "link": "https://zdnet.co.kr/view/?no=20260129125955",
+      "summary": "삼성전자가 2nm(나노미터, 10억분의 1m) 공정을 중심으로 한 선단 파운드리(반도체 위탁생산) 기술 개발과 고객 수주가 순조롭게 진행되고 있다고 밝혔다. 테슬라 수주 이후 미국과 중국 대형 고객사들과의 협업 논의도 확대되고 있으며, 인공지능(AI) 응용처를 중심으로 수주 과제가 빠르게 늘고 있다는 설명이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "샘 올트먼 \"GPT-5.2 작문 능력 망쳤다\"…2027년 100배 저렴한 모델 예고",
+      "title": "우크라이나, 장거리 자폭 드론 도입…\"장거리 정찰·타격 능력 강화\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.27",
-      "link": "https://zdnet.co.kr/view/?no=20260128125014",
-      "summary": "샘 알트먼 오픈AI 최고경영자(CEO)가 최신 인공지능(AI) 모델의 품질 저하에 대한 실수를 인정하고 오는 2027년까지 서비스 비용과 속도를 개선할 것을 선언했다. 알트먼 CEO는 26일(현지시간) 샌프란시스코에서 열린 오픈AI 타운홀 미팅에서 \"2027년 말까지 GPT-5."
+      "date": "2026.01.28",
+      "link": "https://zdnet.co.kr/view/?no=20260129101206",
+      "summary": "우크라이나가 프랑스산 장거리 자폭 드론을 도입하며 장거리 타격과 정찰 능력을 한층 강화했다. AFP 통신 등 외신들은 프랑스 방위산업체 EOS 테크놀로지가 최대 500㎞를 비행하고 최대 5시간 동안 체공할 수 있는 드론을 우크라이나에 납품했다고 보도했다. 우크라이나가 프랑스산 장거리 자폭 드론을 전격 도입했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "삼성重, 새해 선박 5척 연이어 수주…총 1.2조원 규모",
+      "title": "'국대 AI' 도전사 트릴리온랩스, 민관 협력으로 차세대 기술 국산화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.27",
-      "link": "https://zdnet.co.kr/view/?no=20260128130018",
-      "summary": "삼성중공업이선박 5척을 연이어 수주하며 새해 들어 본격적인 수주 확대에 나선다. 삼성중공업은 버뮤다 지역 선사와 LNG운반선 2척 5억 달러, 아시아 지역 선주와 초대형 에탄운반선(VLEC) 2척 3억 달러, 라이베리아 지역 선사와는 원유운반선 1척을 1억달러에 계약하는 등 총 5척 9억 달러(약 1조 2천억원) 규모를 수주했다고 28일 밝혔다."
+      "date": "2026.01.28",
+      "link": "https://zdnet.co.kr/view/?no=20260129111055",
+      "summary": "구글 등 글로벌 빅테크가 기존 거대언어모델(LLM) 모델의 한계를 극복하기 위해 '디퓨전(확산)' 모델을 시도하는 가운데, 트릴리온랩스가 정부 지원사업을 통해 이 기술을 독자적으로 구현해 주목 받고 있다. 스타트업의 혁신 기술과 정부의 인프라 지원이 만나 차세대 인공지능(AI) 원천 기술을 국산화한 민관 협력 성과로 평가돼서다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "아크릴, 피지컬AI 풀스택 지원...'조나단' 로봇과 연동 성공",
+      "title": "토종 AI 협업툴 플로우, 2025년 흑자 전환…글로벌 확장 가속",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.27",
-      "link": "https://zdnet.co.kr/view/?no=20260128121646",
-      "summary": "인공지능(AI) 전문기업 아크릴(Acryl)은 자사의 통합 AI 플랫폼 '조나단(Jonathan)을 로봇 시스템과 연동하는 데 성공했다고 28일 밝혔다. 이번 성과를 계기로 아크릴은 조나단 생태계를 소프트웨어 중심에서 로봇·자율 시스템 등 피지컬 AI(Physical AI) 영역으로 본격 확장한다는 계획이다."
+      "date": "2026.01.28",
+      "link": "https://zdnet.co.kr/view/?no=20260129123332",
+      "summary": "마드라스체크가 인공지능(AI) 협업툴 '플로우'를 앞세워 흑자 전환을 달성했다. 빠른 성장세를 바탕으로 올해 미국과 일본 등 글로벌 주요 시장 진출에 박차를 가할 계획이다. 마드라스체크는 2025년 한 해 계약 수주 매출 210억원을 기록해 흑자 전환했다고 29일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "엔젤로보틱스, 말레이시아서 '엔젤렉스 M20' 출시",
+      "title": "CJ올리브네트웍스, 청년 일경험 교육 성과로 고용노동부장관 표창",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.27",
-      "link": "https://zdnet.co.kr/view/?no=20260128121434",
-      "summary": "웨어러블 로봇 전문기업 엔젤로보틱스는 말레이시아 국립대 병원에서 재활로봇 엔젤렉스 M20을 공식 출시했다고 28일 밝혔다. 회사는 지난 27일 말레이시아 공과대학교 산하 알술탄 압둘라 병원에서 엔젤렉스 M20 런칭 행사를 개최했다. 말레이시아 고등교육부 장관이 주관하고 국립대 병원과 의과대학이 참여했다."
+      "date": "2026.01.28",
+      "link": "https://zdnet.co.kr/view/?no=20260129123541",
+      "summary": "CJ올리브네트웍스가 4년간 청년 대상 교육 프로그램을 지속해 온 성과를 인정받았다. CJ올리브네트웍스는 지역 청년의 취업 진로 개발 및 장기근속 지원에 기여한 공로로 고용노동부장관 표창을 수상했다고 29일 밝혔다. 고용노동행정유공 표창은 적극적이고 성실한 직무 수행을 통해 고용노동행정 발전에 기여한 개인과 단체에 수여되는 상이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“프라이빗 클라우드가 돌아온다” AI 워크로드가 바꾼 클라우드 방정식",
+      "title": "크롬, 에이전트형 AI 도입…”알아서 일하고 결정만 사용자가”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.27",
-      "link": "https://www.itworld.co.kr/article/4123288/%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b9%97-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4-ai-%ec%9b%8c%ed%81%ac%eb%a1%9c%eb%93%9c%ea%b0%80-%eb%b0%94.html",
-      "summary": "AI의 경제성이 클라우드 비용에 대한 인식과 현실 사이의 격차를 드러내고 있다. Credit: Shutterstock 북미의 한 제조사는 2025년 초까지 혁신 기업이 흔히 선택하는 방식대로 데이터 레이크, 분석, CI/CD, ERP 통합의 상당 부분까지 활용하며 퍼블릭 클라우드 표준화를 공격적으로 추진했다."
+      "date": "2026.01.28",
+      "link": "https://www.itworld.co.kr/article/4123918/%ed%81%ac%eb%a1%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-%eb%8f%84%ec%9e%85-%ec%95%8c%ec%95%84%ec%84%9c-%ec%9d%bc%ed%95%98%ea%b3%a0-%ea%b2%b0%ec%a0%95%eb%a7%8c-%ec%82%ac%ec%9a%a9.html",
+      "summary": "구글이 크롬에 자동 탐색 기능과 제미나이 사이드바를 도입했다. Credit: Google 구글이 크롬 사용자에게 중대한 변화를 도입한다고 밝혔다. 사용자가 지시한 작업을 대신 수행하며 웹을 “자동 탐색”하는 에이전트형 AI를 대표 기능으로 제공한다는 설명이다. 크롬에는 제미나이를 탑재한 사이드바도 함께 추가됐다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“아태지역 기업 40% AI 에이전트 활용…26년까지 50% 이상 확산 전망” 유아이패스",
+      "title": "인텔, 18A 공정 기반 ‘인텔 코어 울트라 시리즈3’ 탑재 AI PC 발표",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.27",
-      "link": "https://www.itworld.co.kr/article/4123256/%ec%95%84%ed%83%9c%ec%a7%80%ec%97%ad-%ea%b8%b0%ec%97%85-40-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%99%9c%ec%9a%a926%eb%85%84%ea%b9%8c%ec%a7%80-50-%ec%9d%b4%ec%83%81-%ed%99%95.html",
-      "summary": "아태지역 기업의 40%는 이미 AI 에이전트를 활용하고 있으며, 50% 이상이 2026년까지 도입을 계획하고 있는 것으로 나타났다. Credit: SuPatMaN - shutterstock."
+      "date": "2026.01.28",
+      "link": "https://www.itworld.co.kr/article/4123334/%ec%9d%b8%ed%85%94-18a-%ea%b3%b5%ec%a0%95-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ed%85%94-%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%883-%ed%83%91%ec%9e%ac-ai-pc-%eb%b0%9c.html",
+      "summary": "인텔이 28일 삼성동 웨스틴 서울 파르나스에서 ‘2026 인텔 AI PC 쇼케이스 기자간담회’를 개최하고, 최신 AI PC 전략과 18A 공정 기반의 인텔 코어 울트라 시리즈3(코드명: 팬서레이크)를 탑재한 최신 AI PC 제품들을 한자리에서 소개했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "2026년 기업용 PC 교체, 가격 상승과 사양 하락 현실화",
+      "title": "“프라이빗 클라우드가 돌아온다” AI 워크로드가 바꾼 클라우드 방정식",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.27",
-      "link": "https://www.itworld.co.kr/article/4123219/2026%eb%85%84-%ea%b8%b0%ec%97%85%ec%9a%a9-pc-%ea%b5%90%ec%b2%b4-%ea%b0%80%ea%b2%a9-%ec%83%81%ec%8a%b9%ea%b3%bc-%ec%82%ac%ec%96%91-%ed%95%98%eb%9d%bd-%ed%98%84%ec%8b%a4%ed%99%94.html",
-      "summary": "CPU와 메모리 수급 불안이 PC 시장 전반의 가격과 구성을 흔들고 있다. Credit: JESHOOTS / Jan Vašek 여러 전문가가 2026년 올해 PC 교체를 검토하는 기업에 대비가 필요하다며 노트북 가격은 더 오르고 구성 성능은 떨어질 것이라고 전망했다."
+      "date": "2026.01.28",
+      "link": "https://www.itworld.co.kr/article/4123288/%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b9%97-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4-ai-%ec%9b%8c%ed%81%ac%eb%a1%9c%eb%93%9c%ea%b0%80-%eb%b0%94.html",
+      "summary": "AI의 경제성이 클라우드 비용에 대한 인식과 현실 사이의 격차를 드러내고 있다. Credit: Shutterstock 북미의 한 제조사는 2025년 초까지 혁신 기업이 흔히 선택하는 방식대로 데이터 레이크, 분석, CI/CD, ERP 통합의 상당 부분까지 활용하며 퍼블릭 클라우드 표준화를 공격적으로 추진했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "양자내성암호, 더 이상 미래 과제 아니다…미 CISA, 조달 가이드 제시",
+      "title": "“아태지역 기업 40% AI 에이전트 활용…26년까지 50% 이상 확산 전망” 유아이패스",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.27",
-      "link": "https://www.itworld.co.kr/article/4123182/%ec%96%91%ec%9e%90%eb%82%b4%ec%84%b1%ec%95%94%ed%98%b8-%eb%8d%94-%ec%9d%b4%ec%83%81-%eb%af%b8%eb%9e%98-%ea%b3%bc%ec%a0%9c-%ec%95%84%eb%8b%88%eb%8b%a4%eb%af%b8-cisa-%ec%a1%b0%eb%8b%ac.html",
-      "summary": "미국 사이버보안 및 인프라 보안국(CISA)이 양자내성암호(PQC) 표준 적용 현황을 기준으로 하드웨어, 소프트웨어를 범주별로 정리한 목록을 공개했다."
+      "date": "2026.01.28",
+      "link": "https://www.itworld.co.kr/article/4123256/%ec%95%84%ed%83%9c%ec%a7%80%ec%97%ad-%ea%b8%b0%ec%97%85-40-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%99%9c%ec%9a%a926%eb%85%84%ea%b9%8c%ec%a7%80-50-%ec%9d%b4%ec%83%81-%ed%99%95.html",
+      "summary": "아태지역 기업의 40%는 이미 AI 에이전트를 활용하고 있으며, 50% 이상이 2026년까지 도입을 계획하고 있는 것으로 나타났다. Credit: SuPatMaN - shutterstock."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "유럽, 기술 주권 강화 위해 미국 기술 의존 해소 본격화",
+      "title": "2026년 기업용 PC 교체, 가격 상승과 사양 하락 현실화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.27",
-      "link": "https://www.itworld.co.kr/article/4122452/%ec%9c%a0%eb%9f%bd-%ea%b8%b0%ec%88%a0-%ec%a3%bc%ea%b6%8c-%ea%b0%95%ed%99%94-%ec%9c%84%ed%95%b4-%eb%af%b8%ea%b5%ad-%ea%b8%b0%ec%88%a0-%ec%9d%98%ec%a1%b4-%ed%95%b4%ec%86%8c-%eb%b3%b8%ea%b2%a9%ed%99%94.html",
-      "summary": "유럽의회가 디지털 인프라 전반에서 역외 기술 의존을 줄이기 위한 장기 전략을 요구했다. Credit: symbiot / Shutterstock 유럽연합 디지털 인프라의 80% 이상을 유럽 외 지역 기술(역외 기술)에 의존하고 있다는 판단 아래, 유럽의회는 반도체·클라우드·소프트웨어·인공지능을 포괄하는 ‘유로스택’ 구상을 촉구했다."
+      "date": "2026.01.28",
+      "link": "https://www.itworld.co.kr/article/4123219/2026%eb%85%84-%ea%b8%b0%ec%97%85%ec%9a%a9-pc-%ea%b5%90%ec%b2%b4-%ea%b0%80%ea%b2%a9-%ec%83%81%ec%8a%b9%ea%b3%bc-%ec%82%ac%ec%96%91-%ed%95%98%eb%9d%bd-%ed%98%84%ec%8b%a4%ed%99%94.html",
+      "summary": "CPU와 메모리 수급 불안이 PC 시장 전반의 가격과 구성을 흔들고 있다. Credit: JESHOOTS / Jan Vašek 여러 전문가가 2026년 올해 PC 교체를 검토하는 기업에 대비가 필요하다며 노트북 가격은 더 오르고 구성 성능은 떨어질 것이라고 전망했다."
     }
   ]
 }
