@@ -327,7 +327,7 @@ const AboutPage = () => {
             Something<br />
             <span className="accent">Amazing</span>
           </h2>
-          <a href="mailto:contact@irush.co.kr" className="cta-mega-btn">
+          <a href="mailto:info@irush.co.kr" className="cta-mega-btn">
             <span>Get In Touch</span>
             <span className="btn-arrow">→</span>
           </a>

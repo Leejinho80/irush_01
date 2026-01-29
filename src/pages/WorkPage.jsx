@@ -533,7 +533,7 @@ const WorkPage = () => {
             <p className="work-cta-desc">
               열정과 기쁨, 신념으로 함께하겠습니다.
             </p>
-            <a href="mailto:contact@irush.co.kr" className="work-cta-btn">
+            <a href="mailto:info@irush.co.kr" className="work-cta-btn">
               <span>Contact Us</span>
               <span className="btn-arrow">→</span>
             </a>

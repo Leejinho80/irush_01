@@ -393,7 +393,7 @@ const MainPage = () => {
           <p className="cta-desc-v2">
             열정과 기쁨, 그리고 신념으로 함께하겠습니다.
           </p>
-          <a href="mailto:contact@irush.co.kr" className="cta-btn-v2">
+          <a href="mailto:info@irush.co.kr" className="cta-btn-v2">
             <span>Start a Project</span>
             <span className="btn-arrow">→</span>
           </a>
