@@ -6,92 +6,172 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import Footer from '../components/Footer'
 import './WorkPage.css'
 
+// 이미지 import
+import portfolio01Bg from '../assets/images/01_portfolio_bg.jpg'
+import portfolio03Bg from '../assets/images/03_portfolio_bg.jpg'
+
 gsap.registerPlugin(ScrollTrigger)
 
 // 스와이프 임계값
 const SWIPE_THRESHOLD = 50
 const SWIPE_VELOCITY_THRESHOLD = 500
 
-// 최근 프로젝트 (Featured) - 상세 페이지 있음
+// 최근 프로젝트 (Featured) - 6개 프로젝트
 const featuredProjects = [
   {
     id: 1,
-    title: 'LG HelloVision',
-    subtitle: 'Digital Platform Renewal',
-    category: 'Web Development',
+    title: 'LG헬로비전 모바일 직영몰 고도화',
+    subtitle: 'Mobile Platform Enhancement',
+    category: 'UX/UI Design',
     client: 'LG헬로비전',
-    year: '2024',
-    description: '국내 최대 케이블TV 사업자의 디지털 플랫폼 전면 리뉴얼. 사용자 중심의 정보 구조 재설계와 현대적인 UI/UX 디자인으로 브랜드 가치 상승.',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1920&h=1080&fit=crop',
+    year: '2025',
+    description: '기존 모바일 서비스의 사용자 경험을 전면 개선하고 최신 트렌드에 맞는 UI/UX를 적용하여 고객 만족도를 높이는 프로젝트.',
+    image: portfolio01Bg,
     color: '#A50034'
   },
   {
     id: 2,
-    title: 'Samsung SDS',
-    subtitle: 'Brand Experience Design',
-    category: 'Brand Identity',
-    client: '삼성SDS',
-    year: '2024',
-    description: 'IT 서비스 기업으로서의 전문성과 혁신성을 표현하는 새로운 비주얼 아이덴티티 시스템 개발.',
-    image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1920&h=1080&fit=crop',
+    title: '삼성닷컴 글로벌 백엔드 시스템 개선',
+    subtitle: 'Global Backend Optimization',
+    category: 'System Development',
+    client: '삼성전자 / 삼성SDS',
+    year: '개선/운영중',
+    description: '글로벌 이커머스 플랫폼의 백엔드 아키텍처 최적화 및 성능 개선. MSA 기반 유연한 시스템 구조로 전환.',
+    image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?w=1920&h=1080&fit=crop',
     color: '#1428A0'
   },
   {
     id: 3,
-    title: 'Shinhan Bank',
-    subtitle: 'Mobile Banking UX',
-    category: 'Mobile App',
-    client: '신한은행',
-    year: '2023',
-    description: '복잡한 금융 서비스를 직관적으로 이용할 수 있도록 모바일 뱅킹 앱의 사용자 경험 전면 개선.',
-    image: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1920&h=1080&fit=crop',
-    color: '#0046FF'
+    title: 'LG헬로비전 방송/인터넷 서비스 개선',
+    subtitle: 'Digital Transformation',
+    category: 'UX/UI Consulting',
+    client: 'LG헬로비전',
+    year: '2025',
+    description: '케이블TV 시장의 디지털 전환과 고객 중심 UX/UI 혁신. Customer-Centric Solution 제시.',
+    image: portfolio03Bg,
+    color: '#E91E63'
   },
   {
     id: 4,
-    title: 'Leeum Museum',
-    subtitle: 'Online Reservation System',
-    category: 'Web Platform',
-    client: '삼성문화재단',
-    year: '2023',
-    description: '리움미술관 온라인 예약 시스템 구축. 문화 예술 공간에 어울리는 세련된 디자인과 직관적인 예약 프로세스.',
-    image: 'https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=1920&h=1080&fit=crop',
-    color: '#2D2D2D'
+    title: '삼성 SDS SCP SingleID CX 개선',
+    subtitle: 'Enterprise Security UX',
+    category: 'B2B Solution',
+    client: '삼성SDS',
+    year: '개선/운영중',
+    description: 'Samsung Cloud Platform의 통합인증/보안 솔루션 사용자 경험 혁신. 직관적인 인증 관리 대시보드 구축.',
+    image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1920&h=1080&fit=crop',
+    color: '#2196F3'
+  },
+  {
+    id: 5,
+    title: 'LG헬로비전 통합 웹사이트 운영',
+    subtitle: 'Integrated Web Operations',
+    category: 'Web Operations',
+    client: 'LG헬로비전',
+    year: '운영중',
+    description: 'LG헬로비전 전 서비스(케이블TV, 인터넷, 모바일, 렌탈) 통합 웹사이트 운영 및 지속적 개선.',
+    image: 'https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=1920&h=1080&fit=crop',
+    color: '#4CAF50'
+  },
+  {
+    id: 6,
+    title: '국내외 기업 SRM 서비스 운영',
+    subtitle: 'Enterprise SRM Solution',
+    category: 'System Operations',
+    client: '현대글로비스 / 아모레퍼시픽',
+    year: '운영중',
+    description: '현대글로비스 아태/미주/유럽 구매시스템, 아모레퍼시픽 간접구매시스템 등 대기업 SRM 서비스 운영.',
+    image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1920&h=1080&fit=crop',
+    color: '#FF9800'
   }
 ]
 
-// 지난 프로젝트 아카이브 (상세 페이지 없음)
+// 프로젝트 히스토리 데이터 (아이러시 포트폴리오 전체)
 const archiveProjects = [
+  // 2021
   { title: 'LG헬로비전 MYLGID 회원 통합', client: 'LG헬로비전', year: '2021' },
   { title: '삼성 리움미술관 온라인 예약시스템 구축', client: '삼성문화재단 / 삼성SDS', year: '2021' },
   { title: '신한 SOL 캄보디아 UI/UX 컨설팅', client: '신한은행 캄보디아', year: '2021' },
+  { title: 'LUNA BREWERY HOPPY APPLICATION 구축', client: '서울랜드', year: '2021' },
   { title: 'LG헬로비전 온라인 신청 시스템 개선', client: 'LG헬로비전', year: '2021' },
   { title: '국립암센터 국가 암검진 정보시스템 개선', client: '국립암센터', year: '2021' },
+  // 2020
   { title: 'LG헬로비전 멀티호스팅 웹통합', client: 'LG헬로비전', year: '2020' },
+  { title: '하나제약 인사평가시스템 구축', client: '하나제약', year: '2020' },
   { title: '삼성전자 BESPOKE 서비스 개선', client: '삼성전자 / 삼성SDS', year: '2020' },
   { title: 'CJ헬로 사명변경에 따른 CI/BI 교체', client: 'CJ헬로', year: '2020' },
+  // 2019
   { title: '삼성닷컴 B-PJT', client: '삼성전자 / 삼성SDS', year: '2019' },
   { title: 'CJ헬로 렌탈 서비스 고도화', client: 'CJ헬로', year: '2019' },
   { title: '삼성닷컴 EMC Buying_Conf 과제 개발', client: '삼성전자 / 삼성SDS', year: '2019' },
+  // 2018
   { title: 'CJ헬로 렌탈 임직원 복지몬 구축', client: 'CJ헬로 / CJ올리브네트웍스', year: '2018' },
+  { title: 'CJ헬로모바일 서비스 개선', client: 'CJ헬로 / CJ올리브네트웍스', year: '2018' },
   { title: '삼성닷컴 글로벌 Shop 통합', client: '삼성전자 / 삼성SDS', year: '2018' },
+  { title: '경기도 감염병관리지원단 정보시스템 개선', client: '경기도감염병관리지원단', year: '2018' },
+  { title: 'CJ헬로모바일 CU 제휴서비스 개선', client: 'CJ헬로', year: '2018' },
   { title: '하나제약 홈페이지 개편', client: '하나제약', year: '2018' },
+  // 2017
   { title: '삼성닷컴 한국 사이트 운영', client: '삼성전자 / 삼성네트웍스', year: '2008-2017' },
+  { title: '삼성전자 LED 웹사이트 개편 - PIM개발', client: '삼성전자 / 삼성SDS', year: '2017' },
   { title: '신한은행 글로벌 포털 웹사이트 개편', client: '신한은행', year: '2017' },
-  { title: '삼성전자 LED/반도체 웹사이트 개편', client: '삼성전자 / 삼성SDS', year: '2017' },
+  { title: '삼성전자 반도체 웹사이트 개편 - PIM개발', client: '삼성전자 / 삼성SDS', year: '2017' },
+  { title: '삼성닷컴 B2B 한총 컨텐츠 마이그레이션', client: '삼성전자 / 삼성SDS', year: '2017' },
   { title: '삼성전자 갤럭시 재팬 사이트 구축', client: '삼성전자 / 삼성SDS', year: '2017' },
-  { title: '국립암센터 호스피스완화의료 질평가시스템', client: '국립암센터', year: '2016' },
+  { title: 'CJ헬로모바일 임직원 지인몬 고도화', client: 'CJ헬로비전 / CJ올리브네트웍스', year: '2017' },
+  { title: 'CJ헬로모바일 임직원몬 고도화', client: 'CJ헬로비전 / CJ올리브네트웍스', year: '2017' },
+  { title: '삼성닷컴 Contents & Service 개편', client: '삼성전자 / 삼성SDS', year: '2017' },
+  // 2016
+  { title: '국립암센터 호스피스완화의료 질평가시스템 개선', client: '국립암센터', year: '2016' },
   { title: '삼성닷컴 P5 한총 차세대', client: '삼성전자 / 삼성SDS', year: '2016' },
-  { title: '신한은행 글로벌 포털&인터넷 뱅킹', client: '신한은행', year: '2015' },
+  { title: 'CJ헬로비전 MGM서비스 구축', client: 'CJ헬로비전 / 리그시스템', year: '2016' },
+  { title: 'CJ헬로비전 정기결제 증빙 시스템 구축', client: 'CJ헬로비전 / CJ올리브네트웍스', year: '2016' },
+  { title: 'CJ헬로비전 지역방송국 VOD서비스 개선', client: 'CJ헬로비전 / 카테노이드', year: '2016' },
+  { title: '국립암센터 암검진사업 정보시스템 개선', client: '국립암센터', year: '2016' },
+  { title: 'CJ헬로모바일 중고폰 렌탈 서비스 구축', client: 'CJ헬로비전', year: '2016' },
+  { title: '삼성닷컴 B2B 한국사이트 개편', client: '삼성전자 / 삼성SDS', year: '2016' },
+  { title: '국립암센터 가정호스피스 구축', client: '국립암센터', year: '2016' },
+  // 2015
+  { title: '국립암센터 호스피스완화의료 질평가시스템 고도화', client: '국립암센터', year: '2015' },
+  { title: '신한은행 글로벌 포털&인터넷 뱅킹 1차 오픈', client: '신한은행', year: '2015' },
   { title: '신한금융지주 사회책임경영 개편', client: '신한금융지주', year: '2015' },
+  { title: 'KT 올레 똑똑 서비스 개발', client: 'KT', year: '2015' },
   { title: '삼성닷컴 한국사이트 개편', client: '삼성전자 / 삼성SDS', year: '2015' },
+  { title: '하나제약 온라인 주문 시스템 구축', client: '하나제약', year: '2015' },
+  { title: '삼성전자 C&S포털 삼성닷컴 통합', client: '삼성전자 / 삼성SDS', year: '2015' },
+  // 2014
+  { title: '삼성스포츠단 홈페이지 웹접근성 갱신', client: '삼성스포츠단 / 삼성SDS', year: '2014' },
+  { title: '삼성스포츠단 스마트웰니스 개편', client: '삼성스포츠단 / 삼성SDS', year: '2014' },
   { title: '삼성C&S포털 글로벌 콘텐츠관리시스템 구축', client: '삼성전자 / 삼성SDS', year: '2014' },
+  { title: '삼성닷컴 제품 특장점 고도화', client: '삼성전자 / 삼성SDS', year: '2014' },
+  { title: '삼성닷컴 About Samsung 개편', client: '삼성전자 / 삼성SDS', year: '2014' },
+  // 2013
+  { title: '삼성SNS 제품 특장점 제작', client: '삼성SNS (現 삼성SDS)', year: '2013' },
+  { title: '삼성전자 C&S 포털 사이트 웹접근성 개선', client: '삼성전자 / 삼성SDS', year: '2013' },
+  { title: '그레이프시티 온라인 프로모션 제작', client: '그레이프시티', year: '2013' },
   { title: '신한금융지주 홈페이지 개편', client: '신한금융지주회사', year: '2013' },
+  { title: '신한금융지주 사회공헌 메뉴 개편', client: '신한금융지주회사', year: '2013' },
+  { title: '삼성 와이즈미팅 서비스 개선', client: '삼성SDS', year: '2013' },
+  { title: '삼성전자 C&S 포털 사이트 웹접근성 컨설팅', client: '삼성전자 / 삼성SDS', year: '2013' },
+  { title: '삼성SDS 메시지플러스 웹접근성 개선', client: '삼성SDS', year: '2013' },
+  { title: '삼성그룹 대표사이트 웹접근성 개선', client: '삼성그룹 / 삼성SDS', year: '2013' },
+  { title: '신한금융그룹 IR 모바일웹 구축', client: '신한금융지주회사 / 신한데이타시스템', year: '2013' },
+  { title: '삼성미소금융재단 홈페이지 개편', client: '삼성미소금융재단', year: '2013' },
   { title: '삼성전자 C&S 포털 사이트 구축', client: '삼성전자 / 삼성SDS', year: '2013' },
-  { title: '두산 브랜드샵 구축', client: '두산', year: '2013' },
+  { title: '두산 브랜드샵 구축', client: '두산 / 이든앤앨리스 / 샤워트리', year: '2013' },
+  // 2012
   { title: '삼성닷컴 이벤트 관리 시스템 구축', client: '삼성그룹 / 삼성SDS', year: '2012' },
+  { title: '삼성닷컴 한국사이트 웹접근성 개선', client: '삼성그룹 / 삼성SDS', year: '2012' },
+  { title: '삼성전자 반도체 3D 이미지 제작', client: '삼성전자', year: '2012' },
+  { title: '삼성 사회봉사단 드림클래스 사이트 구축', client: '삼성사회봉사단 / 삼성SDS', year: '2012' },
+  { title: 'LIG손해보험 퇴직연금 홈페이지 개편', client: '리드웹', year: '2012' },
+  { title: '삼성닷컴 한국사이트 체험단 서비스 구축', client: '삼성전자 / 삼성SDS', year: '2012' },
+  // 2011
+  { title: '삼성 영삼성 사이트 리뉴얼', client: '삼성전자 / 삼성SDS', year: '2011' },
   { title: '신한금융지주 홈페이지 리뉴얼', client: '신한금융지주', year: '2011' },
   { title: '한국 삼성닷컴 통합', client: '삼성전자 / 삼성SDS', year: '2011' },
+  { title: '신한WAY 커뮤니케이션 모바일 사이트 구축', client: '신한금융지주 / 신한데이타시스템', year: '2011' },
+  { title: '신한WAY 커뮤니케이션 사이트 구축', client: '신한금융지주 / 신한데이타시스템', year: '2011' },
 ]
 
 const ITEMS_PER_PAGE = 10
@@ -103,6 +183,7 @@ const WorkPage = () => {
   const [direction, setDirection] = useState(0)
   const [isAnimating, setIsAnimating] = useState(false)
   const [visibleCount, setVisibleCount] = useState(ITEMS_PER_PAGE)
+  const prevVisibleCountRef = useRef(ITEMS_PER_PAGE)
 
   // 슬라이드 변경
   const goToSlide = useCallback((newIndex, newDirection) => {
@@ -139,6 +220,7 @@ const WorkPage = () => {
     return () => clearInterval(interval)
   }, [nextSlide])
 
+  // 초기 애니메이션 (한 번만 실행)
   useEffect(() => {
     const ctx = gsap.context(() => {
       // 히어로 텍스트 애니메이션
@@ -163,6 +245,7 @@ const WorkPage = () => {
         }
       })
 
+      // 초기 아이템 애니메이션
       gsap.utils.toArray('.archive-item').forEach((item, i) => {
         gsap.from(item, {
           opacity: 0,
@@ -179,6 +262,29 @@ const WorkPage = () => {
     }, containerRef)
 
     return () => ctx.revert()
+  }, [])
+
+  // 새로 추가된 아이템만 애니메이션
+  useEffect(() => {
+    const prevCount = prevVisibleCountRef.current
+
+    if (visibleCount > prevCount) {
+      // 새로 추가된 아이템만 선택하여 애니메이션
+      const newItems = document.querySelectorAll(`.archive-item:nth-child(n+${prevCount + 1})`)
+
+      gsap.fromTo(newItems,
+        { opacity: 0, x: -30 },
+        {
+          opacity: 1,
+          x: 0,
+          duration: 0.5,
+          stagger: 0.05,
+          ease: 'power3.out'
+        }
+      )
+    }
+
+    prevVisibleCountRef.current = visibleCount
   }, [visibleCount])
 
   const currentProject = featuredProjects[currentIndex]
@@ -285,8 +391,6 @@ const WorkPage = () => {
               exit="exit"
             >
               <div className="project-meta">
-                <span className="project-category">{currentProject.category}</span>
-                <span className="project-divider">/</span>
                 <span className="project-client">{currentProject.client}</span>
                 <span className="project-divider">/</span>
                 <span className="project-year">{currentProject.year}</span>
@@ -321,6 +425,7 @@ const WorkPage = () => {
             >
               <span className="btn-line" />
               <span className="btn-text">PREV</span>
+              <span className="btn-arrow">←</span>
             </button>
             <button
               className="nav-btn next"
@@ -329,6 +434,7 @@ const WorkPage = () => {
               aria-label="Next project"
             >
               <span className="btn-text">NEXT</span>
+              <span className="btn-arrow">→</span>
               <span className="btn-line" />
             </button>
           </div>
