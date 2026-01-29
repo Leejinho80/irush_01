@@ -78,10 +78,6 @@ const Footer = () => {
 
           <div className="footer-legal">
             <p>&copy; {currentYear} iRUSH. All rights reserved.</p>
-            <div className="footer-legal-links">
-              <a href="#">Privacy Policy</a>
-              <a href="#">Terms of Service</a>
-            </div>
           </div>
         </div>
       </div>

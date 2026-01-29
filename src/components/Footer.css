@@ -187,25 +187,9 @@
 }
 
 .footer-legal {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   color: var(--color-gray-600);
   font-size: 0.875rem;
-}
-
-.footer-legal-links {
-  display: flex;
-  gap: 24px;
-}
-
-.footer-legal-links a {
-  color: var(--color-gray-600);
-  transition: color var(--transition-base);
-}
-
-.footer-legal-links a:hover {
-  color: var(--color-white);
+  text-align: center;
 }
 
 /* Responsive */
@@ -240,12 +224,6 @@
 
   .footer-links .footer-col:last-child {
     grid-column: span 2;
-  }
-
-  .footer-legal {
-    flex-direction: column;
-    gap: 20px;
-    text-align: center;
   }
 
   .marquee-text {
