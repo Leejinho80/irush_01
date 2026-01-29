@@ -6,6 +6,10 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import Footer from '../components/Footer'
 import './MainPage.css'
 
+// 이미지 import
+import portfolio01Bg from '../assets/images/01_portfolio_bg.jpg'
+import portfolio03Bg from '../assets/images/03_portfolio_bg.jpg'
+
 gsap.registerPlugin(ScrollTrigger)
 
 // 핵심 가치 데이터
@@ -347,9 +351,9 @@ const MainPage = () => {
 
           <div className="projects-showcase">
             {[
-              { id: 1, title: 'LG HelloVision', category: 'Web Platform', color: '#A50034', image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=500&fit=crop' },
-              { id: 2, title: 'Samsung SDS', category: 'Brand Experience', color: '#1428A0', image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=500&fit=crop' },
-              { id: 3, title: 'Shinhan Bank', category: 'Digital Banking', color: '#0046FF', image: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=500&fit=crop' }
+              { id: 1, title: 'LG헬로비전 모바일 직영몰 고도화', category: 'UX/UI Design', color: '#A50034', image: portfolio01Bg },
+              { id: 2, title: '삼성닷컴 글로벌 백엔드 시스템 개선', category: 'System Development', color: '#1428A0', image: 'https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=500&fit=crop' },
+              { id: 3, title: 'LG헬로비전 방송/인터넷 서비스 개선', category: 'UX/UI Consulting', color: '#E91E63', image: portfolio03Bg }
             ].map((project) => (
               <Link
                 key={project.id}
