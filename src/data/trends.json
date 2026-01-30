@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-01-29T04:54:36.164Z",
-  "collectionDate": "2026.01.28",
-  "displayDate": "2026.01.29",
+  "updatedAt": "2026-01-30T01:52:20.118Z",
+  "collectionDate": "2026.01.29",
+  "displayDate": "2026.01.30",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "삼성전자 \"파운드리 2나노 하반기 양산 순항\"…미·중 고객 수주 확대",
+      "title": "스마일게이트 퓨처랩, '청소년 AI 영상 창작 워크숍' 참가자 모집",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.28",
-      "link": "https://zdnet.co.kr/view/?no=20260129125955",
-      "summary": "삼성전자가 2nm(나노미터, 10억분의 1m) 공정을 중심으로 한 선단 파운드리(반도체 위탁생산) 기술 개발과 고객 수주가 순조롭게 진행되고 있다고 밝혔다. 테슬라 수주 이후 미국과 중국 대형 고객사들과의 협업 논의도 확대되고 있으며, 인공지능(AI) 응용처를 중심으로 수주 과제가 빠르게 늘고 있다는 설명이다."
+      "date": "2026.01.29",
+      "link": "https://zdnet.co.kr/view/?no=20260130104742",
+      "summary": "스마일게이트 퓨처랩(이사장 권혁빈)은 청소년 대상 인공지능(AI) 영상 창작 워크숍 ‘Prompt to Film 2026’ 참가자를 모집한다고 30일 밝혔다. ‘Prompt to Film 2026’은 청소년이 AI를 창작 파트너로 삼아 단편 AI 영화를 제작하고 상영회까지 경험하는 프로그램이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "우크라이나, 장거리 자폭 드론 도입…\"장거리 정찰·타격 능력 강화\"",
+      "title": "카카오, AI 앰배서더 '카나나 429' 신규 모집",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.28",
-      "link": "https://zdnet.co.kr/view/?no=20260129101206",
-      "summary": "우크라이나가 프랑스산 장거리 자폭 드론을 도입하며 장거리 타격과 정찰 능력을 한층 강화했다. AFP 통신 등 외신들은 프랑스 방위산업체 EOS 테크놀로지가 최대 500㎞를 비행하고 최대 5시간 동안 체공할 수 있는 드론을 우크라이나에 납품했다고 보도했다. 우크라이나가 프랑스산 장거리 자폭 드론을 전격 도입했다."
+      "date": "2026.01.29",
+      "link": "https://zdnet.co.kr/view/?no=20260130103005",
+      "summary": "카카오는 인공지능(AI) 앰배서더 '카나나(KANANA) 429'를 신규 모집한다고 30일 밝혔다. 올해부터는 ▲AI 전문가 ▲크리에이터 ▲대학생 3개 부문으로 규모를 확대해 다양한 의견을 수렴하고, 카카오의 AI를 효율적으로 전파하기 위한 지원을 이어갈 계획이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "'국대 AI' 도전사 트릴리온랩스, 민관 협력으로 차세대 기술 국산화",
+      "title": "이스트소프트, AI 요약·대화 기능 앞세워 글로벌 177개국 공략",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.28",
-      "link": "https://zdnet.co.kr/view/?no=20260129111055",
-      "summary": "구글 등 글로벌 빅테크가 기존 거대언어모델(LLM) 모델의 한계를 극복하기 위해 '디퓨전(확산)' 모델을 시도하는 가운데, 트릴리온랩스가 정부 지원사업을 통해 이 기술을 독자적으로 구현해 주목 받고 있다. 스타트업의 혁신 기술과 정부의 인프라 지원이 만나 차세대 인공지능(AI) 원천 기술을 국산화한 민관 협력 성과로 평가돼서다."
+      "date": "2026.01.29",
+      "link": "https://zdnet.co.kr/view/?no=20260130103233",
+      "summary": "이스트소프트가 생산성 앱 '알PDF 모바일'을 통해 국산 인공지능(AI) 도구의 글로벌 시장 경쟁력을 강화한다. 단순 뷰어를 넘어 AI 기반 문서 혁신을 앞세우겠다는 목표다. 이스트소프트는 알PDF 모바일 정식 출시 8개월 만에 다운로드 수 10만 건을 돌파했다고 30일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "토종 AI 협업툴 플로우, 2025년 흑자 전환…글로벌 확장 가속",
+      "title": "AI 규제 시대 본격화…태평양, TMT그룹으로 판 키운다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.28",
-      "link": "https://zdnet.co.kr/view/?no=20260129123332",
-      "summary": "마드라스체크가 인공지능(AI) 협업툴 '플로우'를 앞세워 흑자 전환을 달성했다. 빠른 성장세를 바탕으로 올해 미국과 일본 등 글로벌 주요 시장 진출에 박차를 가할 계획이다. 마드라스체크는 2025년 한 해 계약 수주 매출 210억원을 기록해 흑자 전환했다고 29일 밝혔다."
+      "date": "2026.01.29",
+      "link": "https://zdnet.co.kr/view/?no=20260130103245",
+      "summary": "급변하는 정보통신기술(ICT) 산업 환경에서 인공지능(AI), 플랫폼 규제, 개인정보보호, 디지털금융, 가상자산, 사이버보안 등 복합적인 법률·규제 이슈가 동시에 확산되고 있는 가운데 법무법인 태평양(BKL)이 조직 개편을 통해 기업 수요 공략에 나선다. 태평양은 기존 TMT 팀을 'TMT 그룹'으로 확대 개편한다고 30일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "CJ올리브네트웍스, 청년 일경험 교육 성과로 고용노동부장관 표창",
+      "title": "KGM, 튀르키예 수출 누적 5만대 돌파…작년 사상 첫 4조원 매출",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.28",
-      "link": "https://zdnet.co.kr/view/?no=20260129123541",
-      "summary": "CJ올리브네트웍스가 4년간 청년 대상 교육 프로그램을 지속해 온 성과를 인정받았다. CJ올리브네트웍스는 지역 청년의 취업 진로 개발 및 장기근속 지원에 기여한 공로로 고용노동부장관 표창을 수상했다고 29일 밝혔다. 고용노동행정유공 표창은 적극적이고 성실한 직무 수행을 통해 고용노동행정 발전에 기여한 개인과 단체에 수여되는 상이다."
+      "date": "2026.01.29",
+      "link": "https://zdnet.co.kr/view/?no=20260130103345",
+      "summary": "KG모빌리티(KGM, 회장 곽재선)가 주요 수출국인 튀르키예 시장에 지난해까지 누적 판매 5만대(5만 434대)를 돌파했다고 30일 밝혔다. 이러한 성과는 곽재선 KGM 회장의 글로벌 현장 경영이 판매 실적 증가로 이어진 결과로, KGM은 지난해 7만 286대를 수출해 2024년(6만 2,378대) 대비 12."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "크롬, 에이전트형 AI 도입…”알아서 일하고 결정만 사용자가”",
+      "title": "애플, 오디오 AI 스타트업 Q.ai 인수…역대 두 번째 규모",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.28",
-      "link": "https://www.itworld.co.kr/article/4123918/%ed%81%ac%eb%a1%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-%eb%8f%84%ec%9e%85-%ec%95%8c%ec%95%84%ec%84%9c-%ec%9d%bc%ed%95%98%ea%b3%a0-%ea%b2%b0%ec%a0%95%eb%a7%8c-%ec%82%ac%ec%9a%a9.html",
-      "summary": "구글이 크롬에 자동 탐색 기능과 제미나이 사이드바를 도입했다. Credit: Google 구글이 크롬 사용자에게 중대한 변화를 도입한다고 밝혔다. 사용자가 지시한 작업을 대신 수행하며 웹을 “자동 탐색”하는 에이전트형 AI를 대표 기능으로 제공한다는 설명이다. 크롬에는 제미나이를 탑재한 사이드바도 함께 추가됐다."
+      "date": "2026.01.29",
+      "link": "https://www.itworld.co.kr/article/4124728/%ec%95%a0%ed%94%8c-%ec%98%a4%eb%94%94%ec%98%a4-ai-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-q-ai-%ec%9d%b8%ec%88%98%ec%97%ad%eb%8c%80-%eb%91%90-%eb%b2%88%ec%a7%b8-%ea%b7%9c%eb%aa%a8.html",
+      "summary": "페이스 ID의 기반 기술을 만든 프라임센스 설립자가 이끄는 오디오 AI 스타트업이다. Credit: Foundry 최근 로이터 통신은 애플이 이스라엘 스타트업 Q.ai 인수를 공식 확인했다고 전했다. Q.ai는 AI/ML을 활용해 오디오 관련 문제를 해결하는 기술을 개발해 온 기업으로 알려져 있다. Q."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "인텔, 18A 공정 기반 ‘인텔 코어 울트라 시리즈3’ 탑재 AI PC 발표",
+      "title": "미 연방 사이버보안 기관장, 승인 도구 우회한 챗GPT 사용으로 거버넌스 도마 위",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.28",
-      "link": "https://www.itworld.co.kr/article/4123334/%ec%9d%b8%ed%85%94-18a-%ea%b3%b5%ec%a0%95-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ed%85%94-%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%883-%ed%83%91%ec%9e%ac-ai-pc-%eb%b0%9c.html",
-      "summary": "인텔이 28일 삼성동 웨스틴 서울 파르나스에서 ‘2026 인텔 AI PC 쇼케이스 기자간담회’를 개최하고, 최신 AI PC 전략과 18A 공정 기반의 인텔 코어 울트라 시리즈3(코드명: 팬서레이크)를 탑재한 최신 AI PC 제품들을 한자리에서 소개했다."
+      "date": "2026.01.29",
+      "link": "https://www.itworld.co.kr/article/4124707/%eb%af%b8-%ec%97%b0%eb%b0%a9-%ec%82%ac%ec%9d%b4%eb%b2%84%eb%b3%b4%ec%95%88-%ea%b8%b0%ea%b4%80%ec%9e%a5-%ec%8a%b9%ec%9d%b8-%eb%8f%84%ea%b5%ac-%ec%9a%b0%ed%9a%8c%ed%95%9c-%ec%b1%97gpt-%ec%82%ac.html",
+      "summary": "미국 사이버보안 및 인프라 보안국 수장이 민감한 정부 문서를 챗GPT 공개 버전에 업로드한 사실이 드러났다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“프라이빗 클라우드가 돌아온다” AI 워크로드가 바꾼 클라우드 방정식",
+      "title": "GDPR 위반 신고 급증…2025년 하루 평균 443건",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.28",
-      "link": "https://www.itworld.co.kr/article/4123288/%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b9%97-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-%eb%8f%8c%ec%95%84%ec%98%a8%eb%8b%a4-ai-%ec%9b%8c%ed%81%ac%eb%a1%9c%eb%93%9c%ea%b0%80-%eb%b0%94.html",
-      "summary": "AI의 경제성이 클라우드 비용에 대한 인식과 현실 사이의 격차를 드러내고 있다. Credit: Shutterstock 북미의 한 제조사는 2025년 초까지 혁신 기업이 흔히 선택하는 방식대로 데이터 레이크, 분석, CI/CD, ERP 통합의 상당 부분까지 활용하며 퍼블릭 클라우드 표준화를 공격적으로 추진했다."
+      "date": "2026.01.29",
+      "link": "https://www.itworld.co.kr/article/4124711/gdpr-%ec%9c%84%eb%b0%98-%ec%8b%a0%ea%b3%a0-%ea%b8%89%ec%a6%9d2025%eb%85%84-%ed%95%98%eb%a3%a8-%ed%8f%89%ea%b7%a0-443%ea%b1%b4.html",
+      "summary": "일일 평균 신고 건수가 처음으로 400건을 돌파하며 GDPR 집행 강도가 유지되고 있음을 보여주고 있다. Credit: Shutterstock 국제 로펌 DLA 파이퍼(DLA Piper)가 최근 공개한 보고서에 따르면, 일반개인정보보호규정(GDPR) 위반으로 신고되는 조직의 수가 빠르게 늘고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“아태지역 기업 40% AI 에이전트 활용…26년까지 50% 이상 확산 전망” 유아이패스",
+      "title": "크롬, 에이전트형 AI 도입…”알아서 일하고 결정만 사용자가”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.28",
-      "link": "https://www.itworld.co.kr/article/4123256/%ec%95%84%ed%83%9c%ec%a7%80%ec%97%ad-%ea%b8%b0%ec%97%85-40-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%99%9c%ec%9a%a926%eb%85%84%ea%b9%8c%ec%a7%80-50-%ec%9d%b4%ec%83%81-%ed%99%95.html",
-      "summary": "아태지역 기업의 40%는 이미 AI 에이전트를 활용하고 있으며, 50% 이상이 2026년까지 도입을 계획하고 있는 것으로 나타났다. Credit: SuPatMaN - shutterstock."
+      "date": "2026.01.29",
+      "link": "https://www.itworld.co.kr/article/4123918/%ed%81%ac%eb%a1%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-%eb%8f%84%ec%9e%85-%ec%95%8c%ec%95%84%ec%84%9c-%ec%9d%bc%ed%95%98%ea%b3%a0-%ea%b2%b0%ec%a0%95%eb%a7%8c-%ec%82%ac%ec%9a%a9.html",
+      "summary": "구글이 크롬에 자동 탐색 기능과 제미나이 사이드바를 도입했다. Credit: Google 구글이 크롬 사용자에게 중대한 변화를 도입한다고 밝혔다. 사용자가 지시한 작업을 대신 수행하며 웹을 “자동 탐색”하는 에이전트형 AI를 대표 기능으로 제공한다는 설명이다. 크롬에는 제미나이를 탑재한 사이드바도 함께 추가됐다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "2026년 기업용 PC 교체, 가격 상승과 사양 하락 현실화",
+      "title": "인텔, 18A 공정 기반 ‘인텔 코어 울트라 시리즈3’ 탑재 AI PC 발표",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.28",
-      "link": "https://www.itworld.co.kr/article/4123219/2026%eb%85%84-%ea%b8%b0%ec%97%85%ec%9a%a9-pc-%ea%b5%90%ec%b2%b4-%ea%b0%80%ea%b2%a9-%ec%83%81%ec%8a%b9%ea%b3%bc-%ec%82%ac%ec%96%91-%ed%95%98%eb%9d%bd-%ed%98%84%ec%8b%a4%ed%99%94.html",
-      "summary": "CPU와 메모리 수급 불안이 PC 시장 전반의 가격과 구성을 흔들고 있다. Credit: JESHOOTS / Jan Vašek 여러 전문가가 2026년 올해 PC 교체를 검토하는 기업에 대비가 필요하다며 노트북 가격은 더 오르고 구성 성능은 떨어질 것이라고 전망했다."
+      "date": "2026.01.29",
+      "link": "https://www.itworld.co.kr/article/4123334/%ec%9d%b8%ed%85%94-18a-%ea%b3%b5%ec%a0%95-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ed%85%94-%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%883-%ed%83%91%ec%9e%ac-ai-pc-%eb%b0%9c.html",
+      "summary": "인텔이 28일 삼성동 웨스틴 서울 파르나스에서 ‘2026 인텔 AI PC 쇼케이스 기자간담회’를 개최하고, 최신 AI PC 전략과 18A 공정 기반의 인텔 코어 울트라 시리즈3(코드명: 팬서레이크)를 탑재한 최신 AI PC 제품들을 한자리에서 소개했다."
     }
   ]
 }
