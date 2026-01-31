@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-01-30T01:52:20.118Z",
-  "collectionDate": "2026.01.29",
-  "displayDate": "2026.01.30",
+  "updatedAt": "2026-01-31T01:48:33.799Z",
+  "collectionDate": "2026.01.30",
+  "displayDate": "2026.01.31",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "스마일게이트 퓨처랩, '청소년 AI 영상 창작 워크숍' 참가자 모집",
+      "title": "\"로마인, 똥을 약으로 썼다\"…실제 사용 증거 첫 확인",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.29",
-      "link": "https://zdnet.co.kr/view/?no=20260130104742",
-      "summary": "스마일게이트 퓨처랩(이사장 권혁빈)은 청소년 대상 인공지능(AI) 영상 창작 워크숍 ‘Prompt to Film 2026’ 참가자를 모집한다고 30일 밝혔다. ‘Prompt to Film 2026’은 청소년이 AI를 창작 파트너로 삼아 단편 AI 영화를 제작하고 상영회까지 경험하는 프로그램이다."
+      "date": "2026.01.30",
+      "link": "https://zdnet.co.kr/view/?no=20260131005037",
+      "summary": "고대 로마인들이 인분을 약으로 사용했다는 사실을 입증하는 직접적인 증거가 처음 발견됐다고 과학 전문 매체 라이브사이언스가 29일(현지시간) 보도했다. 연구 결과에 따르면 약 1,900년 전 로마 시대의 유리 약병에서 발견된 유기 잔류물이 인분에서 유래한 것으로 확인됐다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "카카오, AI 앰배서더 '카나나 429' 신규 모집",
+      "title": "[1분건강] 어려서 단맛 길들면 커서도 단 음식만 찾는다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.29",
-      "link": "https://zdnet.co.kr/view/?no=20260130103005",
-      "summary": "카카오는 인공지능(AI) 앰배서더 '카나나(KANANA) 429'를 신규 모집한다고 30일 밝혔다. 올해부터는 ▲AI 전문가 ▲크리에이터 ▲대학생 3개 부문으로 규모를 확대해 다양한 의견을 수렴하고, 카카오의 AI를 효율적으로 전파하기 위한 지원을 이어갈 계획이다."
+      "date": "2026.01.30",
+      "link": "https://zdnet.co.kr/view/?no=20260130104108",
+      "summary": "최근 설탕세 도입 논의와 관련해 첨가당의 건강 영향에 관한 관심이 높아지고 있다. 전문가는 4세까지 첨가당 섭취 자체를 금지해야 한다고 권고했다. 미국의 식이지침 2025-2030은 첨가당 제한을 핵심 내용으로 강조하고 있다. 앞서 2020-2025 지침에서는 2세 미만에게 첨가당이 포함된 음식을 금지하고, 2세 이상은 하루 열량의 10% 이내로 허용했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "이스트소프트, AI 요약·대화 기능 앞세워 글로벌 177개국 공략",
+      "title": "케빈 '나 홀로 집에' 남았다…엄마역 캐서린 오하라 별세",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.29",
-      "link": "https://zdnet.co.kr/view/?no=20260130103233",
-      "summary": "이스트소프트가 생산성 앱 '알PDF 모바일'을 통해 국산 인공지능(AI) 도구의 글로벌 시장 경쟁력을 강화한다. 단순 뷰어를 넘어 AI 기반 문서 혁신을 앞세우겠다는 목표다. 이스트소프트는 알PDF 모바일 정식 출시 8개월 만에 다운로드 수 10만 건을 돌파했다고 30일 밝혔다."
+      "date": "2026.01.30",
+      "link": "https://zdnet.co.kr/view/?no=20260131084351",
+      "summary": "영화 '나 홀로 집에' 시리즈에서 '케빈 엄마' 역할로 국내에도 잘 알려진 배우 캐서린 오하라가 71세를 일기로 세상을 떠났다고 미국 대중문화 매체 버라이어티가 30일(현지시간) 보도했다. 캐서린 오하라는 짧은 투병 끝에 로스앤젤레스 자택에서 숨을 거둔 것으로 전해졌다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "AI 규제 시대 본격화…태평양, TMT그룹으로 판 키운다",
+      "title": "中 연구진, 머리카락 굵기보다 얇은 컴퓨터 칩 개발",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.29",
-      "link": "https://zdnet.co.kr/view/?no=20260130103245",
-      "summary": "급변하는 정보통신기술(ICT) 산업 환경에서 인공지능(AI), 플랫폼 규제, 개인정보보호, 디지털금융, 가상자산, 사이버보안 등 복합적인 법률·규제 이슈가 동시에 확산되고 있는 가운데 법무법인 태평양(BKL)이 조직 개편을 통해 기업 수요 공략에 나선다. 태평양은 기존 TMT 팀을 'TMT 그룹'으로 확대 개편한다고 30일 밝혔다."
+      "date": "2026.01.30",
+      "link": "https://zdnet.co.kr/view/?no=20260131004647",
+      "summary": "중국 연구진이 사람 머리카락보다 얇은 섬유 형태 컴퓨터 칩을 개발하는 데 성공했다. 이 기술은 향후 웨어러블 전자기기와 의료·신경 인터페이스 분야에 새로운 가능성을 열 것으로 기대된다. 과학 매체 뉴아틀라스는 최근 중국 상하이 푸단대학교 연구진이 유연한 섬유 형태의 반도체 칩을 개발했다고 최근 보도했다. 해당 논문은 국제 학술지 네이처에 실렸다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "KGM, 튀르키예 수출 누적 5만대 돌파…작년 사상 첫 4조원 매출",
+      "title": "AI가 만든 가짜 논문 인용, 세계 최고 AI 학회도 속았다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.01.29",
-      "link": "https://zdnet.co.kr/view/?no=20260130103345",
-      "summary": "KG모빌리티(KGM, 회장 곽재선)가 주요 수출국인 튀르키예 시장에 지난해까지 누적 판매 5만대(5만 434대)를 돌파했다고 30일 밝혔다. 이러한 성과는 곽재선 KGM 회장의 글로벌 현장 경영이 판매 실적 증가로 이어진 결과로, KGM은 지난해 7만 286대를 수출해 2024년(6만 2,378대) 대비 12."
+      "date": "2026.01.30",
+      "link": "https://zdnet.co.kr/view/?no=20260130180653",
+      "summary": "세계 최고 권위의 인공지능(AI) 학회에서 AI가 만들어낸 가짜 논문 인용이 대거 발견됐다. AI 전문가들조차 AI가 생성한 허위 정보를 걸러내지 못하면서 연구 윤리와 학문의 신뢰성에 대한 우려가 커지고 있다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "애플, 오디오 AI 스타트업 Q.ai 인수…역대 두 번째 규모",
+      "title": "“AI 전력 수요 때문?” 미국, 원자력 안전 규정 ‘슬그머니 완화’ 논란",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.29",
-      "link": "https://www.itworld.co.kr/article/4124728/%ec%95%a0%ed%94%8c-%ec%98%a4%eb%94%94%ec%98%a4-ai-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-q-ai-%ec%9d%b8%ec%88%98%ec%97%ad%eb%8c%80-%eb%91%90-%eb%b2%88%ec%a7%b8-%ea%b7%9c%eb%aa%a8.html",
-      "summary": "페이스 ID의 기반 기술을 만든 프라임센스 설립자가 이끄는 오디오 AI 스타트업이다. Credit: Foundry 최근 로이터 통신은 애플이 이스라엘 스타트업 Q.ai 인수를 공식 확인했다고 전했다. Q.ai는 AI/ML을 활용해 오디오 관련 문제를 해결하는 기술을 개발해 온 기업으로 알려져 있다. Q."
+      "date": "2026.01.30",
+      "link": "https://www.itworld.co.kr/article/4124769/ai-%ec%a0%84%eb%a0%a5-%ec%88%98%ec%9a%94-%eb%95%8c%eb%ac%b8-%eb%af%b8%ea%b5%ad-%ec%9b%90%ec%9e%90%eb%a0%a5-%ec%95%88%ec%a0%84-%ea%b7%9c%ec%a0%95-%ec%8a%ac%ea%b7%b8.html",
+      "summary": "AI 데이터센터를 위한 전력 확보를 서두르는 과정에서 미국 에너지부가 원자력 안전·보안 기준을 몰래 낮췄다는 보도가 파장을 일으켰다. Credit: barmalini / Shutterstock 미국 원자력 규제 당국이 AI를 가동할 새로운 전력 용량을 빠르게 확보하기 위해 안전 규정을 비공개로 완화했다고 NPR이 보도했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "미 연방 사이버보안 기관장, 승인 도구 우회한 챗GPT 사용으로 거버넌스 도마 위",
+      "title": "애플, 오디오 AI 스타트업 Q.ai 인수…역대 두 번째 규모",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.29",
-      "link": "https://www.itworld.co.kr/article/4124707/%eb%af%b8-%ec%97%b0%eb%b0%a9-%ec%82%ac%ec%9d%b4%eb%b2%84%eb%b3%b4%ec%95%88-%ea%b8%b0%ea%b4%80%ec%9e%a5-%ec%8a%b9%ec%9d%b8-%eb%8f%84%ea%b5%ac-%ec%9a%b0%ed%9a%8c%ed%95%9c-%ec%b1%97gpt-%ec%82%ac.html",
-      "summary": "미국 사이버보안 및 인프라 보안국 수장이 민감한 정부 문서를 챗GPT 공개 버전에 업로드한 사실이 드러났다."
+      "date": "2026.01.30",
+      "link": "https://www.itworld.co.kr/article/4124728/%ec%95%a0%ed%94%8c-%ec%98%a4%eb%94%94%ec%98%a4-ai-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-q-ai-%ec%9d%b8%ec%88%98%ec%97%ad%eb%8c%80-%eb%91%90-%eb%b2%88%ec%a7%b8-%ea%b7%9c%eb%aa%a8.html",
+      "summary": "페이스 ID의 기반 기술을 만든 프라임센스 설립자가 이끄는 오디오 AI 스타트업이다. Credit: Foundry 최근 로이터 통신은 애플이 이스라엘 스타트업 Q.ai 인수를 공식 확인했다고 전했다. Q.ai는 AI/ML을 활용해 오디오 관련 문제를 해결하는 기술을 개발해 온 기업으로 알려져 있다. Q."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "GDPR 위반 신고 급증…2025년 하루 평균 443건",
+      "title": "미 연방 사이버보안 기관장, 승인 도구 우회한 챗GPT 사용으로 거버넌스 도마 위",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.29",
-      "link": "https://www.itworld.co.kr/article/4124711/gdpr-%ec%9c%84%eb%b0%98-%ec%8b%a0%ea%b3%a0-%ea%b8%89%ec%a6%9d2025%eb%85%84-%ed%95%98%eb%a3%a8-%ed%8f%89%ea%b7%a0-443%ea%b1%b4.html",
-      "summary": "일일 평균 신고 건수가 처음으로 400건을 돌파하며 GDPR 집행 강도가 유지되고 있음을 보여주고 있다. Credit: Shutterstock 국제 로펌 DLA 파이퍼(DLA Piper)가 최근 공개한 보고서에 따르면, 일반개인정보보호규정(GDPR) 위반으로 신고되는 조직의 수가 빠르게 늘고 있다."
+      "date": "2026.01.30",
+      "link": "https://www.itworld.co.kr/article/4124707/%eb%af%b8-%ec%97%b0%eb%b0%a9-%ec%82%ac%ec%9d%b4%eb%b2%84%eb%b3%b4%ec%95%88-%ea%b8%b0%ea%b4%80%ec%9e%a5-%ec%8a%b9%ec%9d%b8-%eb%8f%84%ea%b5%ac-%ec%9a%b0%ed%9a%8c%ed%95%9c-%ec%b1%97gpt-%ec%82%ac.html",
+      "summary": "미국 사이버보안 및 인프라 보안국 수장이 민감한 정부 문서를 챗GPT 공개 버전에 업로드한 사실이 드러났다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "크롬, 에이전트형 AI 도입…”알아서 일하고 결정만 사용자가”",
+      "title": "GDPR 위반 신고 급증…2025년 하루 평균 443건",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.29",
-      "link": "https://www.itworld.co.kr/article/4123918/%ed%81%ac%eb%a1%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-%eb%8f%84%ec%9e%85-%ec%95%8c%ec%95%84%ec%84%9c-%ec%9d%bc%ed%95%98%ea%b3%a0-%ea%b2%b0%ec%a0%95%eb%a7%8c-%ec%82%ac%ec%9a%a9.html",
-      "summary": "구글이 크롬에 자동 탐색 기능과 제미나이 사이드바를 도입했다. Credit: Google 구글이 크롬 사용자에게 중대한 변화를 도입한다고 밝혔다. 사용자가 지시한 작업을 대신 수행하며 웹을 “자동 탐색”하는 에이전트형 AI를 대표 기능으로 제공한다는 설명이다. 크롬에는 제미나이를 탑재한 사이드바도 함께 추가됐다."
+      "date": "2026.01.30",
+      "link": "https://www.itworld.co.kr/article/4124711/gdpr-%ec%9c%84%eb%b0%98-%ec%8b%a0%ea%b3%a0-%ea%b8%89%ec%a6%9d2025%eb%85%84-%ed%95%98%eb%a3%a8-%ed%8f%89%ea%b7%a0-443%ea%b1%b4.html",
+      "summary": "일일 평균 신고 건수가 처음으로 400건을 돌파하며 GDPR 집행 강도가 유지되고 있음을 보여주고 있다. Credit: Shutterstock 국제 로펌 DLA 파이퍼(DLA Piper)가 최근 공개한 보고서에 따르면, 일반개인정보보호규정(GDPR) 위반으로 신고되는 조직의 수가 빠르게 늘고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "인텔, 18A 공정 기반 ‘인텔 코어 울트라 시리즈3’ 탑재 AI PC 발표",
+      "title": "크롬, 에이전트형 AI 도입…”알아서 일하고 결정만 사용자가”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.01.29",
-      "link": "https://www.itworld.co.kr/article/4123334/%ec%9d%b8%ed%85%94-18a-%ea%b3%b5%ec%a0%95-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ed%85%94-%ec%bd%94%ec%96%b4-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%8b%9c%eb%a6%ac%ec%a6%883-%ed%83%91%ec%9e%ac-ai-pc-%eb%b0%9c.html",
-      "summary": "인텔이 28일 삼성동 웨스틴 서울 파르나스에서 ‘2026 인텔 AI PC 쇼케이스 기자간담회’를 개최하고, 최신 AI PC 전략과 18A 공정 기반의 인텔 코어 울트라 시리즈3(코드명: 팬서레이크)를 탑재한 최신 AI PC 제품들을 한자리에서 소개했다."
+      "date": "2026.01.30",
+      "link": "https://www.itworld.co.kr/article/4123918/%ed%81%ac%eb%a1%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-%eb%8f%84%ec%9e%85-%ec%95%8c%ec%95%84%ec%84%9c-%ec%9d%bc%ed%95%98%ea%b3%a0-%ea%b2%b0%ec%a0%95%eb%a7%8c-%ec%82%ac%ec%9a%a9.html",
+      "summary": "구글이 크롬에 자동 탐색 기능과 제미나이 사이드바를 도입했다. Credit: Google 구글이 크롬 사용자에게 중대한 변화를 도입한다고 밝혔다. 사용자가 지시한 작업을 대신 수행하며 웹을 “자동 탐색”하는 에이전트형 AI를 대표 기능으로 제공한다는 설명이다. 크롬에는 제미나이를 탑재한 사이드바도 함께 추가됐다."
     }
   ]
 }
