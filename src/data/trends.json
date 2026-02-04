@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-03T01:58:20.356Z",
-  "collectionDate": "2026.02.02",
-  "displayDate": "2026.02.03",
+  "updatedAt": "2026-02-04T01:52:58.874Z",
+  "collectionDate": "2026.02.03",
+  "displayDate": "2026.02.04",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "[유미's 픽] '다음' 카드 쥔 업스테이지, 독파모 2차 경쟁서 유리해질까",
+      "title": "약가제도개편 대응 비대위에 한국노총 · 화학노련도 참여",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.02",
-      "link": "https://zdnet.co.kr/view/?no=20260131215450",
-      "summary": "업스테이지의 다음 인수 추진이 정부가 추진 중인 '독자 AI 파운데이션 모델(독파모)' 프로젝트 경쟁 구도에도 영향을 미칠 수 있을지 주목된다."
+      "date": "2026.02.03",
+      "link": "https://zdnet.co.kr/view/?no=20260204105053",
+      "summary": "산업 발전을 위한 약가제도 개편 비상대책위원회(이하 비대위)는 한국노동조합총연맹(한국노총)과 산하 산별노조인 전국화학노동조합연맹(화학노련)이 비대위에 참여한다고 4일 밝혔다. 앞서 양측은 지난달 면담을 통해 정부의 약가인하 정책이 고용불안과 산업 기반 및 보건안보를 훼손할 수 있다는 데 공감대를 이룬 바 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "M83, 日 VFX 제작사 더세븐과 MOU…해외 시장 진출 추진",
+      "title": "1월 수입 승용차 2만960대…BYD 5위 올라",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.02",
-      "link": "https://zdnet.co.kr/view/?no=20260203105133",
-      "summary": "시각특수효과(VFX) 전문기업 M83은 일본 하이엔드 콘텐츠·VFX 제작사 더세븐과 전략적 업무협약(MOU)을 체결했다고 3일 밝혔다. 이번 협약은 한·일 양국 VFX 스튜디오의 제작 역량을 결합해 아시아발 하이엔드 영상 콘텐츠를 글로벌 시장으로 확장하기 위함이다."
+      "date": "2026.02.03",
+      "link": "https://zdnet.co.kr/view/?no=20260204104820",
+      "summary": "한국수입자동차협회(KAIDA)는 2026년 1월 수입 승용차 신규 등록대수가 2만960대로 집계됐다고 4일 밝혔다. 이는 전월 대비 26.7% 감소했지만, 전년 동월과 비교하면 37.6% 증가한 수치다. 브랜드별 등록대수는 BMW가 6270대로 1위를 기록했고, 메르세데스-벤츠가 5121대로 뒤를 이었다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "콘진원, 도쿄 현지 호응 속 ‘2026 K-웹툰 전시’ 개막",
+      "title": "삼진제약, 면역‧염증 치료제 ‘SJN314’ 식약처 임상 1상 신청",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.02",
-      "link": "https://zdnet.co.kr/view/?no=20260203103912",
-      "summary": "문화체육관광부(문체부)와 한국콘텐츠진흥원(콘진원)은 주일한국문화원과 함께 일본 도쿄 주일한국문화원 갤러리 MI에서 ‘세로로 읽는 이야기: 2026 K-웹툰 전시’를 개막했다고 3일 밝혔다. 이번 전시는 오는 28일까지 열리며, 개막 행사와 함께 ‘월드 웹툰 어워즈 2025’ 수상작 11편을 포함해 총 20여 편의 주요 작품을 소개했다."
+      "date": "2026.02.03",
+      "link": "https://zdnet.co.kr/view/?no=20260204103755",
+      "summary": "삼진제약이 자사의 신약 연구 핵심 파이프라인인 ‘면역·염증’ 치료제 ‘SJN314’에 대한 임상 1상 시험계획(IND)을 식품의약품안전처에 신청했다. ‘SJN314’는 만성자발성두드러기, 아토피 피부염 등 염증성 질환을 주요 적응증으로 하는 경구용 저분자 MRGPRX2 저해제다. MRGPRX2는 비-IgE 경로를 통한 비만세포 활성화에 관여하는 수용체다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "홈플러스 일반노조 \"李대통령, 연쇄 경영위기 막아달라\"",
+      "title": "충남콘진원, 2026년 로케이션 인센티브 대폭 확대...아산·예산 신규 합류",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.02",
-      "link": "https://zdnet.co.kr/view/?no=20260203101801",
-      "summary": "홈플러스일반노동조합이 이재명 대통령과 김민석 국무총리, 박상진 산업은행장을 수신자로 홈플러스의 회생과 정상적인 운영을 위한 정부의 신속한 개입과 산업은행을 통한 긴급운영자금 지원을 촉구하는 청원을 진행한다."
+      "date": "2026.02.03",
+      "link": "https://zdnet.co.kr/view/?no=20260204103634",
+      "summary": "충남콘텐츠진흥원(원장 김곡미, 이하 진흥원)은 추진 중인 충남·당진·아산·예산 로케이션 인센티브 지원사업이 영상 산업계의 주목을 받고 있다고 4일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "웹젠 인디게임 '르모어', 게임명 ‘메모리스’로 변경…정식 출시 준비 박차",
+      "title": "테이크투 CEO \"GTA 6 개발에 생성형 AI 배제…수작업 원칙 고수\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.02",
-      "link": "https://zdnet.co.kr/view/?no=20260203102917",
-      "summary": "웹젠(대표 김태영)은 인디게임 ‘르모어: 인페스티드 킹덤’을 ‘메모리스: 포세이큰 바이 라이트(이하 메모리스)’로 게임명을 변경하고 올해 상반기 정식 출시를 준비한다고 3일 밝혔다. ‘메모리스’는 웹젠이 퍼블리싱하고 국내 게임 개발사 블랙앵커(대표 정극민)가 개발하는 인디게임이다."
+      "date": "2026.02.03",
+      "link": "https://zdnet.co.kr/view/?no=20260204094439",
+      "summary": "테이크투 인터랙티브가 차기작 'GTA 6' 제작 과정에서 생성형 AI가 아닌 개발자의 수작업을 통한 콘텐츠 구축 원칙을 고수하고 있다고 게임인더스트리비즈가 3일(현지시간) 보도했다. 스트라우스 젤닉 테이크투 최고경영자(CEO)는 외신과의 인터뷰를 통해 AI 기술을 효율성 증대를 위한 도구로 정의했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "허깅페이스 인프라 악용해 안드로이드 RAT 유포…대규모 맬웨어 캠페인 확인",
+      "title": "“서버리스 확장 vs. 종속성” AWS 람다 지속성 함수의 이점 따져보기",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.02",
-      "link": "https://www.itworld.co.kr/article/4125338/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%95%85%ec%9a%a9%ed%95%b4-%ec%95%88%eb%93%9c%eb%a1%9c%ec%9d%b4%eb%93%9c-rat-%ec%9c%a0%ed%8f%ac%eb%8c%80%ea%b7%9c.html",
-      "summary": "허깅페이스에 호스팅된 맬웨어를 유포하기 위해 ‘트러스트배스천’이라는 가짜 보안 애플리케이션이 사용되고 있으며, 공격자는 탐지를 피하기 위해 수천 개의 안드로이드 패키지 변종을 생성하고 있다."
+      "date": "2026.02.03",
+      "link": "https://www.itworld.co.kr/article/4126868/%ec%84%9c%eb%b2%84%eb%a6%ac%ec%8a%a4-%ed%99%95%ec%9e%a5-vs-%ec%a2%85%ec%86%8d%ec%84%b1-aws-%eb%9e%8c%eb%8b%a4-%ec%a7%80%ec%86%8d%ec%84%b1-%ed%95%a8%ec%88%98%ec%9d%98-%ec%9d%b4.html",
+      "summary": "인기 서버리스 컴퓨팅 서비스에 지속성 실행 기능이 추가된 것은 큰 진전이지만, 업체 종속성의 함정은 경계해야 한다. Credit: Rob Schultz / Shutterstock 클라우드 컴퓨팅의 혁신은 멈추지 않는다. AWS는 최근 AWS 람다용 지속성 함수를 공개했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“AI 전력 수요 때문?” 미국, 원자력 안전 규정 ‘슬그머니 완화’ 논란",
+      "title": "파이어폭스에 ‘AI 차단 스위치’ 도입…사용자가 직접 개별 기능 통제",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.02",
-      "link": "https://www.itworld.co.kr/article/4124769/ai-%ec%a0%84%eb%a0%a5-%ec%88%98%ec%9a%94-%eb%95%8c%eb%ac%b8-%eb%af%b8%ea%b5%ad-%ec%9b%90%ec%9e%90%eb%a0%a5-%ec%95%88%ec%a0%84-%ea%b7%9c%ec%a0%95-%ec%8a%ac%ea%b7%b8.html",
-      "summary": "AI 데이터센터를 위한 전력 확보를 서두르는 과정에서 미국 에너지부가 원자력 안전·보안 기준을 몰래 낮췄다는 보도가 파장을 일으켰다. Credit: barmalini / Shutterstock 미국 원자력 규제 당국이 AI를 가동할 새로운 전력 용량을 빠르게 확보하기 위해 안전 규정을 비공개로 완화했다고 NPR이 보도했다."
+      "date": "2026.02.03",
+      "link": "https://www.itworld.co.kr/article/4126851/%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4%ec%97%90-ai-%ec%b0%a8%eb%8b%a8-%ec%8a%a4%ec%9c%84%ec%b9%98-%eb%8f%84%ec%9e%85%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%ec%a7%81.html",
+      "summary": "새로운 버전의 파이어폭스에서는 한 번의 설정으로 모든 AI 기능을 비활성화할 수 있다. Credit: Firefox 모질라 파이어폭스는 오랫동안 ‘구글이나 마이크로소프트와 거리를 두고 싶은 파워 유저’를 위한 ‘쿨한’ 브라우저로 여겨졌다. 그런 파이어폭스에 최근 흔하게 볼 수 있는 AI 기능이 잇달아 추가되는 것은 사용자의 호응을 얻기 어려운 일이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "애플, 오디오 AI 스타트업 Q.ai 인수…역대 두 번째 규모",
+      "title": "윈도우 종료 불가 버그, 윈도우 10·11 다수 버전으로 확산",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.02",
-      "link": "https://www.itworld.co.kr/article/4124728/%ec%95%a0%ed%94%8c-%ec%98%a4%eb%94%94%ec%98%a4-ai-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-q-ai-%ec%9d%b8%ec%88%98%ec%97%ad%eb%8c%80-%eb%91%90-%eb%b2%88%ec%a7%b8-%ea%b7%9c%eb%aa%a8.html",
-      "summary": "페이스 ID의 기반 기술을 만든 프라임센스 설립자가 이끄는 오디오 AI 스타트업이다. Credit: Foundry 최근 로이터 통신은 애플이 이스라엘 스타트업 Q.ai 인수를 공식 확인했다고 전했다. Q.ai는 AI/ML을 활용해 오디오 관련 문제를 해결하는 기술을 개발해 온 기업으로 알려져 있다. Q."
+      "date": "2026.02.03",
+      "link": "https://www.itworld.co.kr/article/4126129/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%a2%85%eb%a3%8c-%eb%b6%88%ea%b0%80-%eb%b2%84%ea%b7%b8-%ec%9c%88%eb%8f%84%ec%9a%b0-10%c2%b711-%eb%8b%a4%ec%88%98-%eb%b2%84%ec%a0%84%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0.html",
+      "summary": "1월 업데이트 이후 일부 윈도우 11 시스템에서 PC를 정상적으로 종료하지 못하는 문제가 발생했으며, 이 문제는 윈도우 10에도 영향을 미치는 것으로 확인됐다. Credit: Arnav Singhal / Unsplash 지난 1월 진행된 윈도우 11의 마지막 주요 업데이트 이후 각종 문제가 연이어 발생하고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "미 연방 사이버보안 기관장, 승인 도구 우회한 챗GPT 사용으로 거버넌스 도마 위",
+      "title": "라즈베리 파이, RAM 부족에 2달 만에 추가 가격 인상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.02",
-      "link": "https://www.itworld.co.kr/article/4124707/%eb%af%b8-%ec%97%b0%eb%b0%a9-%ec%82%ac%ec%9d%b4%eb%b2%84%eb%b3%b4%ec%95%88-%ea%b8%b0%ea%b4%80%ec%9e%a5-%ec%8a%b9%ec%9d%b8-%eb%8f%84%ea%b5%ac-%ec%9a%b0%ed%9a%8c%ed%95%9c-%ec%b1%97gpt-%ec%82%ac.html",
-      "summary": "미국 사이버보안 및 인프라 보안국 수장이 민감한 정부 문서를 챗GPT 공개 버전에 업로드한 사실이 드러났다."
+      "date": "2026.02.03",
+      "link": "https://www.itworld.co.kr/article/4126099/%eb%9d%bc%ec%a6%88%eb%b2%a0%eb%a6%ac-%ed%8c%8c%ec%9d%b4-ram-%eb%b6%80%ec%a1%b1%ec%97%90-2%eb%8b%ac-%eb%a7%8c%ec%97%90-%ec%b6%94%ea%b0%80-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81.html",
+      "summary": "저렴한 프로젝트용 컴퓨터로 통하던 라즈베리 파이가 모델에 따라 불과 두 달 새 15~85달러 더 비싸졌다. Credit: Harrison Broadbent / Unsplash RAM 가격이 오르고 있다. RAM 가격 상승이 몇 달째 이어지며 고성능 그래픽 카드부터 가장 저렴한 취미용 기기까지 일반 사용자용 전자기기 거의 전반에 영향을 미치고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "GDPR 위반 신고 급증…2025년 하루 평균 443건",
+      "title": "오픈텍스트, 신임 CEO로 아이만 안톤 선임…IBM 아메리카 사장 출신",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.02",
-      "link": "https://www.itworld.co.kr/article/4124711/gdpr-%ec%9c%84%eb%b0%98-%ec%8b%a0%ea%b3%a0-%ea%b8%89%ec%a6%9d2025%eb%85%84-%ed%95%98%eb%a3%a8-%ed%8f%89%ea%b7%a0-443%ea%b1%b4.html",
-      "summary": "일일 평균 신고 건수가 처음으로 400건을 돌파하며 GDPR 집행 강도가 유지되고 있음을 보여주고 있다. Credit: Shutterstock 국제 로펌 DLA 파이퍼(DLA Piper)가 최근 공개한 보고서에 따르면, 일반개인정보보호규정(GDPR) 위반으로 신고되는 조직의 수가 빠르게 늘고 있다."
+      "date": "2026.02.03",
+      "link": "https://www.itworld.co.kr/article/4126076/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%8b%a0%ec%9e%84-ceo%eb%a1%9c-%ec%95%84%ec%9d%b4%eb%a7%8c-%ec%95%88%ed%86%a4-%ec%84%a0%ec%9e%84.html",
+      "summary": "IBM 아메리카 사장 출신 리더 영입으로 엔터프라이즈 정보 관리와 에이전틱 AI 성장 전략을 가속화할 방침이다. Credit: Sundry Photography / shutterstock 오픈텍스트는 이사회가 아이만 안톤을 CEO 및 이사회 멤버로 선임했다고 밝혔다. 안톤은 2026년 4월 20일부터 공식 취임할 예정이다."
     }
   ]
 }
