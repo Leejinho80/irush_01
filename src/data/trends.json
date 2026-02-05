@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-04T01:52:58.874Z",
-  "collectionDate": "2026.02.03",
-  "displayDate": "2026.02.04",
+  "updatedAt": "2026-02-05T01:54:57.140Z",
+  "collectionDate": "2026.02.04",
+  "displayDate": "2026.02.05",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "약가제도개편 대응 비대위에 한국노총 · 화학노련도 참여",
+      "title": "카카오벤처스, 美 로봇 시뮬레이션 스타트업 ‘패럴랙스 월즈’에 시드 투자",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.03",
-      "link": "https://zdnet.co.kr/view/?no=20260204105053",
-      "summary": "산업 발전을 위한 약가제도 개편 비상대책위원회(이하 비대위)는 한국노동조합총연맹(한국노총)과 산하 산별노조인 전국화학노동조합연맹(화학노련)이 비대위에 참여한다고 4일 밝혔다. 앞서 양측은 지난달 면담을 통해 정부의 약가인하 정책이 고용불안과 산업 기반 및 보건안보를 훼손할 수 있다는 데 공감대를 이룬 바 있다."
+      "date": "2026.02.04",
+      "link": "https://zdnet.co.kr/view/?no=20260205105312",
+      "summary": "카카오벤처스가 미국 소재의 로봇 시뮬레이션 스타트업 ‘패럴랙스 월즈’에 시드 투자를 완료했다고 5일 밝혔다. 이번 라운드는 미국 실리콘밸리 벤처캐피탈 페어 주도로 현지 딥테크 전문 투자사, 국내 유수 대기업 등이 공동 참여했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "1월 수입 승용차 2만960대…BYD 5위 올라",
+      "title": "우유 마셨다 뱃속 아이 잃은 산모…美 발칵",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.03",
-      "link": "https://zdnet.co.kr/view/?no=20260204104820",
-      "summary": "한국수입자동차협회(KAIDA)는 2026년 1월 수입 승용차 신규 등록대수가 2만960대로 집계됐다고 4일 밝혔다. 이는 전월 대비 26.7% 감소했지만, 전년 동월과 비교하면 37.6% 증가한 수치다. 브랜드별 등록대수는 BMW가 6270대로 1위를 기록했고, 메르세데스-벤츠가 5121대로 뒤를 이었다."
+      "date": "2026.02.04",
+      "link": "https://zdnet.co.kr/view/?no=20260205104437",
+      "summary": "미국 뉴멕시코주에서 임신 중 생우유를 섭취한 산모의 태아가 사망하는 사고가 발생해 보건 당국이 경고에 나섰다. 기즈모도 등 외신들은 미국 뉴멕시코 보건부(NMDOH)가 지난 3일(현지시간) 임신 중이던 산모가 살균되지 않은 생우유를 마신 뒤 리스테리아균에 감염돼, 체내의 신생아가 사망했다고 발표했다고 최근 보도했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "삼진제약, 면역‧염증 치료제 ‘SJN314’ 식약처 임상 1상 신청",
+      "title": "에이치에너지 \"재생에너지 가변성, AI가 해결사\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.03",
-      "link": "https://zdnet.co.kr/view/?no=20260204103755",
-      "summary": "삼진제약이 자사의 신약 연구 핵심 파이프라인인 ‘면역·염증’ 치료제 ‘SJN314’에 대한 임상 1상 시험계획(IND)을 식품의약품안전처에 신청했다. ‘SJN314’는 만성자발성두드러기, 아토피 피부염 등 염증성 질환을 주요 적응증으로 하는 경구용 저분자 MRGPRX2 저해제다. MRGPRX2는 비-IgE 경로를 통한 비만세포 활성화에 관여하는 수용체다."
+      "date": "2026.02.04",
+      "link": "https://zdnet.co.kr/view/?no=20260205104618",
+      "summary": "재생에너지 플랫폼 기업 에이치에너지(대표 함일한)는 4일 서울 삼성동 코엑스에서 진행된 ‘2026 에너지플러스 컨퍼런스’ 주제 발표를 통해 인공지능(AI)을 활용한 ESS 운영·관리 솔루션을 제시했다고 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "충남콘진원, 2026년 로케이션 인센티브 대폭 확대...아산·예산 신규 합류",
+      "title": "현대홈쇼핑, ‘설레는 설’ 할인 행사...최대 40% 할인",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.03",
-      "link": "https://zdnet.co.kr/view/?no=20260204103634",
-      "summary": "충남콘텐츠진흥원(원장 김곡미, 이하 진흥원)은 추진 중인 충남·당진·아산·예산 로케이션 인센티브 지원사업이 영상 산업계의 주목을 받고 있다고 4일 밝혔다."
+      "date": "2026.02.04",
+      "link": "https://zdnet.co.kr/view/?no=20260205103904",
+      "summary": "현대홈쇼핑이 설 명절을 맞아 오는 12일까지 현대홈쇼핑 TV채널과 공식 온라인몰 현대H몰에서 설 인기 선물상품을 최대 40% 할인 판매하는 특별 행사 ‘설레는 설’을 진행한다고 5일 밝혔다. 먼저, 현대홈쇼핑은 행사 기간 TV채널에서 설 인기 선물상품 할인 방송 편성을 20% 가량 확대 운영한다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "테이크투 CEO \"GTA 6 개발에 생성형 AI 배제…수작업 원칙 고수\"",
+      "title": "[영상] \"따뜻한 체온 지녔다\"…사람과 꼭 닮은 휴머노이드 로봇",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.03",
-      "link": "https://zdnet.co.kr/view/?no=20260204094439",
-      "summary": "테이크투 인터랙티브가 차기작 'GTA 6' 제작 과정에서 생성형 AI가 아닌 개발자의 수작업을 통한 콘텐츠 구축 원칙을 고수하고 있다고 게임인더스트리비즈가 3일(현지시간) 보도했다. 스트라우스 젤닉 테이크투 최고경영자(CEO)는 외신과의 인터뷰를 통해 AI 기술을 효율성 증대를 위한 도구로 정의했다."
+      "date": "2026.02.04",
+      "link": "https://zdnet.co.kr/view/?no=20260205101857",
+      "summary": "자연스럽게 걷고 사람과 눈을 마주치며 미묘한 표정까지 구현한 휴머노이드 로봇이 공개돼 주목받고 있다. 과학 전문매체 인터레스팅엔지니어링은 3일(현지시간) 중국 로봇 개발사 드로이드업(DroidUp)이 인간과 매우 흡사한 외형과 움직임을 갖춘 휴머노이드 로봇을 선보였다고 보도했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“서버리스 확장 vs. 종속성” AWS 람다 지속성 함수의 이점 따져보기",
+      "title": "델 테크놀로지스, 신임 APJC 리더로 리치 맥러클린 선임",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.03",
-      "link": "https://www.itworld.co.kr/article/4126868/%ec%84%9c%eb%b2%84%eb%a6%ac%ec%8a%a4-%ed%99%95%ec%9e%a5-vs-%ec%a2%85%ec%86%8d%ec%84%b1-aws-%eb%9e%8c%eb%8b%a4-%ec%a7%80%ec%86%8d%ec%84%b1-%ed%95%a8%ec%88%98%ec%9d%98-%ec%9d%b4.html",
-      "summary": "인기 서버리스 컴퓨팅 서비스에 지속성 실행 기능이 추가된 것은 큰 진전이지만, 업체 종속성의 함정은 경계해야 한다. Credit: Rob Schultz / Shutterstock 클라우드 컴퓨팅의 혁신은 멈추지 않는다. AWS는 최근 AWS 람다용 지속성 함수를 공개했다."
+      "date": "2026.02.04",
+      "link": "https://www.itworld.co.kr/article/4126983/%eb%8d%b8-%ed%85%8c%ed%81%ac%eb%86%80%eb%a1%9c%ec%a7%80%ec%8a%a4-%ec%8b%a0%ec%9e%84-apjc-%eb%a6%ac%eb%8d%94%eb%a1%9c-%eb%a6%ac%ec%b9%98-%eb%a7%a5%eb%9f%ac%ed%81%b4%eb%a6%b0-%ec%84%a0%ec%9e%84.html",
+      "summary": "델 테크놀로지스(Dell Technologies)가 4일 APJC(아시아태평양 및 일본, 중국) 리전을 이끌 새로운 리더로서 리치 맥러클린을 선임했다고 밝혔다. 전임자인 피터 마스는 북미 지역에서 새로운 리더십 역할을 맡게 될 예정이다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "파이어폭스에 ‘AI 차단 스위치’ 도입…사용자가 직접 개별 기능 통제",
+      "title": "“서버리스 확장 vs. 종속성” AWS 람다 지속성 함수의 이점 따져보기",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.03",
-      "link": "https://www.itworld.co.kr/article/4126851/%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4%ec%97%90-ai-%ec%b0%a8%eb%8b%a8-%ec%8a%a4%ec%9c%84%ec%b9%98-%eb%8f%84%ec%9e%85%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%ec%a7%81.html",
-      "summary": "새로운 버전의 파이어폭스에서는 한 번의 설정으로 모든 AI 기능을 비활성화할 수 있다. Credit: Firefox 모질라 파이어폭스는 오랫동안 ‘구글이나 마이크로소프트와 거리를 두고 싶은 파워 유저’를 위한 ‘쿨한’ 브라우저로 여겨졌다. 그런 파이어폭스에 최근 흔하게 볼 수 있는 AI 기능이 잇달아 추가되는 것은 사용자의 호응을 얻기 어려운 일이다."
+      "date": "2026.02.04",
+      "link": "https://www.itworld.co.kr/article/4126868/%ec%84%9c%eb%b2%84%eb%a6%ac%ec%8a%a4-%ed%99%95%ec%9e%a5-vs-%ec%a2%85%ec%86%8d%ec%84%b1-aws-%eb%9e%8c%eb%8b%a4-%ec%a7%80%ec%86%8d%ec%84%b1-%ed%95%a8%ec%88%98%ec%9d%98-%ec%9d%b4.html",
+      "summary": "인기 서버리스 컴퓨팅 서비스에 지속성 실행 기능이 추가된 것은 큰 진전이지만, 업체 종속성의 함정은 경계해야 한다. Credit: Rob Schultz / Shutterstock 클라우드 컴퓨팅의 혁신은 멈추지 않는다. AWS는 최근 AWS 람다용 지속성 함수를 공개했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "윈도우 종료 불가 버그, 윈도우 10·11 다수 버전으로 확산",
+      "title": "파이어폭스에 ‘AI 차단 스위치’ 도입…사용자가 직접 개별 기능 통제",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.03",
-      "link": "https://www.itworld.co.kr/article/4126129/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%a2%85%eb%a3%8c-%eb%b6%88%ea%b0%80-%eb%b2%84%ea%b7%b8-%ec%9c%88%eb%8f%84%ec%9a%b0-10%c2%b711-%eb%8b%a4%ec%88%98-%eb%b2%84%ec%a0%84%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0.html",
-      "summary": "1월 업데이트 이후 일부 윈도우 11 시스템에서 PC를 정상적으로 종료하지 못하는 문제가 발생했으며, 이 문제는 윈도우 10에도 영향을 미치는 것으로 확인됐다. Credit: Arnav Singhal / Unsplash 지난 1월 진행된 윈도우 11의 마지막 주요 업데이트 이후 각종 문제가 연이어 발생하고 있다."
+      "date": "2026.02.04",
+      "link": "https://www.itworld.co.kr/article/4126851/%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4%ec%97%90-ai-%ec%b0%a8%eb%8b%a8-%ec%8a%a4%ec%9c%84%ec%b9%98-%eb%8f%84%ec%9e%85%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%ec%a7%81.html",
+      "summary": "새로운 버전의 파이어폭스에서는 한 번의 설정으로 모든 AI 기능을 비활성화할 수 있다. Credit: Firefox 모질라 파이어폭스는 오랫동안 ‘구글이나 마이크로소프트와 거리를 두고 싶은 파워 유저’를 위한 ‘쿨한’ 브라우저로 여겨졌다. 그런 파이어폭스에 최근 흔하게 볼 수 있는 AI 기능이 잇달아 추가되는 것은 사용자의 호응을 얻기 어려운 일이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "라즈베리 파이, RAM 부족에 2달 만에 추가 가격 인상",
+      "title": "윈도우 종료 불가 버그, 윈도우 10·11 다수 버전으로 확산",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.03",
-      "link": "https://www.itworld.co.kr/article/4126099/%eb%9d%bc%ec%a6%88%eb%b2%a0%eb%a6%ac-%ed%8c%8c%ec%9d%b4-ram-%eb%b6%80%ec%a1%b1%ec%97%90-2%eb%8b%ac-%eb%a7%8c%ec%97%90-%ec%b6%94%ea%b0%80-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81.html",
-      "summary": "저렴한 프로젝트용 컴퓨터로 통하던 라즈베리 파이가 모델에 따라 불과 두 달 새 15~85달러 더 비싸졌다. Credit: Harrison Broadbent / Unsplash RAM 가격이 오르고 있다. RAM 가격 상승이 몇 달째 이어지며 고성능 그래픽 카드부터 가장 저렴한 취미용 기기까지 일반 사용자용 전자기기 거의 전반에 영향을 미치고 있다."
+      "date": "2026.02.04",
+      "link": "https://www.itworld.co.kr/article/4126129/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%a2%85%eb%a3%8c-%eb%b6%88%ea%b0%80-%eb%b2%84%ea%b7%b8-%ec%9c%88%eb%8f%84%ec%9a%b0-10%c2%b711-%eb%8b%a4%ec%88%98-%eb%b2%84%ec%a0%84%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0.html",
+      "summary": "1월 업데이트 이후 일부 윈도우 11 시스템에서 PC를 정상적으로 종료하지 못하는 문제가 발생했으며, 이 문제는 윈도우 10에도 영향을 미치는 것으로 확인됐다. Credit: Arnav Singhal / Unsplash 지난 1월 진행된 윈도우 11의 마지막 주요 업데이트 이후 각종 문제가 연이어 발생하고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "오픈텍스트, 신임 CEO로 아이만 안톤 선임…IBM 아메리카 사장 출신",
+      "title": "라즈베리 파이, RAM 부족에 2달 만에 추가 가격 인상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.03",
-      "link": "https://www.itworld.co.kr/article/4126076/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%8b%a0%ec%9e%84-ceo%eb%a1%9c-%ec%95%84%ec%9d%b4%eb%a7%8c-%ec%95%88%ed%86%a4-%ec%84%a0%ec%9e%84.html",
-      "summary": "IBM 아메리카 사장 출신 리더 영입으로 엔터프라이즈 정보 관리와 에이전틱 AI 성장 전략을 가속화할 방침이다. Credit: Sundry Photography / shutterstock 오픈텍스트는 이사회가 아이만 안톤을 CEO 및 이사회 멤버로 선임했다고 밝혔다. 안톤은 2026년 4월 20일부터 공식 취임할 예정이다."
+      "date": "2026.02.04",
+      "link": "https://www.itworld.co.kr/article/4126099/%eb%9d%bc%ec%a6%88%eb%b2%a0%eb%a6%ac-%ed%8c%8c%ec%9d%b4-ram-%eb%b6%80%ec%a1%b1%ec%97%90-2%eb%8b%ac-%eb%a7%8c%ec%97%90-%ec%b6%94%ea%b0%80-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81.html",
+      "summary": "저렴한 프로젝트용 컴퓨터로 통하던 라즈베리 파이가 모델에 따라 불과 두 달 새 15~85달러 더 비싸졌다. Credit: Harrison Broadbent / Unsplash RAM 가격이 오르고 있다. RAM 가격 상승이 몇 달째 이어지며 고성능 그래픽 카드부터 가장 저렴한 취미용 기기까지 일반 사용자용 전자기기 거의 전반에 영향을 미치고 있다."
     }
   ]
 }
