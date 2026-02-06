@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-05T01:54:57.140Z",
-  "collectionDate": "2026.02.04",
-  "displayDate": "2026.02.05",
+  "updatedAt": "2026-02-06T01:53:40.076Z",
+  "collectionDate": "2026.02.05",
+  "displayDate": "2026.02.06",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "카카오벤처스, 美 로봇 시뮬레이션 스타트업 ‘패럴랙스 월즈’에 시드 투자",
+      "title": "넵튭 님블뉴런 '이터널리턴', 신규 캐릭터 '펜리르' 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.04",
-      "link": "https://zdnet.co.kr/view/?no=20260205105312",
-      "summary": "카카오벤처스가 미국 소재의 로봇 시뮬레이션 스타트업 ‘패럴랙스 월즈’에 시드 투자를 완료했다고 5일 밝혔다. 이번 라운드는 미국 실리콘밸리 벤처캐피탈 페어 주도로 현지 딥테크 전문 투자사, 국내 유수 대기업 등이 공동 참여했다."
+      "date": "2026.02.05",
+      "link": "https://zdnet.co.kr/view/?no=20260206104500",
+      "summary": "넵튠(대표 강율빈)의 자회사 님블뉴런(각자대표 김승후·정욱)은 PC 게임 '이터널 리턴'에 86번째 신규 캐릭터 '펜리르'를 추가했다고 6일 밝혔다. 이 캐릭터는 신체적 특징인 꼬리와 발톱을 사용해 교전한다. 루미아 섬 연구를 위해 인위적으로 만들어진 캐릭터이며 탄생의 순간부터 지금까지 연구를 위해 활용되고 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "우유 마셨다 뱃속 아이 잃은 산모…美 발칵",
+      "title": "엑스박스, '안전한 인터넷의 날' 앞두고 제6차 투명성 보고서 발표",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.04",
-      "link": "https://zdnet.co.kr/view/?no=20260205104437",
-      "summary": "미국 뉴멕시코주에서 임신 중 생우유를 섭취한 산모의 태아가 사망하는 사고가 발생해 보건 당국이 경고에 나섰다. 기즈모도 등 외신들은 미국 뉴멕시코 보건부(NMDOH)가 지난 3일(현지시간) 임신 중이던 산모가 살균되지 않은 생우유를 마신 뒤 리스테리아균에 감염돼, 체내의 신생아가 사망했다고 발표했다고 최근 보도했다."
+      "date": "2026.02.05",
+      "link": "https://zdnet.co.kr/view/?no=20260206104118",
+      "summary": "엑스박스가 '안전한 인터넷의 날'을 앞두고 이용자 보호 및 책임감 있는 인공지능(AI) 혁신 의지를 담은 제6차 투명성 보고서를 발표했다고 6일 밝혔다. 이번 보고서는 지난해 동안 진행된 AI 중재 솔루션의 성과와 이용자 신고 기능 개선 사항을 중점적으로 다뤘다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "에이치에너지 \"재생에너지 가변성, AI가 해결사\"",
+      "title": "한빛소프트 '그라나도에스파다M', 중국 퍼블리싱 계약 체결",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.04",
-      "link": "https://zdnet.co.kr/view/?no=20260205104618",
-      "summary": "재생에너지 플랫폼 기업 에이치에너지(대표 함일한)는 4일 서울 삼성동 코엑스에서 진행된 ‘2026 에너지플러스 컨퍼런스’ 주제 발표를 통해 인공지능(AI)을 활용한 ESS 운영·관리 솔루션을 제시했다고 밝혔다."
+      "date": "2026.02.05",
+      "link": "https://zdnet.co.kr/view/?no=20260206103609",
+      "summary": "한빛소프트는 중국 게임 퍼블리셔 Jiangsu 39와 모바일 MMORPG '그라나도 에스파다 M' 중국 지역 퍼블리싱 계약을 체결했다고 9일 발표했다. 이번 계약을 통해 Jiangsu 39는 중국 전역에서 서비스 운영, 마케팅, 현지화 전반을 담당하게 된다. 한빛소프트는 원활한 중국 서비스 출시를 위해 라이브 운영에 필요한 기술적 지원을 이어갈 계획이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "현대홈쇼핑, ‘설레는 설’ 할인 행사...최대 40% 할인",
+      "title": "\"오버워치 다음은?\"…블리자드 '스포트라이트' 성공적, 향후 기대감 '상승'",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.04",
-      "link": "https://zdnet.co.kr/view/?no=20260205103904",
-      "summary": "현대홈쇼핑이 설 명절을 맞아 오는 12일까지 현대홈쇼핑 TV채널과 공식 온라인몰 현대H몰에서 설 인기 선물상품을 최대 40% 할인 판매하는 특별 행사 ‘설레는 설’을 진행한다고 5일 밝혔다. 먼저, 현대홈쇼핑은 행사 기간 TV채널에서 설 인기 선물상품 할인 방송 편성을 20% 가량 확대 운영한다."
+      "date": "2026.02.05",
+      "link": "https://zdnet.co.kr/view/?no=20260206102058",
+      "summary": "블리자드 엔터테인먼트가 진행 중인 '스포트라이트 2026' 행사가 연이은 대형 소식을 전하며 이용자 기대를 모으고 있다. 지난 달 30일 '월드 오브 워크래프트' 2026년 로드맵 발표로 포문을 연 데 이어, 5일에는 '오버워치' 대변혁을 예고하며 성공적인 흐름을 지속하고 있다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "[영상] \"따뜻한 체온 지녔다\"…사람과 꼭 닮은 휴머노이드 로봇",
+      "title": "[인사] 과학기술정보통신부",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.04",
-      "link": "https://zdnet.co.kr/view/?no=20260205101857",
-      "summary": "자연스럽게 걷고 사람과 눈을 마주치며 미묘한 표정까지 구현한 휴머노이드 로봇이 공개돼 주목받고 있다. 과학 전문매체 인터레스팅엔지니어링은 3일(현지시간) 중국 로봇 개발사 드로이드업(DroidUp)이 인간과 매우 흡사한 외형과 움직임을 갖춘 휴머노이드 로봇을 선보였다고 보도했다."
+      "date": "2026.02.05",
+      "link": "https://zdnet.co.kr/view/?no=20260206103726",
+      "summary": "◇ 과장급 전보 ▲ 연구개발정책과장 최윤억 ▲ 첨단바이오기술과장 이주헌 ▲ 원자력연구개발과장 남혁모 ▲ 연구성과혁신정책과장 이병희 ▲ 장관정책보좌관 김연규"
     },
     {
       "id": 6,
       "number": "06",
-      "title": "델 테크놀로지스, 신임 APJC 리더로 리치 맥러클린 선임",
+      "title": "마이크로소프트, AI 콘텐츠 활용 대가로 퍼블리셔 보상 모델 추진",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.04",
-      "link": "https://www.itworld.co.kr/article/4126983/%eb%8d%b8-%ed%85%8c%ed%81%ac%eb%86%80%eb%a1%9c%ec%a7%80%ec%8a%a4-%ec%8b%a0%ec%9e%84-apjc-%eb%a6%ac%eb%8d%94%eb%a1%9c-%eb%a6%ac%ec%b9%98-%eb%a7%a5%eb%9f%ac%ed%81%b4%eb%a6%b0-%ec%84%a0%ec%9e%84.html",
-      "summary": "델 테크놀로지스(Dell Technologies)가 4일 APJC(아시아태평양 및 일본, 중국) 리전을 이끌 새로운 리더로서 리치 맥러클린을 선임했다고 밝혔다. 전임자인 피터 마스는 북미 지역에서 새로운 리더십 역할을 맡게 될 예정이다."
+      "date": "2026.02.05",
+      "link": "https://www.itworld.co.kr/article/4128424/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%bd%98%ed%85%90%ec%b8%a0-%ed%99%9c%ec%9a%a9-%eb%8c%80%ea%b0%80%eb%a1%9c-%ed%8d%bc%eb%b8%94%eb%a6%ac%ec%85%94-%eb%b3%b4%ec%83%81.html",
+      "summary": "퍼블리셔 콘텐츠 마켓플레이스는 AI에 답변에 활용될 정보를 제공한 대가로 보상을 받을 수 있는 경로를 제공한다. Credit: Chayanit 마이크로소프트는 AI 챗봇이 신뢰하기 어려운 정보를 제공하는 문제에 대해 ‘모두에게 이익이 되는’ 해법을 찾았다고 보고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“서버리스 확장 vs. 종속성” AWS 람다 지속성 함수의 이점 따져보기",
+      "title": "미 법무부, 구글 검색 반독점 판결에 항소…“더 강력한 제재” 요구",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.04",
-      "link": "https://www.itworld.co.kr/article/4126868/%ec%84%9c%eb%b2%84%eb%a6%ac%ec%8a%a4-%ed%99%95%ec%9e%a5-vs-%ec%a2%85%ec%86%8d%ec%84%b1-aws-%eb%9e%8c%eb%8b%a4-%ec%a7%80%ec%86%8d%ec%84%b1-%ed%95%a8%ec%88%98%ec%9d%98-%ec%9d%b4.html",
-      "summary": "인기 서버리스 컴퓨팅 서비스에 지속성 실행 기능이 추가된 것은 큰 진전이지만, 업체 종속성의 함정은 경계해야 한다. Credit: Rob Schultz / Shutterstock 클라우드 컴퓨팅의 혁신은 멈추지 않는다. AWS는 최근 AWS 람다용 지속성 함수를 공개했다."
+      "date": "2026.02.05",
+      "link": "https://www.itworld.co.kr/article/4128415/%eb%af%b8-%eb%b2%95%eb%ac%b4%eb%b6%80-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89-%eb%b0%98%eb%8f%85%ec%a0%90-%ed%8c%90%ea%b2%b0%ec%97%90-%ed%95%ad%ec%86%8c%eb%8d%94-%ea%b0%95%eb%a0%a5.html",
+      "summary": "미 연방정부와 여러 주 법무장관이 구글의 검색 독점에 대한 처벌이 지나치게 가볍다며 항소에 나섰다. 미 법무부는 앞서 구글에 크롬 브라우저 매각을 요구한 바 있다. Credit: Aleksandr Rybalko / Shutterstock 구글 검색은 불법적인 독점이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "파이어폭스에 ‘AI 차단 스위치’ 도입…사용자가 직접 개별 기능 통제",
+      "title": "AI 여파로 늦어지고 비싸진 스팀 머신…밸브도 가격 부담 직면",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.04",
-      "link": "https://www.itworld.co.kr/article/4126851/%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4%ec%97%90-ai-%ec%b0%a8%eb%8b%a8-%ec%8a%a4%ec%9c%84%ec%b9%98-%eb%8f%84%ec%9e%85%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%ec%a7%81.html",
-      "summary": "새로운 버전의 파이어폭스에서는 한 번의 설정으로 모든 AI 기능을 비활성화할 수 있다. Credit: Firefox 모질라 파이어폭스는 오랫동안 ‘구글이나 마이크로소프트와 거리를 두고 싶은 파워 유저’를 위한 ‘쿨한’ 브라우저로 여겨졌다. 그런 파이어폭스에 최근 흔하게 볼 수 있는 AI 기능이 잇달아 추가되는 것은 사용자의 호응을 얻기 어려운 일이다."
+      "date": "2026.02.05",
+      "link": "https://www.itworld.co.kr/article/4128409/ai-%ec%97%ac%ed%8c%8c%eb%a1%9c-%eb%8a%a6%ec%96%b4%ec%a7%80%ea%b3%a0-%eb%b9%84%ec%8b%b8%ec%a7%84-%ec%8a%a4%ed%8c%80-%eb%a8%b8%ec%8b%a0%eb%b0%b8%eb%b8%8c%eb%8f%84-%ea%b0%80%ea%b2%a9-%eb%b6%80.html",
+      "summary": "AI 인프라 확대로 메모리 공급이 줄며 밸브의 하드웨어 전략에 차질이 발생했다. Credit: Valve/Nintendo 밸브의 스팀 머신이 예정보다 늦게 출시되고 가격도 오를 전망이다. AI 인프라 확산으로 촉발된 RAM 가격 급등이 직접적인 원인이다. 다시 한번 메모리 위기가 업계를 강타했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "윈도우 종료 불가 버그, 윈도우 10·11 다수 버전으로 확산",
+      "title": "클로드는 ‘광고 없음’ 기조 유지…앤트로픽 선언에 오픈AI 긴장",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.04",
-      "link": "https://www.itworld.co.kr/article/4126129/%ec%9c%88%eb%8f%84%ec%9a%b0-%ec%a2%85%eb%a3%8c-%eb%b6%88%ea%b0%80-%eb%b2%84%ea%b7%b8-%ec%9c%88%eb%8f%84%ec%9a%b0-10%c2%b711-%eb%8b%a4%ec%88%98-%eb%b2%84%ec%a0%84%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0.html",
-      "summary": "1월 업데이트 이후 일부 윈도우 11 시스템에서 PC를 정상적으로 종료하지 못하는 문제가 발생했으며, 이 문제는 윈도우 10에도 영향을 미치는 것으로 확인됐다. Credit: Arnav Singhal / Unsplash 지난 1월 진행된 윈도우 11의 마지막 주요 업데이트 이후 각종 문제가 연이어 발생하고 있다."
+      "date": "2026.02.05",
+      "link": "https://www.itworld.co.kr/article/4128398/%ed%81%b4%eb%a1%9c%eb%93%9c%eb%8a%94-%ea%b4%91%ea%b3%a0-%ec%97%86%ec%9d%8c-%ea%b8%b0%ec%a1%b0-%ec%9c%a0%ec%a7%80%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%84%a0%ec%96%b8%ec%97%90-%ec%98%a4.html",
+      "summary": "앤트로픽이 대화형 AI에 광고를 넣는 방식이 클로드 챗봇의 목적과 맞지 않는다고 밝혔다. Credit: Anthropic 앤트로픽(Anthropic)이 AI 챗봇 클로드에 광고를 도입하지 않겠다고 밝히며, 광고가 포함될 경우 챗봇의 존재 목적 자체가 훼손된다고 주장했다. 바로 오픈AI의 챗GPT 광고 실험을 이끄는 샘 올트먼이 반발했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "라즈베리 파이, RAM 부족에 2달 만에 추가 가격 인상",
+      "title": "AI 인프라 투자 확대로 2026년 기업 IT 지출 6조 달러 돌파 전망",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.04",
-      "link": "https://www.itworld.co.kr/article/4126099/%eb%9d%bc%ec%a6%88%eb%b2%a0%eb%a6%ac-%ed%8c%8c%ec%9d%b4-ram-%eb%b6%80%ec%a1%b1%ec%97%90-2%eb%8b%ac-%eb%a7%8c%ec%97%90-%ec%b6%94%ea%b0%80-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81.html",
-      "summary": "저렴한 프로젝트용 컴퓨터로 통하던 라즈베리 파이가 모델에 따라 불과 두 달 새 15~85달러 더 비싸졌다. Credit: Harrison Broadbent / Unsplash RAM 가격이 오르고 있다. RAM 가격 상승이 몇 달째 이어지며 고성능 그래픽 카드부터 가장 저렴한 취미용 기기까지 일반 사용자용 전자기기 거의 전반에 영향을 미치고 있다."
+      "date": "2026.02.05",
+      "link": "https://www.itworld.co.kr/article/4128387/ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ed%88%ac%ec%9e%90-%ed%99%95%eb%8c%80%eb%a1%9c-2026%eb%85%84-%ea%b8%b0%ec%97%85-it-%ec%a7%80%ec%b6%9c-6%ec%a1%b0-%eb%8b%ac%eb%9f%ac-%eb%8f%8c%ed%8c%8c-%ec%a0%84%eb%a7%9d.html",
+      "summary": "가트너는 AI 최적화 인프라가 IT 예산의 중심으로 부상했다고 밝혔다. Credit: G-Stock Studio / Shutterstock 가트너가 2026년 글로벌 IT 지출이 10.8% 성장해 6조 1,500억 달러에 이를 것으로 예상했으며, AI 인프라가 해당 성장의 대부분을 차지할 것이라고 밝혔다."
     }
   ]
 }
