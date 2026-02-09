@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-08T02:23:58.905Z",
-  "collectionDate": "2026.02.07",
-  "displayDate": "2026.02.08",
+  "updatedAt": "2026-02-09T02:01:45.600Z",
+  "collectionDate": "2026.02.08",
+  "displayDate": "2026.02.09",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "LGU+ \"대한항공 기내 와이파이 이용권 드려요\"",
+      "title": "LG, 설 앞두고 협력사에 납품대금 6000억원 최대 2주 조기 지급",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.07",
-      "link": "https://zdnet.co.kr/view/?no=20260208112059",
-      "summary": "LG유플러스가 설 연휴를 맞아 오는 28일까지 대한항공 기내 와이파이 이용권과 해외 로밍 데이터 2배를 제공한다. 4만4000원(데이터 최대 17GB 제공) 이상 등급의 로밍패스를 신청하는 고객에게 대한항공 기내 와이파이 이용권과 로밍 데이터 2배를 제공한다."
+      "date": "2026.02.08",
+      "link": "https://zdnet.co.kr/view/?no=20260209095705",
+      "summary": "LG가 설 명절을 앞두고 협력사 납품대금을 조기에 지급하고 지역사회 나눔 활동과 중소 협력사 기술 지원 등을 적극 전개한다. LG전자, LG이노텍, LG화학, LG에너지솔루션, LG생활건강, LG유플러스, LG CNS, D&O 등 8개 계열사는 납품대금 약 6천억 원을 최대 2주 앞당겨 지급한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "다쏘시스템이 선정한 글로벌 미래 혁신 발명품은?",
+      "title": "코레일, 설 승차권 암표 거래 뿌리 뽑는다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.07",
-      "link": "https://zdnet.co.kr/view/?no=20260208105328",
-      "summary": "다쏘시스템이 올해 국제 학생 디자인 공모전 우승팀으로 전기 없이 돌아가는 범용 유방 펌프 개발팀을 선정했다. 다쏘시스템은 지난 4일까지 미국 텍사스주 휴스턴에서 열린 '3D익스피리언스 월드 2026'에서 남아프리카공화국 요하네스버그대 'UJ 우먼 인 테크' 팀을 최종 우승팀으로 뽑았다고 8일 밝혔다."
+      "date": "2026.02.08",
+      "link": "https://zdnet.co.kr/view/?no=20260209104459",
+      "summary": "한국철도공사(코레일)가 올해 설 명절 승차권 암표 거래를 근절하기 위해 강력 대응에 나섰다. 코레일은 최근 ‘미스터리 쇼퍼’ 단속(2건)과 암표 제보(5건) 등으로 적발된 7건의 암표 의심사례를 국토교통부와 경찰에 수사 의뢰하고, 미스터리 쇼퍼로 적발된 판매자는 회원 탈퇴 조치하는 등 단속 수위를 높였다고 9일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "동아ST, 스텔라라 바이오시밀러 ‘이뮬도사’ 캐나다 품목허가 획득",
+      "title": "우주망원경 스피어엑스, 외계 혜성서 물·유기물질 분출 포착",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.07",
-      "link": "https://zdnet.co.kr/view/?no=20260208105043",
-      "summary": "동아에스티는 스텔라라 바이오시밀러 ‘이뮬도사’(IMULDOSA, 프로젝트명 DMB-3115, 성분명 우스테키누맙)가 최근 캐나다 보건부(Health Canada)로부터 품목허가를 획득했다고 밝혔다. 이뮬도사는 얀센이 개발한 스텔라라의 바이오시밀러다. 스텔라라는 전 세계적으로 약 215억 5200만 달러(아이큐비아 2024년 누적 매출액)의 매출을 기록했다."
+      "date": "2026.02.08",
+      "link": "https://zdnet.co.kr/view/?no=20260209103038",
+      "summary": "우주망원경 스피어엑스가 지구-태양 두배 거리(1.8AU)에 있는 외계 성간 혜성으로부터 물(수증기)과 유기물질이 분출하는 모습을 포착, 분석 결과를 공개했다 한국천문연구원은 미항공우주국(NASA)이 공동 개발한 스피어엑스가 외계에서 온 성간혜성(3I/ATLAS) 관츨을 통해 물과 유기물질 방출도 포착했다고 9일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "젬백스, CurePSP·FDA와 ‘환자 중심 신약 개발’ 회의 참여",
+      "title": "모델·스튜디오 섭외 없이 화보 '뚝딱'…NC AI, AI로 패션 마케팅 혁신 앞장",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.07",
-      "link": "https://zdnet.co.kr/view/?no=20260208104735",
-      "summary": "젬백스앤카엘(082270, 이하 젬백스)은 큐어PSP(CurePSP)와 미국 식품의약국(FDA)이 참석하는 ‘외부 주도 환자 중심 신약 개발’(이하 EL-PFDD) 회의에 후원사로 참여한다고 밝혔다."
+      "date": "2026.02.08",
+      "link": "https://zdnet.co.kr/view/?no=20260209102046",
+      "summary": "NC AI가 산업 현장에서 검증된 AI 기술로 패션 마케팅 프로세스를 혁신한다. NC AI는 지난 6일 커뮤니케이션앤컬처와 AI 기술을 활용한 콘텐츠 제작 및 업무 효율화를 위한 업무협약을 체결했다고 9일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "삼성, 갤럭시S25 울트라로 밀라노 올림픽 생중계",
+      "title": "美 출장길 오른 최태원 SK 회장…엔비디아 등 빅테크와 AI 회동",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.07",
-      "link": "https://zdnet.co.kr/view/?no=20260208104005",
-      "summary": "삼성전자가 6일(현지시간) 진행된 2026 밀라노 코르티나 동계올림픽 개막식을 '갤럭시 S25 울트라'로 촬영하고 생중계했다고 8일 밝혔다. 이탈리아 밀라노의 상징적인 산 시로 스타디움에서 7만 5천여 명의 관중과 3500여 명의 선수들이 참석한 가운데 2026 밀라노 코르티나 동계올림픽이 막을 올렸다."
+      "date": "2026.02.08",
+      "link": "https://zdnet.co.kr/view/?no=20260206094904",
+      "summary": "최태원 SK그룹 회장과 SK하이닉스 주요 경영진이 지난주 초 미국 출장길에 오른 것으로 파악돼 관심이 모아진다. 업계는 SK 핵심 경영진들이 현지에서 엔비디아를 비롯한 주요 빅테크 기업들과 인공지능(AI) 인프라 구축 및 메모리 분야에 대해 폭넓은 협력을 논의할 것 기대하고 있다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "마이크로소프트, AI 콘텐츠 활용 대가로 퍼블리셔 보상 모델 추진",
+      "title": "구글, 개발자 문서 활용 위한 API와 MCP 서버 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.07",
-      "link": "https://www.itworld.co.kr/article/4128424/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%bd%98%ed%85%90%ec%b8%a0-%ed%99%9c%ec%9a%a9-%eb%8c%80%ea%b0%80%eb%a1%9c-%ed%8d%bc%eb%b8%94%eb%a6%ac%ec%85%94-%eb%b3%b4%ec%83%81.html",
-      "summary": "퍼블리셔 콘텐츠 마켓플레이스는 AI에 답변에 활용될 정보를 제공한 대가로 보상을 받을 수 있는 경로를 제공한다. Credit: Chayanit 마이크로소프트는 AI 챗봇이 신뢰하기 어려운 정보를 제공하는 문제에 대해 ‘모두에게 이익이 되는’ 해법을 찾았다고 보고 있다."
+      "date": "2026.02.08",
+      "link": "https://www.itworld.co.kr/article/4129126/%ea%b5%ac%ea%b8%80-%ea%b0%9c%eb%b0%9c%ec%9e%90-%eb%ac%b8%ec%84%9c-%ed%99%9c%ec%9a%a9-%ec%9c%84%ed%95%9c-api%ec%99%80-mcp-%ec%84%9c%eb%b2%84-%ea%b3%b5%ea%b0%9c.html",
+      "summary": "개발자 지식 API와 MCP 서버는 AI 도구가 공식 개발자 문서를 직접 읽도록 지원한다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "미 법무부, 구글 검색 반독점 판결에 항소…“더 강력한 제재” 요구",
+      "title": "마이크로소프트, AI 콘텐츠 활용 대가로 퍼블리셔 보상 모델 추진",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.07",
-      "link": "https://www.itworld.co.kr/article/4128415/%eb%af%b8-%eb%b2%95%eb%ac%b4%eb%b6%80-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89-%eb%b0%98%eb%8f%85%ec%a0%90-%ed%8c%90%ea%b2%b0%ec%97%90-%ed%95%ad%ec%86%8c%eb%8d%94-%ea%b0%95%eb%a0%a5.html",
-      "summary": "미 연방정부와 여러 주 법무장관이 구글의 검색 독점에 대한 처벌이 지나치게 가볍다며 항소에 나섰다. 미 법무부는 앞서 구글에 크롬 브라우저 매각을 요구한 바 있다. Credit: Aleksandr Rybalko / Shutterstock 구글 검색은 불법적인 독점이다."
+      "date": "2026.02.08",
+      "link": "https://www.itworld.co.kr/article/4128424/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%bd%98%ed%85%90%ec%b8%a0-%ed%99%9c%ec%9a%a9-%eb%8c%80%ea%b0%80%eb%a1%9c-%ed%8d%bc%eb%b8%94%eb%a6%ac%ec%85%94-%eb%b3%b4%ec%83%81.html",
+      "summary": "퍼블리셔 콘텐츠 마켓플레이스는 AI에 답변에 활용될 정보를 제공한 대가로 보상을 받을 수 있는 경로를 제공한다. Credit: Chayanit 마이크로소프트는 AI 챗봇이 신뢰하기 어려운 정보를 제공하는 문제에 대해 ‘모두에게 이익이 되는’ 해법을 찾았다고 보고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 여파로 늦어지고 비싸진 스팀 머신…밸브도 가격 부담 직면",
+      "title": "미 법무부, 구글 검색 반독점 판결에 항소…“더 강력한 제재” 요구",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.07",
-      "link": "https://www.itworld.co.kr/article/4128409/ai-%ec%97%ac%ed%8c%8c%eb%a1%9c-%eb%8a%a6%ec%96%b4%ec%a7%80%ea%b3%a0-%eb%b9%84%ec%8b%b8%ec%a7%84-%ec%8a%a4%ed%8c%80-%eb%a8%b8%ec%8b%a0%eb%b0%b8%eb%b8%8c%eb%8f%84-%ea%b0%80%ea%b2%a9-%eb%b6%80.html",
-      "summary": "AI 인프라 확대로 메모리 공급이 줄며 밸브의 하드웨어 전략에 차질이 발생했다. Credit: Valve/Nintendo 밸브의 스팀 머신이 예정보다 늦게 출시되고 가격도 오를 전망이다. AI 인프라 확산으로 촉발된 RAM 가격 급등이 직접적인 원인이다. 다시 한번 메모리 위기가 업계를 강타했다."
+      "date": "2026.02.08",
+      "link": "https://www.itworld.co.kr/article/4128415/%eb%af%b8-%eb%b2%95%eb%ac%b4%eb%b6%80-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89-%eb%b0%98%eb%8f%85%ec%a0%90-%ed%8c%90%ea%b2%b0%ec%97%90-%ed%95%ad%ec%86%8c%eb%8d%94-%ea%b0%95%eb%a0%a5.html",
+      "summary": "미 연방정부와 여러 주 법무장관이 구글의 검색 독점에 대한 처벌이 지나치게 가볍다며 항소에 나섰다. 미 법무부는 앞서 구글에 크롬 브라우저 매각을 요구한 바 있다. Credit: Aleksandr Rybalko / Shutterstock 구글 검색은 불법적인 독점이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "클로드는 ‘광고 없음’ 기조 유지…앤트로픽 선언에 오픈AI 긴장",
+      "title": "AI 여파로 늦어지고 비싸진 스팀 머신…밸브도 가격 부담 직면",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.07",
-      "link": "https://www.itworld.co.kr/article/4128398/%ed%81%b4%eb%a1%9c%eb%93%9c%eb%8a%94-%ea%b4%91%ea%b3%a0-%ec%97%86%ec%9d%8c-%ea%b8%b0%ec%a1%b0-%ec%9c%a0%ec%a7%80%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%84%a0%ec%96%b8%ec%97%90-%ec%98%a4.html",
-      "summary": "앤트로픽이 대화형 AI에 광고를 넣는 방식이 클로드 챗봇의 목적과 맞지 않는다고 밝혔다. Credit: Anthropic 앤트로픽(Anthropic)이 AI 챗봇 클로드에 광고를 도입하지 않겠다고 밝히며, 광고가 포함될 경우 챗봇의 존재 목적 자체가 훼손된다고 주장했다. 바로 오픈AI의 챗GPT 광고 실험을 이끄는 샘 올트먼이 반발했다."
+      "date": "2026.02.08",
+      "link": "https://www.itworld.co.kr/article/4128409/ai-%ec%97%ac%ed%8c%8c%eb%a1%9c-%eb%8a%a6%ec%96%b4%ec%a7%80%ea%b3%a0-%eb%b9%84%ec%8b%b8%ec%a7%84-%ec%8a%a4%ed%8c%80-%eb%a8%b8%ec%8b%a0%eb%b0%b8%eb%b8%8c%eb%8f%84-%ea%b0%80%ea%b2%a9-%eb%b6%80.html",
+      "summary": "AI 인프라 확대로 메모리 공급이 줄며 밸브의 하드웨어 전략에 차질이 발생했다. Credit: Valve/Nintendo 밸브의 스팀 머신이 예정보다 늦게 출시되고 가격도 오를 전망이다. AI 인프라 확산으로 촉발된 RAM 가격 급등이 직접적인 원인이다. 다시 한번 메모리 위기가 업계를 강타했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI 인프라 투자 확대로 2026년 기업 IT 지출 6조 달러 돌파 전망",
+      "title": "클로드는 ‘광고 없음’ 기조 유지…앤트로픽 선언에 오픈AI 긴장",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.07",
-      "link": "https://www.itworld.co.kr/article/4128387/ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ed%88%ac%ec%9e%90-%ed%99%95%eb%8c%80%eb%a1%9c-2026%eb%85%84-%ea%b8%b0%ec%97%85-it-%ec%a7%80%ec%b6%9c-6%ec%a1%b0-%eb%8b%ac%eb%9f%ac-%eb%8f%8c%ed%8c%8c-%ec%a0%84%eb%a7%9d.html",
-      "summary": "가트너는 AI 최적화 인프라가 IT 예산의 중심으로 부상했다고 밝혔다. Credit: G-Stock Studio / Shutterstock 가트너가 2026년 글로벌 IT 지출이 10.8% 성장해 6조 1,500억 달러에 이를 것으로 예상했으며, AI 인프라가 해당 성장의 대부분을 차지할 것이라고 밝혔다."
+      "date": "2026.02.08",
+      "link": "https://www.itworld.co.kr/article/4128398/%ed%81%b4%eb%a1%9c%eb%93%9c%eb%8a%94-%ea%b4%91%ea%b3%a0-%ec%97%86%ec%9d%8c-%ea%b8%b0%ec%a1%b0-%ec%9c%a0%ec%a7%80%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%84%a0%ec%96%b8%ec%97%90-%ec%98%a4.html",
+      "summary": "앤트로픽이 대화형 AI에 광고를 넣는 방식이 클로드 챗봇의 목적과 맞지 않는다고 밝혔다. Credit: Anthropic 앤트로픽(Anthropic)이 AI 챗봇 클로드에 광고를 도입하지 않겠다고 밝히며, 광고가 포함될 경우 챗봇의 존재 목적 자체가 훼손된다고 주장했다. 바로 오픈AI의 챗GPT 광고 실험을 이끄는 샘 올트먼이 반발했다."
     }
   ]
 }
