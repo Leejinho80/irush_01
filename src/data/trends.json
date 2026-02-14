@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-13T02:03:47.924Z",
-  "collectionDate": "2026.02.12",
-  "displayDate": "2026.02.13",
+  "updatedAt": "2026-02-14T01:52:43.588Z",
+  "collectionDate": "2026.02.13",
+  "displayDate": "2026.02.14",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "놀유니버스, 올해 부산원아시아페스티벌 티켓 판매",
+      "title": "호라이즌 유럽, 올해 키워드는 ‘보안’‧‘실용 혁신’",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.12",
-      "link": "https://zdnet.co.kr/view/?no=20260213103137",
-      "summary": "놀유니버스는 부산관광공사·SM C&C와 함께 2026 부산원아시아페스티벌 관광객 유치 및 티켓 판매 운영을 위한 업무협약(MOU)을 체결했다고 13일 밝혔다. 이번 협약을 통해 ▲놀유니버스 ▲부산관광공사 ▲SM C&C는 2026 부산원아시아페스티벌의 성공적인 개최와 관광객 유치를 위해 상호 협력해 나가기로 했다."
+      "date": "2026.02.13",
+      "link": "https://zdnet.co.kr/view/?no=20260214104641",
+      "summary": "호라이즌 유럽(Horizon Europe)이 ‘보안(Security)’과 ‘실용적 혁신(Practical Innovation)’을 중심으로 재편되고 있는 것으로 나타났다. 호라이즌 유럽에 참여하려는 우리 연구자들은 이 같은 변화를 반영한 전략을 짤 필요가 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "\"맥도날드, 한국 GDP에 1조 5700억원 기여\"",
+      "title": "\"국민성장펀드, K-제약바이오 키운다”",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.12",
-      "link": "https://zdnet.co.kr/view/?no=20260213095415",
-      "summary": "맥도날드가 2024년 한 해 한국에서의 사업 활동으로 국내총생산(GDP)에 약 1조 5700억 원을 기여한 것으로 분석됐다. 일자리 창출 효과는 직접 고용과 협력사 고용, 파급 효과를 합쳐 약 3만 5300개로 추산됐다."
+      "date": "2026.02.13",
+      "link": "https://zdnet.co.kr/view/?no=20260214101623",
+      "summary": "이억원 금융위원장과 공공기관장 등 금융권 주요 관계자들이 충북 오송 대웅제약 스마트 공장을 방문해 대한민국 제약·바이오 산업의 핵심 경쟁력을 확인하고, 산업 경쟁력 제고를 위한 정책 금융의 역할에 대해 논의하는 자리를 가졌다. ‘국민성장펀드’는 민관 합동으로 총 150조 원 규모가 투입되는 프로젝트다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "아센디아, '세미콘 코리아'서 통합 플랫폼 유니티X 첫 공개",
+      "title": "33원정대, DICE 어워드 '올해의게임' 수상...'최우수 온라인게임'은 아크레이더스",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.12",
-      "link": "https://zdnet.co.kr/view/?no=20260213105950",
-      "summary": "국내 반도체 RF 부품 전문기업 아센디아(ASENDIA)는 서울 코엑스에서 열린 ‘세미콘코리아 2026’에 참가해 차세대 RF 기술과 글로벌 협력 전략을 공개했다고 13일 밝혔다. 아센디아는 반도체 식각·증착 공정용 플라즈마 장비의 핵심 부품인 RF 제너레이터와 RF 매쳐를 국내에서 유일하게 양산 공급하고 있다."
+      "date": "2026.02.13",
+      "link": "https://zdnet.co.kr/view/?no=20260214100848",
+      "summary": "'클레르 옵스퀴르: 33원정대'(33원정대)가이 제29회 DICE 어워드에서 올해의게임을 포함해 최다 수상작에 올랐다. 넥슨이 서비스 중인 아크레이더스는 온라인게임 부문을 수상했다. 지난 13일(현지시간) 진행된 DICE 어워드는 2026 DICE 서밋 기간 중 열린 시상식에서 한 해를 빛낸 게임들을 발표했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "HBM4 출하 경쟁 '후끈'...엔비디아 수급 전략이 공급망 핵심 변수",
+      "title": "[AI는 지금] \"인류 통제 벗어날 수도\"…세계 석학들이 보낸 적색 경보",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.12",
-      "link": "https://zdnet.co.kr/view/?no=20260213100835",
-      "summary": "HBM4(6세대 고대역폭메모리) 공급을 놓고 글로벌 메모리 반도체 빅3간 경쟁이 과열되고 있다. 삼성전자는 바로 전날(12일) SK하이닉스·마이크론에 한 발 앞서 \"HBM4 양산 출하를 발표하며, 경쟁사 대비 개발 속도와 성능 우위를 강조했다. 다만 올해 HBM4 공급망 판도는 최종 고객사인 엔비디아의 HBM4 수급 전략에 가장 큰 영향을 받을 전망이다."
+      "date": "2026.02.13",
+      "link": "https://zdnet.co.kr/view/?no=20260214093308",
+      "summary": "인공지능(AI)이 수학 올림피아드 금메달 수준의 추론 능력을 갖추고, 스스로 도구를 활용해 작업을 수행하는 '에이전트' 단계로 진화했다. 기술 발전의 이면에는 사이버 공격 자동화, 생물학 무기 제조 지원, 인간 통제 상실의 실존적 위협도 있다. 이에 전 세계 석학들이 모여 \"이익보다 안전이 우선되어야 한다\"는 메시지를 던졌다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "차두원 퓨처링크 대표 \"자율주행 성패는 ‘눈’에 달렸다\"",
+      "title": "마이크론, AI 수요 겨냥한 서버용 PCIe 6.0 SSD 양산",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.12",
-      "link": "https://zdnet.co.kr/view/?no=20260213101325",
-      "summary": "C-Talks는 모빌리티 산업을 움직이는 Changemakers·Connectors·Creators를 조명하는 인터뷰 시리즈로, 이동의 가치를 확장해 온 업계 리더들의 경험과 통찰을 통해 모빌리티의 미래를 그립니다. 자율주행 기술이 더 이상 먼 미래의 청사진에 머물지 않고, 산업 현장에서 현실의 과제로 다뤄지고 있다."
+      "date": "2026.02.13",
+      "link": "https://zdnet.co.kr/view/?no=20260214091608",
+      "summary": "미국 메모리 반도체 업체인 마이크론이 서버·데이터센터용 PCI 익스프레스 6.0 SSD 양산에 돌입했다. AI 확산으로 초고속 데이터 처리 수요가 급증하는 가운데 차세대 인터페이스 기반 스토리지 시장 선점 경쟁이 본격화하는 양상이다. 마이크론이 공개한 9650 SSD는 PCI 익스프레스 6.0 규격을 적용한 서버용 SSD 중 가장 먼저 나온 제품이다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "‘AI로 요약’ 버튼에 숨은 AI 추천 오염…마이크로소프트, AI 편향 주입 경고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.12",
+      "date": "2026.02.13",
       "link": "https://www.itworld.co.kr/article/4131771/ai%eb%a1%9c-%ec%9a%94%ec%95%bd-%eb%b2%84%ed%8a%bc%ec%97%90-%ec%88%a8%ec%9d%80-ai-%ec%b6%94%ec%b2%9c-%ec%98%a4%ec%97%bc-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
       "summary": "기업이 제공하는 ‘AI로 요약’ 기능이 사용자 AI에 장기적 편향을 주입하는 것으로 나타났다. Credit: Irina Strelnikova - shutterstock.com 웹사이트와 브라우저, 앱에 점점 더 많이 탑재되는 ‘AI로 요약’ 버튼은 사용자에게 콘텐츠 개요를 빠르게 제공하는 기능으로 인식된다."
     },
@@ -74,7 +74,7 @@
       "title": "LLM 업데이트의 고질병 ‘치명적 망각’, SDFT로 돌파 시도",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.12",
+      "date": "2026.02.13",
       "link": "https://www.itworld.co.kr/article/4131782/llm-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8%ec%9d%98-%ea%b3%a0%ec%a7%88%eb%b3%91-%ec%b9%98%eb%aa%85%ec%a0%81-%eb%a7%9d%ea%b0%81-sdft%eb%a1%9c-%eb%8f%8c%ed%8c%8c-%ec%8b%9c%eb%8f%84.html",
       "summary": "MIT·임프로버블 AI 랩·취리히연방공대 연구진이 연속 학습을 가능하게 하는 새 미세조정 기법을 공개했다. Credit: Alexander Supertramp - shutterstock 대규모 언어 모델(LLM)이 새로운 작업에 맞춰 미세조정될 경우 기존 역량을 잃는 경향을 보인다."
     },
@@ -84,7 +84,7 @@
       "title": "세일즈포스, 클로드와 양방향 확장 기능 공개 “슬랙·에이전트포스360 연동 지원”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.12",
+      "date": "2026.02.13",
       "link": "https://www.itworld.co.kr/article/4131184/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%99%80-%ec%96%91%eb%b0%a9%ed%96%a5-%ed%99%95%ec%9e%a5-%ea%b8%b0%eb%8a%a5-%ea%b3%b5%ea%b0%9c-%ec%8a%ac.html",
       "summary": "세일즈포스가 앤트로픽(Anthropic)의 ‘모델 컨텍스트 프로토콜(Model Context Protocol, 이하 MCP)’ 앱 지원을 통해 세일즈포스의 슬랙(Slack) 및 에이전트포스 360(Agentforce 360)과 AI 어시스턴트 ‘클로드(Claude)’ 간의 양방향 연동 기능을 공개했다."
     },
@@ -94,7 +94,7 @@
       "title": "AMD, 데스크톱 PC 점유율 30% 넘었다…모바일 프로세서도 약진",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.12",
+      "date": "2026.02.13",
       "link": "https://www.itworld.co.kr/article/4131106/amd-%eb%8d%b0%ec%8a%a4%ed%81%ac%ed%86%b1-pc-%ec%a0%90%ec%9c%a0%ec%9c%a8-30-%eb%84%98%ec%97%88%eb%8b%a4%eb%aa%a8%eb%b0%94%ec%9d%bc-%ed%94%84%eb%a1%9c%ec%84%b8%ec%84%9c%eb%8f%84-%ec%95%bd.html",
       "summary": "AMD는 라이젠 CPU의 성공에 힘입어 데스크톱과 모바일 시장 점유율이 큰 폭으로 증가했다고 밝혔다. Credit: Thiago Trevisan / Foundry AMD는 머큐리 리서치(Mercury Research) 데이터를 인용해 2025년 4분기 데스크톱 대수 기준 점유율이 1년 전 26.9%에서 36.4%로 약 10%p 증가했다고 밝혔다."
     },
@@ -104,7 +104,7 @@
       "title": "“반응형 IT의 종말” 10년 후 클라우드 성능을 재정의하는 예측 엔지니어링",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.12",
+      "date": "2026.02.13",
       "link": "https://www.itworld.co.kr/article/4131083/%eb%b0%98%ec%9d%91%ed%98%95-it%ec%9d%98-%ec%a2%85%eb%a7%90-10%eb%85%84-%ed%9b%84-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%84%b1%eb%8a%a5%ec%9d%84-%ec%9e%ac%ec%a0%95%ec%9d%98%ed%95%98%eb%8a%94.html",
       "summary": "사후 대응 중심 IT 모델이 자율 복원형 인프라로 전환되고 있다. Credit: Brad Switzer 경고가 울릴 때까지 기다리는 방식은 이미 시대에 뒤처졌다. 예측 엔지니어링은 클라우드 시스템이 문제를 사전에 감지하고, 사용자 체감 이전에 자율적으로 수정 조치를 실행하는 구조다. 20년 이상 IT 운영은 반응형 문화에 지배돼 왔다."
     }
