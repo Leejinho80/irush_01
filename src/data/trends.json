@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-17T01:56:46.118Z",
-  "collectionDate": "2026.02.16",
-  "displayDate": "2026.02.17",
+  "updatedAt": "2026-02-18T02:00:22.066Z",
+  "collectionDate": "2026.02.17",
+  "displayDate": "2026.02.18",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "중국 최대 TV쇼 주인공 된 '휴머노이드 로봇'…춘절 갈라 무대 올라",
+      "title": "유튜브, 일시 접속 장애…원인 불명",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.16",
-      "link": "https://zdnet.co.kr/view/?no=20260217095456",
-      "summary": "중국 휴머노이드 로봇 기업이 지난해에 이어 올해에도 중국 대표 TV 프로그램인 CCTV 춘절 갈라를 통해 첨단 산업 전략을 과시했다. 16일(현지시간) 로이터와 사우스차이나모닝포스트(SCMP)에 따르면 유니트리 로보틱스, 갈봇, 노에틱스, 매직랩 등 신흥 휴머노이드 로봇 스타트업 4곳이 이날 방송된 갈라쇼에서 휴머노이드 로봇을 선보였다."
+      "date": "2026.02.17",
+      "link": "https://zdnet.co.kr/view/?no=20260218103407",
+      "summary": "동영상 플랫폼 '유튜브'가 일시적인 장애 현상으로 접속되지 않고 있다. 18일 오전 10시경 유튜브 모바일과 홈페이지 접속 시 '문제가 발생했다'는 메시지가 뜨며 동영상이 보이지 않는 현상이 일어나고 있다. 일부 사회관계망서비스(SNS)에서는 \"유튜브가 갑자기 안된다\"며 이용자 불편을 호소하는 반응이 이어지고 있다. 유튜브 접속 오류 화면 캡처."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "네이버, 고객센터에 ‘내 데이터 관리 도구’ 신설…지식인 오류 후속 조치",
+      "title": "\"주파수 할당시 잔여대가 납입보장 요구해야\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.16",
-      "link": "https://zdnet.co.kr/view/?no=20260217103309",
-      "summary": "네이버가 고객센터에 이용자가 개인정보와 게시물을 직접 확인·관리하는 기능을 신설했다. 인물정보와 지식인 서비스가 연동되는 과정에서 답변내역이 노출됐던 사고의 후속조치로 풀이된다. 17일 관련업계에 따르면 네이버는 최근 고객센터 내에 회원의 개인정보를 관리하는 프라이버시 센터 기능을 업데이트했다."
+      "date": "2026.02.17",
+      "link": "https://zdnet.co.kr/view/?no=20260218101021",
+      "summary": "주파수 경매 과정에서 낙찰받은 이가 재무적 이행 능력을 높이기 위해 분할납부 과정에서 잔여 할당대가에 대한 납입 보장을 요구하는 등 제도적 보완이 필요하다는 주장이 제기됐다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "인텔 차세대 공정 '팬서레이크', M5 맥북 프로에 배터리 효율 근접",
+      "title": "\"쇼핑과 예술을 한 번에\"…롯데百, 본점서 '아트 VM 프로젝트'",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.16",
-      "link": "https://zdnet.co.kr/view/?no=20260217010439",
-      "summary": "인텔의 차세대 18A 공정 기반 팬서레이크 SoC가 애플 M5 프로세서와 거의 근접한 전력 효율을 기록했다고 미국 IT 매체 WCCF테크가 16일(현지시간) 보도했다."
+      "date": "2026.02.17",
+      "link": "https://zdnet.co.kr/view/?no=20260218095105",
+      "summary": "롯데백화점은 새롭게 시작하는 아트 VM 프로젝트의 1호점으로 본점을 낙점했다고 18일 밝혔다. '아트 VM 프로젝트'는 백화점에서 예술의 경험을 동시에 소비하도록 하는 새로운 시도다. '경험 소비'에 대한 높은 고객의 니즈를 반영해 특정 전시 공간을 찾아야만 예술을 만나는 방식을 넘어 쇼핑 동선에서 아트를 자연스럽게 경험할 수 있도록 한 것이 핵심이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "전력 병목 직면한 美 데이터센터…국내는 규제에 '발목'",
+      "title": "엔비디아, 메타에 AI칩 수백만개 공급 예정…장기 파트너십 체결",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.16",
-      "link": "https://zdnet.co.kr/view/?no=20260217070822",
-      "summary": "인공지능(AI) 산업 확산과 함께 데이터센터가 국가 경쟁력을 좌우하는 핵심 인프라로 부상한 가운데, 국내는 수도권 규제와 전력 계통 관리 등 정책적 과제를 안고 있는 것으로 확인됐다. 글로벌 AI 인프라 경쟁이 본격화되는 상황에서 국내 역시 전력·입지 정책을 어떻게 조율하느냐가 풀어야할 급한 과제로 보인다."
+      "date": "2026.02.17",
+      "link": "https://zdnet.co.kr/view/?no=20260218093824",
+      "summary": "엔비디아가 글로벌 주요 클라우드서비스제공자(CSP) 메타와 장기간·대규모 AI 반도체 공급에 대한 계약을 체결했다. 17일(현지시간) 엔비디아는 메타와 온프레미스, 클라우드 및 AI 인프라에 대한 다년간의 전략적 파트너십을 맺었다고 밝혔다. CES 2026 기조연설에 참석한 젠슨 황 엔비디아 CEO."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "삼성전자, 차세대 반도체 생산기지 P5 클린룸 구축 앞당겨…'쉘 퍼스트' 전략",
+      "title": "롯데마트, 6일간 '끝돼 데이'…수입산 돼지고기 특가 판매",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.16",
-      "link": "https://zdnet.co.kr/view/?no=20260213171115",
-      "summary": "삼성전자가 선제적으로 클린룸을 확보하는 '쉘 퍼스트(shell First)' 전략을 이어간다. 최근 차세대 반도체 생산기지인 P5의 클린룸 구축 시점을 당초 내년 초에서 올해 중반께로 앞당긴 것으로 파악됐다. 17일 업계에 따르면 삼성전자는 최근 평택캠퍼스 5공장(P5)의 클린룸 구축 시기를 6개월가량 앞당겼다."
+      "date": "2026.02.17",
+      "link": "https://zdnet.co.kr/view/?no=20260218093500",
+      "summary": "롯데마트는 이달 20일부터 25일까지 6일간 수입 돼지고기 행사 '끝돼 데이(DAY)'를 진행한다고 18일 밝혔다. 내달 3일 '삼삼데이'를 앞두고 기획한 '미리 만나는 삼삼데이' 컨셉의 대형 기획전으로, 캐나다산 돼지고기를 최대 50% 할인가에 준비했다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "‘AI로 요약’ 버튼에 숨은 AI 추천 오염…마이크로소프트, AI 편향 주입 경고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.16",
+      "date": "2026.02.17",
       "link": "https://www.itworld.co.kr/article/4131771/ai%eb%a1%9c-%ec%9a%94%ec%95%bd-%eb%b2%84%ed%8a%bc%ec%97%90-%ec%88%a8%ec%9d%80-ai-%ec%b6%94%ec%b2%9c-%ec%98%a4%ec%97%bc-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
       "summary": "기업이 제공하는 ‘AI로 요약’ 기능이 사용자 AI에 장기적 편향을 주입하는 것으로 나타났다. Credit: Irina Strelnikova - shutterstock.com 웹사이트와 브라우저, 앱에 점점 더 많이 탑재되는 ‘AI로 요약’ 버튼은 사용자에게 콘텐츠 개요를 빠르게 제공하는 기능으로 인식된다."
     },
@@ -74,7 +74,7 @@
       "title": "LLM 업데이트의 고질병 ‘치명적 망각’, SDFT로 돌파 시도",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.16",
+      "date": "2026.02.17",
       "link": "https://www.itworld.co.kr/article/4131782/llm-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8%ec%9d%98-%ea%b3%a0%ec%a7%88%eb%b3%91-%ec%b9%98%eb%aa%85%ec%a0%81-%eb%a7%9d%ea%b0%81-sdft%eb%a1%9c-%eb%8f%8c%ed%8c%8c-%ec%8b%9c%eb%8f%84.html",
       "summary": "MIT·임프로버블 AI 랩·취리히연방공대 연구진이 연속 학습을 가능하게 하는 새 미세조정 기법을 공개했다. Credit: Alexander Supertramp - shutterstock 대규모 언어 모델(LLM)이 새로운 작업에 맞춰 미세조정될 경우 기존 역량을 잃는 경향을 보인다."
     },
@@ -84,7 +84,7 @@
       "title": "세일즈포스, 클로드와 양방향 확장 기능 공개 “슬랙·에이전트포스360 연동 지원”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.16",
+      "date": "2026.02.17",
       "link": "https://www.itworld.co.kr/article/4131184/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%99%80-%ec%96%91%eb%b0%a9%ed%96%a5-%ed%99%95%ec%9e%a5-%ea%b8%b0%eb%8a%a5-%ea%b3%b5%ea%b0%9c-%ec%8a%ac.html",
       "summary": "세일즈포스가 앤트로픽(Anthropic)의 ‘모델 컨텍스트 프로토콜(Model Context Protocol, 이하 MCP)’ 앱 지원을 통해 세일즈포스의 슬랙(Slack) 및 에이전트포스 360(Agentforce 360)과 AI 어시스턴트 ‘클로드(Claude)’ 간의 양방향 연동 기능을 공개했다."
     },
@@ -94,7 +94,7 @@
       "title": "AMD, 데스크톱 PC 점유율 30% 넘었다…모바일 프로세서도 약진",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.16",
+      "date": "2026.02.17",
       "link": "https://www.itworld.co.kr/article/4131106/amd-%eb%8d%b0%ec%8a%a4%ed%81%ac%ed%86%b1-pc-%ec%a0%90%ec%9c%a0%ec%9c%a8-30-%eb%84%98%ec%97%88%eb%8b%a4%eb%aa%a8%eb%b0%94%ec%9d%bc-%ed%94%84%eb%a1%9c%ec%84%b8%ec%84%9c%eb%8f%84-%ec%95%bd.html",
       "summary": "AMD는 라이젠 CPU의 성공에 힘입어 데스크톱과 모바일 시장 점유율이 큰 폭으로 증가했다고 밝혔다. Credit: Thiago Trevisan / Foundry AMD는 머큐리 리서치(Mercury Research) 데이터를 인용해 2025년 4분기 데스크톱 대수 기준 점유율이 1년 전 26.9%에서 36.4%로 약 10%p 증가했다고 밝혔다."
     },
@@ -104,7 +104,7 @@
       "title": "“반응형 IT의 종말” 10년 후 클라우드 성능을 재정의하는 예측 엔지니어링",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.16",
+      "date": "2026.02.17",
       "link": "https://www.itworld.co.kr/article/4131083/%eb%b0%98%ec%9d%91%ed%98%95-it%ec%9d%98-%ec%a2%85%eb%a7%90-10%eb%85%84-%ed%9b%84-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%84%b1%eb%8a%a5%ec%9d%84-%ec%9e%ac%ec%a0%95%ec%9d%98%ed%95%98%eb%8a%94.html",
       "summary": "사후 대응 중심 IT 모델이 자율 복원형 인프라로 전환되고 있다. Credit: Brad Switzer 경고가 울릴 때까지 기다리는 방식은 이미 시대에 뒤처졌다. 예측 엔지니어링은 클라우드 시스템이 문제를 사전에 감지하고, 사용자 체감 이전에 자율적으로 수정 조치를 실행하는 구조다. 20년 이상 IT 운영은 반응형 문화에 지배돼 왔다."
     }
