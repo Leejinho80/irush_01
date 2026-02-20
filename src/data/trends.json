@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-19T01:59:20.937Z",
-  "collectionDate": "2026.02.18",
-  "displayDate": "2026.02.19",
+  "updatedAt": "2026-02-20T01:54:48.021Z",
+  "collectionDate": "2026.02.19",
+  "displayDate": "2026.02.20",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "공차, 음료 자동 제조기 '슈퍼우' 도입한다",
+      "title": "‘대기권 재진입’ 스페이스X 로켓, 오염 물질 방출…실시간 관측 성공 [우주로 간다]",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.18",
-      "link": "https://zdnet.co.kr/view/?no=20260219092020",
-      "summary": "공차가 음료 자동화 제조 기기 '슈퍼우'를 전국 매장에 순차 도입하며 스마트 매장 전환에 속도를 낸다. 표준 조리법을 기반으로 제조 과정을 자동화해 매장별 편차를 줄이고, 피크타임 대기시간 단축과 서비스 정확도 개선에 초점을 맞췄다는 설명이다. 19일 회사에 따르면 슈퍼우는 공차의 디지털화 전략의 일환으로 글로벌 매장에 확대 적용 중인 자동화 장비다."
+      "date": "2026.02.19",
+      "link": "https://zdnet.co.kr/view/?no=20260220103103",
+      "summary": "과학자들이 사상 처음으로 지구 대기권에서 우주 쓰레기가 타면서 생성되는 대기 오염 물질을 실시간으로 관측하는 데 성공했다고 스페이스닷컴 등 외신들이 19일(현지시간) 보도했다. 해당 연구 결과는 이날 네이처 자매지 ‘커뮤니케이션즈 어스 앤 인베스트먼트’에 실렸다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "이베이, 중고 패션 플랫폼 ‘디팝’ 1.7조원에 인수",
+      "title": "젝시믹스, 대만 신광미츠코시 백화점서 팝업 열었다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.18",
-      "link": "https://zdnet.co.kr/view/?no=20260219083343",
-      "summary": "이베이가 20~30대 젊은 소비자를 유치하기 위해 중고 패션 플랫폼 디팝(Depop)을 약 12억 달러(약 1조 7436억원)에 인수한다. 18일(현지시간) 블룸버그통신에 따르면 이베이는 2021년 디팝을 16억 달러(약 2조 3248억원)에 인수했던 엣시(Etsy)로부터 해당 지분을 매입하기로 합의했다. 거래는 올해 2분기 중 마무리될 예정이다."
+      "date": "2026.02.19",
+      "link": "https://zdnet.co.kr/view/?no=20260220095608",
+      "summary": "글로벌 애슬레저 전문 기업 젝시믹스는 지난 9일 타이중 신광미츠코시 백화점 중강점에서 팝업 매장을 열었다고 20일 밝혔다. 타이중 신광미츠코시 백화점은 대만 내 매출 1위 백화점으로, 수많은 매장과 푸드코트를 함께 갖추고 있는 복합문화공간이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "NOL, 가평 지역 숙소 할인 판매",
+      "title": "신한카드, 신백서 명품 사면 최대 7% 리워드",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.18",
-      "link": "https://zdnet.co.kr/view/?no=20260219095531",
-      "summary": "놀유니버스가 운영하는 NOL은 '가평군 숙박세일 페스타'에 참여해 가평 소재 숙소 할인 혜택을 제공한다고 19일 밝혔다. 쿠폰은 NOL 내 '가평군 숙박세일 페스타' 또는 기획전 메뉴에서 2회에 걸쳐 최대 3만원까지 선착순으로 지급받을 수 있다. 1차 쿠폰은 이날부터, 2차 쿠폰은 내달 19일부터 소진 시까지 발급된다."
+      "date": "2026.02.19",
+      "link": "https://zdnet.co.kr/view/?no=20260220083919",
+      "summary": "신한카드는 신세계백화점과 함께 제휴카드 고객을 대상으로 오는 3월 2일까지 ‘오메이징 카드 페스타(5Mazing Card Festa)’를 개최하고 다양한 혜택을 제공한다고 20일 밝혔다. 우선 명품·패션·잡화 단일 브랜드 결제건에 대해 최대 7% 신세계백화점 리워드를 증정한다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "마크 저커버그 \"인스타그램 연령 제한, 현실적으로 어렵다\"",
+      "title": "드래곤플라이, '스페셜포스 리마스터' 사전 예약 돌입…3월 18일 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.18",
-      "link": "https://zdnet.co.kr/view/?no=20260219090845",
-      "summary": "메타 최고경영자(CEO) 마크 저커버그가 인스타그램의 연령 제한을 집행하는 것이 매우 어렵다고 말했다. 18일(현지시간) 블룸버그통신 보도에 따르면, 저커버그는 미국 로스앤젤레스 상급법원에 증인으로 출석해 인스타그램에 가입하는 상당수의 사람들이 나이를 속인다고 증언했다."
+      "date": "2026.02.19",
+      "link": "https://zdnet.co.kr/view/?no=20260220103723",
+      "summary": "드래곤플라이는 신작 FPS 게임 '스페셜포스 리마스터'의 공식 홍보 영상을 공개하고, 글로벌 게임 플랫폼인 스팀과 에픽게임즈 스토어를 통해 사전 예약을 시작한다고 20일 밝혔다. 이번 리마스터 프로젝트의 총 책임은 드래곤플라이의 창립자이자 ‘스페셜포스’의 원 개발자인 박철승 상무이사가 맡았다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "이재석 GIST 명예교수 \"도메인 지식 축적이 AI 혁신 성공 좌우\"",
+      "title": "교촌 수제맥주 문베어, ‘2026 호텔페어’ 참가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.18",
-      "link": "https://zdnet.co.kr/view/?no=20260219105049",
-      "summary": "이재석 광주과학기술원(GIST) 신소재공학과 명예교수가 한국과학기술한림원(한림원)이 주관하는 ‘석학 커리어 디시전스’ 사업의 일환으로 정책 제안 보고서 'AI 시대, 나선형 고분자 합성 분야 발전 방향'을 발간했다고 19일 밝혔다. ‘석학 커리어 디시전스’는 미래 과학기술인들을 위한 강연·정책 프로그램이다."
+      "date": "2026.02.19",
+      "link": "https://zdnet.co.kr/view/?no=20260220102545",
+      "summary": "교촌치킨을 운영하는 교촌에프앤비의 수제맥주 브랜드 문베어가 ‘2026 호텔페어’ 참가를 계기로 프리미엄 호텔·리조트 대상 B2B 공략에 속도를 낸다. 교촌에프앤비는 문베어가 지난 1월 21~23일 서울 코엑스에서 열린 ‘2026 호텔페어’ 참가를 마쳤다고 20일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "공장과 매장으로 확산되는 피지컬 AI, 준비 없는 도입은 위험",
+      "title": "데이터를 1만 년 보존하는 유리 저장 기술 등장",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.18",
-      "link": "https://www.itworld.co.kr/article/4134246/%ea%b3%b5%ec%9e%a5%ea%b3%bc-%eb%a7%a4%ec%9e%a5%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0%eb%90%98%eb%8a%94-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%a4%80%eb%b9%84-%ec%97%86%eb%8a%94-%eb%8f%84%ec%9e%85%ec%9d%80.html",
-      "summary": "에이전트형 AI의 시행착오를 교훈 삼아 기업이 피지컬 AI 도입에 신중히 접근해야 한다는 목소리가 커지고 있다. Credit: Otto Group 지난 1년여 동안 에이전트형 AI는 폭발적으로 확산됐지만, 실패한 프로젝트와 정리되지 않은 첨단 기술 자산을 남겼다."
+      "date": "2026.02.19",
+      "link": "https://www.itworld.co.kr/article/4134953/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a5%bc-1%eb%a7%8c-%eb%85%84-%eb%b3%b4%ec%a1%b4%ed%95%98%eb%8a%94-%ec%9c%a0%eb%a6%ac-%ec%a0%80%ec%9e%a5-%ea%b8%b0%ec%88%a0-%eb%93%b1%ec%9e%a5.html",
+      "summary": "붕규산 유리에 4.8TB를 기록하는 차세대 아카이브 기술이 공개됐다. Credit: tomeqs / Shutterstock 장기 데이터 아카이브의 비용과 복잡성에 부담을 겪는 기업이 곧 새로운 선택지를 갖게 될 가능성이 있다. 바로 유리 조각이다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI 과대광고의 후유증을 치료하는 처방전",
+      "title": "오픈클로서 SSRF·인증 우회 등 중·고위험 취약점 6건 확인",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.18",
-      "link": "https://www.itworld.co.kr/article/4133988/ai-%ea%b3%bc%eb%8c%80%ea%b4%91%ea%b3%a0%ec%9d%98-%ed%9b%84%ec%9c%a0%ec%a6%9d%ec%9d%84-%ec%b9%98%eb%a3%8c%ed%95%98%eb%8a%94-%ec%b2%98%eb%b0%a9%ec%a0%84.html",
-      "summary": "기업 AI의 앞날이 절망적인 것은 아니지만, 과대광고가 말하는 것보다는 더 엄격한 규율과 많은 인내가 필요하다. Credit: PeopleImages.com - Yuri A / Shutterstock 기업 현장은 AI를 향한 기대와 과대광고로 넘쳐나고 있다."
+      "date": "2026.02.19",
+      "link": "https://www.itworld.co.kr/article/4134928/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ec%84%9c-ssrf%c2%b7%ec%9d%b8%ec%a6%9d-%ec%9a%b0%ed%9a%8c-%eb%93%b1-%ec%a4%91%c2%b7%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-6%ea%b1%b4-%ed%99%95.html",
+      "summary": "AI 기반 코드 스캐너가 오픈클로의 여러 계층을 따라 신뢰할 수 없는 데이터의 흐름을 추적한 결과, SSRF와 인증 우회, 경로 조작 등 실제로 악용할 수 있는 취약점을 확인했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "클라우드 장애는 왜 일상이 될까",
+      "title": "윈도우 11, 인터넷 속도 테스트 기능 도입",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.18",
-      "link": "https://www.itworld.co.kr/article/4133983/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9e%a5%ec%95%a0%ea%b0%80-%ec%9d%bc%ec%83%81%ec%9c%bc%eb%a1%9c-%ea%b5%b3%ec%96%b4%ec%a7%80%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
-      "summary": "최근 발생한 애저 클라우드의 장애처럼 매월 반복되는 클라우드 장애가 전 세계 기업의 정상적인 운영을 위협하고 있다. 원인으로는 인력 부족, 복원력 방치, 복잡성 증대가 지목된다."
+      "date": "2026.02.19",
+      "link": "https://www.itworld.co.kr/article/4134883/%ec%9c%88%eb%8f%84%ec%9a%b0-11-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%86%8d%eb%8f%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%eb%8a%a5-%eb%8f%84%ec%9e%85.html",
+      "summary": "프리뷰 빌드에 포함된 새 기능으로, 수주 내 정식 채널에도 순차 적용될 예정이다. Credit: geralt 조만간 윈도우 PC에 유용한 기능 하나가 추가된다. 마이크로소프트가 수주 내 배포할 소규모 기능 업데이트에 인터넷 속도 내장 테스트 기능을 포함할 예정이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "‘AI로 요약’ 버튼에 숨은 AI 추천 오염…마이크로소프트, AI 편향 주입 경고",
+      "title": "공장과 매장으로 확산되는 피지컬 AI, 준비 없는 도입은 위험",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.18",
-      "link": "https://www.itworld.co.kr/article/4131771/ai%eb%a1%9c-%ec%9a%94%ec%95%bd-%eb%b2%84%ed%8a%bc%ec%97%90-%ec%88%a8%ec%9d%80-ai-%ec%b6%94%ec%b2%9c-%ec%98%a4%ec%97%bc-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
-      "summary": "기업이 제공하는 ‘AI로 요약’ 기능이 사용자 AI에 장기적 편향을 주입하는 것으로 나타났다. Credit: Irina Strelnikova - shutterstock.com 웹사이트와 브라우저, 앱에 점점 더 많이 탑재되는 ‘AI로 요약’ 버튼은 사용자에게 콘텐츠 개요를 빠르게 제공하는 기능으로 인식된다."
+      "date": "2026.02.19",
+      "link": "https://www.itworld.co.kr/article/4134246/%ea%b3%b5%ec%9e%a5%ea%b3%bc-%eb%a7%a4%ec%9e%a5%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0%eb%90%98%eb%8a%94-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%a4%80%eb%b9%84-%ec%97%86%eb%8a%94-%eb%8f%84%ec%9e%85%ec%9d%80.html",
+      "summary": "에이전트형 AI의 시행착오를 교훈 삼아 기업이 피지컬 AI 도입에 신중히 접근해야 한다는 목소리가 커지고 있다. Credit: Otto Group 지난 1년여 동안 에이전트형 AI는 폭발적으로 확산됐지만, 실패한 프로젝트와 정리되지 않은 첨단 기술 자산을 남겼다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "LLM 업데이트의 고질병 ‘치명적 망각’, SDFT로 돌파 시도",
+      "title": "AI 과대광고의 후유증을 치료하는 처방전",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.18",
-      "link": "https://www.itworld.co.kr/article/4131782/llm-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8%ec%9d%98-%ea%b3%a0%ec%a7%88%eb%b3%91-%ec%b9%98%eb%aa%85%ec%a0%81-%eb%a7%9d%ea%b0%81-sdft%eb%a1%9c-%eb%8f%8c%ed%8c%8c-%ec%8b%9c%eb%8f%84.html",
-      "summary": "MIT·임프로버블 AI 랩·취리히연방공대 연구진이 연속 학습을 가능하게 하는 새 미세조정 기법을 공개했다. Credit: Alexander Supertramp - shutterstock 대규모 언어 모델(LLM)이 새로운 작업에 맞춰 미세조정될 경우 기존 역량을 잃는 경향을 보인다."
+      "date": "2026.02.19",
+      "link": "https://www.itworld.co.kr/article/4133988/ai-%ea%b3%bc%eb%8c%80%ea%b4%91%ea%b3%a0%ec%9d%98-%ed%9b%84%ec%9c%a0%ec%a6%9d%ec%9d%84-%ec%b9%98%eb%a3%8c%ed%95%98%eb%8a%94-%ec%b2%98%eb%b0%a9%ec%a0%84.html",
+      "summary": "기업 AI의 앞날이 절망적인 것은 아니지만, 과대광고가 말하는 것보다는 더 엄격한 규율과 많은 인내가 필요하다. Credit: PeopleImages.com - Yuri A / Shutterstock 기업 현장은 AI를 향한 기대와 과대광고로 넘쳐나고 있다."
     }
   ]
 }
