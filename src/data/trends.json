@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-20T01:54:48.021Z",
-  "collectionDate": "2026.02.19",
-  "displayDate": "2026.02.20",
+  "updatedAt": "2026-02-21T01:50:15.661Z",
+  "collectionDate": "2026.02.20",
+  "displayDate": "2026.02.21",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "‘대기권 재진입’ 스페이스X 로켓, 오염 물질 방출…실시간 관측 성공 [우주로 간다]",
+      "title": "유럽, 사거리 500㎞ ‘자폭 드론’ 만든다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.19",
-      "link": "https://zdnet.co.kr/view/?no=20260220103103",
-      "summary": "과학자들이 사상 처음으로 지구 대기권에서 우주 쓰레기가 타면서 생성되는 대기 오염 물질을 실시간으로 관측하는 데 성공했다고 스페이스닷컴 등 외신들이 19일(현지시간) 보도했다. 해당 연구 결과는 이날 네이처 자매지 ‘커뮤니케이션즈 어스 앤 인베스트먼트’에 실렸다."
+      "date": "2026.02.20",
+      "link": "https://zdnet.co.kr/view/?no=20260221071509",
+      "summary": "유럽 주요국들이 사거리 500㎞ 이상의 ‘가미가제 드론(자폭 드론)’을 공동 개발하기 위한 계획을 내놨다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "젝시믹스, 대만 신광미츠코시 백화점서 팝업 열었다",
+      "title": "신한은행 \"러너라면 주목…뛰어서 받은 포인트로 경품 교환도\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.19",
-      "link": "https://zdnet.co.kr/view/?no=20260220095608",
-      "summary": "글로벌 애슬레저 전문 기업 젝시믹스는 지난 9일 타이중 신광미츠코시 백화점 중강점에서 팝업 매장을 열었다고 20일 밝혔다. 타이중 신광미츠코시 백화점은 대만 내 매출 1위 백화점으로, 수많은 매장과 푸드코트를 함께 갖추고 있는 복합문화공간이다."
+      "date": "2026.02.20",
+      "link": "https://zdnet.co.kr/view/?no=20260220112727",
+      "summary": "신한은행이 러너를 대상으로 한 '신한 20+ 뛰어요' 서비스를 확대 리뉴얼한다. 신한 20+뛰어요는 만 18세 이상 고객이라면 누구나 ‘신한 쏠(SOL)뱅크’ 앱에서 참여할 수 있는 러닝 챌린지 서비스로, 매일 1km 이상 달리면 2포인트 러닝 캐시를 제공하고 하루에 총 10포인트까지 받을 수 있다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "신한카드, 신백서 명품 사면 최대 7% 리워드",
+      "title": "\"기록과 달랐다\"…잉카 제물로 바쳐진 소녀 미라 분석했더니",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.19",
-      "link": "https://zdnet.co.kr/view/?no=20260220083919",
-      "summary": "신한카드는 신세계백화점과 함께 제휴카드 고객을 대상으로 오는 3월 2일까지 ‘오메이징 카드 페스타(5Mazing Card Festa)’를 개최하고 다양한 혜택을 제공한다고 20일 밝혔다. 우선 명품·패션·잡화 단일 브랜드 결제건에 대해 최대 7% 신세계백화점 리워드를 증정한다."
+      "date": "2026.02.20",
+      "link": "https://zdnet.co.kr/view/?no=20260221071228",
+      "summary": "500년 전 남아메리카에서 제물로 바쳐진 것으로 추정되는 네 명의 어린 소녀 미라 유해를 분석한 연구 결과가 공개됐다. 기즈모도 등 외신은 최근 페루 남부 암파토 화산과 사라사라 화산 고지대에서 발견된 미라 유해를 CT(컴퓨터단층촬영)로 조사한 연구가 발표됐다고 보도했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "드래곤플라이, '스페셜포스 리마스터' 사전 예약 돌입…3월 18일 출시",
+      "title": "대법원 판결 뒤 꺼낸 '122조'…트럼프 새 무기 통할까",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.19",
-      "link": "https://zdnet.co.kr/view/?no=20260220103723",
-      "summary": "드래곤플라이는 신작 FPS 게임 '스페셜포스 리마스터'의 공식 홍보 영상을 공개하고, 글로벌 게임 플랫폼인 스팀과 에픽게임즈 스토어를 통해 사전 예약을 시작한다고 20일 밝혔다. 이번 리마스터 프로젝트의 총 책임은 드래곤플라이의 창립자이자 ‘스페셜포스’의 원 개발자인 박철승 상무이사가 맡았다."
+      "date": "2026.02.20",
+      "link": "https://zdnet.co.kr/view/?no=20260221101718",
+      "summary": "미국 연방대법원이 20일(현지시간) 도널드 트럼프 대통령의 관세 폭탄에 잠금 장치를 채웠다. 국제비상경제권한법(IEEPA)을 근거로 부과한 전 세계 각국에 부과한 상호관세가 권한을 넘어선 행위라고 판결한 것이다. 그러자 트럼프 대통령은 곧바로 무역법 122조를 근거로 10% 추가 관세를 부과하는 행정명령에 서명하겠다고 선언했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "교촌 수제맥주 문베어, ‘2026 호텔페어’ 참가",
+      "title": "소니, 팬 제작 ‘블러드본’ 인디 프로젝트 개발 중단 요구",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.19",
-      "link": "https://zdnet.co.kr/view/?no=20260220102545",
-      "summary": "교촌치킨을 운영하는 교촌에프앤비의 수제맥주 브랜드 문베어가 ‘2026 호텔페어’ 참가를 계기로 프리미엄 호텔·리조트 대상 B2B 공략에 속도를 낸다. 교촌에프앤비는 문베어가 지난 1월 21~23일 서울 코엑스에서 열린 ‘2026 호텔페어’ 참가를 마쳤다고 20일 밝혔다."
+      "date": "2026.02.20",
+      "link": "https://zdnet.co.kr/view/?no=20260221094612",
+      "summary": "소니가 플레이스테이션4용 소울라이크 액션 게임 블러드본을 기반으로 하는 인디게임 개발을 중단시켰다는 소식이 전해졌다고 미국 게임 매체 게임스팟이 20일(현지시간) 보도했다. 해당 프로젝트를 진행했던 인디게임 개발자 막심 풀키에는 지난 2024년 11월 '블러드본: 탑 다운 아레나' 프로젝트를 공개한 바 있다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "데이터를 1만 년 보존하는 유리 저장 기술 등장",
+      "title": "보증 수리 상담도 AI 응대…인텔 지원 체계 전환",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.19",
-      "link": "https://www.itworld.co.kr/article/4134953/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a5%bc-1%eb%a7%8c-%eb%85%84-%eb%b3%b4%ec%a1%b4%ed%95%98%eb%8a%94-%ec%9c%a0%eb%a6%ac-%ec%a0%80%ec%9e%a5-%ea%b8%b0%ec%88%a0-%eb%93%b1%ec%9e%a5.html",
-      "summary": "붕규산 유리에 4.8TB를 기록하는 차세대 아카이브 기술이 공개됐다. Credit: tomeqs / Shutterstock 장기 데이터 아카이브의 비용과 복잡성에 부담을 겪는 기업이 곧 새로운 선택지를 갖게 될 가능성이 있다. 바로 유리 조각이다."
+      "date": "2026.02.20",
+      "link": "https://www.itworld.co.kr/article/4134981/%eb%b3%b4%ec%a6%9d-%ec%88%98%eb%a6%ac-%ec%83%81%eb%8b%b4%eb%8f%84-ai-%ec%9d%91%eb%8c%80%ec%9d%b8%ed%85%94-%ec%a7%80%ec%9b%90-%ec%b2%b4%ea%b3%84-%ec%a0%84%ed%99%98.html",
+      "summary": "실수를 할 수 있는 생성형 AI에 복잡한 기술 지원을 맡겨도 되는지 의문이 제기된다. Credit: Foundry 사용 중인 인텔 프로세서가 보증 수리나 지원을 필요로 할 경우, 가장 먼저 상대하게 될 상담원이 사람이 아니라 AI가 될 가능성이 크다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "오픈클로서 SSRF·인증 우회 등 중·고위험 취약점 6건 확인",
+      "title": "데이터를 1만 년 보존하는 유리 저장 기술 등장",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.19",
-      "link": "https://www.itworld.co.kr/article/4134928/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ec%84%9c-ssrf%c2%b7%ec%9d%b8%ec%a6%9d-%ec%9a%b0%ed%9a%8c-%eb%93%b1-%ec%a4%91%c2%b7%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-6%ea%b1%b4-%ed%99%95.html",
-      "summary": "AI 기반 코드 스캐너가 오픈클로의 여러 계층을 따라 신뢰할 수 없는 데이터의 흐름을 추적한 결과, SSRF와 인증 우회, 경로 조작 등 실제로 악용할 수 있는 취약점을 확인했다."
+      "date": "2026.02.20",
+      "link": "https://www.itworld.co.kr/article/4134953/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a5%bc-1%eb%a7%8c-%eb%85%84-%eb%b3%b4%ec%a1%b4%ed%95%98%eb%8a%94-%ec%9c%a0%eb%a6%ac-%ec%a0%80%ec%9e%a5-%ea%b8%b0%ec%88%a0-%eb%93%b1%ec%9e%a5.html",
+      "summary": "붕규산 유리에 4.8TB를 기록하는 차세대 아카이브 기술이 공개됐다. Credit: tomeqs / Shutterstock 장기 데이터 아카이브의 비용과 복잡성에 부담을 겪는 기업이 곧 새로운 선택지를 갖게 될 가능성이 있다. 바로 유리 조각이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "윈도우 11, 인터넷 속도 테스트 기능 도입",
+      "title": "오픈클로서 SSRF·인증 우회 등 중·고위험 취약점 6건 확인",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.19",
-      "link": "https://www.itworld.co.kr/article/4134883/%ec%9c%88%eb%8f%84%ec%9a%b0-11-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%86%8d%eb%8f%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%eb%8a%a5-%eb%8f%84%ec%9e%85.html",
-      "summary": "프리뷰 빌드에 포함된 새 기능으로, 수주 내 정식 채널에도 순차 적용될 예정이다. Credit: geralt 조만간 윈도우 PC에 유용한 기능 하나가 추가된다. 마이크로소프트가 수주 내 배포할 소규모 기능 업데이트에 인터넷 속도 내장 테스트 기능을 포함할 예정이다."
+      "date": "2026.02.20",
+      "link": "https://www.itworld.co.kr/article/4134928/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ec%84%9c-ssrf%c2%b7%ec%9d%b8%ec%a6%9d-%ec%9a%b0%ed%9a%8c-%eb%93%b1-%ec%a4%91%c2%b7%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-6%ea%b1%b4-%ed%99%95.html",
+      "summary": "AI 기반 코드 스캐너가 오픈클로의 여러 계층을 따라 신뢰할 수 없는 데이터의 흐름을 추적한 결과, SSRF와 인증 우회, 경로 조작 등 실제로 악용할 수 있는 취약점을 확인했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "공장과 매장으로 확산되는 피지컬 AI, 준비 없는 도입은 위험",
+      "title": "윈도우 11, 인터넷 속도 테스트 기능 도입",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.19",
-      "link": "https://www.itworld.co.kr/article/4134246/%ea%b3%b5%ec%9e%a5%ea%b3%bc-%eb%a7%a4%ec%9e%a5%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0%eb%90%98%eb%8a%94-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%a4%80%eb%b9%84-%ec%97%86%eb%8a%94-%eb%8f%84%ec%9e%85%ec%9d%80.html",
-      "summary": "에이전트형 AI의 시행착오를 교훈 삼아 기업이 피지컬 AI 도입에 신중히 접근해야 한다는 목소리가 커지고 있다. Credit: Otto Group 지난 1년여 동안 에이전트형 AI는 폭발적으로 확산됐지만, 실패한 프로젝트와 정리되지 않은 첨단 기술 자산을 남겼다."
+      "date": "2026.02.20",
+      "link": "https://www.itworld.co.kr/article/4134883/%ec%9c%88%eb%8f%84%ec%9a%b0-11-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%86%8d%eb%8f%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ea%b8%b0%eb%8a%a5-%eb%8f%84%ec%9e%85.html",
+      "summary": "프리뷰 빌드에 포함된 새 기능으로, 수주 내 정식 채널에도 순차 적용될 예정이다. Credit: geralt 조만간 윈도우 PC에 유용한 기능 하나가 추가된다. 마이크로소프트가 수주 내 배포할 소규모 기능 업데이트에 인터넷 속도 내장 테스트 기능을 포함할 예정이다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI 과대광고의 후유증을 치료하는 처방전",
+      "title": "공장과 매장으로 확산되는 피지컬 AI, 준비 없는 도입은 위험",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.19",
-      "link": "https://www.itworld.co.kr/article/4133988/ai-%ea%b3%bc%eb%8c%80%ea%b4%91%ea%b3%a0%ec%9d%98-%ed%9b%84%ec%9c%a0%ec%a6%9d%ec%9d%84-%ec%b9%98%eb%a3%8c%ed%95%98%eb%8a%94-%ec%b2%98%eb%b0%a9%ec%a0%84.html",
-      "summary": "기업 AI의 앞날이 절망적인 것은 아니지만, 과대광고가 말하는 것보다는 더 엄격한 규율과 많은 인내가 필요하다. Credit: PeopleImages.com - Yuri A / Shutterstock 기업 현장은 AI를 향한 기대와 과대광고로 넘쳐나고 있다."
+      "date": "2026.02.20",
+      "link": "https://www.itworld.co.kr/article/4134246/%ea%b3%b5%ec%9e%a5%ea%b3%bc-%eb%a7%a4%ec%9e%a5%ec%9c%bc%eb%a1%9c-%ed%99%95%ec%82%b0%eb%90%98%eb%8a%94-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%a4%80%eb%b9%84-%ec%97%86%eb%8a%94-%eb%8f%84%ec%9e%85%ec%9d%80.html",
+      "summary": "에이전트형 AI의 시행착오를 교훈 삼아 기업이 피지컬 AI 도입에 신중히 접근해야 한다는 목소리가 커지고 있다. Credit: Otto Group 지난 1년여 동안 에이전트형 AI는 폭발적으로 확산됐지만, 실패한 프로젝트와 정리되지 않은 첨단 기술 자산을 남겼다."
     }
   ]
 }
