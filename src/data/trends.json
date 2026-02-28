@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-02-27T01:53:02.532Z",
-  "collectionDate": "2026.02.26",
-  "displayDate": "2026.02.27",
+  "updatedAt": "2026-02-28T01:44:26.527Z",
+  "collectionDate": "2026.02.27",
+  "displayDate": "2026.02.28",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "식약처, GMO 완전표시제 올해말부터 도입",
+      "title": "AI·가상자산 '미끼' 키워드 넣은 금융사기 주의보",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.26",
-      "link": "https://zdnet.co.kr/view/?no=20260227104305",
-      "summary": "식품의약품안전처가 간장, 당류, 식용유지류 등을 유전자변형식품(GMO) 표시 대상으로 확대하는 내용의 ‘유전자변형식품 등의 표시 기준’ 일부개정안을 27일 행정예고했다. 지난해 ‘식품위생법’과 ‘건강기능식품에 관한 법률’ 개정‧공포에 따라, GMO 완전표시제의 법률 근거가 마련됐다."
+      "date": "2026.02.27",
+      "link": "https://zdnet.co.kr/view/?no=20260227112842",
+      "summary": "인공지능(AI)·가상자산 등 '미끼' 키워드를 넣은 금융사기가 활개를 치고 있어 주의가 필요하다. 최근 토스뱅크 금융사기대응팀에 따르면 2030부터 4050까지 세대 모두가 관심있는 키워드를 사용하고, 정교하게 만들어진 가짜 거래소를 통해 금융사기를 치는 경우가 빈번해지고 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "가격 인하 승부수…볼보 EX30, 1주일만에 1천대 팔렸다",
+      "title": "[카드뉴스] 13세도 감옥에 가게 될까",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.26",
-      "link": "https://zdnet.co.kr/view/?no=20260227104224",
-      "summary": "볼보자동차코리아가 프리미엄 순수 전기 스포츠유틸리티차(SUV) 'EX30'의 가격 인하 발표 이후 1주일 만에 신규 계약 1000대를 돌파했다고 27일 밝혔다. 이번 성과는 최근 가격 경쟁이 치열해지는 전기차 시장 상황 속에서도 EX30의 우수한 상품성과 공격적인 가격 전략이 시장에서 인정받은 결과다."
+      "date": "2026.02.27",
+      "link": "https://zdnet.co.kr/view/?no=20260227093441",
+      "summary": "안녕하세요, AMEET 기자입니다. 요즘 뉴스에서 '촉법소년 연령 하향'이라는 말, 많이 들어보셨죠? 이재명 대통령이 범죄를 저지른 아이를 처벌할 수 있는 나이를 14세에서 13세로 낮추자고 제안했어요. 지금은 13세 아이가 나쁜 일을 해도 감옥에 가지 않거든요."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "정부, 구글에 고정밀지도 '조건부 허용' 유력",
+      "title": "[1분건강] 류마티스. 관절염 취급하면 큰 코 다칩니다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.26",
-      "link": "https://zdnet.co.kr/view/?no=20260227102550",
-      "summary": "구글의 1대 5000 축척의 한국 고정밀지도 반출을 요구에 우리 정부가 '조건부 허용' 할 것으로 보인다. 27일 관련업계에 따르면 정부는 구글에 지도 반출을 조건부 허용하기로 가닥을 잡은 것으로 알려졌다. 다만, 지난 5일 구글이 정부가 요구한 자료 보완 서류 제출 당시 1대 5000천 축척의 지도가 아닌 내비게이션 정보를 달라고 우회하는 방식을 택했다."
+      "date": "2026.02.27",
+      "link": "https://zdnet.co.kr/view/?no=20260227110158",
+      "summary": "류마티스 질환을 퇴행성 관절염으로 오인해 가볍게 치부하면 제때 치료를 받을 수 없어서 주의가 요구된다. 류마티스 질환은 단순히 관절이 닳아서 생기는 병이 아니다. 류마티스 질환은 관절과 연골은 물론 뼈, 근육, 인대, 그리고 이를 둘러싼 혈관과 신경 등 인체의 근골격계 전반에 발생하는 100여 가지 이상의 다양한 질환을 포괄하는 광범위한 개념을 말한다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "가트너 \"올해 PC·스마트폰 출하량 10년만에 최저치 전망\"",
+      "title": "위암 말기 아내 웃음 찾아준 남편...배그이용자 99명 동참",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.26",
-      "link": "https://zdnet.co.kr/view/?no=20260227095109",
-      "summary": "올해 PC와 스마트폰 출하량이 작년 대비 각각 10.4%p, 8.4%p 줄고 소비자들의 교체 주기도 상대적으로 길어질 것이라는 전망이 나왔다. 시장조사업체 가트너가 27일 이런 전망치를 내놨다. 글로벌 빅테크의 AI 인프라 투자 확대로 작년 말부터 D램과 SSD(낸드 플래시메모리) 가격 상승과 수급난이 본격화됐다."
+      "date": "2026.02.27",
+      "link": "https://zdnet.co.kr/view/?no=20260227153246",
+      "summary": "시한부 판정을 받은 아내에게 특별한 추억을 선물하고 싶다는 남편의 간절한 호소에 게임 커뮤니티가 응답했다. 남편의 부탁으로 열린 '배틀그라운드' 커뮤니티 매치에 99명의 이용자가 자발적으로 참여해 아내에게 잊지 못할 승리를 선사하며 훈훈한 감동을 주고 있다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "오픈놀 \"AX 교육·사이니지 결합형 플랫폼으로 체질 개선\"",
+      "title": "루트메트릭스, LGU+ 통신 연결 일관성 지표 우수",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.02.26",
-      "link": "https://zdnet.co.kr/view/?no=20260227102647",
-      "summary": "커리어 채용 플랫폼 기업 오픈놀(대표 권인택)이 2025년 연결 기준 매출액 886억 원을 기록하며 역대 최대 실적을 달성했다. 전년 대비 74% 성장한 수치로, 최근 AI 기술 확산으로 신입 채용 시장이 위축되는 상황 속에서 이뤄내 시선을 모은다. 기술특례 상장사 중에서도 보기 드문 가파른 외형 성장을 이뤄냈다."
+      "date": "2026.02.27",
+      "link": "https://zdnet.co.kr/view/?no=20260227174651",
+      "summary": "LG유플러스가 글로벌 통신 지표 측정 기관 루트메트릭스 평가에서 SK텔레콤, KT 등 경쟁사를 제치고 통신 연결 신뢰성 지수 선두를 차지했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "가짜 줌 초대 링크, 윈도우에 상용 감시 도구 심었다",
+      "title": "앤트로픽, 버셉트 인수…AI 업무 자동화 강화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.26",
-      "link": "https://www.itworld.co.kr/article/4137630/%ea%b0%80%ec%a7%9c-%ec%a4%8c-%ec%b4%88%eb%8c%80-%eb%a7%81%ed%81%ac-%ec%9c%88%eb%8f%84%ec%9a%b0%ec%97%90-%ec%83%81%ec%9a%a9-%ea%b0%90%ec%8b%9c-%eb%8f%84%ea%b5%ac-%ec%8b%ac%ec%97%88%eb%8b%a4.html",
-      "summary": "가짜 줌 회의 페이지가 자동 내려받기를 유도해 상용 모니터링 도구를 윈도우 PC에 설치했다. Credit: Michael Vi / Shutterstock 연결 문제를 해결하는 팝업처럼 보이는 화면에 속은 직원 PC에 감시 소프트웨어가 설치되고 있다는 분석이 나왔다. 최근 등장한 가짜 줌 회의 사기는 조용히 직원의 윈도우 PC에 감시 소프트웨어를 설치한다."
+      "date": "2026.02.27",
+      "link": "https://www.itworld.co.kr/article/4138189/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b2%84%ec%85%89%ed%8a%b8-%ec%9d%b8%ec%88%98ai-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b0%95%ed%99%94.html",
+      "summary": "이번 인수는 대형 사업자가 주도하는 지능형 자동화 시장 재편 흐름을 보여준다. Credit: PeopleImages / Shutterstock 앤트로픽이 미국 시애틀 기반 AI 신생업체 버셉트를 인수했다. 소프트웨어 애플리케이션을 직접 조작하는 AI 에이전트 시장에서 통합이 가속화되는 흐름을 보여준다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…FTC 나서며 규제 리스크 우려",
+      "title": "링크드인, AI 시대 맞춰 ‘검증된 AI 역량’ 인증 도입",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.26",
-      "link": "https://www.itworld.co.kr/article/4137111/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%eb%81%bc%ec%9b%8c%ed%8c%94%ea%b8%b0-%eb%85%bc%eb%9e%80-%ed%99%95%ec%82%b0ftc.html",
-      "summary": "윈도우 10 지원 종료가 하드웨어 구매를 강제하는 상황에서 코파일럿을 사용자에게 밀어붙이는 방식이 반독점 우려를 키우고 있다. Credit: Microsoft 기술 업계는 혁신을 늘 중시하지만, 마이크로소프트의 최신 기술 도입은 유난히 큰 비용을 치를지도 모른다."
+      "date": "2026.02.27",
+      "link": "https://www.itworld.co.kr/article/4138175/%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-ai-%ec%8b%9c%eb%8c%80-%eb%a7%9e%ec%b6%b0-%ea%b2%80%ec%a6%9d%eb%90%9c-ai-%ec%97%ad%eb%9f%89-%ec%9d%b8%ec%a6%9d-%eb%8f%84%ec%9e%85.html",
+      "summary": "구직자를 위한 온라인 허브 역할을 해온 링크드인이 여러 AI 도구 기업과 함께 검증된 AI 역량 프로그램을 출시했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "애플, 맥 미니 미국 생산 선언…휴스턴 공장 활용",
+      "title": "AMD, 메타와 대규모 AI 칩 계약 체결…데이터센터 로드맵 가속화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.26",
-      "link": "https://www.itworld.co.kr/article/4136938/%ec%95%a0%ed%94%8c-%eb%a7%a5-%eb%af%b8%eb%8b%88-%eb%af%b8%ea%b5%ad-%ec%83%9d%ec%82%b0-%ec%84%a0%ec%96%b8%ed%9c%b4%ec%8a%a4%ed%84%b4-%ea%b3%b5%ec%9e%a5-%ed%99%9c%ec%9a%a9.html",
-      "summary": "애플이 관세 압박 속에서 미국 내 생산 비중을 높이고 있다. Credit: Apple 애플이 올해 말부터 미국 휴스턴에서 맥 미니를 생산할 계획이라고 밝혔다. 미국 제조 확대를 지원하기 위한 회사의 전략이 본격적으로 추진되는 모습이다."
+      "date": "2026.02.27",
+      "link": "https://www.itworld.co.kr/article/4138176/amd-%eb%a9%94%ed%83%80%ec%99%80-%eb%8c%80%ea%b7%9c%eb%aa%a8-ai-%ec%b9%a9-%ea%b3%84%ec%95%bd-%ec%b2%b4%ea%b2%b0%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%a1%9c%eb%93%9c%eb%a7%b5.html",
+      "summary": "메타가 AMD MI450 GPU와 6세대 에픽 프로세서의 첫 고객으로 나섰다. AMD의 데이터센터 로드맵이 한층 가속화될 것으로 기대된다. Credit: Ken stocker / Shutterstock 메타와 AMD가 메타가 최대 6GW 규모의 CPU와 AI 가속기(GPU)를 AMD로부터 구매하는 계약을 체결했다고 발표했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“AI 기반 ITSM, 신뢰가 경쟁력” 오픈텍스트, 거버넌스·데이터 중심 AI 운영 전략 제시",
+      "title": "가짜 줌 초대 링크, 윈도우에 상용 감시 도구 심었다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.26",
-      "link": "https://www.itworld.co.kr/article/4136285/ai-%ea%b8%b0%eb%b0%98-itsm-%ec%8b%a0%eb%a2%b0%ea%b0%80-%ea%b2%bd%ec%9f%81%eb%a0%a5-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%c2%b7%eb%8d%b0.html",
-      "summary": "자동화 고도화 속 거버넌스·데이터 품질이 AI 운영 성패를 좌우한다. Credit: Sundry Photography / shutterstock AI 도입이 IT 서비스 관리(ITSM) 전반으로 빠르게 확산하고 있다."
+      "date": "2026.02.27",
+      "link": "https://www.itworld.co.kr/article/4137630/%ea%b0%80%ec%a7%9c-%ec%a4%8c-%ec%b4%88%eb%8c%80-%eb%a7%81%ed%81%ac-%ec%9c%88%eb%8f%84%ec%9a%b0%ec%97%90-%ec%83%81%ec%9a%a9-%ea%b0%90%ec%8b%9c-%eb%8f%84%ea%b5%ac-%ec%8b%ac%ec%97%88%eb%8b%a4.html",
+      "summary": "가짜 줌 회의 페이지가 자동 내려받기를 유도해 상용 모니터링 도구를 윈도우 PC에 설치했다. Credit: Michael Vi / Shutterstock 연결 문제를 해결하는 팝업처럼 보이는 화면에 속은 직원 PC에 감시 소프트웨어가 설치되고 있다는 분석이 나왔다. 최근 등장한 가짜 줌 회의 사기는 조용히 직원의 윈도우 PC에 감시 소프트웨어를 설치한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "마이크로소프트 엣지, 비밀번호 관리자 ‘마스터 비밀번호’ 단계적 폐지",
+      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…FTC 나서며 규제 리스크 우려",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.02.26",
-      "link": "https://www.itworld.co.kr/article/4136247/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%97%a3%ec%a7%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ea%b4%80%eb%a6%ac%ec%9e%90-%eb%a7%88%ec%8a%a4%ed%84%b0-%eb%b9%84.html",
-      "summary": "마이크로소프트가 윈도우 헬로 중심 인증 체계로 전환을 가속한다. Credit: Microsoft 마이크로소프트의 엣지가 비밀번호 관리자 핵심 기능인 마스터 비밀번호 지원을 단계적으로 중단한다. 이제 엣지 비밀번호 관리자에서 새로운 마스터 비밀번호를 생성할 수 없다. 기존에 설정한 마스터 비밀번호도 향후 더 이상 지원되지 않을 예정이다."
+      "date": "2026.02.27",
+      "link": "https://www.itworld.co.kr/article/4137111/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%eb%81%bc%ec%9b%8c%ed%8c%94%ea%b8%b0-%eb%85%bc%eb%9e%80-%ed%99%95%ec%82%b0ftc.html",
+      "summary": "윈도우 10 지원 종료가 하드웨어 구매를 강제하는 상황에서 코파일럿을 사용자에게 밀어붙이는 방식이 반독점 우려를 키우고 있다. Credit: Microsoft 기술 업계는 혁신을 늘 중시하지만, 마이크로소프트의 최신 기술 도입은 유난히 큰 비용을 치를지도 모른다."
     }
   ]
 }
