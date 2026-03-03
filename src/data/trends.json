@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-02T01:56:31.224Z",
-  "collectionDate": "2026.03.01",
-  "displayDate": "2026.03.02",
+  "updatedAt": "2026-03-03T01:58:20.235Z",
+  "collectionDate": "2026.03.02",
+  "displayDate": "2026.03.03",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "삼성SDI, AI 시대 배터리 비전 제시…혁신 기술 총출동",
+      "title": "오재호 신임 한국규제과학센터장 \"바이오헬스산업 견인할 것”",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.01",
-      "link": "https://zdnet.co.kr/view/?no=20260302105213",
-      "summary": "삼성SDI는 오는 11일 서울 코엑스에서 사흘 일정으로 개막하는 '인터배터리 2026'에서 인공지능(AI) 시대를 겨냥한 배터리 비전을 제시한다고 2일 밝혔다. 올해 14회째를 맞는 인터배터리는 산업통상부가 주최하고 한국배터리산업협회, 코엑스, 코트라 등이 공동 주관하는 국내 최대 규모의 배터리 산업 전시회다."
+      "date": "2026.03.02",
+      "link": "https://zdnet.co.kr/view/?no=20260303105650",
+      "summary": "오재호 신임 한국규제과학센터장 오재호 신임 한국규제과학센터장이 3일 취임식을 열고 업무를 시작했다. 임기는 3년이며 1회 연임이 가능하다. 오 신임 센터장은 지난 1일 취임했다. 취임식은 이날 서울 중구 포스트타워 규제과학 아카데미에서 열렸다. 오 센터장은 부산대 화학과 졸업 이후 부경대에서 생물공학 박사학위를 취득했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "자율주행차부터 로봇까지…포스코퓨처엠 \"사물배터리 미래 그린다”",
+      "title": "[부음] 정원휘 홈플러스 준법경영본부장 장인상",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.01",
-      "link": "https://zdnet.co.kr/view/?no=20260302104031",
-      "summary": "포스코퓨처엠은 오는 11일부터 13일까지 서울 코엑스에서 열리는 인터배터리 2026에 참가해 자율주행 전기차(EV), 에너지저장장치(ESS), 휴머노이드 등 다양한 산업에 적용되는 미래 양·음극재 기술을 선보인다고 2일 밝혔다."
+      "date": "2026.03.02",
+      "link": "https://zdnet.co.kr/view/?no=20260303105308",
+      "summary": "▲정성해(향년 88세)씨 별세, 윤병건씨 남편상, 정동익씨·동일씨 부친상, 정원휘(홈플러스 상무)씨 장인상, 김진희씨 시부상 = 2일, 서울아산병원 장례식장 6호실, 발인 5일 오전 6시 40분, 02-3010-2000"
     },
     {
       "id": 3,
       "number": "03",
-      "title": "중고거래도 믿고 산다…플랫폼 책임형 리커머스 확산",
+      "title": "카페24, '곽튜브' 콘텐츠 커머스 진출 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.01",
-      "link": "https://zdnet.co.kr/view/?no=20260302103058",
-      "summary": "국내 중고거래(리커머스) 시장이 빠르게 성장하는 가운데 플랫폼이 일부 거래 과정에 개입하는 모델이 등장하고 있다. 소비자들이 단순히 싸게 사고파는 것보다 상품 상태를 믿을 수 있는지가 더 중요한 판단 요소로 떠오르고 있기 때문이다."
+      "date": "2026.03.02",
+      "link": "https://zdnet.co.kr/view/?no=20260303101811",
+      "summary": "글로벌 전자상거래 플랫폼 카페24는 여행 크리에이터 '곽튜브(본명 곽준빈)'의 콘텐츠 커머스 진출을 지원했다고 3일 밝혔다. 곽튜브는 패션 브랜드 '끄박(KBAK)'의 소비자 대상 직접 판매(D2C) 쇼핑몰을 열고, 카페24 유튜브 쇼핑 서비스를 활용해 '곽튜브' 유튜브 채널에 상품을 연동해 선보이고 있다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "1억7000만명 디지털격차 해소...ITU \"화웨이 헌신 높이 평가\"",
+      "title": "호르무즈 '보이지 않는 봉쇄'의 공포",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.01",
-      "link": "https://zdnet.co.kr/view/?no=20260302102744",
-      "summary": "[바르셀로나(스페인)=박수형 기자] 화웨이가 80개 국가의 1억 7000만 명에 디지털 연결을 제공했다. 국제전기통신연합(ITU)과 맺은 디지털 격차 해소에 따른 공약인데, 당초 목표인 2025년까지 1억 2000만명의 디지털 연결 지원을 훌쩍 뛰어넘었다."
+      "date": "2026.03.02",
+      "link": "https://zdnet.co.kr/view/?no=20260303103839",
+      "summary": "안녕하세요 AMEET 기자입니다. 최근 중동에서 들려오는 소식이 심상치 않습니다. 미국과 이란의 군사적 충돌이 현실화되면서 우리 경제의 핏줄과도 같은 호르무즈 해협이 막히게 되었거든요. 전 세계 원유 물동량의 20%가 지나는 이 좁은 바닷길이 막히면 당장 우리나라는 어떻게 될까요?"
     },
     {
       "id": 5,
       "number": "05",
-      "title": "\"감시·무기화 차단\"…오픈AI, 美 국방부 계약에 '다층 보호'",
+      "title": "피지컬 AI 입은 자율주행 무인소방로봇, 화재 현장 대신 간다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.01",
-      "link": "https://zdnet.co.kr/view/?no=20260302100245",
-      "summary": "오픈AI가 미국 국방부와 체결한 기밀 인공지능(AI) 계약에 다층 안전장치를 추가했다. 군사 영역에 AI 오남용 가능성을 사전에 차단하려는 조치다. 1일(현지시간) CNBC 등 외신에 따르면 오픈AI는 최근 미 펜타곤과 맺은 계약에 이같은 추가 보호 조항을 담았다고 발표했다. 같은 날 도널드 트럼프 미국 대통령은 정부에 앤트로픽 협력을 중단하라고 지시했다."
+      "date": "2026.03.02",
+      "link": "https://zdnet.co.kr/view/?no=20260303104920",
+      "summary": "현대자동차그룹이 소방청과 공동 개발한 무인소방로봇 기술을 소개하는 영상 'A Safer Way Home'을 3일 공개했다. 이번 영상은 화재 현장에서 인명 피해를 최소화하고 소방관의 안전을 지키겠다는 개발 취지를 담았다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "앤트로픽, 버셉트 인수…AI 업무 자동화 강화",
+      "title": "메모리 가격 급등에 PC 값 17% 상승 전망… 기업 업그레이드 제동",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.01",
-      "link": "https://www.itworld.co.kr/article/4138189/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b2%84%ec%85%89%ed%8a%b8-%ec%9d%b8%ec%88%98ai-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b0%95%ed%99%94.html",
-      "summary": "이번 인수는 대형 사업자가 주도하는 지능형 자동화 시장 재편 흐름을 보여준다. Credit: PeopleImages / Shutterstock 앤트로픽이 미국 시애틀 기반 AI 신생업체 버셉트를 인수했다. 소프트웨어 애플리케이션을 직접 조작하는 AI 에이전트 시장에서 통합이 가속화되는 흐름을 보여준다."
+      "date": "2026.03.02",
+      "link": "https://www.itworld.co.kr/article/4139641/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b0%80%ea%b2%a9-%ea%b8%89%eb%93%b1%ec%97%90-pc-%ea%b0%92-17-%ec%83%81%ec%8a%b9-%ec%a0%84%eb%a7%9d-%ea%b8%b0%ec%97%85-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4.html",
+      "summary": "메모리 반도체 가격 급등이 전체 PC 가격 상승에까지 영향을 미치고 있다. 기업과 사용자 모두 예외가 아니다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "링크드인, AI 시대 맞춰 ‘검증된 AI 역량’ 인증 도입",
+      "title": "미 국방부 계약 둘러싼 논쟁 확산…”AI 가드레일 강제력 시험대 올라”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.01",
-      "link": "https://www.itworld.co.kr/article/4138175/%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-ai-%ec%8b%9c%eb%8c%80-%eb%a7%9e%ec%b6%b0-%ea%b2%80%ec%a6%9d%eb%90%9c-ai-%ec%97%ad%eb%9f%89-%ec%9d%b8%ec%a6%9d-%eb%8f%84%ec%9e%85.html",
-      "summary": "구직자를 위한 온라인 허브 역할을 해온 링크드인이 여러 AI 도구 기업과 함께 검증된 AI 역량 프로그램을 출시했다."
+      "date": "2026.03.02",
+      "link": "https://www.itworld.co.kr/article/4139638/%eb%af%b8-%ea%b5%ad%eb%b0%a9%eb%b6%80-%ea%b3%84%ec%95%bd-%eb%91%98%eb%9f%ac%ec%8b%bc-%eb%85%bc%ec%9f%81-%ed%99%95%ec%82%b0ai-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ea%b0%95%ec%a0%9c%eb%a0%a5.html",
+      "summary": "법률 전문가들은 오픈AI 계약이 사실상 ‘모든 합법적 사용’을 허용해 안전장치의 강제력이 제한적이라고 지적했다. Credit: JarTee / Shutterstock 오픈AI가 미 정부에 인공지능 서비스를 공급하는 계약을 체결했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AMD, 메타와 대규모 AI 칩 계약 체결…데이터센터 로드맵 가속화",
+      "title": "LG CNS, 상반기 세 자릿수 경력 채용…AI·로보틱스 핵심 인재 확보 나서",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.01",
-      "link": "https://www.itworld.co.kr/article/4138176/amd-%eb%a9%94%ed%83%80%ec%99%80-%eb%8c%80%ea%b7%9c%eb%aa%a8-ai-%ec%b9%a9-%ea%b3%84%ec%95%bd-%ec%b2%b4%ea%b2%b0%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%a1%9c%eb%93%9c%eb%a7%b5.html",
-      "summary": "메타가 AMD MI450 GPU와 6세대 에픽 프로세서의 첫 고객으로 나섰다. AMD의 데이터센터 로드맵이 한층 가속화될 것으로 기대된다. Credit: Ken stocker / Shutterstock 메타와 AMD가 메타가 최대 6GW 규모의 CPU와 AI 가속기(GPU)를 AMD로부터 구매하는 계약을 체결했다고 발표했다."
+      "date": "2026.03.02",
+      "link": "https://www.itworld.co.kr/article/4139610/lg-cns-%ec%83%81%eb%b0%98%ea%b8%b0-%ec%84%b8-%ec%9e%90%eb%a6%bf%ec%88%98-%ea%b2%bd%eb%a0%a5-%ec%b1%84%ec%9a%a9ai%c2%b7%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ed%95%b5%ec%8b%ac-%ec%9d%b8.html",
+      "summary": "LG CNS가 금융·공공·제조·제약 등 주요 사업에서 에이전틱 AI와 산업용 로봇 프로젝트를 확대하며 실전형 인재를 적극 확보한다는 방침이다. Credit: LG CNS LG CNS(064400, 대표 현신균)가 올해 상반기 세 자릿수 규모의 경력직 공개 채용을 실시하고 인공지능(AI)·로보틱스 등 미래 핵심 사업 분야 전문 인력 확보에 나선다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "가짜 줌 초대 링크, 윈도우에 상용 감시 도구 심었다",
+      "title": "애플 아이폰 17e에 맥세이프와 A19 탑재, 아쉬운 제한도 존재",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.01",
-      "link": "https://www.itworld.co.kr/article/4137630/%ea%b0%80%ec%a7%9c-%ec%a4%8c-%ec%b4%88%eb%8c%80-%eb%a7%81%ed%81%ac-%ec%9c%88%eb%8f%84%ec%9a%b0%ec%97%90-%ec%83%81%ec%9a%a9-%ea%b0%90%ec%8b%9c-%eb%8f%84%ea%b5%ac-%ec%8b%ac%ec%97%88%eb%8b%a4.html",
-      "summary": "가짜 줌 회의 페이지가 자동 내려받기를 유도해 상용 모니터링 도구를 윈도우 PC에 설치했다. Credit: Michael Vi / Shutterstock 연결 문제를 해결하는 팝업처럼 보이는 화면에 속은 직원 PC에 감시 소프트웨어가 설치되고 있다는 분석이 나왔다. 최근 등장한 가짜 줌 회의 사기는 조용히 직원의 윈도우 PC에 감시 소프트웨어를 설치한다."
+      "date": "2026.03.02",
+      "link": "https://www.itworld.co.kr/article/4139603/%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-17e%ec%97%90-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ec%99%80-a19-%ed%83%91%ec%9e%ac-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%a0%9c%ed%95%9c%eb%8f%84-%ec%a1%b4.html",
+      "summary": "신제품 아이폰 17e는 맥세이프를 지원하지만 최대 충전 속도는 제한됐고, A19는 전체 코어 구성이 아니다. Credit: Apple 애플이 3월 3일 자사 제품 발표 주간의 시작과 함께 아이폰 17e를 공개했다. 아이폰 17e는 지난해 출시된 아이폰 16e의 후속 모델로, 여러 실질적인 개선 사항이 반영됐다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…FTC 나서며 규제 리스크 우려",
+      "title": "오픈텍스트, ‘포레스터 웨이브’ 2026년 1분기 디지털 자산 관리 부문 리더 선정",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.01",
-      "link": "https://www.itworld.co.kr/article/4137111/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%eb%81%bc%ec%9b%8c%ed%8c%94%ea%b8%b0-%eb%85%bc%eb%9e%80-%ed%99%95%ec%82%b0ftc.html",
-      "summary": "윈도우 10 지원 종료가 하드웨어 구매를 강제하는 상황에서 코파일럿을 사용자에게 밀어붙이는 방식이 반독점 우려를 키우고 있다. Credit: Microsoft 기술 업계는 혁신을 늘 중시하지만, 마이크로소프트의 최신 기술 도입은 유난히 큰 비용을 치를지도 모른다."
+      "date": "2026.03.02",
+      "link": "https://www.itworld.co.kr/article/4138333/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%84%b0-%ec%9b%a8%ec%9d%b4%eb%b8%8c-2026%eb%85%84-1%eb%b6%84%ea%b8%b0-%eb%94%94%ec%a7%80%ed%84%b8.html",
+      "summary": "오픈텍스트 디지털 자산 관리 솔루션이 대규모 미디어 자산을 안정적으로 관리하며 글로벌 조직의 콘텐츠 운영 효율을 높인다는 평가를 받았다."
     }
   ]
 }
