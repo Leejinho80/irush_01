@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-03T01:58:20.235Z",
-  "collectionDate": "2026.03.02",
-  "displayDate": "2026.03.03",
+  "updatedAt": "2026-03-04T01:52:36.793Z",
+  "collectionDate": "2026.03.03",
+  "displayDate": "2026.03.04",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "오재호 신임 한국규제과학센터장 \"바이오헬스산업 견인할 것”",
+      "title": "과기연구노조 제주지부, 제주테크노파크 원장 고소",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.02",
-      "link": "https://zdnet.co.kr/view/?no=20260303105650",
-      "summary": "오재호 신임 한국규제과학센터장 오재호 신임 한국규제과학센터장이 3일 취임식을 열고 업무를 시작했다. 임기는 3년이며 1회 연임이 가능하다. 오 신임 센터장은 지난 1일 취임했다. 취임식은 이날 서울 중구 포스트타워 규제과학 아카데미에서 열렸다. 오 센터장은 부산대 화학과 졸업 이후 부경대에서 생물공학 박사학위를 취득했다."
+      "date": "2026.03.03",
+      "link": "https://zdnet.co.kr/view/?no=20260304105020",
+      "summary": "공공과학기술연구노동조합 제주테크노파크지부가 지난 27일 제주테크노파크 원장을 광주지방노동청에 고소했다. 이유는 고의적이고, 반복적인 부당노동행위다. 고소 건은 전임 제주테크노파크 노조 지부장이 기관장에 인사운영에 관한 메일을 보내며 불거졌다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "[부음] 정원휘 홈플러스 준법경영본부장 장인상",
+      "title": "'메이플 키우기' 신뢰 회복 총력전 통했다…매출 1위 굳건·IP 확장 박차",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.02",
-      "link": "https://zdnet.co.kr/view/?no=20260303105308",
-      "summary": "▲정성해(향년 88세)씨 별세, 윤병건씨 남편상, 정동익씨·동일씨 부친상, 정원휘(홈플러스 상무)씨 장인상, 김진희씨 시부상 = 2일, 서울아산병원 장례식장 6호실, 발인 5일 오전 6시 40분, 02-3010-2000"
+      "date": "2026.03.03",
+      "link": "https://zdnet.co.kr/view/?no=20260304095559",
+      "summary": "넥슨의 방치형 게임 '메이플 키우기'가 확률 오류 논란 이후 이용자 신뢰 회복에 방점을 찍으며 굳건하게 양대 마켓 매출 1위를 지키고 있다. 전액 환불과 경영진 교체라는 전례 없는 초강수 대처가 이용자들의 민심을 돌리는 데 성공했다는 평가다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "카페24, '곽튜브' 콘텐츠 커머스 진출 지원",
+      "title": "로옴, 설계 자유도 높이는 고성능 OP앰프 17기종 구비",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.02",
-      "link": "https://zdnet.co.kr/view/?no=20260303101811",
-      "summary": "글로벌 전자상거래 플랫폼 카페24는 여행 크리에이터 '곽튜브(본명 곽준빈)'의 콘텐츠 커머스 진출을 지원했다고 3일 밝혔다. 곽튜브는 패션 브랜드 '끄박(KBAK)'의 소비자 대상 직접 판매(D2C) 쇼핑몰을 열고, 카페24 유튜브 쇼핑 서비스를 활용해 '곽튜브' 유튜브 채널에 상품을 연동해 선보이고 있다."
+      "date": "2026.03.03",
+      "link": "https://zdnet.co.kr/view/?no=20260304102113",
+      "summary": "로옴은 자동차기기, 산업기기, 민생기기 등 폭넓은 분야에서 사용 가능한 CMOS OP 앰프(Amp) 'TLRx728 시리즈', 'BD728x 시리즈'를 새롭게 개발했다고 4일 밝혔다. 신제품은 낮은 입력 오프셋 전압, 낮은 노이즈, 높은 슬루율(Slew rate)을 균형 있게 실현한 고성능 OP 앰프로, 풍부한 라인업을 구비해 선택의 폭이 넓어진다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "호르무즈 '보이지 않는 봉쇄'의 공포",
+      "title": "알리 \"K상품 구매 흐름, 체험형 구매서 일상 중심 반복 소비로 전환\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.02",
-      "link": "https://zdnet.co.kr/view/?no=20260303103839",
-      "summary": "안녕하세요 AMEET 기자입니다. 최근 중동에서 들려오는 소식이 심상치 않습니다. 미국과 이란의 군사적 충돌이 현실화되면서 우리 경제의 핏줄과도 같은 호르무즈 해협이 막히게 되었거든요. 전 세계 원유 물동량의 20%가 지나는 이 좁은 바닷길이 막히면 당장 우리나라는 어떻게 될까요?"
+      "date": "2026.03.03",
+      "link": "https://zdnet.co.kr/view/?no=20260304101821",
+      "summary": "알리익스프레스가 자사 플랫폼 내 한국 국내 배송 상품(K-상품)의 2025년 구매 흐름을 살펴본 결과, '로컬 투 로컬' 쇼핑 패턴이 체험 중심 구매에서 생활 밀착형 반복 소비 구조로 빠르게 이동하고 있는 것으로 나타났다고 4일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "피지컬 AI 입은 자율주행 무인소방로봇, 화재 현장 대신 간다",
+      "title": "중기부, 중동 상황 관련 중소기업 피해 대응 TF 회의 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.02",
-      "link": "https://zdnet.co.kr/view/?no=20260303104920",
-      "summary": "현대자동차그룹이 소방청과 공동 개발한 무인소방로봇 기술을 소개하는 영상 'A Safer Way Home'을 3일 공개했다. 이번 영상은 화재 현장에서 인명 피해를 최소화하고 소방관의 안전을 지키겠다는 개발 취지를 담았다."
+      "date": "2026.03.03",
+      "link": "https://zdnet.co.kr/view/?no=20260304103646",
+      "summary": "중소벤처기업부(중기부)가 중동 지역 긴장이 고조됨에 따라 중소기업의 피해·애로 현황을 점검하고 나섰다. 중기부는 지난달 28일 발생한 중동 상황으로 현지 정세가 급변함에 따라 중소기업 피해·애로 현황을 점검하고 향후 대응 방안을 논의하기 위해 '중동 상황 관련 중소기업 피해·애로 대응 점검' 회의를 개최했다고 4일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "메모리 가격 급등에 PC 값 17% 상승 전망… 기업 업그레이드 제동",
+      "title": "네이처 메디신 게재 연구, 챗GPT 신규 건강 서비스에 경고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.02",
-      "link": "https://www.itworld.co.kr/article/4139641/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b0%80%ea%b2%a9-%ea%b8%89%eb%93%b1%ec%97%90-pc-%ea%b0%92-17-%ec%83%81%ec%8a%b9-%ec%a0%84%eb%a7%9d-%ea%b8%b0%ec%97%85-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4.html",
-      "summary": "메모리 반도체 가격 급등이 전체 PC 가격 상승에까지 영향을 미치고 있다. 기업과 사용자 모두 예외가 아니다."
+      "date": "2026.03.03",
+      "link": "https://www.itworld.co.kr/article/4140216/%eb%84%a4%ec%9d%b4%ec%b2%98-%eb%a9%94%eb%94%94%ec%8b%a0-%ea%b2%8c%ec%9e%ac-%ec%97%b0%ea%b5%ac-%ec%b1%97gpt-%ec%8b%a0%ea%b7%9c-%ea%b1%b4%ea%b0%95-%ec%84%9c%eb%b9%84%ec%8a%a4%ec%97%90-%ea%b2%bd.html",
+      "summary": "연구 결과 챗GPT 헬스는 즉시 병원으로 이송해야 할 사례의 절반 이상에서 응급 진료 대신 자택 대기나 일반 외래 진료를 권고한 것으로 나타났다. Credit: Open AI 국제 학술지 네이처 메디신(Nature Medicine)에 게재된 한 연구가 오픈AI의 건강 상담 서비스 챗GPT 헬스 안전성에 우려를 제기했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "미 국방부 계약 둘러싼 논쟁 확산…”AI 가드레일 강제력 시험대 올라”",
+      "title": "메모리 가격 급등에 PC 값 17% 상승 전망… 기업 업그레이드 제동",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.02",
-      "link": "https://www.itworld.co.kr/article/4139638/%eb%af%b8-%ea%b5%ad%eb%b0%a9%eb%b6%80-%ea%b3%84%ec%95%bd-%eb%91%98%eb%9f%ac%ec%8b%bc-%eb%85%bc%ec%9f%81-%ed%99%95%ec%82%b0ai-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ea%b0%95%ec%a0%9c%eb%a0%a5.html",
-      "summary": "법률 전문가들은 오픈AI 계약이 사실상 ‘모든 합법적 사용’을 허용해 안전장치의 강제력이 제한적이라고 지적했다. Credit: JarTee / Shutterstock 오픈AI가 미 정부에 인공지능 서비스를 공급하는 계약을 체결했다."
+      "date": "2026.03.03",
+      "link": "https://www.itworld.co.kr/article/4139641/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b0%80%ea%b2%a9-%ea%b8%89%eb%93%b1%ec%97%90-pc-%ea%b0%92-17-%ec%83%81%ec%8a%b9-%ec%a0%84%eb%a7%9d-%ea%b8%b0%ec%97%85-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4.html",
+      "summary": "메모리 반도체 가격 급등이 전체 PC 가격 상승에까지 영향을 미치고 있다. 기업과 사용자 모두 예외가 아니다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "LG CNS, 상반기 세 자릿수 경력 채용…AI·로보틱스 핵심 인재 확보 나서",
+      "title": "미 국방부 계약 둘러싼 논쟁 확산…”AI 가드레일 강제력 시험대 올라”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.02",
-      "link": "https://www.itworld.co.kr/article/4139610/lg-cns-%ec%83%81%eb%b0%98%ea%b8%b0-%ec%84%b8-%ec%9e%90%eb%a6%bf%ec%88%98-%ea%b2%bd%eb%a0%a5-%ec%b1%84%ec%9a%a9ai%c2%b7%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ed%95%b5%ec%8b%ac-%ec%9d%b8.html",
-      "summary": "LG CNS가 금융·공공·제조·제약 등 주요 사업에서 에이전틱 AI와 산업용 로봇 프로젝트를 확대하며 실전형 인재를 적극 확보한다는 방침이다. Credit: LG CNS LG CNS(064400, 대표 현신균)가 올해 상반기 세 자릿수 규모의 경력직 공개 채용을 실시하고 인공지능(AI)·로보틱스 등 미래 핵심 사업 분야 전문 인력 확보에 나선다."
+      "date": "2026.03.03",
+      "link": "https://www.itworld.co.kr/article/4139638/%eb%af%b8-%ea%b5%ad%eb%b0%a9%eb%b6%80-%ea%b3%84%ec%95%bd-%eb%91%98%eb%9f%ac%ec%8b%bc-%eb%85%bc%ec%9f%81-%ed%99%95%ec%82%b0ai-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ea%b0%95%ec%a0%9c%eb%a0%a5.html",
+      "summary": "법률 전문가들은 오픈AI 계약이 사실상 ‘모든 합법적 사용’을 허용해 안전장치의 강제력이 제한적이라고 지적했다. Credit: JarTee / Shutterstock 오픈AI가 미 정부에 인공지능 서비스를 공급하는 계약을 체결했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "애플 아이폰 17e에 맥세이프와 A19 탑재, 아쉬운 제한도 존재",
+      "title": "LG CNS, 상반기 세 자릿수 경력 채용…AI·로보틱스 핵심 인재 확보 나서",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.02",
-      "link": "https://www.itworld.co.kr/article/4139603/%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-17e%ec%97%90-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ec%99%80-a19-%ed%83%91%ec%9e%ac-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%a0%9c%ed%95%9c%eb%8f%84-%ec%a1%b4.html",
-      "summary": "신제품 아이폰 17e는 맥세이프를 지원하지만 최대 충전 속도는 제한됐고, A19는 전체 코어 구성이 아니다. Credit: Apple 애플이 3월 3일 자사 제품 발표 주간의 시작과 함께 아이폰 17e를 공개했다. 아이폰 17e는 지난해 출시된 아이폰 16e의 후속 모델로, 여러 실질적인 개선 사항이 반영됐다."
+      "date": "2026.03.03",
+      "link": "https://www.itworld.co.kr/article/4139610/lg-cns-%ec%83%81%eb%b0%98%ea%b8%b0-%ec%84%b8-%ec%9e%90%eb%a6%bf%ec%88%98-%ea%b2%bd%eb%a0%a5-%ec%b1%84%ec%9a%a9ai%c2%b7%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ed%95%b5%ec%8b%ac-%ec%9d%b8.html",
+      "summary": "LG CNS가 금융·공공·제조·제약 등 주요 사업에서 에이전틱 AI와 산업용 로봇 프로젝트를 확대하며 실전형 인재를 적극 확보한다는 방침이다. Credit: LG CNS LG CNS(064400, 대표 현신균)가 올해 상반기 세 자릿수 규모의 경력직 공개 채용을 실시하고 인공지능(AI)·로보틱스 등 미래 핵심 사업 분야 전문 인력 확보에 나선다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "오픈텍스트, ‘포레스터 웨이브’ 2026년 1분기 디지털 자산 관리 부문 리더 선정",
+      "title": "애플 아이폰 17e에 맥세이프와 A19 탑재, 아쉬운 제한도 존재",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.02",
-      "link": "https://www.itworld.co.kr/article/4138333/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ed%8f%ac%eb%a0%88%ec%8a%a4%ed%84%b0-%ec%9b%a8%ec%9d%b4%eb%b8%8c-2026%eb%85%84-1%eb%b6%84%ea%b8%b0-%eb%94%94%ec%a7%80%ed%84%b8.html",
-      "summary": "오픈텍스트 디지털 자산 관리 솔루션이 대규모 미디어 자산을 안정적으로 관리하며 글로벌 조직의 콘텐츠 운영 효율을 높인다는 평가를 받았다."
+      "date": "2026.03.03",
+      "link": "https://www.itworld.co.kr/article/4139603/%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-17e%ec%97%90-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ec%99%80-a19-%ed%83%91%ec%9e%ac-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%a0%9c%ed%95%9c%eb%8f%84-%ec%a1%b4.html",
+      "summary": "신제품 아이폰 17e는 맥세이프를 지원하지만 최대 충전 속도는 제한됐고, A19는 전체 코어 구성이 아니다. Credit: Apple 애플이 3월 3일 자사 제품 발표 주간의 시작과 함께 아이폰 17e를 공개했다. 아이폰 17e는 지난해 출시된 아이폰 16e의 후속 모델로, 여러 실질적인 개선 사항이 반영됐다."
     }
   ]
 }
