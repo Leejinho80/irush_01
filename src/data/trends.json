@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-04T01:52:36.793Z",
-  "collectionDate": "2026.03.03",
-  "displayDate": "2026.03.04",
+  "updatedAt": "2026-03-05T01:55:34.321Z",
+  "collectionDate": "2026.03.04",
+  "displayDate": "2026.03.05",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "과기연구노조 제주지부, 제주테크노파크 원장 고소",
+      "title": "에픽게임즈, ‘포트나이트’ 구글플레이 복귀 예고",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.03",
-      "link": "https://zdnet.co.kr/view/?no=20260304105020",
-      "summary": "공공과학기술연구노동조합 제주테크노파크지부가 지난 27일 제주테크노파크 원장을 광주지방노동청에 고소했다. 이유는 고의적이고, 반복적인 부당노동행위다. 고소 건은 전임 제주테크노파크 노조 지부장이 기관장에 인사운영에 관한 메일을 보내며 불거졌다."
+      "date": "2026.03.04",
+      "link": "https://zdnet.co.kr/view/?no=20260305102930",
+      "summary": "구글이 안드로이드 앱 유통·결제 정책을 바꾸기로 하면서 에픽게임즈가 ‘포트나이트’를 다시 구글플레이에서 배포할 길이 열렸다. 팀 스위니 에픽게임즈 CEO는 5일(현지시간) X에 “포트나이트가 곧 전 세계 구글플레이에 돌아온다”며 글을 올렸다. 구글과 에픽 간 장기 갈등이 사실상 마무리되는 분위기다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "'메이플 키우기' 신뢰 회복 총력전 통했다…매출 1위 굳건·IP 확장 박차",
+      "title": "하나카드, USDC 국내 결제 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.03",
-      "link": "https://zdnet.co.kr/view/?no=20260304095559",
-      "summary": "넥슨의 방치형 게임 '메이플 키우기'가 확률 오류 논란 이후 이용자 신뢰 회복에 방점을 찍으며 굳건하게 양대 마켓 매출 1위를 지키고 있다. 전액 환불과 경영진 교체라는 전례 없는 초강수 대처가 이용자들의 민심을 돌리는 데 성공했다는 평가다."
+      "date": "2026.03.04",
+      "link": "https://zdnet.co.kr/view/?no=20260305084352",
+      "summary": "하나금융그룹이 디지털 자산 생태계에 박차를 가하고 있다. 하나카드가 USDC를 보유하거나 충전 이력이 있는 크립토닷컴 비자 카드를 소지한 외국인 고객이 국내 가맹점에서 결제할 경우, 결제금액의 5%를 크로노스(Cronos) 생태계 네이티브 토큰인 CRO로 돌려주는 캐시백 이벤트를 실시한다고 5일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "로옴, 설계 자유도 높이는 고성능 OP앰프 17기종 구비",
+      "title": "LS티라유텍, 현대차 '모베드'와 제조 자동화 협력",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.03",
-      "link": "https://zdnet.co.kr/view/?no=20260304102113",
-      "summary": "로옴은 자동차기기, 산업기기, 민생기기 등 폭넓은 분야에서 사용 가능한 CMOS OP 앰프(Amp) 'TLRx728 시리즈', 'BD728x 시리즈'를 새롭게 개발했다고 4일 밝혔다. 신제품은 낮은 입력 오프셋 전압, 낮은 노이즈, 높은 슬루율(Slew rate)을 균형 있게 실현한 고성능 OP 앰프로, 풍부한 라인업을 구비해 선택의 폭이 넓어진다."
+      "date": "2026.03.04",
+      "link": "https://zdnet.co.kr/view/?no=20260305104633",
+      "summary": "스마트팩토리 전문기업 LS티라유텍은 현대차그룹 로보틱스랩의 로보틱스 확대 전략과 연계해 차세대 로봇 기반 제조 자동화 시장 공략에 나선다고 5일 밝혔다. 회사는 전날 서울 코엑스에서 개막한 스마트공장·자동화산업전(AW 2026)에서 '모베드 얼라이언스'에 참여했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "알리 \"K상품 구매 흐름, 체험형 구매서 일상 중심 반복 소비로 전환\"",
+      "title": "'트럼프 낙인' 앤트로픽, 방산업계 퇴출…아모데이 \"찬사 거부한 보복\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.03",
-      "link": "https://zdnet.co.kr/view/?no=20260304101821",
-      "summary": "알리익스프레스가 자사 플랫폼 내 한국 국내 배송 상품(K-상품)의 2025년 구매 흐름을 살펴본 결과, '로컬 투 로컬' 쇼핑 패턴이 체험 중심 구매에서 생활 밀착형 반복 소비 구조로 빠르게 이동하고 있는 것으로 나타났다고 4일 밝혔다."
+      "date": "2026.03.04",
+      "link": "https://zdnet.co.kr/view/?no=20260305100916",
+      "summary": "도널드 트럼프 미국 행정부가 앤트로픽을 '공급망 위험' 기업으로 지정하면서 주요 방위산업체들의 '클로드' 모델 퇴출이 잇따르는 가운데, 다리오 아모데이 앤트로픽 최고경영자(CEO)가 이를 정치적 보복이라 비판했다. 엔비디아와 애플 등 빅테크들도 정부의 권한 남용에 우려를 표하며 실리콘밸리 전역으로 파장이 확산하고 있다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "중기부, 중동 상황 관련 중소기업 피해 대응 TF 회의 개최",
+      "title": "3수생 케이뱅크 상장, 공모가 8300원 승부수",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.03",
-      "link": "https://zdnet.co.kr/view/?no=20260304103646",
-      "summary": "중소벤처기업부(중기부)가 중동 지역 긴장이 고조됨에 따라 중소기업의 피해·애로 현황을 점검하고 나섰다. 중기부는 지난달 28일 발생한 중동 상황으로 현지 정세가 급변함에 따라 중소기업 피해·애로 현황을 점검하고 향후 대응 방안을 논의하기 위해 '중동 상황 관련 중소기업 피해·애로 대응 점검' 회의를 개최했다고 4일 밝혔다."
+      "date": "2026.03.04",
+      "link": "https://zdnet.co.kr/view/?no=20260305102538",
+      "summary": "안녕하세요 AMEET 기자입니다. 오늘 드디어 많은 투자자가 기다리던 소식이 들려왔죠. 바로 ‘인터넷 은행 1호’라는 타이틀을 가진 케이뱅크가 두 번의 실패를 딛고 세 번째 도전 끝에 코스피 시장에 첫발을 내디뎠습니다. 2026년 3월 5일, 오늘이 바로 그 역사적인 날입니다. 공모가는 8300원으로 확정됐습니다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "네이처 메디신 게재 연구, 챗GPT 신규 건강 서비스에 경고",
+      "title": "워크데이, 2026회계연도 매출 95억 달러…AI 기반 인사·재무 플랫폼 성장 지속",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.03",
-      "link": "https://www.itworld.co.kr/article/4140216/%eb%84%a4%ec%9d%b4%ec%b2%98-%eb%a9%94%eb%94%94%ec%8b%a0-%ea%b2%8c%ec%9e%ac-%ec%97%b0%ea%b5%ac-%ec%b1%97gpt-%ec%8b%a0%ea%b7%9c-%ea%b1%b4%ea%b0%95-%ec%84%9c%eb%b9%84%ec%8a%a4%ec%97%90-%ea%b2%bd.html",
-      "summary": "연구 결과 챗GPT 헬스는 즉시 병원으로 이송해야 할 사례의 절반 이상에서 응급 진료 대신 자택 대기나 일반 외래 진료를 권고한 것으로 나타났다. Credit: Open AI 국제 학술지 네이처 메디신(Nature Medicine)에 게재된 한 연구가 오픈AI의 건강 상담 서비스 챗GPT 헬스 안전성에 우려를 제기했다."
+      "date": "2026.03.04",
+      "link": "https://www.itworld.co.kr/article/4140896/%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-2026%ed%9a%8c%ea%b3%84%ec%97%b0%eb%8f%84-%eb%a7%a4%ec%b6%9c-95%ec%96%b5-%eb%8b%ac%eb%9f%acai-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ec%82%ac%c2%b7%ec%9e%ac.html",
+      "summary": "워크데이는 인사와 재무 업무에 인공지능을 확대 적용하며 향후 구독 매출 성장을 이어갈 것으로 전망했다. Credit: Workday 미국 캘리포니아 플레젠튼에 본사를 둔 기업용 인사·재무 인공지능 플랫폼 기업 워크데이가 2026년 1월 31일 마감된 2026회계연도 4분기 및 연간 실적을 발표했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "메모리 가격 급등에 PC 값 17% 상승 전망… 기업 업그레이드 제동",
+      "title": "오픈AI, 윈도우용 AI 코딩 앱 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.03",
-      "link": "https://www.itworld.co.kr/article/4139641/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b0%80%ea%b2%a9-%ea%b8%89%eb%93%b1%ec%97%90-pc-%ea%b0%92-17-%ec%83%81%ec%8a%b9-%ec%a0%84%eb%a7%9d-%ea%b8%b0%ec%97%85-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4.html",
-      "summary": "메모리 반도체 가격 급등이 전체 PC 가격 상승에까지 영향을 미치고 있다. 기업과 사용자 모두 예외가 아니다."
+      "date": "2026.03.04",
+      "link": "https://www.itworld.co.kr/article/4140859/%ec%98%a4%ed%94%88ai-%ec%9c%88%eb%8f%84%ec%9a%b0%ec%9a%a9-ai-%ec%bd%94%eb%94%a9-%ec%95%b1-%ec%b6%9c%ec%8b%9c.html",
+      "summary": "맥에 이어 오픈AI의 코덱스 앱 윈도우 버전이 공개됐다. 윈도우 사용자는 AI 기반 코딩 환경을 이용해 프로그램을 만들 수 있게 됐다. Credit: OpenAI 최근 몇 개월간 AI 에이전트의 도움으로 프로그램과 앱을 제작하는 방식이 빠르게 확산했다. 여기에 더해 이제 윈도우 사용자에게도 새로운 에이전트형 AI 코딩 도구가 추가됐다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "미 국방부 계약 둘러싼 논쟁 확산…”AI 가드레일 강제력 시험대 올라”",
+      "title": "데이타솔루션, 데이터이쿠 ‘2026 APJ 올해의 혁신 파트너’ 수상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.03",
-      "link": "https://www.itworld.co.kr/article/4139638/%eb%af%b8-%ea%b5%ad%eb%b0%a9%eb%b6%80-%ea%b3%84%ec%95%bd-%eb%91%98%eb%9f%ac%ec%8b%bc-%eb%85%bc%ec%9f%81-%ed%99%95%ec%82%b0ai-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ea%b0%95%ec%a0%9c%eb%a0%a5.html",
-      "summary": "법률 전문가들은 오픈AI 계약이 사실상 ‘모든 합법적 사용’을 허용해 안전장치의 강제력이 제한적이라고 지적했다. Credit: JarTee / Shutterstock 오픈AI가 미 정부에 인공지능 서비스를 공급하는 계약을 체결했다."
+      "date": "2026.03.04",
+      "link": "https://www.itworld.co.kr/article/4140838/%eb%8d%b0%ec%9d%b4%ed%83%80%ec%86%94%eb%a3%a8%ec%85%98-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%b4%ec%bf%a0-2026-apj-%ec%98%ac%ed%95%b4%ec%9d%98-%ed%98%81%ec%8b%a0-%ed%8c%8c%ed%8a%b8%eb%84%88.html",
+      "summary": "AI 전문기업 데이타솔루션이 글로벌 AI 플랫폼 기업 데이터이쿠가 선정하는 ‘2026 아시아·태평양·일본(APJ) 올해의 혁신 파트너’ 수상 기업으로 선정돼 그간의 성과를 인정받았다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "LG CNS, 상반기 세 자릿수 경력 채용…AI·로보틱스 핵심 인재 확보 나서",
+      "title": "토스인사이트, 원화 스테이블코인 경제적 영향 분석 보고서 발간",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.03",
-      "link": "https://www.itworld.co.kr/article/4139610/lg-cns-%ec%83%81%eb%b0%98%ea%b8%b0-%ec%84%b8-%ec%9e%90%eb%a6%bf%ec%88%98-%ea%b2%bd%eb%a0%a5-%ec%b1%84%ec%9a%a9ai%c2%b7%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ed%95%b5%ec%8b%ac-%ec%9d%b8.html",
-      "summary": "LG CNS가 금융·공공·제조·제약 등 주요 사업에서 에이전틱 AI와 산업용 로봇 프로젝트를 확대하며 실전형 인재를 적극 확보한다는 방침이다. Credit: LG CNS LG CNS(064400, 대표 현신균)가 올해 상반기 세 자릿수 규모의 경력직 공개 채용을 실시하고 인공지능(AI)·로보틱스 등 미래 핵심 사업 분야 전문 인력 확보에 나선다."
+      "date": "2026.03.04",
+      "link": "https://www.itworld.co.kr/article/4140168/%ed%86%a0%ec%8a%a4%ec%9d%b8%ec%82%ac%ec%9d%b4%ed%8a%b8-%ec%9b%90%ed%99%94-%ec%8a%a4%ed%85%8c%ec%9d%b4%eb%b8%94%ec%bd%94%ec%9d%b8-%ea%b2%bd%ec%a0%9c%ec%a0%81-%ec%98%81%ed%96%a5-%eb%b6%84%ec%84%9d.html",
+      "summary": "보고서는 통화정책과 외환시장, 지급결제 제도 전반에 미칠 파급효과를 종합적으로 분석했다. Credit: toss insight 토스(운영사 비바리퍼블리카)의 금융경영연구소 ‘토스인사이트’가 4일 스테이블코인 3부작의 마지막 보고서인 「원화 스테이블코인 도입의 경제적 영향 분석 및 정책 제언」을 발간했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "애플 아이폰 17e에 맥세이프와 A19 탑재, 아쉬운 제한도 존재",
+      "title": "네이처 메디신 게재 연구, 챗GPT 신규 건강 서비스에 경고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.03",
-      "link": "https://www.itworld.co.kr/article/4139603/%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-17e%ec%97%90-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ec%99%80-a19-%ed%83%91%ec%9e%ac-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%a0%9c%ed%95%9c%eb%8f%84-%ec%a1%b4.html",
-      "summary": "신제품 아이폰 17e는 맥세이프를 지원하지만 최대 충전 속도는 제한됐고, A19는 전체 코어 구성이 아니다. Credit: Apple 애플이 3월 3일 자사 제품 발표 주간의 시작과 함께 아이폰 17e를 공개했다. 아이폰 17e는 지난해 출시된 아이폰 16e의 후속 모델로, 여러 실질적인 개선 사항이 반영됐다."
+      "date": "2026.03.04",
+      "link": "https://www.itworld.co.kr/article/4140216/%eb%84%a4%ec%9d%b4%ec%b2%98-%eb%a9%94%eb%94%94%ec%8b%a0-%ea%b2%8c%ec%9e%ac-%ec%97%b0%ea%b5%ac-%ec%b1%97gpt-%ec%8b%a0%ea%b7%9c-%ea%b1%b4%ea%b0%95-%ec%84%9c%eb%b9%84%ec%8a%a4%ec%97%90-%ea%b2%bd.html",
+      "summary": "연구 결과 챗GPT 헬스는 즉시 병원으로 이송해야 할 사례의 절반 이상에서 응급 진료 대신 자택 대기나 일반 외래 진료를 권고한 것으로 나타났다. Credit: Open AI 국제 학술지 네이처 메디신(Nature Medicine)에 게재된 한 연구가 오픈AI의 건강 상담 서비스 챗GPT 헬스 안전성에 우려를 제기했다."
     }
   ]
 }
