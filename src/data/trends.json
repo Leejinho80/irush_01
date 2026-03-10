@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-09T01:58:02.787Z",
-  "collectionDate": "2026.03.08",
-  "displayDate": "2026.03.09",
+  "updatedAt": "2026-03-10T01:50:36.999Z",
+  "collectionDate": "2026.03.09",
+  "displayDate": "2026.03.10",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "한국정보통신진흥협회 신임 상근부회장에 김정기 전 과기정통부 국장",
+      "title": "K-바이오헬스, 몸집 커졌지만 체력은 부실",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.08",
-      "link": "https://zdnet.co.kr/view/?no=20260309105037",
-      "summary": "한국정보통신진흥협회(KAIT) 신임 상근부회장에 김정기 전 과학기술정보통신부 국장이 취임했다. KAIT는 김 전 국장을 제11대 상근부회장으로 선임했다고 9일 밝혔다. 임기는 이날부터다. 김 신임 상근부회장은 서울대 제어계측공학과에서 학사와 석사 학위를 취득하고, 미국 버지니아 공대에서 컴퓨터공학 박사 학위를 받은 정보통신기술(ICT) 분야 전문가다."
+      "date": "2026.03.09",
+      "link": "https://zdnet.co.kr/view/?no=20260310104911",
+      "summary": "국내 바이오헬스산업 규모는 커졌지만, 허리 역할을 하는 중소 바이오텍의 극심한 자금난 등은 개선되지 않고 있는 것으로 나타났다. 한국보건사업진흥원의 3분기 바이오헬스산업 제조업체 329개 사(별도 기준)의 기업경영분석 결과에 따르면, 매출액은 15조3000억원으로 전년 같은 분기 대비 4.3% 증가했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "쿠팡, '게임 페스타' 진행…\"PS·닌텐도 한자리에\"",
+      "title": "파수, 구축형 LLM '엘름' 세계 시장서 선봬...'RSA 2026' 참가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.08",
-      "link": "https://zdnet.co.kr/view/?no=20260309100551",
-      "summary": "쿠팡은 글로벌 게임 및 디지털 브랜드가 참여하는 '쿠팡 게임 페스타'를 오는 15일까지 진행한다고 9일 밝혔다. 이번 행사는 ▲플레이스테이션 ▲닌텐도 ▲HP ▲레노버 ▲로지텍 ▲벤큐 ▲레이저 ▲앱코 등 국내외 주요 브랜드가 참여한다."
+      "date": "2026.03.09",
+      "link": "https://zdnet.co.kr/view/?no=20260310104844",
+      "summary": "파수(대표 조규곤)가 이달 23일부터 26일까지 미국 샌프란시스코에서 열리는 세계 최대 사이버보안 전시회 ‘RSAC 2026 콘퍼런스(이하 RSAC)’에 참가한다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "세라젬, KLPGA 공식 헬스케어 가전·안마의자 파트너 협약 체결",
+      "title": "\"여행을 10배 더 쉽고 편리하게\"...야놀자, 새 비전 선언",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.08",
-      "link": "https://zdnet.co.kr/view/?no=20260309090322",
-      "summary": "세라젬이 한국여자프로골프투어(KLPGA)와 2026 시즌 공식 헬스케어 가전 및 안마의자 파트너 협약을 체결했다고 9일 밝혔다. 세라젬은 한국프로골프협회(KPGA)와 올해 6년 연속 공식 스폰서십을 이어가고 있다. 이번 협약을 계기로 남녀 프로골프 투어를 아우르게 된 셈이다."
+      "date": "2026.03.09",
+      "link": "https://zdnet.co.kr/view/?no=20260310100556",
+      "summary": "야놀자는 창립 21주년을 맞아 인공지능(AI) 시대의 여행 산업 패러다임 변화를 선도하기 위한 새로운 성장 비전인 '야놀자 3.0'을 공식 선언했다고 10일 밝혔다. 2005년 출범한 야놀자는 창립 초기 생존과 기반 다지기에 주력했던 '야놀자1.0'과 모바일 기반의 전환을 통해 성장을 이룬 '야놀자2."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "로보락, 신제품 출시 10일 만에 매출 280억원 달성",
+      "title": "'B2B 성장 가속' LG전자, 아파트 맞춤형 AI홈 솔루션 공급 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.08",
-      "link": "https://zdnet.co.kr/view/?no=20260309100010",
-      "summary": "글로벌 스마트 홈 브랜드 로보락은 플래그십 로봇청소기 신제품 'S10 맥스V 울트라'가 출시 10일 만에 누적 매출 약 280억원을 기록했다고 9일 밝혔다. S10 맥스V 울트라는 지난 2월 27일 공식 판매를 시작한 후, 3월 8일까지 진행된 론칭 프로모션 기간 동안 약 280억원의 매출을 달성했다."
+      "date": "2026.03.09",
+      "link": "https://zdnet.co.kr/view/?no=20260310103059",
+      "summary": "LG전자가 아파트 맞춤형 인공지능(AI) 홈 솔루션 공급을 늘리고 있다. 이를 통해 B2B 사업 성장을 가속한다는 방침이다. LG전자는 지난해부터 포스코이앤씨 주거 브랜드 '더샵'에 공급해 온 씽큐온이 누적 1만 세대를 돌파했다고 10일 밝혔다. 씽큐 온은 생성형 AI를 탑재해 고객과 일상 언어로 대화하며 맥락을 이해하고, 생활 패턴을 학습·예측한다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "SK 웰니스 로봇 '나무엑스', 보안·경비 서비스 확장",
+      "title": "컬리, 봄 맞이 원더컬리 기획전…최대 88% 할인",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.08",
-      "link": "https://zdnet.co.kr/view/?no=20260309100950",
-      "summary": "SK인텔릭스는 지난 2일부터 5일(현지시각)까지 스페인 바르셀로나에서 열린 세계 최대 모바일 박람회 'MWC26'에 참가해 AI 웰니스 로보틱스 '나무엑스'를 공개했다고 9일 밝혔다. 전시 기간 현장 부스에는 글로벌 파트너사와 업계 관계자, 인플루언서, 크리에이터 등 총 7만5천 여 명이 방문했다."
+      "date": "2026.03.09",
+      "link": "https://zdnet.co.kr/view/?no=20260310101959",
+      "summary": "컬리가 이달 16일까지 3월 원더컬리 기획전을 열고 3000여 개 봄 제철 상품을 최대 88% 할인 판매한다. 원더컬리 기획전은 봄을 맞이해 제철 식탁을 준비하는 이들을 위한 ▲밀키트와 ▲채소 ▲수산물 등을 선보인다. 넷플릭스 '흑백요리사'로 이름을 알린 김도윤 셰프의 '윤서울 모둠나물면'을 컬리온리 상품으로 준비했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "기업이 여전히 멀티클라우드에 서툰 이유",
+      "title": "오픈AI의 코덱스 시큐리티, 한 달간 고위험 취약점 1만 1,000건 발견",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.08",
-      "link": "https://www.itworld.co.kr/article/4142138/%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%97%ac%ec%a0%84%ed%9e%88-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%84%9c%ed%88%b0-%ec%9d%b4%ec%9c%a0.html",
-      "summary": "대기업은 사실상 멀티클라우드가 기본이지만, 일관된 운영 모델로 구축한 경우는 드물다. 클라우드 선택의 문제가 아니다. Credit: Maximumm / Shutterstock 2026년 현재 필자가 접한 대부분 기업은 처음부터 명확한 전략을 세워 멀티클라우드를 도입한 것이 아니라, 현실에 떠밀려 멀티클라우드 환경에 들어섰다."
+      "date": "2026.03.09",
+      "link": "https://www.itworld.co.kr/article/4142728/%ec%98%a4%ed%94%88ai%ec%9d%98-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ec%8b%9c%ed%81%90%eb%a6%ac%ed%8b%b0-%ed%95%9c-%eb%8b%ac%ea%b0%84-%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-1000.html",
+      "summary": "AI 기반 애플리케이션 보안 도구가 초기 테스트에서 수백 건의 치명적 취약점과 수천 건의 고위험 문제를 식별한 것으로 나타났다. Credit: puhhha - Shutterstock."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "클라우드 아키텍트, IT 직군 중 최고 수준 연봉 기록",
+      "title": "오픈텍스트, 전력·수자원 인프라 운영기관 위한 ‘AI 준비 전략’ 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.08",
-      "link": "https://www.itworld.co.kr/article/4142127/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ed%8a%b8-it-%ec%a7%81%ea%b5%b0-%ec%a4%91-%ec%b5%9c%ea%b3%a0-%ec%88%98%ec%a4%80-%ec%97%b0%eb%b4%89-%ea%b8%b0%eb%a1%9d.html",
-      "summary": "클라우드 컴퓨팅 환경이 계속 변화해도 체계적인 아키텍처 설계 역량 필요성은 줄지 않는다. 플랫폼, 기업, 비용 구조를 동시에 정렬할 수 있는 인력은 여전히 부족하다. Credit: Shutterstock 필자는 클라우드 컴퓨팅 도구가 등장할 때마다 클라우드 직무의 부상과 쇠퇴를 지켜봤다."
+      "date": "2026.03.09",
+      "link": "https://www.itworld.co.kr/article/4141497/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%a0%84%eb%a0%a5%c2%b7%ec%88%98%ec%9e%90%ec%9b%90-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81%ea%b8%b0%ea%b4%80-%ec%9c%84%ed%95%9c-ai.html",
+      "summary": "오픈텍스트 코리아는 신뢰 기반 정보관리를 구축하면 전력·수자원 설비 운영의 효율성과 안정성을 동시에 높일 수 있다고 강조했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "앤트로픽, 공급망 위험 지정에 반발하며 미국 국방부와 대립 지속",
+      "title": "기업이 여전히 멀티클라우드에 서툰 이유",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.08",
-      "link": "https://www.itworld.co.kr/article/4142083/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ec%9c%84%ed%97%98-%ec%a7%80%ec%a0%95%ec%97%90-%eb%b0%98%eb%b0%9c%ed%95%98%eb%a9%b0-%eb%af%b8%ea%b5%ad-%ea%b5%ad%eb%b0%a9%eb%b6%80.html",
-      "summary": "앤트로픽 CEO 다리오 아모데이가 공급망 위험 지정이 철회되지 않을 경우 법적 대응 가능성을 시사했다. Credit: T. Schneider / Shutterstock 미국 국방부로부터 공급망 위험 기업으로 지정됐다는 공식 서한을 받은 후에도 엔트로픽은 물러서지 않겠다는 입장을 유지하고 있다."
+      "date": "2026.03.09",
+      "link": "https://www.itworld.co.kr/article/4142138/%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%97%ac%ec%a0%84%ed%9e%88-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%84%9c%ed%88%b0-%ec%9d%b4%ec%9c%a0.html",
+      "summary": "대기업은 사실상 멀티클라우드가 기본이지만, 일관된 운영 모델로 구축한 경우는 드물다. 클라우드 선택의 문제가 아니다. Credit: Maximumm / Shutterstock 2026년 현재 필자가 접한 대부분 기업은 처음부터 명확한 전략을 세워 멀티클라우드를 도입한 것이 아니라, 현실에 떠밀려 멀티클라우드 환경에 들어섰다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "PC 그래픽 카드 시장 재편…AMD·인텔 밀리고 엔비디아 독주",
+      "title": "클라우드 아키텍트, IT 직군 중 최고 수준 연봉 기록",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.08",
-      "link": "https://www.itworld.co.kr/article/4141462/pc-%ea%b7%b8%eb%9e%98%ed%94%bd-%ec%b9%b4%eb%93%9c-%ec%8b%9c%ec%9e%a5-%ec%9e%ac%ed%8e%b8amd%c2%b7%ec%9d%b8%ed%85%94-%eb%b0%80%eb%a6%ac%ea%b3%a0-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%8f%85.html",
-      "summary": "AMD의 고급 그래픽 카드 지원이 미온적 태도를 보이면서 사용자가 다른 선택으로 이동하고 있다는 분석이 나온다. Credit: Foundry PC 그래픽 카드 시장을 떠올리면 보통 엔비디아, AMD, 그리고 규모는 작지만 인텔까지 3개 기업을 떠올린다. 그런 시대는 끝났다는 분석이 제기됐다."
+      "date": "2026.03.09",
+      "link": "https://www.itworld.co.kr/article/4142127/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ed%8a%b8-it-%ec%a7%81%ea%b5%b0-%ec%a4%91-%ec%b5%9c%ea%b3%a0-%ec%88%98%ec%a4%80-%ec%97%b0%eb%b4%89-%ea%b8%b0%eb%a1%9d.html",
+      "summary": "클라우드 컴퓨팅 환경이 계속 변화해도 체계적인 아키텍처 설계 역량 필요성은 줄지 않는다. 플랫폼, 기업, 비용 구조를 동시에 정렬할 수 있는 인력은 여전히 부족하다. Credit: Shutterstock 필자는 클라우드 컴퓨팅 도구가 등장할 때마다 클라우드 직무의 부상과 쇠퇴를 지켜봤다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "워크데이, 2026회계연도 매출 95억 달러…AI 기반 인사·재무 플랫폼 성장 지속",
+      "title": "앤트로픽, 공급망 위험 지정에 반발하며 미국 국방부와 대립 지속",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.08",
-      "link": "https://www.itworld.co.kr/article/4140896/%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-2026%ed%9a%8c%ea%b3%84%ec%97%b0%eb%8f%84-%eb%a7%a4%ec%b6%9c-95%ec%96%b5-%eb%8b%ac%eb%9f%acai-%ea%b8%b0%eb%b0%98-%ec%9d%b8%ec%82%ac%c2%b7%ec%9e%ac.html",
-      "summary": "워크데이는 인사와 재무 업무에 인공지능을 확대 적용하며 향후 구독 매출 성장을 이어갈 것으로 전망했다. Credit: Workday 미국 캘리포니아 플레젠튼에 본사를 둔 기업용 인사·재무 인공지능 플랫폼 기업 워크데이가 2026년 1월 31일 마감된 2026회계연도 4분기 및 연간 실적을 발표했다."
+      "date": "2026.03.09",
+      "link": "https://www.itworld.co.kr/article/4142083/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ec%9c%84%ed%97%98-%ec%a7%80%ec%a0%95%ec%97%90-%eb%b0%98%eb%b0%9c%ed%95%98%eb%a9%b0-%eb%af%b8%ea%b5%ad-%ea%b5%ad%eb%b0%a9%eb%b6%80.html",
+      "summary": "앤트로픽 CEO 다리오 아모데이가 공급망 위험 지정이 철회되지 않을 경우 법적 대응 가능성을 시사했다. Credit: T. Schneider / Shutterstock 미국 국방부로부터 공급망 위험 기업으로 지정됐다는 공식 서한을 받은 후에도 엔트로픽은 물러서지 않겠다는 입장을 유지하고 있다."
     }
   ]
 }
