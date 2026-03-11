@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-10T01:50:36.999Z",
-  "collectionDate": "2026.03.09",
-  "displayDate": "2026.03.10",
+  "updatedAt": "2026-03-11T01:50:34.279Z",
+  "collectionDate": "2026.03.10",
+  "displayDate": "2026.03.11",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "K-바이오헬스, 몸집 커졌지만 체력은 부실",
+      "title": "페라리코리아, 인증 중고차 보증기간 '1년→2년' 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.09",
-      "link": "https://zdnet.co.kr/view/?no=20260310104911",
-      "summary": "국내 바이오헬스산업 규모는 커졌지만, 허리 역할을 하는 중소 바이오텍의 극심한 자금난 등은 개선되지 않고 있는 것으로 나타났다. 한국보건사업진흥원의 3분기 바이오헬스산업 제조업체 329개 사(별도 기준)의 기업경영분석 결과에 따르면, 매출액은 15조3000억원으로 전년 같은 분기 대비 4.3% 증가했다."
+      "date": "2026.03.10",
+      "link": "https://zdnet.co.kr/view/?no=20260311104209",
+      "summary": "페라리코리아가 11일 공식 인증 중고차 프로그램인 페라리 어프루브드 차량 기본 보증 기간을 기존 최소 1년에서 2년으로 확대한다고 밝혔다. 지난 3월 3일부터 페라리 어프루브드 프로그램에 가입되는 모든 차량에는 별도의 추가 비용이나 복잡한 절차 없이 24개월의 보증 서비스가 기본으로 적용된다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "파수, 구축형 LLM '엘름' 세계 시장서 선봬...'RSA 2026' 참가",
+      "title": "나이트라, 2750억원 투자 유치",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.09",
-      "link": "https://zdnet.co.kr/view/?no=20260310104844",
-      "summary": "파수(대표 조규곤)가 이달 23일부터 26일까지 미국 샌프란시스코에서 열리는 세계 최대 사이버보안 전시회 ‘RSAC 2026 콘퍼런스(이하 RSAC)’에 참가한다."
+      "date": "2026.03.10",
+      "link": "https://zdnet.co.kr/view/?no=20260311102352",
+      "summary": "나이트라(대표 팀 황)가 시리즈 A·B 라운드와 벤처 대출 등을 포함, 총 1억8700만 달러(약 2750억원) 규모의 자금을 유치했다고 11일 밝혔다. 나이트라의 누적 조달 금액은 총 2억500만 달러(약 3010억원)다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "\"여행을 10배 더 쉽고 편리하게\"...야놀자, 새 비전 선언",
+      "title": "지그재그, 컬러 큐레이션 기획전 진행",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.09",
-      "link": "https://zdnet.co.kr/view/?no=20260310100556",
-      "summary": "야놀자는 창립 21주년을 맞아 인공지능(AI) 시대의 여행 산업 패러다임 변화를 선도하기 위한 새로운 성장 비전인 '야놀자 3.0'을 공식 선언했다고 10일 밝혔다. 2005년 출범한 야놀자는 창립 초기 생존과 기반 다지기에 주력했던 '야놀자1.0'과 모바일 기반의 전환을 통해 성장을 이룬 '야놀자2."
+      "date": "2026.03.10",
+      "link": "https://zdnet.co.kr/view/?no=20260311101705",
+      "summary": "카카오스타일이 운영하는 스타일 커머스 플랫폼 지그재그는 이번 봄 시즌 트렌드로 '컬러의 해방'이 급부상함에 따라 '컬러 큐레이션' 기획전을 실시한다고 11일 밝혔다. '컬러의 해방' 트렌드는 ▲검정 ▲회색 ▲흰색 등 일상적으로 활용되던 무채색에서 벗어나 자신의 개성과 취향에 맞춰 원색, 파스텔 컬러 등 더 화려한 색상을 활용하는 것이 특징이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "'B2B 성장 가속' LG전자, 아파트 맞춤형 AI홈 솔루션 공급 확대",
+      "title": "네이트온, 일상·커머스 잇는 ‘생활 플랫폼’으로 진화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.09",
-      "link": "https://zdnet.co.kr/view/?no=20260310103059",
-      "summary": "LG전자가 아파트 맞춤형 인공지능(AI) 홈 솔루션 공급을 늘리고 있다. 이를 통해 B2B 사업 성장을 가속한다는 방침이다. LG전자는 지난해부터 포스코이앤씨 주거 브랜드 '더샵'에 공급해 온 씽큐온이 누적 1만 세대를 돌파했다고 10일 밝혔다. 씽큐 온은 생성형 AI를 탑재해 고객과 일상 언어로 대화하며 맥락을 이해하고, 생활 패턴을 학습·예측한다."
+      "date": "2026.03.10",
+      "link": "https://zdnet.co.kr/view/?no=20260311101233",
+      "summary": "네이트커뮤니케이션즈(대표 이종성)가 3월을 맞아 사용자 편의성과 비즈니스 효율성을 극대화한 네이트온 전면 개편을 실시한다고 11일 밝혔다. 이번 업데이트는 지난 1월 단행한 ‘소셜 로그인’ 도입의 후속 조치로, 서비스의 ‘개방성’을 실제 사용자의 ‘효능감’으로 연결하는 데 집중했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "컬리, 봄 맞이 원더컬리 기획전…최대 88% 할인",
+      "title": "경유 유가연동보조금 4월까지 연장…지급비율도 70% 상향",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.09",
-      "link": "https://zdnet.co.kr/view/?no=20260310101959",
-      "summary": "컬리가 이달 16일까지 3월 원더컬리 기획전을 열고 3000여 개 봄 제철 상품을 최대 88% 할인 판매한다. 원더컬리 기획전은 봄을 맞이해 제철 식탁을 준비하는 이들을 위한 ▲밀키트와 ▲채소 ▲수산물 등을 선보인다. 넷플릭스 '흑백요리사'로 이름을 알린 김도윤 셰프의 '윤서울 모둠나물면'을 컬리온리 상품으로 준비했다."
+      "date": "2026.03.10",
+      "link": "https://zdnet.co.kr/view/?no=20260311103725",
+      "summary": "국토교통부는 최근 중동 지역 정세 불안에 따른 국제유가 상승 등으로 국내 경유 가격이 상승함에 따라 교통·물류 업계의 유류비 부담을 경감하기 위해 지난 2월에 만료된 경유 유가연동보조금을 4월까지 2개월 연장하고 지급단가도 상향 조정한다고 11일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "오픈AI의 코덱스 시큐리티, 한 달간 고위험 취약점 1만 1,000건 발견",
+      "title": "“AI 과하면 부하 온다” 정신적 피로 ‘브레인 프라이’ 유발…HBR",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.09",
-      "link": "https://www.itworld.co.kr/article/4142728/%ec%98%a4%ed%94%88ai%ec%9d%98-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ec%8b%9c%ed%81%90%eb%a6%ac%ed%8b%b0-%ed%95%9c-%eb%8b%ac%ea%b0%84-%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-1000.html",
-      "summary": "AI 기반 애플리케이션 보안 도구가 초기 테스트에서 수백 건의 치명적 취약점과 수천 건의 고위험 문제를 식별한 것으로 나타났다. Credit: puhhha - Shutterstock."
+      "date": "2026.03.10",
+      "link": "https://www.itworld.co.kr/article/4143378/ai-%ea%b3%bc%ed%95%98%eb%a9%b4-%eb%b6%80%ed%95%98-%ec%98%a8%eb%8b%a4-%ec%a0%95%ec%8b%a0%ec%a0%81-%ed%94%bc%eb%a1%9c-%eb%b8%8c%eb%a0%88%ec%9d%b8-%ed%94%84%eb%9d%bc%ec%9d%b4.html",
+      "summary": "AI 도구 과도 사용이 정신적 피로 ‘브레인 프라이’를 유발할 수 있다는 연구 결과가 나왔다. Credit: Shutterstock AI를 과도하게 사용할 경우 뇌가 심하게 지치는 이른바 ‘브레인 프라이(brain fry)’ 현상이 나타날 수 있다는 연구 결과가 나왔다. 브레인 프라이는 AI 도구를 지나치게 사용할 때 발생하는 정신적 피로 상태를 의미한다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "오픈텍스트, 전력·수자원 인프라 운영기관 위한 ‘AI 준비 전략’ 제시",
+      "title": "오픈AI의 코덱스 시큐리티, 한 달간 고위험 취약점 1만 1,000건 발견",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.09",
-      "link": "https://www.itworld.co.kr/article/4141497/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%a0%84%eb%a0%a5%c2%b7%ec%88%98%ec%9e%90%ec%9b%90-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81%ea%b8%b0%ea%b4%80-%ec%9c%84%ed%95%9c-ai.html",
-      "summary": "오픈텍스트 코리아는 신뢰 기반 정보관리를 구축하면 전력·수자원 설비 운영의 효율성과 안정성을 동시에 높일 수 있다고 강조했다."
+      "date": "2026.03.10",
+      "link": "https://www.itworld.co.kr/article/4142728/%ec%98%a4%ed%94%88ai%ec%9d%98-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ec%8b%9c%ed%81%90%eb%a6%ac%ed%8b%b0-%ed%95%9c-%eb%8b%ac%ea%b0%84-%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-1000.html",
+      "summary": "AI 기반 애플리케이션 보안 도구가 초기 테스트에서 수백 건의 치명적 취약점과 수천 건의 고위험 문제를 식별한 것으로 나타났다. Credit: puhhha - Shutterstock."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "기업이 여전히 멀티클라우드에 서툰 이유",
+      "title": "오픈텍스트, 전력·수자원 인프라 운영기관 위한 ‘AI 준비 전략’ 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.09",
-      "link": "https://www.itworld.co.kr/article/4142138/%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%97%ac%ec%a0%84%ed%9e%88-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%84%9c%ed%88%b0-%ec%9d%b4%ec%9c%a0.html",
-      "summary": "대기업은 사실상 멀티클라우드가 기본이지만, 일관된 운영 모델로 구축한 경우는 드물다. 클라우드 선택의 문제가 아니다. Credit: Maximumm / Shutterstock 2026년 현재 필자가 접한 대부분 기업은 처음부터 명확한 전략을 세워 멀티클라우드를 도입한 것이 아니라, 현실에 떠밀려 멀티클라우드 환경에 들어섰다."
+      "date": "2026.03.10",
+      "link": "https://www.itworld.co.kr/article/4141497/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%a0%84%eb%a0%a5%c2%b7%ec%88%98%ec%9e%90%ec%9b%90-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81%ea%b8%b0%ea%b4%80-%ec%9c%84%ed%95%9c-ai.html",
+      "summary": "오픈텍스트 코리아는 신뢰 기반 정보관리를 구축하면 전력·수자원 설비 운영의 효율성과 안정성을 동시에 높일 수 있다고 강조했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "클라우드 아키텍트, IT 직군 중 최고 수준 연봉 기록",
+      "title": "기업이 여전히 멀티클라우드에 서툰 이유",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.09",
-      "link": "https://www.itworld.co.kr/article/4142127/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ed%8a%b8-it-%ec%a7%81%ea%b5%b0-%ec%a4%91-%ec%b5%9c%ea%b3%a0-%ec%88%98%ec%a4%80-%ec%97%b0%eb%b4%89-%ea%b8%b0%eb%a1%9d.html",
-      "summary": "클라우드 컴퓨팅 환경이 계속 변화해도 체계적인 아키텍처 설계 역량 필요성은 줄지 않는다. 플랫폼, 기업, 비용 구조를 동시에 정렬할 수 있는 인력은 여전히 부족하다. Credit: Shutterstock 필자는 클라우드 컴퓨팅 도구가 등장할 때마다 클라우드 직무의 부상과 쇠퇴를 지켜봤다."
+      "date": "2026.03.10",
+      "link": "https://www.itworld.co.kr/article/4142138/%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%97%ac%ec%a0%84%ed%9e%88-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%84%9c%ed%88%b0-%ec%9d%b4%ec%9c%a0.html",
+      "summary": "대기업은 사실상 멀티클라우드가 기본이지만, 일관된 운영 모델로 구축한 경우는 드물다. 클라우드 선택의 문제가 아니다. Credit: Maximumm / Shutterstock 2026년 현재 필자가 접한 대부분 기업은 처음부터 명확한 전략을 세워 멀티클라우드를 도입한 것이 아니라, 현실에 떠밀려 멀티클라우드 환경에 들어섰다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "앤트로픽, 공급망 위험 지정에 반발하며 미국 국방부와 대립 지속",
+      "title": "클라우드 아키텍트, IT 직군 중 최고 수준 연봉 기록",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.09",
-      "link": "https://www.itworld.co.kr/article/4142083/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ec%9c%84%ed%97%98-%ec%a7%80%ec%a0%95%ec%97%90-%eb%b0%98%eb%b0%9c%ed%95%98%eb%a9%b0-%eb%af%b8%ea%b5%ad-%ea%b5%ad%eb%b0%a9%eb%b6%80.html",
-      "summary": "앤트로픽 CEO 다리오 아모데이가 공급망 위험 지정이 철회되지 않을 경우 법적 대응 가능성을 시사했다. Credit: T. Schneider / Shutterstock 미국 국방부로부터 공급망 위험 기업으로 지정됐다는 공식 서한을 받은 후에도 엔트로픽은 물러서지 않겠다는 입장을 유지하고 있다."
+      "date": "2026.03.10",
+      "link": "https://www.itworld.co.kr/article/4142127/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%95%84%ed%82%a4%ed%85%8d%ed%8a%b8-it-%ec%a7%81%ea%b5%b0-%ec%a4%91-%ec%b5%9c%ea%b3%a0-%ec%88%98%ec%a4%80-%ec%97%b0%eb%b4%89-%ea%b8%b0%eb%a1%9d.html",
+      "summary": "클라우드 컴퓨팅 환경이 계속 변화해도 체계적인 아키텍처 설계 역량 필요성은 줄지 않는다. 플랫폼, 기업, 비용 구조를 동시에 정렬할 수 있는 인력은 여전히 부족하다. Credit: Shutterstock 필자는 클라우드 컴퓨팅 도구가 등장할 때마다 클라우드 직무의 부상과 쇠퇴를 지켜봤다."
     }
   ]
 }
