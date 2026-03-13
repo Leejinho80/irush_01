@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-12T01:55:31.422Z",
-  "collectionDate": "2026.03.11",
-  "displayDate": "2026.03.12",
+  "updatedAt": "2026-03-13T01:54:12.918Z",
+  "collectionDate": "2026.03.12",
+  "displayDate": "2026.03.13",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "정부, 전기차 화재 피해보상 제도 추진…‘전기차 화재안심보험’ 공모",
+      "title": "어도비 나라옌 CEO 물러난다…AI 위협에 소프트웨어 기업 ‘수장 교체’",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.11",
-      "link": "https://zdnet.co.kr/view/?no=20260312105501",
-      "summary": "정부가 전기차 화재로 인한 제3자 대물피해를 사고당 100억원 이상 보장하는 정책성 보험 제도를 마련하고 보험사업자 공모에 나섰다. 기후에너지환경부는 전기자동차 화재사고 발생 시 제3자 피해를 신속하게 지원할 수 있도록 ‘전기자동차 화재안심보험 보조금 업무처리지침’을 마련하고, 해당 사업을 수행할 보험사업자를 12일부터 27일까지 공모한다고 밝혔다."
+      "date": "2026.03.12",
+      "link": "https://zdnet.co.kr/view/?no=20260313104851",
+      "summary": "18년간 어도비를 이끈 샨타누 나라옌 최고경영자(CEO)가 물러난다. 인공지능(AI) 도구들의 공세에 서비스형 소프트웨어(SaaS) 기업들이 경영진 교체로 대응하는 흐름이 빨라지고 있다. 12일(현지시간) 어도비에 따르면 나라옌 CEO는 향후 수개월 내 후임자를 선정한 뒤 이사회 의장으로 활동할 계획이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "굽네치킨, 상생 경영 체계 강화...\"현장 의견 80% 정책 반영\"",
+      "title": "데이터브릭스, '지니 코드' 출시…데이터 엔지니어링 자동화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.11",
-      "link": "https://zdnet.co.kr/view/?no=20260312105326",
-      "summary": "지앤푸드가 운영하는 굽네치킨이 가맹점 전용 소통 플랫폼 ‘소통의 방’을 통해 점주 의견을 정책에 반영하는 상생 경영 체계를 강화하고 있다고 12일 밝혔다. ‘소통의 방’은 지난해 7월 열린 전국 가맹점주 간담회에서 제기된 “소통 창구를 넓혀 달라”는 요구를 반영해 점주 전용 시스템 내에 신설됐다."
+      "date": "2026.03.12",
+      "link": "https://zdnet.co.kr/view/?no=20260313104938",
+      "summary": "데이터브릭스가 데이터 업무 자동화를 확대하기 위해 인공지능(AI) 에이전트 플랫폼을 출시했다. 데이터브릭스는 데이터 파이프라인 구축과 디버깅, 대시보드, 배포 운영, 시스템 관리 등을 수행하는 AI 에이전트 '지니 코드'를 출시했다고 13일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "넥슨, 좀비 생존 신작 '낙원' 글로벌 비공개 알파 테스트 실시",
+      "title": "붓·만년필처럼 쓰는 애플펜슬 나올까",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.11",
-      "link": "https://zdnet.co.kr/view/?no=20260312105019",
-      "summary": "넥슨(공동대표 강대현·김정욱)은 좀비 생존 신작 '낙원: LAST PARADISE(이하 낙원)'의 글로벌 비공개 알파 테스트를 12일 시작했다고 밝혔다. 이번 테스트는 한국 시간 기준 오는 16일 오후 5시까지 5일간 글로벌 게임 플랫폼 스팀(Steam)을 통해 PC 버전으로 진행된다. 대상 지역은 북미와 동아시아, 남미 일부 국가다."
+      "date": "2026.03.12",
+      "link": "https://zdnet.co.kr/view/?no=20260313095155",
+      "summary": "애플이 애플펜슬의 필기감을 만년필이나 붓처럼 바꿀 수 있는 기술을 연구하고 있는 것으로 나타났다. IT매체 애플인사이더는 애플이 ‘조절 가능한 기능을 갖춘 스타일러스’라는 이름의 특허를 출원했다고 최근 보도했다. 해당 특허는 애플펜슬이 만년필이나 붓과 같은 다양한 필기 도구의 감각을 구현할 수 있도록 하는 기술을 담고 있다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "웨이브, tvN 토일 드라마 ‘대한민국에서 건물주 되는 법’ 동시 공개",
+      "title": "버즈니, IT·AI 업계서 'AI회의록' 가장 많이 쓴다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.11",
-      "link": "https://zdnet.co.kr/view/?no=20260312100628",
-      "summary": "웨이브(Wavve)는 드라마 ‘대한민국에서 건물주 되는 법’과 예능 ‘예측불가’를 동시 공개하며 주말 콘텐츠 라인업을 강화한다고 12일 밝혔다. 오는 14일 처음 공개되는 하정우, 임수정, 김준한, 정수정, 심은경 주연의 새 토일드라마 '대한민국에서 건물주 되는 법'은 웨이브가 처음 선보이는 tvN 토일드라마다."
+      "date": "2026.03.12",
+      "link": "https://zdnet.co.kr/view/?no=20260313103938",
+      "summary": "버즈니(대표 남상협·김성국)에 따르면 AI 회의록 서비스를 가장 많이 이용하는 업종은 ‘IT·AI 업계’로 조사됐다. AI회의록은 버튼 하나로 회의를 녹음하면, AI가 자동으로 회의 내용을 요약 정리해 주는 서비스다. 버즈니가 자사 AI회의록 Knoi(이하 노이) 이용자를 분석한 결과 IT서비스 트렌드에 민감한 IT·AI·SaaS 기업이 전체의 16."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "국민 누구나 AI 쉽게 쓰고 배운다",
+      "title": "IPO 앞둔 英 엔스케일, 美 AI 데이터센터 부지 인수 추진…인프라 시장 진출 속도",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.11",
-      "link": "https://zdnet.co.kr/view/?no=20260312104945",
-      "summary": "모든 국민의 AI 활용역량을 강화하고 AI를 일상화하는 방안이 추진된다. AI가 일상 속 범용 기술로 자리를 잡고 있지만 연령과 계층에 따른 활용 차이는 새로운 불평등 요인으로 부각되면서 과학기술관계장관회의에서 관계부처 합동으로 모든 국민이 부담 없이 AI를 일상에서 잘 활용할 수 있도록 하는 지원 체계가 마련된 것이다."
+      "date": "2026.03.12",
+      "link": "https://zdnet.co.kr/view/?no=20260313103524",
+      "summary": "엔비디아의 지원을 받는 영국 기반 인공지능(AI) 클라우드 기업 엔스케일(Nscale)이 미국에서 대형 AI 데이터센터 부지 인수를 추진하며 미국 인프라 시장 진출을 본격화하고 있다. 13일 IT 전문매체 디인포메이션에 따르면 엔스케일은 미국 웨스트버지니아주 메이슨카운티에 위치한 AI 데이터센터 개발 부지 인수를 놓고 협상을 진행 중이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 전문 네오클라우드를 멀티클라우드의 일부로 운영해야 하는 이유",
+      "title": "리미니스트리트, ‘2026 리미니스트리트 서밋’ 개최…AI 기반 ERP 혁신 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.11",
-      "link": "https://www.itworld.co.kr/article/4143413/ai-%ec%a0%84%eb%ac%b8-%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%eb%a5%bc-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%9d%98-%ec%9d%bc%eb%b6%80%eb%a1%9c-%ec%9a%b4%ec%98%81.html",
-      "summary": "네오클라우드를 멀티클라우드 환경의 정식 구성원으로 편입하면 복잡성을 더 키우지 않으면서도 AI 전문 클라우드의 강점을 활용할 수 있다. Credit: Rob Schultz / Shutterstock 기업은 클라우드 예산을 폭증시키지 않으면서도 눈에 보이고 측정 가능하며 반복 가능한 AI 성과를 내야 한다는 강한 압박을 받고 있다."
+      "date": "2026.03.12",
+      "link": "https://www.itworld.co.kr/article/4144679/%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-2026-%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-%ec%84%9c%eb%b0%8b-%ea%b0%9c%ec%b5%9cai.html",
+      "summary": "리미니스트리트가 연례 행사를 통해 ERP·인프라 최적화를 기반으로 AI 혁신 실행 전략을 제시했다 Credit: Rimini Street 엔드투엔드 엔터프라이즈 소프트웨어 지원 기업 리미니스트리트 한국지사(지사장 김형욱)가 12일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 연례 행사 ‘2026 리미니스트리트 서밋’을 개최했다고 밝혔다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“AI 과하면 부하 온다” 정신적 피로 ‘브레인 프라이’ 유발…HBR",
+      "title": "아틀라시안, AI 투자 확대 위해 1,600명 감원",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.11",
-      "link": "https://www.itworld.co.kr/article/4143378/ai-%ea%b3%bc%ed%95%98%eb%a9%b4-%eb%b6%80%ed%95%98-%ec%98%a8%eb%8b%a4-%ec%a0%95%ec%8b%a0%ec%a0%81-%ed%94%bc%eb%a1%9c-%eb%b8%8c%eb%a0%88%ec%9d%b8-%ed%94%84%eb%9d%bc%ec%9d%b4.html",
-      "summary": "AI 도구 과도 사용이 정신적 피로 ‘브레인 프라이’를 유발할 수 있다는 연구 결과가 나왔다. Credit: Shutterstock AI를 과도하게 사용할 경우 뇌가 심하게 지치는 이른바 ‘브레인 프라이(brain fry)’ 현상이 나타날 수 있다는 연구 결과가 나왔다. 브레인 프라이는 AI 도구를 지나치게 사용할 때 발생하는 정신적 피로 상태를 의미한다."
+      "date": "2026.03.12",
+      "link": "https://www.itworld.co.kr/article/4144644/%ec%95%84%ed%8b%80%eb%9d%bc%ec%8b%9c%ec%95%88-ai-%ed%88%ac%ec%9e%90-%ed%99%95%eb%8c%80-%ec%9c%84%ed%95%b4-1600%eb%aa%85-%ea%b0%90%ec%9b%90.html",
+      "summary": "아틀라시안 공동 CEO 마이크 캐넌 브룩스는 AI 투자와 엔터프라이즈 사업 확대를 위해 1,600명 감원을 단행했으며 AI가 필요한 역량과 인력 구조를 바꾸고 있다고 밝혔다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "오픈AI의 코덱스 시큐리티, 한 달간 고위험 취약점 1만 1,000건 발견",
+      "title": "맥북 네오 분해해보니…애플 노트북 중 수리 편의성 단연 높아",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.11",
-      "link": "https://www.itworld.co.kr/article/4142728/%ec%98%a4%ed%94%88ai%ec%9d%98-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ec%8b%9c%ed%81%90%eb%a6%ac%ed%8b%b0-%ed%95%9c-%eb%8b%ac%ea%b0%84-%ea%b3%a0%ec%9c%84%ed%97%98-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-1000.html",
-      "summary": "AI 기반 애플리케이션 보안 도구가 초기 테스트에서 수백 건의 치명적 취약점과 수천 건의 고위험 문제를 식별한 것으로 나타났다. Credit: puhhha - Shutterstock."
+      "date": "2026.03.12",
+      "link": "https://www.itworld.co.kr/article/4144629/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%eb%b6%84%ed%95%b4%ed%95%b4%eb%b3%b4%eb%8b%88%ec%95%a0%ed%94%8c-%eb%85%b8%ed%8a%b8%eb%b6%81-%ec%a4%91-%ec%88%98%eb%a6%ac-%ed%8e%b8%ec%9d%98%ec%84%b1.html",
+      "summary": "합리적 가격에 단순 설계를 적용한 애플 맥북 네오가 높은 수리 용이성을 드러냈다. Credit: Foundry Macworld의 리뷰에서는 맥북 네오를 맥 입문용 제품으로 평가했다. 그러나 예상보다 낮은 가격의 맥북 네오를 긍정적으로 보이게 만드는 요소가 한 가지 더 확인됐다. 맥북 네오 첫 분해 영상에서 수리 용이성이 높은 수준으로 드러난 것이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "오픈텍스트, 전력·수자원 인프라 운영기관 위한 ‘AI 준비 전략’ 제시",
+      "title": "앤트로픽, AI 사회·경제 영향 연구하는 싱크탱크 설립",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.11",
-      "link": "https://www.itworld.co.kr/article/4141497/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%a0%84%eb%a0%a5%c2%b7%ec%88%98%ec%9e%90%ec%9b%90-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81%ea%b8%b0%ea%b4%80-%ec%9c%84%ed%95%9c-ai.html",
-      "summary": "오픈텍스트 코리아는 신뢰 기반 정보관리를 구축하면 전력·수자원 설비 운영의 효율성과 안정성을 동시에 높일 수 있다고 강조했다."
+      "date": "2026.03.12",
+      "link": "https://www.itworld.co.kr/article/4144057/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%82%ac%ed%9a%8c%c2%b7%ea%b2%bd%ec%a0%9c-%ec%98%81%ed%96%a5-%ec%97%b0%ea%b5%ac%ed%95%98%eb%8a%94-%ec%8b%b1%ed%81%ac%ed%83%b1%ed%81%ac-%ec%84%a4%eb%a6%bd.html",
+      "summary": "미국 국방부와 갈등이 이어지는 가운데 앤트로픽이 AI가 경제와 사회에 미칠 영향을 분석하기 위해 새로운 연구소를 설립했다. Credit: T. Schneider / Shutterstock 미국 국방부와 AI 안전장치 문제로 갈등을 겪은 직후 앤트로픽이 새로운 계획을 내놓았다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "기업이 여전히 멀티클라우드에 서툰 이유",
+      "title": "AI 전문 네오클라우드를 멀티클라우드의 일부로 운영해야 하는 이유",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.11",
-      "link": "https://www.itworld.co.kr/article/4142138/%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%97%ac%ec%a0%84%ed%9e%88-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%84%9c%ed%88%b0-%ec%9d%b4%ec%9c%a0.html",
-      "summary": "대기업은 사실상 멀티클라우드가 기본이지만, 일관된 운영 모델로 구축한 경우는 드물다. 클라우드 선택의 문제가 아니다. Credit: Maximumm / Shutterstock 2026년 현재 필자가 접한 대부분 기업은 처음부터 명확한 전략을 세워 멀티클라우드를 도입한 것이 아니라, 현실에 떠밀려 멀티클라우드 환경에 들어섰다."
+      "date": "2026.03.12",
+      "link": "https://www.itworld.co.kr/article/4143413/ai-%ec%a0%84%eb%ac%b8-%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%eb%a5%bc-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%9d%98-%ec%9d%bc%eb%b6%80%eb%a1%9c-%ec%9a%b4%ec%98%81.html",
+      "summary": "네오클라우드를 멀티클라우드 환경의 정식 구성원으로 편입하면 복잡성을 더 키우지 않으면서도 AI 전문 클라우드의 강점을 활용할 수 있다. Credit: Rob Schultz / Shutterstock 기업은 클라우드 예산을 폭증시키지 않으면서도 눈에 보이고 측정 가능하며 반복 가능한 AI 성과를 내야 한다는 강한 압박을 받고 있다."
     }
   ]
 }
