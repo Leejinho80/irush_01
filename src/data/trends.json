@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-16T02:10:00.210Z",
-  "collectionDate": "2026.03.15",
-  "displayDate": "2026.03.16",
+  "updatedAt": "2026-03-17T01:57:19.094Z",
+  "collectionDate": "2026.03.16",
+  "displayDate": "2026.03.17",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "오토노머스에이투지, 부산 대중교통 자율주행화 앞장선다",
+      "title": "한국의결권자문, 최윤범 고려아연 회장 사내이사 선임 '찬성' 권고",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.15",
-      "link": "https://zdnet.co.kr/view/?no=20260316110250",
-      "summary": "자율주행 기업 오토노머스에이투지(에이투지)가 부산광역시버스운송사업조합과 '자율주행 기반 대중교통 혁신을 위한 상생 협력 업무협약(MOU)'을 체결했다고 16일 밝혔다. 이번 협약은 첨단 자율주행 기술과 기존 대중교통 운영 경험을 결합해 부산의 자율주행 대중교통 서비스를 혁신하고, 미래 교통 환경에 대응하는 협력 체계를 구축하고자 마련됐다."
+      "date": "2026.03.16",
+      "link": "https://zdnet.co.kr/view/?no=20260317103035",
+      "summary": "고려아연은 한국의결권자문이 오는 24일 열리는 회사 정기주주총회를 앞두고 발간한 의안분석보고서에서 최윤범 회장의 사내이사 선임 찬성을 비롯해 고려아연 측이 추천한 이사 전원에 대해 찬성을 권고했다고 17일 밝혔다. 한국의결권자문은 이사 선임안 외에도 고려아연 측 안건 대부분에 찬성했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "BBQ, 케냐에 중학교 세워…아프리카 교육 지원 확대",
+      "title": "프리윌린, 개발 인력 채용...\"AI 교육 인프라 강화\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.15",
-      "link": "https://zdnet.co.kr/view/?no=20260316090149",
-      "summary": "제너시스BBQ 그룹이 사회공헌활동 ‘아이러브아프리카’를 통해 케냐에 중학교를 건립했다고 16일 밝혔다. BBQ에 따르면 이번에 문을 연 학교는 케냐 카지아도 카운티 노레텟 마사이 부족 지역의 ‘노레텟 중학교’다. 지난 2024년 건축을 시작해 올해 1월 완공됐으며, 현재 운영에 들어갔다."
+      "date": "2026.03.16",
+      "link": "https://zdnet.co.kr/view/?no=20260317105513",
+      "summary": "인공지능(AI) 기반 교육 솔루션 기업 프리윌린(대표 권기성)이 AI 교육 인프라 강화와 서비스 확장을 위해 개발 인력을 대규모로 채용한다고 17일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "쿠첸, 호텔협회와 밥솥 공급 맞손",
+      "title": "세라젬, 슬립테크 팝업 '파인 슬리핑 엑스포' 참여",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.15",
-      "link": "https://zdnet.co.kr/view/?no=20260316110015",
-      "summary": "주방가전기업 쿠첸은 한국호텔업협회와 대한민국 밥맛의 가치와 건강한 식문화 확산을 위한 업무협약(MOU)을 체결했다고 16일 밝혔다. 협약식은 지난 13일 서울 중구 한국호텔업협회에서 열렸다. 유용종 한국호텔업협회 회장과 황정아 쿠첸 마케팅본부 본부장이 참석했다."
+      "date": "2026.03.16",
+      "link": "https://zdnet.co.kr/view/?no=20260317102928",
+      "summary": "세라젬이 현대백화점 판교점에서 22일까지 열리는 ‘파인 슬리핑 엑스포’에 참여한다고 17일 밝혔다. ‘파인 슬리핑 엑스포’는 현대백화점과 슬립테크 기업 에이슬립이 세계 수면의 날을 기념해 공동 주최한 수면 체험형 팝업 행사다. 세라젬을 비롯해 삼성전자, 카카오헬스케어, 경동나비엔 등 총 11개 기업이 참여해 다양한 수면 관련 기술과 제품을 선보인다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "트럼프 \"中 호르무즈 개방 압박 안하면 정상회담 연기\"",
+      "title": "전주대학교, '농생명 AX 융합연구 세미나' 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.15",
-      "link": "https://zdnet.co.kr/view/?no=20260316094843",
-      "summary": "미국 도널드 트럼프 대통령이 중국에 호르무즈 개방에 대한 협력을 압박했다. 15일(현지시간) 로이터 등에 따르면, 트럼프 대통령은 파이낸셜타임스와의 인터뷰에서 \"중국도 호르무즈 해협에서 석유의 90%를 수입하기 때문에 (개방 압박에) 협조해야 한다\"고 밝혔다."
+      "date": "2026.03.16",
+      "link": "https://zdnet.co.kr/view/?no=20260317104632",
+      "summary": "전주대학교는 농생명 분야와 인공지능(AI)을 결합한 ‘농생명 AX’ 융합연구 방향을 공유하고 산·학·연 협력 기반을 마련하기 위해 지난 12일 ‘농생명 AX 융합연구 세미나’를 개최했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "KISA, SW공급망 보안 모델 구축 40억 지원...8개 과제 시행",
+      "title": "네이버웹툰 \"글로벌 창작 생태계 위해 올해 700억원 이상 투자\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.15",
-      "link": "https://zdnet.co.kr/view/?no=20260315161232",
-      "summary": "한국인터넷진흥원(KISA, 원장 이상중)이 올해 40억 원을 투입해 소프트웨어(SW) 공급망 보안모델 구축 지원에 나선다. 작년에 이은 2년차 사업이다. 지원 과제는 총 8개다. 작년과 달리 올해는 (공급망 보안) 위협 모니터링 및 대응체계 구축의 2개 과제를 새로 만들었다. 작년과 동일한 (공급망 보안) 관리체계 구축 과제는 6개다."
+      "date": "2026.03.16",
+      "link": "https://zdnet.co.kr/view/?no=20260317102733",
+      "summary": "네이버웹툰이 창작자 지원과 콘텐츠 확장을 중심으로 글로벌 웹툰 생태계 강화에 나선다. 회사는 최근 5년간 창작자에게 4조원 이상을 배분한 성과를 공개하며, 창작자·콘텐츠·이용자가 선순환하는 ‘플라이휠’ 전략을 기반으로 UGC 확대와 영상 포맷 확장, 소셜 기능 강화 등을 올해 핵심 사업 방향으로 제시했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“AI 코딩 공장의 역설” 남는 것은 취약한 시스템과 폭증한 운영 비용",
+      "title": "애플, 에어팟 맥스 2 깜짝 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.15",
-      "link": "https://www.itworld.co.kr/article/4145317/ai-%ec%bd%94%eb%94%a9-%ea%b3%b5%ec%9e%a5%ec%9d%98-%ec%97%ad%ec%84%a4-%eb%82%a8%eb%8a%94-%ea%b2%83%ec%9d%80-%ec%b7%a8%ec%95%bd%ed%95%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c%ea%b3%bc-%ed%8f%ad.html",
-      "summary": "개발자를 LLM으로 대체하려는 움직임이 취약한 시스템과 통제 불능의 클라우드 비용, 그리고 고통스러운 재구축 부담을 남기고 있다. Credit: D. Sinclair Terrasidius 지난 몇 년 동안 필자는 이사회 회의실에서 같은 이야기가 스스로 설득력을 얻는 장면을 지켜봤다. “소프트웨어는 곧 공짜가 될 것이다”라는 이야기이다."
+      "date": "2026.03.16",
+      "link": "https://www.itworld.co.kr/article/4145979/%ec%95%a0%ed%94%8c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2-%ea%b9%9c%ec%a7%9d-%ea%b3%b5%ea%b0%9c.html",
+      "summary": "에어팟 맥스 2는 H2 칩을 탑재해 노이즈 캔슬링과 적응형 오디오 기능을 강화했지만 디자인과 가격은 기존 모델과 동일하게 유지했다. Credit: Apple 애플이 1세대 에어팟 맥스 출시 후 5년 이상, 라이트닝 단자를 USB-C로 교체한 소규모 개편 이후 18개월 만에 에어팟 맥스 2를 공개했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "리미니스트리트, ‘2026 리미니스트리트 서밋’ 개최…AI 기반 ERP 혁신 전략 제시",
+      "title": "오픈텍스트, AI 기반 콘텐츠 관리로 금융권 정보 거버넌스 강화 지원",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.15",
-      "link": "https://www.itworld.co.kr/article/4144679/%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-2026-%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-%ec%84%9c%eb%b0%8b-%ea%b0%9c%ec%b5%9cai.html",
-      "summary": "리미니스트리트가 연례 행사를 통해 ERP·인프라 최적화를 기반으로 AI 혁신 실행 전략을 제시했다 Credit: Rimini Street 엔드투엔드 엔터프라이즈 소프트웨어 지원 기업 리미니스트리트 한국지사(지사장 김형욱)가 12일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 연례 행사 ‘2026 리미니스트리트 서밋’을 개최했다고 밝혔다."
+      "date": "2026.03.16",
+      "link": "https://www.itworld.co.kr/article/4145959/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ea%b8%b0%eb%b0%98-%ec%bd%98%ed%85%90%ec%b8%a0-%ea%b4%80%eb%a6%ac%eb%a1%9c-%ea%b8%88%ec%9c%b5%ea%b6%8c-%ec%a0%95%eb%b3%b4-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
+      "summary": "오픈텍스트가 분산된 금융 문서와 데이터를 통합 관리해 금융기관의 규제 대응과 업무 자동화를 지원할 것이라고 밝혔다. Credit: Sundry Photography - shutterstock.com 국내 금융권의 디지털 전환이 가속화되면서 방대한 금융 데이터를 안전하게 관리하고 활용하기 위한 지능형 콘텐츠 관리의 중요성이 커지고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "아틀라시안, AI 투자 확대 위해 1,600명 감원",
+      "title": "MSI, 메모리 위기 장기화 속 PC 가격 최대 30% 인상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.15",
-      "link": "https://www.itworld.co.kr/article/4144644/%ec%95%84%ed%8b%80%eb%9d%bc%ec%8b%9c%ec%95%88-ai-%ed%88%ac%ec%9e%90-%ed%99%95%eb%8c%80-%ec%9c%84%ed%95%b4-1600%eb%aa%85-%ea%b0%90%ec%9b%90.html",
-      "summary": "아틀라시안 공동 CEO 마이크 캐넌 브룩스는 AI 투자와 엔터프라이즈 사업 확대를 위해 1,600명 감원을 단행했으며 AI가 필요한 역량과 인력 구조를 바꾸고 있다고 밝혔다."
+      "date": "2026.03.16",
+      "link": "https://www.itworld.co.kr/article/4145944/msi-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%9c%84%ea%b8%b0-%ec%9e%a5%ea%b8%b0%ed%99%94-%ec%86%8d-pc-%ea%b0%80%ea%b2%a9-%ec%b5%9c%eb%8c%80-30-%ec%9d%b8%ec%83%81.html",
+      "summary": "MSI가 DDR4 메인보드 생산을 확대하는 동시에 고가·고마진 하드웨어 비중을 높이고 있다고 밝혔다. Credit: Foundry / Mark Knapp 2026년 합리적인 예산 범위에서 게이밍 하드웨어를 찾는 사용자에게는 현실적으로 선택지가 많지 않다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "맥북 네오 분해해보니…애플 노트북 중 수리 편의성 단연 높아",
+      "title": "“AI 코딩 공장의 역설” 남는 것은 취약한 시스템과 폭증한 운영 비용",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.15",
-      "link": "https://www.itworld.co.kr/article/4144629/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%eb%b6%84%ed%95%b4%ed%95%b4%eb%b3%b4%eb%8b%88%ec%95%a0%ed%94%8c-%eb%85%b8%ed%8a%b8%eb%b6%81-%ec%a4%91-%ec%88%98%eb%a6%ac-%ed%8e%b8%ec%9d%98%ec%84%b1.html",
-      "summary": "합리적 가격에 단순 설계를 적용한 애플 맥북 네오가 높은 수리 용이성을 드러냈다. Credit: Foundry Macworld의 리뷰에서는 맥북 네오를 맥 입문용 제품으로 평가했다. 그러나 예상보다 낮은 가격의 맥북 네오를 긍정적으로 보이게 만드는 요소가 한 가지 더 확인됐다. 맥북 네오 첫 분해 영상에서 수리 용이성이 높은 수준으로 드러난 것이다."
+      "date": "2026.03.16",
+      "link": "https://www.itworld.co.kr/article/4145317/ai-%ec%bd%94%eb%94%a9-%ea%b3%b5%ec%9e%a5%ec%9d%98-%ec%97%ad%ec%84%a4-%eb%82%a8%eb%8a%94-%ea%b2%83%ec%9d%80-%ec%b7%a8%ec%95%bd%ed%95%9c-%ec%8b%9c%ec%8a%a4%ed%85%9c%ea%b3%bc-%ed%8f%ad.html",
+      "summary": "개발자를 LLM으로 대체하려는 움직임이 취약한 시스템과 통제 불능의 클라우드 비용, 그리고 고통스러운 재구축 부담을 남기고 있다. Credit: D. Sinclair Terrasidius 지난 몇 년 동안 필자는 이사회 회의실에서 같은 이야기가 스스로 설득력을 얻는 장면을 지켜봤다. “소프트웨어는 곧 공짜가 될 것이다”라는 이야기이다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "앤트로픽, AI 사회·경제 영향 연구하는 싱크탱크 설립",
+      "title": "리미니스트리트, ‘2026 리미니스트리트 서밋’ 개최…AI 기반 ERP 혁신 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.15",
-      "link": "https://www.itworld.co.kr/article/4144057/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%82%ac%ed%9a%8c%c2%b7%ea%b2%bd%ec%a0%9c-%ec%98%81%ed%96%a5-%ec%97%b0%ea%b5%ac%ed%95%98%eb%8a%94-%ec%8b%b1%ed%81%ac%ed%83%b1%ed%81%ac-%ec%84%a4%eb%a6%bd.html",
-      "summary": "미국 국방부와 갈등이 이어지는 가운데 앤트로픽이 AI가 경제와 사회에 미칠 영향을 분석하기 위해 새로운 연구소를 설립했다. Credit: T. Schneider / Shutterstock 미국 국방부와 AI 안전장치 문제로 갈등을 겪은 직후 앤트로픽이 새로운 계획을 내놓았다."
+      "date": "2026.03.16",
+      "link": "https://www.itworld.co.kr/article/4144679/%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-2026-%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-%ec%84%9c%eb%b0%8b-%ea%b0%9c%ec%b5%9cai.html",
+      "summary": "리미니스트리트가 연례 행사를 통해 ERP·인프라 최적화를 기반으로 AI 혁신 실행 전략을 제시했다 Credit: Rimini Street 엔드투엔드 엔터프라이즈 소프트웨어 지원 기업 리미니스트리트 한국지사(지사장 김형욱)가 12일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 연례 행사 ‘2026 리미니스트리트 서밋’을 개최했다고 밝혔다."
     }
   ]
 }
