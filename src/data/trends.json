@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-22T02:02:17.551Z",
-  "collectionDate": "2026.03.21",
-  "displayDate": "2026.03.22",
+  "updatedAt": "2026-03-23T02:03:02.763Z",
+  "collectionDate": "2026.03.22",
+  "displayDate": "2026.03.23",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"이모티콘, 직장 내 상사와 대화에서도 긍정적 영향\"",
+      "title": "\"석유 최고가격제, 단기 활용 적합…장기화 시 부작용\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.21",
-      "link": "https://zdnet.co.kr/view/?no=20260322103738",
-      "summary": "직장 내 상사와의 대화에서도 이모티콘이 긍정적 효과를 낸다는 연구 결과가 나왔다. 이모티콘을 사용할 경우 상대에 대한 호감도는 15.9%, 업무적 유능성 평가는 8~9% 높아지는 것으로 나타났다. 카카오(대표 정신아)는 플랫폼 서비스가 우리 사회와 일상에 가져온 긍정적인 변화를 학계 연구를 통해 체계적으로 짚어보는 시간을 가졌다."
+      "date": "2026.03.22",
+      "link": "https://zdnet.co.kr/view/?no=20260323090248",
+      "summary": "정유사의 공급 가격에 상한을 두는 석유 최고가격제에 대해 단기적 관점에서 가격 급등 억제와 소비자 부담 완화 효과가 클 것으로 예상됐다. 다만 중·장기적으로 시장 왜곡과 공급 축소를 초래할 가능성이 있어 단기적 활용이 바람직하다는 분석이 나타났다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "\"20대는 매주 월요일 스타벅스 음료 20% 할인\"",
+      "title": "컴투스홀딩스-서울경제진흥원, 우수 게임 발굴 및 글로벌 진출 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.21",
-      "link": "https://zdnet.co.kr/view/?no=20260322102845",
-      "summary": "스타벅스 코리아(대표 손정현)가 20대 대상 전용 서비스 ‘디어 트웬티(Dear 20)’를 오는 26일부터 시범 운영한다고 22일 밝혔다. 디어 트웬디는 사회에 첫발을 내딛는 20대 고객들을 응원하기 위해 기획됐다."
+      "date": "2026.03.22",
+      "link": "https://zdnet.co.kr/view/?no=20260323104811",
+      "summary": "컴투스홀딩스(대표 정철호)는 서울경제진흥원(SBA)과 우수 게임 발굴 및 글로벌 퍼블리싱 지원을 위한 업무협약을 체결했다고 23일 밝혔다. 이번 협약에 따라 컴투스홀딩스는 서울경제진흥원과 협력해 우수한 개발력과 창의적인 아이디어를 보유한 서울 소재의 게임 기업을 발굴하고, 이들이 글로벌 시장에 성공적으로 진출할 수 있도록 지원에 나선다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "패션돌 '브랏츠', 제페토 아바타로 탄생",
+      "title": "LG전자, '류재철 체제' 출범…자사주 소각·배당 확대로 주주가치 제고",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.21",
-      "link": "https://zdnet.co.kr/view/?no=20260322102112",
-      "summary": "네이버제트(대표 김창욱)는 누적 가입자 4억 명을 보유한 글로벌 아바타 소셜 플랫폼 제페토(ZEPETO)가 MGA 엔터테인먼트의 아이코닉하고 트렌디한 패션 인형 브랜드 브랏츠(Bratz)와 협업을 진행하고, '브랏츠 x 제페토 콘테스트'를 개최한다고 22일 밝혔다."
+      "date": "2026.03.22",
+      "link": "https://zdnet.co.kr/view/?no=20260323104636",
+      "summary": "LG전자가 23일 서울 여의도 LG트윈타워에서 제24기 정기 주주총회를 개최하고 류재철 사장의 사내이사 선임과 주주 환원 정책 강화 안건을 의결했다. 이번 주총을 통해 지난해 말 임원 인사에서 CEO로 부임한 류 사장의 이사회 진입이 확정되면서 ‘류재철 체제’가 본격적인 막을 올렸다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "롯데에너지머티-두산전자BG, 고성능 PCB용 동박 공급 협력",
+      "title": "그라비티, 북미 게임쇼 'PAX EAST 2026' 참가…PC·콘솔 타이틀 12종 출품",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.21",
-      "link": "https://zdnet.co.kr/view/?no=20260322100454",
-      "summary": "두산전자BG와 롯데에너지머티리얼즈가 인공지능(AI) 데이터센터 및 네트워크 장비용 고성능 인쇄회로기판(PCB) 생산에 필요한 동박 개발 평가 및 공급 협력을 위한 양해각서를 체결했다고 22일 밝혔다."
+      "date": "2026.03.22",
+      "link": "https://zdnet.co.kr/view/?no=20260323105515",
+      "summary": "그라비티가 북미 지역 대표 게임 축제 'PAX EAST 2026(팍스 이스트 2026)'에 참가해 본격적인 북미 시장 공략에 나선다고 23일 밝혔다. 올해 PAX EAST 2026은 현지 시간으로 오는 26일부터 29일까지 미국 보스턴 컨벤션&전시 센터에서 개최된다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "테슬라, 연내 자율주행 100억 마일 돌파…현대차는?",
+      "title": "AI에도 지문 있다…몰래 바뀐 모델 잡아내는 기술 등장",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.21",
-      "link": "https://zdnet.co.kr/view/?no=20260321153109",
-      "summary": "\"테슬라는 단순한 자동차 회사가 아니라 데이터 회사다.\" 글로벌 IT 전문 매체 CIO는 테슬라를 이같이 평가했다. 테슬라는 차량 판매를 넘어 데이터와 신경망을 중심으로 한 통합 시스템을 구축하고 있으며, 물리적인 차량 생산은 이 구조의 일부에 불과하다는 분석이다. 특히 테슬라의 핵심 경쟁력은 방대한 데이터에 있다는 점을 강조했다."
+      "date": "2026.03.22",
+      "link": "https://zdnet.co.kr/view/?no=20260323105458",
+      "summary": "어제까지 잘 쓰던 AI가 오늘은 왠지 다르게 느껴진다면, 그건 착각이 아닐 수 있다. 챗GPT(ChatGPT)나 클로드(Claude) 같은 AI 서비스들은 사용자에게 알리지 않고 내부 시스템을 조용히 바꾸는 경우가 많다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "아이폰 17e, 느린 맥세이프가 단점이 아닌 이유",
+      "title": "오픈AI, 기업 시장 정면 돌파…슈퍼앱으로 판 바꾼다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.21",
-      "link": "https://www.itworld.co.kr/article/4147906/%ec%95%84%ec%9d%b4%ed%8f%b0-17e-%eb%8a%90%eb%a6%b0-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ea%b0%80-%eb%8b%a8%ec%a0%90%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%9d%b4%ec%9c%a0.html",
-      "summary": "15W 무선 충전 속도 제한에도 실사용 불편함은 크지 않았다. Credit: Britta O'Boyle 아이폰 17e 테스트 초반 기대치는 높지 않았다. 지난해 출시된 아이폰 16e는 균형이 맞지 않는 제품으로 느껴졌고, 올해 후속작도 같은 문제를 상당 부분 안고 있는 듯하다."
+      "date": "2026.03.22",
+      "link": "https://www.itworld.co.kr/article/4148422/%ec%98%a4%ed%94%88ai-%ea%b8%b0%ec%97%85-%ec%8b%9c%ec%9e%a5-%ec%a0%95%eb%a9%b4-%eb%8f%8c%ed%8c%8c%ec%8a%88%ed%8d%bc%ec%95%b1%ec%9c%bc%eb%a1%9c-%ed%8c%90-%eb%b0%94%ea%be%bc%eb%8b%a4.html",
+      "summary": "챗GPT의 대중적 단순성을 버리고 워크플로 중심 생산성 플랫폼으로 전환하는 오픈AI의 도박이 시작됐다. Credit: JarTee / Shutterstock 오픈AI가 챗GPT 애플리케이션, 코덱스(Codex) 코딩 플랫폼, AI 기반 브라우저를 단일 데스크톱 ‘슈퍼앱’으로 통합하는 방안을 추진 중인 것으로 알려졌다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“레이저 없는 광 케이블” AI 데이터센터 네트워크 해법으로 주목",
+      "title": "아이폰 17e, 느린 맥세이프가 단점이 아닌 이유",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.21",
-      "link": "https://www.itworld.co.kr/article/4147363/%eb%a0%88%ec%9d%b4%ec%a0%80-%ec%97%86%eb%8a%94-%ea%b4%91-%ec%bc%80%ec%9d%b4%eb%b8%94-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ed%95%b4.html",
-      "summary": "마이크로소프트 리서치의 MOSAIC는 레이저 대신 저가 마이크로LED와 의료 영상용 광섬유를 사용해 광 케이블의 전력 소비를 최대 50% 줄일 수 있다. Credit: Protiviti 마이크로소프트 리서치는 데이터센터용 마이크로LED 기반 광학 인터커넥트 시스템인 MOSAIC를 개발했다."
+      "date": "2026.03.22",
+      "link": "https://www.itworld.co.kr/article/4147906/%ec%95%84%ec%9d%b4%ed%8f%b0-17e-%eb%8a%90%eb%a6%b0-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ea%b0%80-%eb%8b%a8%ec%a0%90%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%9d%b4%ec%9c%a0.html",
+      "summary": "15W 무선 충전 속도 제한에도 실사용 불편함은 크지 않았다. Credit: Britta O'Boyle 아이폰 17e 테스트 초반 기대치는 높지 않았다. 지난해 출시된 아이폰 16e는 균형이 맞지 않는 제품으로 느껴졌고, 올해 후속작도 같은 문제를 상당 부분 안고 있는 듯하다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI, 초급 인력 일자리 줄이며 노동시장 구조 재편 중",
+      "title": "“레이저 없는 광 케이블” AI 데이터센터 네트워크 해법으로 주목",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.21",
-      "link": "https://www.itworld.co.kr/article/4147357/ai-%ec%b4%88%ea%b8%89-%ec%9d%b8%eb%a0%a5-%ec%9d%bc%ec%9e%90%eb%a6%ac-%ec%a4%84%ec%9d%b4%eb%a9%b0-%eb%85%b8%eb%8f%99%ec%8b%9c%ec%9e%a5-%ea%b5%ac%ec%a1%b0-%ec%9e%ac%ed%8e%b8-%ec%a4%91.html",
-      "summary": "인공지능이 저연차 업무를 자동화하면서 채용 감소가 이어지고 있으며, 일부 기업은 감원을 정당화하는 ‘AI 워싱’까지 활용하는 등 노동시장 전반에 구조 변화가 나타나고 있다. Credit: Andrey_Popov – shutterstock."
+      "date": "2026.03.22",
+      "link": "https://www.itworld.co.kr/article/4147363/%eb%a0%88%ec%9d%b4%ec%a0%80-%ec%97%86%eb%8a%94-%ea%b4%91-%ec%bc%80%ec%9d%b4%eb%b8%94-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ed%95%b4.html",
+      "summary": "마이크로소프트 리서치의 MOSAIC는 레이저 대신 저가 마이크로LED와 의료 영상용 광섬유를 사용해 광 케이블의 전력 소비를 최대 50% 줄일 수 있다. Credit: Protiviti 마이크로소프트 리서치는 데이터센터용 마이크로LED 기반 광학 인터커넥트 시스템인 MOSAIC를 개발했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "H2 칩 탑재한 에어팟 맥스 2…유선 오디오·AI 기능 강화",
+      "title": "AI, 초급 인력 일자리 줄이며 노동시장 구조 재편 중",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.21",
-      "link": "https://www.itworld.co.kr/article/4146714/h2-%ec%b9%a9-%ed%83%91%ec%9e%ac%ed%95%9c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2%ec%9c%a0%ec%84%a0-%ec%98%a4%eb%94%94%ec%98%a4%c2%b7ai-%ea%b8%b0%eb%8a%a5-%ea%b0%95%ed%99%94.html",
-      "summary": "에어팟 맥스 2는 유선 오디오 지원 확대와 개인화 기능 추가를 중심으로 진화했다. Credit: Apple 오랫동안 애플이 사전 유출 없이 제품을 공개하는 일은 드물었다. 하지만 예상 시점보다 빠르게 공개된 에어팟 맥스 2는 시장의 예상을 벗어난 발표였다."
+      "date": "2026.03.22",
+      "link": "https://www.itworld.co.kr/article/4147357/ai-%ec%b4%88%ea%b8%89-%ec%9d%b8%eb%a0%a5-%ec%9d%bc%ec%9e%90%eb%a6%ac-%ec%a4%84%ec%9d%b4%eb%a9%b0-%eb%85%b8%eb%8f%99%ec%8b%9c%ec%9e%a5-%ea%b5%ac%ec%a1%b0-%ec%9e%ac%ed%8e%b8-%ec%a4%91.html",
+      "summary": "인공지능이 저연차 업무를 자동화하면서 채용 감소가 이어지고 있으며, 일부 기업은 감원을 정당화하는 ‘AI 워싱’까지 활용하는 등 노동시장 전반에 구조 변화가 나타나고 있다. Credit: Andrey_Popov – shutterstock."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "엔비디아, GTC 2026서 ‘에이전트 툴킷’ 공개…자율 실행형 AI 시대 본격화",
+      "title": "H2 칩 탑재한 에어팟 맥스 2…유선 오디오·AI 기능 강화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.21",
-      "link": "https://www.itworld.co.kr/article/4146708/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-gtc-2026%ec%84%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%88%b4%ed%82%b7-%ea%b3%b5%ea%b0%9c%ec%9e%90%ec%9c%a8-%ec%8b%a4%ed%96%89.html",
-      "summary": "엔비디아가 GTC 2026에서 AI-Q와 네모트론, 오픈쉘을 통합해 보안성과 비용 효율, 확장성을 동시에 확보했다고 발표했다. Credit: NVIDIA AI 컴퓨팅 엔비디아가 미국 새너제이에서 열린 ‘GTC 2026’에서 자율적으로 진화하는 기업용 AI 에이전트를 위한 오픈소스 소프트웨어를 공개하며, AI 활용의 새로운 전환점을 제시했다."
+      "date": "2026.03.22",
+      "link": "https://www.itworld.co.kr/article/4146714/h2-%ec%b9%a9-%ed%83%91%ec%9e%ac%ed%95%9c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2%ec%9c%a0%ec%84%a0-%ec%98%a4%eb%94%94%ec%98%a4%c2%b7ai-%ea%b8%b0%eb%8a%a5-%ea%b0%95%ed%99%94.html",
+      "summary": "에어팟 맥스 2는 유선 오디오 지원 확대와 개인화 기능 추가를 중심으로 진화했다. Credit: Apple 오랫동안 애플이 사전 유출 없이 제품을 공개하는 일은 드물었다. 하지만 예상 시점보다 빠르게 공개된 에어팟 맥스 2는 시장의 예상을 벗어난 발표였다."
     }
   ]
 }
