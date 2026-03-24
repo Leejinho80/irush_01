@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-23T02:03:02.763Z",
-  "collectionDate": "2026.03.22",
-  "displayDate": "2026.03.23",
+  "updatedAt": "2026-03-24T01:54:41.684Z",
+  "collectionDate": "2026.03.23",
+  "displayDate": "2026.03.24",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"석유 최고가격제, 단기 활용 적합…장기화 시 부작용\"",
+      "title": "넥써쓰-플레이위드, '씰M 온 크로쓰' 출시 초반 흥행...DAU 30만",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.22",
-      "link": "https://zdnet.co.kr/view/?no=20260323090248",
-      "summary": "정유사의 공급 가격에 상한을 두는 석유 최고가격제에 대해 단기적 관점에서 가격 급등 억제와 소비자 부담 완화 효과가 클 것으로 예상됐다. 다만 중·장기적으로 시장 왜곡과 공급 축소를 초래할 가능성이 있어 단기적 활용이 바람직하다는 분석이 나타났다."
+      "date": "2026.03.23",
+      "link": "https://zdnet.co.kr/view/?no=20260324105254",
+      "summary": "넥써쓰(대표 장현국)는 플레이위드코리아(대표 김학준)와 공동 퍼블리싱한 MMORPG '씰M 온 크로쓰(Seal M on CROSS)'가 글로벌 출시 이후 초반 흥행에 성공했다고 24일 밝혔다. 회사 측에 따르면 출시 직후 이용자가 집중되며 약 30만 명에 가까운 일일 활성 이용자(DAU)를 기록하며 아시아 지역 서버 6개를 추가로 증설했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "컴투스홀딩스-서울경제진흥원, 우수 게임 발굴 및 글로벌 진출 지원",
+      "title": "넷마블 '일곱 개의 대죄: 오리진', 글로벌 출시...PS5·스팀·모바일 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.22",
-      "link": "https://zdnet.co.kr/view/?no=20260323104811",
-      "summary": "컴투스홀딩스(대표 정철호)는 서울경제진흥원(SBA)과 우수 게임 발굴 및 글로벌 퍼블리싱 지원을 위한 업무협약을 체결했다고 23일 밝혔다. 이번 협약에 따라 컴투스홀딩스는 서울경제진흥원과 협력해 우수한 개발력과 창의적인 아이디어를 보유한 서울 소재의 게임 기업을 발굴하고, 이들이 글로벌 시장에 성공적으로 진출할 수 있도록 지원에 나선다."
+      "date": "2026.03.23",
+      "link": "https://zdnet.co.kr/view/?no=20260324104516",
+      "summary": "넷마블(대표 김병규)은 멀티형 오픈월드 액션 RPG ‘일곱 개의 대죄: 오리진’을 구글플레이와 애플 앱스토어에 정식 출시했다고 24일 밝혔다. 이 게임은 지난 17일 플레이스테이션5(PS5)와 스팀을 통해 선공개된 이후 글로벌 이용자들로부터 긍정적인 반응을 얻었다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "LG전자, '류재철 체제' 출범…자사주 소각·배당 확대로 주주가치 제고",
+      "title": "신세계면세점, 라인페이 도입…대만 관광객 공략",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.22",
-      "link": "https://zdnet.co.kr/view/?no=20260323104636",
-      "summary": "LG전자가 23일 서울 여의도 LG트윈타워에서 제24기 정기 주주총회를 개최하고 류재철 사장의 사내이사 선임과 주주 환원 정책 강화 안건을 의결했다. 이번 주총을 통해 지난해 말 임원 인사에서 CEO로 부임한 류 사장의 이사회 진입이 확정되면서 ‘류재철 체제’가 본격적인 막을 올렸다."
+      "date": "2026.03.23",
+      "link": "https://zdnet.co.kr/view/?no=20260324103224",
+      "summary": "신세계면세점이 대만 관광객의 쇼핑 편의를 강화하기 위해 대만 대표 간편결제 서비스인 라인페이(LINE Pay)를 도입한다고 24일 밝혔다. 신세계면세점은 이날부터 명동점과 인천공항점 등 주요 오프라인 매장에서 라인페이 결제 서비스를 순차적으로 오픈한다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "그라비티, 북미 게임쇼 'PAX EAST 2026' 참가…PC·콘솔 타이틀 12종 출품",
+      "title": "SK이노, 상법 개정 맞춰 정관 손질…이사회 독립성 강화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.22",
-      "link": "https://zdnet.co.kr/view/?no=20260323105515",
-      "summary": "그라비티가 북미 지역 대표 게임 축제 'PAX EAST 2026(팍스 이스트 2026)'에 참가해 본격적인 북미 시장 공략에 나선다고 23일 밝혔다. 올해 PAX EAST 2026은 현지 시간으로 오는 26일부터 29일까지 미국 보스턴 컨벤션&전시 센터에서 개최된다."
+      "date": "2026.03.23",
+      "link": "https://zdnet.co.kr/view/?no=20260324103312",
+      "summary": "SK이노베이션이 정기 주주총회에서 이사진 선임과 정관 개정 안건 등을 원안대로 통과시키며 지배구조 정비를 마무리했다. 회사는 이사회 독립성과 경영 투명성을 높이는 한편 포트폴리오 리밸런싱, 운영개선, 전기화 기반 미래 성장동력 확보에 주력할 계획이다. SK이노베이션은 서울 종로구 SK서린빌딩에서 ‘제19차 정기주주총회’를 개최했다고 24일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "AI에도 지문 있다…몰래 바뀐 모델 잡아내는 기술 등장",
+      "title": "'배우라' 새긴 납탄 발견…고대 로마 전장의 숨겨진 이야기",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.22",
-      "link": "https://zdnet.co.kr/view/?no=20260323105458",
-      "summary": "어제까지 잘 쓰던 AI가 오늘은 왠지 다르게 느껴진다면, 그건 착각이 아닐 수 있다. 챗GPT(ChatGPT)나 클로드(Claude) 같은 AI 서비스들은 사용자에게 알리지 않고 내부 시스템을 조용히 바꾸는 경우가 많다."
+      "date": "2026.03.23",
+      "link": "https://zdnet.co.kr/view/?no=20260324100738",
+      "summary": "고고학자들이 약 2000년 전 사용된 투석기용 납탄을 발굴했다. 인터레스팅엔지니어링, 라이브사이언스 등 외신은 최근 이스라엘 하이파대학교 연구진이 해당 유물을 발견했다고 보도했다. 이들은 해당 연구 결과를 지난 10일 학술지 ‘팔레스타인 탐사 계간지(Palestine Exploration Quarterly)'에 발표했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "오픈AI, 기업 시장 정면 돌파…슈퍼앱으로 판 바꾼다",
+      "title": "오픈클로가 바꾼 판…빅테크 AI의 다음 전장은 데스크톱",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.22",
-      "link": "https://www.itworld.co.kr/article/4148422/%ec%98%a4%ed%94%88ai-%ea%b8%b0%ec%97%85-%ec%8b%9c%ec%9e%a5-%ec%a0%95%eb%a9%b4-%eb%8f%8c%ed%8c%8c%ec%8a%88%ed%8d%bc%ec%95%b1%ec%9c%bc%eb%a1%9c-%ed%8c%90-%eb%b0%94%ea%be%bc%eb%8b%a4.html",
-      "summary": "챗GPT의 대중적 단순성을 버리고 워크플로 중심 생산성 플랫폼으로 전환하는 오픈AI의 도박이 시작됐다. Credit: JarTee / Shutterstock 오픈AI가 챗GPT 애플리케이션, 코덱스(Codex) 코딩 플랫폼, AI 기반 브라우저를 단일 데스크톱 ‘슈퍼앱’으로 통합하는 방안을 추진 중인 것으로 알려졌다."
+      "date": "2026.03.23",
+      "link": "https://www.itworld.co.kr/article/4149038/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c%ea%b0%80-%eb%b0%94%ea%be%bc-%ed%8c%90%eb%b9%85%ed%85%8c%ed%81%ac-ai%ec%9d%98-%eb%8b%a4%ec%9d%8c-%ec%a0%84%ec%9e%a5%ec%9d%80-%eb%8d%b0%ec%8a%a4%ed%81%ac.html",
+      "summary": "앤트로픽을 필두로 구글·오픈AI까지 AI를 채팅창에서 해방시켜 PC 전체를 장악하는 에이전트 플랫폼 경쟁에 뛰어들었다. Credit: Perplexity 챗GPT가 데스크톱에 올라앉은 AI 채팅창에 불과했던 시절을 기억하는가. 불과 지난 12월 얘기다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "아이폰 17e, 느린 맥세이프가 단점이 아닌 이유",
+      "title": "오픈텍스트, 공공부문 에이전트 AI 도입 본격화…”거버넌스 없는 자동화는 리스크”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.22",
-      "link": "https://www.itworld.co.kr/article/4147906/%ec%95%84%ec%9d%b4%ed%8f%b0-17e-%eb%8a%90%eb%a6%b0-%eb%a7%a5%ec%84%b8%ec%9d%b4%ed%94%84%ea%b0%80-%eb%8b%a8%ec%a0%90%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%9d%b4%ec%9c%a0.html",
-      "summary": "15W 무선 충전 속도 제한에도 실사용 불편함은 크지 않았다. Credit: Britta O'Boyle 아이폰 17e 테스트 초반 기대치는 높지 않았다. 지난해 출시된 아이폰 16e는 균형이 맞지 않는 제품으로 느껴졌고, 올해 후속작도 같은 문제를 상당 부분 안고 있는 듯하다."
+      "date": "2026.03.23",
+      "link": "https://www.itworld.co.kr/article/4149036/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b3%b5%ea%b3%b5%eb%b6%80%eb%ac%b8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai-%eb%8f%84%ec%9e%85-%eb%b3%b8%ea%b2%a9%ed%99%94%ea%b1%b0%eb%b2%84.html",
+      "summary": "공공부문 AI 도입 경쟁이 가속화되는 가운데, 오픈텍스트가 속도보다 거버넌스를 앞세운 에이전트 AI 운영 원칙을 제시했다. Credit: Sundry Photography / shutterstock 공공부문에서도 단순 데이터 분석을 넘어 실제 업무를 직접 수행하는 에이전트 AI 도입이 본격화되고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“레이저 없는 광 케이블” AI 데이터센터 네트워크 해법으로 주목",
+      "title": "“중학교 수학에 흥분하던 시절은 끝났다”…AI의 다음 도약",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.22",
-      "link": "https://www.itworld.co.kr/article/4147363/%eb%a0%88%ec%9d%b4%ec%a0%80-%ec%97%86%eb%8a%94-%ea%b4%91-%ec%bc%80%ec%9d%b4%eb%b8%94-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ed%95%b4.html",
-      "summary": "마이크로소프트 리서치의 MOSAIC는 레이저 대신 저가 마이크로LED와 의료 영상용 광섬유를 사용해 광 케이블의 전력 소비를 최대 50% 줄일 수 있다. Credit: Protiviti 마이크로소프트 리서치는 데이터센터용 마이크로LED 기반 광학 인터커넥트 시스템인 MOSAIC를 개발했다."
+      "date": "2026.03.23",
+      "link": "https://www.itworld.co.kr/article/4149015/%ec%a4%91%ed%95%99%ea%b5%90-%ec%88%98%ed%95%99%ec%97%90-%ed%9d%a5%eb%b6%84%ed%95%98%eb%8d%98-%ec%8b%9c%ec%a0%88%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a4ai%ec%9d%98-%eb%8b%a4%ec%9d%8c.html",
+      "summary": "엔비디아 GTC 개발자 행사에서 패널 연사들이 AI 기술의 진화 방향을 논의했다. 예상치 못한 전망도 나왔다. Credit: Pichit Tongma / Shutterstock “3~4년 전만 해도 AI 모델이 중학교 수준의 수학 문제를 풀면 엄청나게 흥분했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI, 초급 인력 일자리 줄이며 노동시장 구조 재편 중",
+      "title": "오픈AI, 인력 두 배로 늘린다…기업용 AI 인재 수요 급증",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.22",
-      "link": "https://www.itworld.co.kr/article/4147357/ai-%ec%b4%88%ea%b8%89-%ec%9d%b8%eb%a0%a5-%ec%9d%bc%ec%9e%90%eb%a6%ac-%ec%a4%84%ec%9d%b4%eb%a9%b0-%eb%85%b8%eb%8f%99%ec%8b%9c%ec%9e%a5-%ea%b5%ac%ec%a1%b0-%ec%9e%ac%ed%8e%b8-%ec%a4%91.html",
-      "summary": "인공지능이 저연차 업무를 자동화하면서 채용 감소가 이어지고 있으며, 일부 기업은 감원을 정당화하는 ‘AI 워싱’까지 활용하는 등 노동시장 전반에 구조 변화가 나타나고 있다. Credit: Andrey_Popov – shutterstock."
+      "date": "2026.03.23",
+      "link": "https://www.itworld.co.kr/article/4148999/%ec%98%a4%ed%94%88ai-%ec%9d%b8%eb%a0%a5-%eb%91%90-%eb%b0%b0%eb%a1%9c-%eb%8a%98%eb%a6%b0%eb%8b%a4%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%9d%b8%ec%9e%ac-%ec%88%98%ec%9a%94-%ea%b8%89%ec%a6%9d.html",
+      "summary": "자동화로 일상적 업무가 줄어드는 가운데, 전문화된 고연봉 AI 직군으로의 전환이 가속화되고 있다. Credit: Shutterstock/Stokkete 오픈AI가 2026년 말까지 현재 약 4,500명 수준인 인력을 8,000명으로 두 배 가까이 늘릴 계획이다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "H2 칩 탑재한 에어팟 맥스 2…유선 오디오·AI 기능 강화",
+      "title": "클라우드 20년 : 비용과 복잡성, 통제",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.22",
-      "link": "https://www.itworld.co.kr/article/4146714/h2-%ec%b9%a9-%ed%83%91%ec%9e%ac%ed%95%9c-%ec%97%90%ec%96%b4%ed%8c%9f-%eb%a7%a5%ec%8a%a4-2%ec%9c%a0%ec%84%a0-%ec%98%a4%eb%94%94%ec%98%a4%c2%b7ai-%ea%b8%b0%eb%8a%a5-%ea%b0%95%ed%99%94.html",
-      "summary": "에어팟 맥스 2는 유선 오디오 지원 확대와 개인화 기능 추가를 중심으로 진화했다. Credit: Apple 오랫동안 애플이 사전 유출 없이 제품을 공개하는 일은 드물었다. 하지만 예상 시점보다 빠르게 공개된 에어팟 맥스 2는 시장의 예상을 벗어난 발표였다."
+      "date": "2026.03.23",
+      "link": "https://www.itworld.co.kr/article/4148431/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-20%eb%85%84-%eb%b9%84%ec%9a%a9%ea%b3%bc-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ed%86%b5%ec%a0%9c.html",
+      "summary": "즉각적인 아웃소싱이라는 꿈으로 시작한 클라우드는 이제 기업의 해결 과제가 됐으며, 이런 과제가 앞으로 클라우드 10년을 규정할 것이다."
     }
   ]
 }
