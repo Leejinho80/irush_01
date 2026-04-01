@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-03-31T02:08:29.557Z",
-  "collectionDate": "2026.03.30",
-  "displayDate": "2026.03.31",
+  "updatedAt": "2026-04-01T02:25:27.703Z",
+  "collectionDate": "2026.03.31",
+  "displayDate": "2026.04.01",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "국악방송 '이달의 국악인', 제1호 판소리 인간문화재 정광수 명창 조명",
+      "title": "헥토파이낸셜, 파주시에 자원순환 통합관리 시스템 공급",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.30",
-      "link": "https://zdnet.co.kr/view/?no=20260331110400",
-      "summary": "국악방송(사장 직무대행 김은하)은 국악의 날을 기념하는 연중 특별기획 ‘이달의 국악인: 별, 기록으로 만나다’의 4월 주인공으로 대한민국 최초의 판소리 인간문화재인 故 양암(亮菴) 정광수 명창(1909~2003)을 선정했다고 31일 밝혔다."
+      "date": "2026.03.31",
+      "link": "https://zdnet.co.kr/view/?no=20260401111305",
+      "summary": "헥토파이낸셜이 자원순환 통합 관리 시스템을 파주시에 공급하며 공공 서비스로 사업 영역 확대를 가속화한다고 1일 밝혔다. 헥토파이낸셜이 공급하는 서비스는 대형폐기물 접수부터 결제, 수거 관리까지 전 과정을 온라인으로 통합한 시스템이다. 온라인 신고 후 배출 사진 인증만으로 절차를 완료할 수 있어 시민 편의 제고와 행정 업무 효율화에 기여한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "SKT, NTT도코모와 AI RAN 백서 공동 발간",
+      "title": "펄어비스 '붉은사막', 글로벌 누적 판매량 400만장 돌파",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.30",
-      "link": "https://zdnet.co.kr/view/?no=20260331101734",
-      "summary": "SK텔레콤은 일본 이동통신사 NTT도코모(NTT DOCOMO)와 함께 가상화 기지국 진화와 AI RAN 구현을 위한 핵심 기술 요건과 발전 방향을 담은 백서를 공동 발간했다고 31일 밝혔다. 백서는 양사의 모바일 네트워크 구축, 운영 경험을 바탕으로 작성됐다."
+      "date": "2026.03.31",
+      "link": "https://zdnet.co.kr/view/?no=20260401111822",
+      "summary": "펄어비스은 신작 오픈월드 액션 어드벤 '붉은사막'이 출시 12일 만에 400만장을 판매했다고 1일 밝혔다. 펄어비스는 붉은사막 공식 사회관계망서비스(SNS)를 통해 \"붉은사막이 전 세계적으로 400만장을 판매했다\"며 \"이 여정을 함께한 모든 회색갈기에게 진심으로 감사드린다\"고 전했다. 현재 신작의 흥행 속도는 가파른 상승세를 보이고 있다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "NHN벅스, 매각 무산…\"엔디티엔지니어링 잔금 미납\"",
+      "title": "롯데바이오로직스, 美 소재 항암 전문 바이오 기업과 항체 생산 수주 계약",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.30",
-      "link": "https://zdnet.co.kr/view/?no=20260331103053",
-      "summary": "인수자의 잔금 미납으로 음원 스트리밍 플랫폼 NHN벅스의 매각이 무산됐다. 31일 금융감독원 전자공시시스템에 따르면 NHN벅스는 “양수인(엔디티엔지니어링 외 3인)이 양도인(NHN)에 잔금 지급을 미이행함에 따라 주식 매매 계약이 해제됐다”고 공시했다."
+      "date": "2026.03.31",
+      "link": "https://zdnet.co.kr/view/?no=20260401111909",
+      "summary": "롯데바이오로직스는 미국 소재의 항암전문 바이오기업과 항체 원료의약품 생산 및 공정 개발을 위한 위탁개발생산(CDMO) 계약을 체결했다고 1일 밝혔다. 이번 계약에 따라 롯데바이오로직스는 글로벌 후기 임상 시험에 필요한 항체 시료 생산과 대형 스케일 공정 최적화를 맡게 되며, 미국 뉴욕 시러큐스 바이오 캠퍼스를 통해 이를 지원한다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "워게이밍, '월드 오브 탱크: 히트' 지도·게임 모드 소개",
+      "title": "휴젤, 한스바이오메드와 ‘셀르디엠’ 국내 판권 계약 체결",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.30",
-      "link": "https://zdnet.co.kr/view/?no=20260331104505",
-      "summary": "워게이밍(대표 빅터 키슬리)은 신작 게임 ‘월드 오브 탱크: 히트(World of Tanks: HEAT)’의 지도와 게임 모드를 소개하는 기반 다지기(Foundations) 시리즈 세번째 영상을 공개했다고 31일 밝혔다. 이번 영상에서는 각 전장과 게임 모드가 어떻게 설계되어 매 경기마다 스릴 넘치고 예측 불가능한 역동적인 전투가 진행되는지 보여준다."
+      "date": "2026.03.31",
+      "link": "https://zdnet.co.kr/view/?no=20260401111553",
+      "summary": "휴젤이 세포외기질(ECM) 기반 제품 ‘셀르디엠’(CellREDM)의 국내 공식 판권을 확보하며, 본격적인 포트폴리오 확대에 나섰다. 휴젤은 한스바이오메드와 ‘셀르디엠’에 대한 국내 분배 계약을 맺었다고 1일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "[현장] 코난테크놀로지 \"AI 연구소 중심 기술 강화…공공 사업 확대\"",
+      "title": "니콘이미징코리아, '월간 니코르' 4월 콘텐츠 소개",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.03.30",
-      "link": "https://zdnet.co.kr/view/?no=20260331105226",
-      "summary": "코난테크놀로지가 생성형 인공지능(AI) 기반으로 공공 중심 사업을 확대한다. 이를 통해 기술 경쟁력과 수익 구조 개선을 동시에 확보할 방침이다. 김영섬 코난테크놀로지 대표는 31일 서울 강남서 열린 제27기 정기주주총회에서 \"생성형 AI 기술 기반으로 실질적인 사업 성과를 창출할 것\"이라며 이같이 밝혔다."
+      "date": "2026.03.31",
+      "link": "https://zdnet.co.kr/view/?no=20260401111039",
+      "summary": "니콘이미징코리아가 Z시리즈 미러리스 카메라용 니코르(NIKKOR) 렌즈를 소개하는 '월간 니코르' 4월 콘텐츠를 공개했다. '월간 니코르'는 니콘이미징코리아가 작년 10월부터 공식 웹사이트를 통해 진행하는 캠페인이다. 매달 다른 작가가 계절에 맞는 컨셉으로 새로운 렌즈를 이용해 촬영한 인물 화보 사진을 공개한다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "블루스카이, AI 기반 소셜 피드 빌더 ‘애티’ 공개…”알고리즘 대신 내가 직접 설계”",
+      "title": "AI 에이전트의 코드 실행 권한이 부른 보안 사고…오픈AI 취약점 2건 패치",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.30",
-      "link": "https://www.itworld.co.kr/article/4152197/%eb%b8%94%eb%a3%a8%ec%8a%a4%ec%b9%b4%ec%9d%b4-ai-%ea%b8%b0%eb%b0%98-%ec%86%8c%ec%85%9c-%ed%94%bc%eb%93%9c-%eb%b9%8c%eb%8d%94-%ec%95%a0%ed%8b%b0-%ea%b3%b5%ea%b0%9c%ec%95%8c%ea%b3%a0.html",
-      "summary": "블루스카이가 코드 없이 자연어만으로 소셜 피드를 구성하는 AI 앱 애티를 공개했지만, 사용자 일부는 AI 개입에 강하게 반발했다. Credit: Bluesky AI 도구인 클로드 코드(Claude Code)나 코덱스(Codex)를 활용한 바이브 코딩이 앱과 웹 페이지 제작에 쓰인다는 소식은 이미 널리 알려졌지만, 활용 범위는 여기에 그치지 않는다."
+      "date": "2026.03.31",
+      "link": "https://www.itworld.co.kr/article/4152843/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bd%94%eb%93%9c-%ec%8b%a4%ed%96%89-%ea%b6%8c%ed%95%9c%ec%9d%b4-%eb%b6%80%eb%a5%b8-%eb%b3%b4%ec%95%88-%ec%82%ac%ea%b3%a0%ec%98%a4%ed%94%88ai.html",
+      "summary": "보안 연구진이 오픈AI 제품군에서 자격 증명 탈취와 데이터 외부 유출을 가능하게 하는 결함 두 가지를 각각 발견했다. Credit: miss.cabul / Shutterstock.com 오픈AI가 AI 스택 내 두 가지 결함을 수정했다. AI 에이전트가 민감한 데이터를 의도치 않은 방식으로 이동시킬 수 있는 취약점이었다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "‘수집’ 아닌 ‘연결’이 승패 가른다…디노도가 제안하는 AI 시대의 데이터 전략",
+      "title": "블루스카이, AI 기반 소셜 피드 빌더 ‘애티’ 공개…”알고리즘 대신 내가 직접 설계”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.30",
-      "link": "https://www.itworld.co.kr/article/4151603/%ec%88%98%ec%a7%91-%ec%95%84%eb%8b%8c-%ec%97%b0%ea%b2%b0%ec%9d%b4-%ec%8a%b9%ed%8c%a8-%ea%b0%80%eb%a5%b8%eb%8b%a4%eb%94%94%eb%85%b8%eb%8f%84%ea%b0%80.html",
-      "summary": "기업의 생성형 AI 프로젝트가 좀처럼 성과를 내지 못하는 이유는 모델 성능이 아니라 분산된 데이터를 AI에 전달하는 연결 구조의 부재에 있다 Credit: Foundry 오늘날 기업의 화두는 단연 AI다."
+      "date": "2026.03.31",
+      "link": "https://www.itworld.co.kr/article/4152197/%eb%b8%94%eb%a3%a8%ec%8a%a4%ec%b9%b4%ec%9d%b4-ai-%ea%b8%b0%eb%b0%98-%ec%86%8c%ec%85%9c-%ed%94%bc%eb%93%9c-%eb%b9%8c%eb%8d%94-%ec%95%a0%ed%8b%b0-%ea%b3%b5%ea%b0%9c%ec%95%8c%ea%b3%a0.html",
+      "summary": "블루스카이가 코드 없이 자연어만으로 소셜 피드를 구성하는 AI 앱 애티를 공개했지만, 사용자 일부는 AI 개입에 강하게 반발했다. Credit: Bluesky AI 도구인 클로드 코드(Claude Code)나 코덱스(Codex)를 활용한 바이브 코딩이 앱과 웹 페이지 제작에 쓰인다는 소식은 이미 널리 알려졌지만, 활용 범위는 여기에 그치지 않는다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "기업 절반이 생성형 AI 도입했지만 “보안·거버넌스는 ‘절반의 준비'” 오픈텍스트",
+      "title": "‘수집’ 아닌 ‘연결’이 승패 가른다…디노도가 제안하는 AI 시대의 데이터 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.30",
-      "link": "https://www.itworld.co.kr/article/4151591/%ea%b8%b0%ec%97%85-%ec%a0%88%eb%b0%98%ec%9d%b4-%ec%83%9d%ec%84%b1%ed%98%95-ai-%eb%8f%84%ec%9e%85%ed%96%88%ec%a7%80%eb%a7%8c-%eb%b3%b4%ec%95%88%c2%b7%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%eb%8a%94.html",
-      "summary": "글로벌 기업 10곳 중 5곳이 생성형 AI를 업무에 적용하고 있지만, 데이터 프라이버시 정책과 위험 기반 거버넌스를 갖춘 기업은 각각 41%, 43%에 그쳤다."
+      "date": "2026.03.31",
+      "link": "https://www.itworld.co.kr/article/4151603/%ec%88%98%ec%a7%91-%ec%95%84%eb%8b%8c-%ec%97%b0%ea%b2%b0%ec%9d%b4-%ec%8a%b9%ed%8c%a8-%ea%b0%80%eb%a5%b8%eb%8b%a4%eb%94%94%eb%85%b8%eb%8f%84%ea%b0%80.html",
+      "summary": "기업의 생성형 AI 프로젝트가 좀처럼 성과를 내지 못하는 이유는 모델 성능이 아니라 분산된 데이터를 AI에 전달하는 연결 구조의 부재에 있다 Credit: Foundry 오늘날 기업의 화두는 단연 AI다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "헬프데스크 티켓 3건 중 1건은 업무 완전 중단…가장 바쁜 날은 화요일",
+      "title": "기업 절반이 생성형 AI 도입했지만 “보안·거버넌스는 ‘절반의 준비'” 오픈텍스트",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.30",
-      "link": "https://www.itworld.co.kr/article/4151598/%ed%97%ac%ed%94%84%eb%8d%b0%ec%8a%a4%ed%81%ac-%ed%8b%b0%ec%bc%93-3%ea%b1%b4-%ec%a4%91-1%ea%b1%b4%ec%9d%80-%ec%97%85%eb%ac%b4-%ec%99%84%ec%a0%84-%ec%a4%91%eb%8b%a8%ea%b0%80%ec%9e%a5-%eb%b0%94.html",
-      "summary": "대규모 기업의 헬프데스크 티켓 약 3분의 1이 업무 완전 중단으로 이어지는 것으로 나타났다. Credit: Gorodenkoff - Shutterstock.com 대규모 조직이 처리하는 헬프데스크 티켓(IT 지원 요청 건)의 거의 3분의 1이 업무 중단을 야기하는 것으로 나타났다. 헬프데스크 자동화 기업 픽시파이(Fixify)가 발표한 연구 결과다."
+      "date": "2026.03.31",
+      "link": "https://www.itworld.co.kr/article/4151591/%ea%b8%b0%ec%97%85-%ec%a0%88%eb%b0%98%ec%9d%b4-%ec%83%9d%ec%84%b1%ed%98%95-ai-%eb%8f%84%ec%9e%85%ed%96%88%ec%a7%80%eb%a7%8c-%eb%b3%b4%ec%95%88%c2%b7%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%eb%8a%94.html",
+      "summary": "글로벌 기업 10곳 중 5곳이 생성형 AI를 업무에 적용하고 있지만, 데이터 프라이버시 정책과 위험 기반 거버넌스를 갖춘 기업은 각각 41%, 43%에 그쳤다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "앤트로픽, 미 국방부 공급망 금지 조치 잠정 제동…연방 판사 “자의적·위법 소지”",
+      "title": "헬프데스크 티켓 3건 중 1건은 업무 완전 중단…가장 바쁜 날은 화요일",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.03.30",
-      "link": "https://www.itworld.co.kr/article/4151566/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%af%b8-%ea%b5%ad%eb%b0%a9%eb%b6%80-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ea%b8%88%ec%a7%80-%ec%a1%b0%ec%b9%98-%ec%9e%a0%ec%a0%95-%ec%a0%9c%eb%8f%99%ec%97%b0.html",
-      "summary": "미 연방 판사가 앤트로픽을 공급망 위험으로 지정한 국방부 조치에 제동을 걸었다. 법원은 앤트로픽의 기술 사용 제한 고수가 파괴 공작 세력의 증거가 될 수 없다고 판시했으며, 계약업체들은 단기 유예를 얻었지만 압박이 재개될 가능성에 대비해야 하는 상황이다."
+      "date": "2026.03.31",
+      "link": "https://www.itworld.co.kr/article/4151598/%ed%97%ac%ed%94%84%eb%8d%b0%ec%8a%a4%ed%81%ac-%ed%8b%b0%ec%bc%93-3%ea%b1%b4-%ec%a4%91-1%ea%b1%b4%ec%9d%80-%ec%97%85%eb%ac%b4-%ec%99%84%ec%a0%84-%ec%a4%91%eb%8b%a8%ea%b0%80%ec%9e%a5-%eb%b0%94.html",
+      "summary": "대규모 기업의 헬프데스크 티켓 약 3분의 1이 업무 완전 중단으로 이어지는 것으로 나타났다. Credit: Gorodenkoff - Shutterstock.com 대규모 조직이 처리하는 헬프데스크 티켓(IT 지원 요청 건)의 거의 3분의 1이 업무 중단을 야기하는 것으로 나타났다. 헬프데스크 자동화 기업 픽시파이(Fixify)가 발표한 연구 결과다."
     }
   ]
 }
