@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-05T02:12:10.134Z",
-  "collectionDate": "2026.04.04",
-  "displayDate": "2026.04.05",
+  "updatedAt": "2026-04-06T02:13:19.432Z",
+  "collectionDate": "2026.04.05",
+  "displayDate": "2026.04.06",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "고면역글로불린 E 증후군, 배아·태아 대상 유전자검사 가능해져",
+      "title": "비자, 방탄소년단 월드 투어 '아리랑' 스폰서 참여",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.04",
-      "link": "https://zdnet.co.kr/view/?no=20260405102936",
-      "summary": "횡문근양 종양 소인 증후군 등 6개 유전질환에 대해 배아‧태아 대상 유전자검사가 가능해졌다. 보건복지부는 배아 또는 태아 대상 유전자검사가 가능한 유전질환 6개를 추가로 선정해 전체 249개 유전질환을 보건복지부 누리집에 공고했다."
+      "date": "2026.04.05",
+      "link": "https://zdnet.co.kr/view/?no=20260406111037",
+      "summary": "글로벌 결제 기술 기업 비자(VISA)가 방탄소년단 월드 투어 '아리랑'의 스폰서로 참여한다고 6일 밝혔다. 이번 투어는 34개 도시에서 총 82회에 걸쳐 진행되는 대규모 글로벌 이벤트다. 비자는 이번 방탄소년단 월드 투어 '아리랑'의 월드와이드 투어 스폰서로서, 안전한 결제를 통해 투어에 참여할 수 있는 환경을 지원한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "\"마케팅은 AI 시대, 광고는 아직 20년 전”…애드테크 주목 이유",
+      "title": "\"스스로 판단하는 로봇, 우주 탐사 속도 높인다\" [우주로 간다]",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.04",
-      "link": "https://zdnet.co.kr/view/?no=20260405105947",
-      "summary": "마케팅(Marketing)과 광고(Advertising)는 오랫동안 혼용돼 왔으나, 기술 혁신의 속도에서는 뚜렷한 간극이 존재해 왔다. 몰로코·크리테오·어도비 마케팅 클라우드 같은 플랫폼 연동형 마테크(Martech) 솔루션들이 퍼포먼스 마케팅과 개인화를 고도화하는 동안, 광고 산업의 핵심 프로세스는 기존 방식에 머물렀기 때문이다."
+      "date": "2026.04.05",
+      "link": "https://zdnet.co.kr/view/?no=20260406095030",
+      "summary": "현재 대부분의 우주 탐사 로봇은 지구에서 원격 제어되며, 에너지 효율을 고려한 정교한 설계로 인해 탐사 범위가 제한적인 한계를 지닌다. 이로 인해 달과 화성에서는 비교적 활발한 탐사가 이뤄지고 있지만, 더 먼 행성에 대한 탐사 속도는 더딘 편이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "놀유니버스, '2026 연천구석기축제' 얼리버드 티켓 판매",
+      "title": "조이시티 '프리스타일풋볼2', PC 버전 테스트 5월 8일 실시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.04",
-      "link": "https://zdnet.co.kr/view/?no=20260405100102",
-      "summary": "놀유니버스는 NOL, NOL 티켓을 통해 2026 연천구석기축제 얼리버드 티켓을 단독 판매 중이라고 5일 밝혔다. 제33회 연천구석기축제는 내달 2일부터 5일까지 나흘 동안 연천 전곡리 유적 일대서 진행된다. 연천 전곡리 유적은 30만년전 구석기 사람들이 사용했던 주먹도끼가 발견된 세계적인 유적이다. 선사문화체험을 컨셉으로 매년 축제를 진행해오고 있다."
+      "date": "2026.04.05",
+      "link": "https://zdnet.co.kr/view/?no=20260406105646",
+      "summary": "조이시티(대표 조성원)는 자회사 우레가 개발 중인 신작 축구 게임 ‘프리스타일 풋볼 2’의 PC 플랫폼 전용 2차 비공개 테스트에 앞서 테스트 참가자를 모집한다고 6일 밝혔다. 이번 2차 비공개 테스트는 스팀(Steam)과 Xbox on PC 플랫폼을 통해 진행된다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "건강보험심사평가원 직원 사칭, 계약·송금 요구 사기 주의",
+      "title": "네오플, 윤명진 대표 '던파 모바일' 본부장 겸임…조직 개편 단행",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.04",
-      "link": "https://zdnet.co.kr/view/?no=20260405101609",
-      "summary": "공공기관을 사칭한 사기가 끊이지 않고 있어 주의가 필요하다. 건강보험심사평가원(이하 심평원)은 최근 기관 직원을 사칭해 긴급 계약 체결과 금전 송금을 요구하는 사기 시도가 발생한 사실을 확인하고, 유사 피해 예방을 위한 각별한 주의를 당부했다."
+      "date": "2026.04.05",
+      "link": "https://zdnet.co.kr/view/?no=20260406104813",
+      "summary": "윤명진 네오플 대표가 직접 액션 RPG '던전앤파이터 모바일'(이하 던파 모바일)의 모바일던파개발본부장도 겸임한다. 이는 '던파 모바일'의 중국 현지 서비스 운영을 퍼블리셔인 텐센트에 전면 이관하는 구조로 개편하고, 이에 따른 개편을 주도하기 위해서로 풀이된다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "7년전 개발된 '완벽진공' 시스템…\"외산장악 반도체 공정 효자될까\"",
+      "title": "펄어비스, '코리아 인디게임 데브캠프' 협력",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.04",
-      "link": "https://zdnet.co.kr/view/?no=20260405100949",
-      "summary": "방사능 폐기물 처분 실증 연구 과정에서 틈새로 개발된 진공펌프 원천기술이 개발 7년만에 반도체·디스플레이 공정용으로 빛을 볼지에 관심이 모아졌다. 한국원자력연구원은 지난2일 벡스코(대표 류재경)와 '고효율 가압·진공 유체이송 시스템' 기술실시계약을 체결했다고 5일 밝혔다. 한국원자력연구원이 개발한 유체이송 장치 구성도."
+      "date": "2026.04.05",
+      "link": "https://zdnet.co.kr/view/?no=20260406105047",
+      "summary": "펄어비스가 국내 인디 게임 산업의 육성과 건강한 생태계 조성을 위해 ‘2026년 코리아 인디게임 데브캠프’에 참여한다고 6일 밝혔다. ‘코리아 인디게임 데브캠프’는 인디 게임 산업 경쟁력을 강화하기 위해 문화체육관광부와 한국콘텐츠진흥원이 추진하는 사업이다. 펄어비스는 참여를 통해 인디 개발자들을 위한 멘토링과 기술 교류를 진행할 계획이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“피지컬 AI, 기대는 크지만 10년 후 이야기”…제조업 현장의 냉정한 진단",
+      "title": "AI 지원 취약점 탐색 급증에 버그 바운티 프로그램 잇따라 중단",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.04",
-      "link": "https://www.itworld.co.kr/article/4153433/%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ea%b8%b0%eb%8c%80%eb%8a%94-%ed%81%ac%ec%a7%80%eb%a7%8c-10%eb%85%84-%ed%9b%84-%ec%9d%b4%ec%95%bc%ea%b8%b0%ec%a0%9c%ec%a1%b0%ec%97%85-%ed%98%84%ec%9e%a5.html",
-      "summary": "지멘스·폭스바겐 IT 리더들이 자율 로봇의 현실적 한계와 도입 과제를 솔직하게 털어놨다. Credit: Alexander Tolstykh - shutterstock.com 지난달 엔비디아 GTC 개발자 행사에 참석한 여러 IT 리더가 피지컬 AI의 실질적인 생산성 효과가 업계 지지자의 주장만큼 가깝지 않다고 입을 모았다."
+      "date": "2026.04.05",
+      "link": "https://www.itworld.co.kr/article/4154378/ai-%ec%a7%80%ec%9b%90-%ec%b7%a8%ec%95%bd%ec%a0%90-%ed%83%90%ec%83%89-%ea%b8%89%ec%a6%9d%ec%97%90-%eb%b2%84%ea%b7%b8-%eb%b0%94%ec%9a%b4%ed%8b%b0-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ec%9e%87%eb%94%b0.html",
+      "summary": "AI 지원 취약점 탐색이 급증하면서 버그 발견 속도가 수정 역량을 압도하고, 오픈소스 보안 생태계의 균형이 흔들리고 있다. Credit: Andrii Yalanskyi / Shutterstock 오픈소스 소프트웨어의 버그를 발견해 신고하는 연구자에 대한 인터넷 버그 바운티 팀의 보상 지급이 중단된다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI 모델도 ‘출처’가 중요하다…마이크로소프트 레드팀의 조언",
+      "title": "HPE·엔비디아, AI 인프라 운영 경쟁 본격화…차세대 AI 팩토리·슈퍼컴 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.04",
-      "link": "https://www.itworld.co.kr/article/4153405/ai-%eb%aa%a8%eb%8d%b8%eb%8f%84-%ec%b6%9c%ec%b2%98%ea%b0%80-%ec%a4%91%ec%9a%94%ed%95%98%eb%8b%a4%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%eb%a0%88%eb%93%9c%ed%8c%80.html",
-      "summary": "검증되지 않은 독립 AI 모델의 확산이 새로운 보안 위협으로 떠오르는 가운데, 마이크로소프트 AI 보안 전문가가 인터넷 초창기와 같은 수준의 경계심을 주문했다. Credit: Ben Patterson/Foundry 웹 초창기, 파일 다운로드는 신기하고 즐거운 경험이었다. 좋아하는 노래의 MIDI 버전처럼 희귀하고 흥미로운 것들이 넘쳐났다."
+      "date": "2026.04.05",
+      "link": "https://www.itworld.co.kr/article/4154370/hpe%c2%b7%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81-%ea%b2%bd%ec%9f%81-%eb%b3%b8%ea%b2%a9%ed%99%94%ec%b0%a8%ec%84%b8%eb%8c%80-ai-%ed%8c%a9.html",
+      "summary": "AI 인프라 경쟁이 단순 성능을 넘어 대규모 운영 역량으로 이동하는 가운데, HPE와 엔비디아가 HPC와 AI를 통합한 데이터센터 아키텍처를 앞세워 시장 주도권 확보에 나섰다. Credit: HPE HPE의 액체 냉각과 엔비디아 가속 컴퓨팅이 결합되면서, AI 데이터센터는 성능뿐 아니라 ‘에너지 효율 경쟁’의 무대로 확장되고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 에이전트의 코드 실행 권한이 부른 보안 사고…오픈AI 취약점 2건 패치",
+      "title": "“인턴에게 ERP 전권을 주겠는가” 오픈클로 도입 전 반드시 들어야 할 경고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.04",
-      "link": "https://www.itworld.co.kr/article/4152843/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bd%94%eb%93%9c-%ec%8b%a4%ed%96%89-%ea%b6%8c%ed%95%9c%ec%9d%b4-%eb%b6%80%eb%a5%b8-%eb%b3%b4%ec%95%88-%ec%82%ac%ea%b3%a0%ec%98%a4%ed%94%88ai.html",
-      "summary": "보안 연구진이 오픈AI 제품군에서 자격 증명 탈취와 데이터 외부 유출을 가능하게 하는 결함 두 가지를 각각 발견했다. Credit: miss.cabul / Shutterstock.com 오픈AI가 AI 스택 내 두 가지 결함을 수정했다. AI 에이전트가 민감한 데이터를 의도치 않은 방식으로 이동시킬 수 있는 취약점이었다."
+      "date": "2026.04.05",
+      "link": "https://www.itworld.co.kr/article/4154368/%ec%9d%b8%ed%84%b4%ec%97%90%ea%b2%8c-erp-%ec%a0%84%ea%b6%8c%ec%9d%84-%ec%a3%bc%ea%b2%a0%eb%8a%94%ea%b0%80-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%eb%8f%84%ec%9e%85-%ec%a0%84-%eb%b0%98%eb%93%9c.html",
+      "summary": "에이전트 AI가 기업 시스템에 연결되는 순간 단순한 챗봇이 아닌 위임된 운영 권한이 된다는 사실을 직시해야 한다. Credit: Ben Patterson / Foundry 가장 핵심적인 질문부터 시작하자. 오픈클로는 클라우드 서비스인가, 아닌가? 가장 정확한 답은 “꼭 그렇지는 않지만, 기능적으로는 그렇다”는 복잡한 대답이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "블루스카이, AI 기반 소셜 피드 빌더 ‘애티’ 공개…”알고리즘 대신 내가 직접 설계”",
+      "title": "“피지컬 AI, 기대는 크지만 10년 후 이야기”…제조업 현장의 냉정한 진단",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.04",
-      "link": "https://www.itworld.co.kr/article/4152197/%eb%b8%94%eb%a3%a8%ec%8a%a4%ec%b9%b4%ec%9d%b4-ai-%ea%b8%b0%eb%b0%98-%ec%86%8c%ec%85%9c-%ed%94%bc%eb%93%9c-%eb%b9%8c%eb%8d%94-%ec%95%a0%ed%8b%b0-%ea%b3%b5%ea%b0%9c%ec%95%8c%ea%b3%a0.html",
-      "summary": "블루스카이가 코드 없이 자연어만으로 소셜 피드를 구성하는 AI 앱 애티를 공개했지만, 사용자 일부는 AI 개입에 강하게 반발했다. Credit: Bluesky AI 도구인 클로드 코드(Claude Code)나 코덱스(Codex)를 활용한 바이브 코딩이 앱과 웹 페이지 제작에 쓰인다는 소식은 이미 널리 알려졌지만, 활용 범위는 여기에 그치지 않는다."
+      "date": "2026.04.05",
+      "link": "https://www.itworld.co.kr/article/4153433/%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ea%b8%b0%eb%8c%80%eb%8a%94-%ed%81%ac%ec%a7%80%eb%a7%8c-10%eb%85%84-%ed%9b%84-%ec%9d%b4%ec%95%bc%ea%b8%b0%ec%a0%9c%ec%a1%b0%ec%97%85-%ed%98%84%ec%9e%a5.html",
+      "summary": "지멘스·폭스바겐 IT 리더들이 자율 로봇의 현실적 한계와 도입 과제를 솔직하게 털어놨다. Credit: Alexander Tolstykh - shutterstock.com 지난달 엔비디아 GTC 개발자 행사에 참석한 여러 IT 리더가 피지컬 AI의 실질적인 생산성 효과가 업계 지지자의 주장만큼 가깝지 않다고 입을 모았다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "‘수집’ 아닌 ‘연결’이 승패 가른다…디노도가 제안하는 AI 시대의 데이터 전략",
+      "title": "AI 모델도 ‘출처’가 중요하다…마이크로소프트 레드팀의 조언",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.04",
-      "link": "https://www.itworld.co.kr/article/4151603/%ec%88%98%ec%a7%91-%ec%95%84%eb%8b%8c-%ec%97%b0%ea%b2%b0%ec%9d%b4-%ec%8a%b9%ed%8c%a8-%ea%b0%80%eb%a5%b8%eb%8b%a4%eb%94%94%eb%85%b8%eb%8f%84%ea%b0%80.html",
-      "summary": "기업의 생성형 AI 프로젝트가 좀처럼 성과를 내지 못하는 이유는 모델 성능이 아니라 분산된 데이터를 AI에 전달하는 연결 구조의 부재에 있다 Credit: Foundry 오늘날 기업의 화두는 단연 AI다."
+      "date": "2026.04.05",
+      "link": "https://www.itworld.co.kr/article/4153405/ai-%eb%aa%a8%eb%8d%b8%eb%8f%84-%ec%b6%9c%ec%b2%98%ea%b0%80-%ec%a4%91%ec%9a%94%ed%95%98%eb%8b%a4%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%eb%a0%88%eb%93%9c%ed%8c%80.html",
+      "summary": "검증되지 않은 독립 AI 모델의 확산이 새로운 보안 위협으로 떠오르는 가운데, 마이크로소프트 AI 보안 전문가가 인터넷 초창기와 같은 수준의 경계심을 주문했다. Credit: Ben Patterson/Foundry 웹 초창기, 파일 다운로드는 신기하고 즐거운 경험이었다. 좋아하는 노래의 MIDI 버전처럼 희귀하고 흥미로운 것들이 넘쳐났다."
     }
   ]
 }
