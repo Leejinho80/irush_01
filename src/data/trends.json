@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-06T02:13:19.432Z",
-  "collectionDate": "2026.04.05",
-  "displayDate": "2026.04.06",
+  "updatedAt": "2026-04-07T02:09:10.734Z",
+  "collectionDate": "2026.04.06",
+  "displayDate": "2026.04.07",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "비자, 방탄소년단 월드 투어 '아리랑' 스폰서 참여",
+      "title": "스위트스팟, 일본 팬덤 플랫폼 ‘THECOO’와 협력",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.05",
-      "link": "https://zdnet.co.kr/view/?no=20260406111037",
-      "summary": "글로벌 결제 기술 기업 비자(VISA)가 방탄소년단 월드 투어 '아리랑'의 스폰서로 참여한다고 6일 밝혔다. 이번 투어는 34개 도시에서 총 82회에 걸쳐 진행되는 대규모 글로벌 이벤트다. 비자는 이번 방탄소년단 월드 투어 '아리랑'의 월드와이드 투어 스폰서로서, 안전한 결제를 통해 투어에 참여할 수 있는 환경을 지원한다."
+      "date": "2026.04.06",
+      "link": "https://zdnet.co.kr/view/?no=20260407110326",
+      "summary": "팝업스토어 전문 기업 스위트스팟(대표 김정수)은 일본 팬덤 플랫폼 기업 THECOO(더쿠, 대표 타이라 마사토)와 양국 엔터테인먼트 콘텐츠의 상호 시장 진출 지원을 위한 업무협약을 체결했다고 7일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "\"스스로 판단하는 로봇, 우주 탐사 속도 높인다\" [우주로 간다]",
+      "title": "아이폰 뒷면에 붙여 쓰는 초소형 전자책 리더기 주목",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.05",
-      "link": "https://zdnet.co.kr/view/?no=20260406095030",
-      "summary": "현재 대부분의 우주 탐사 로봇은 지구에서 원격 제어되며, 에너지 효율을 고려한 정교한 설계로 인해 탐사 범위가 제한적인 한계를 지닌다. 이로 인해 달과 화성에서는 비교적 활발한 탐사가 이뤄지고 있지만, 더 먼 행성에 대한 탐사 속도는 더딘 편이다."
+      "date": "2026.04.06",
+      "link": "https://zdnet.co.kr/view/?no=20260407105438",
+      "summary": "아이폰 뒷면에 자석으로 부착해 사용하는 맥세이프 기반 초소형 전자책 리더기가 등장해 주목받고 있다. 나인투파이브맥 등 외신은 초소형 전자책 리더기 업체 ‘엑스티잉크(Xteink)’의 제품을 6일(현지시간) 소개했다. 아이폰 뒷면에 자석으로 붙여 사용하는 전자책 리더기가 나왔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "조이시티 '프리스타일풋볼2', PC 버전 테스트 5월 8일 실시",
+      "title": "생활연구소, 사명 '청연' 변경…종합 라이프케어 기업 도약",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.05",
-      "link": "https://zdnet.co.kr/view/?no=20260406105646",
-      "summary": "조이시티(대표 조성원)는 자회사 우레가 개발 중인 신작 축구 게임 ‘프리스타일 풋볼 2’의 PC 플랫폼 전용 2차 비공개 테스트에 앞서 테스트 참가자를 모집한다고 6일 밝혔다. 이번 2차 비공개 테스트는 스팀(Steam)과 Xbox on PC 플랫폼을 통해 진행된다."
+      "date": "2026.04.06",
+      "link": "https://zdnet.co.kr/view/?no=20260407104923",
+      "summary": "라이프케어 플랫폼 청연을 운영하는 생활연구소가 사명을 '청연'으로 변경하고 종합 라이프케어 기업으로 도약한다고 7일 밝혔다. 청연은 지난달 27일 정기 주주총회에서 사명 변경 안건을 가결했다. 등기 절차 완료 후 법인명이 공식 적용되며, 2017년 설립 이후 약 10년 만이다. 이번 사명 변경은 최근 브랜드 재단장과 사업 방향성을 반영한 결정이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "네오플, 윤명진 대표 '던파 모바일' 본부장 겸임…조직 개편 단행",
+      "title": "[법과 상식 사이] 301조 시대, 규제는 통상 리스크가 된다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.05",
-      "link": "https://zdnet.co.kr/view/?no=20260406104813",
-      "summary": "윤명진 네오플 대표가 직접 액션 RPG '던전앤파이터 모바일'(이하 던파 모바일)의 모바일던파개발본부장도 겸임한다. 이는 '던파 모바일'의 중국 현지 서비스 운영을 퍼블리셔인 텐센트에 전면 이관하는 구조로 개편하고, 이에 따른 개편을 주도하기 위해서로 풀이된다."
+      "date": "2026.04.06",
+      "link": "https://zdnet.co.kr/view/?no=20260407105621",
+      "summary": "왜 미국은 어느 날 갑자기 특정 제품에 높은 관세를 부과할까? 이 질문의 답은 1974년 미국 무역법 301조에 있다. 다만 여기서 말하는 ‘301조’는 하나의 조문이 아니다. 조사, 협의, 판단, 제재까지 이어지는 여러 규정을 묶어 부르는 표현이다. 안정민 한림대 융합과학수사학과 교수 즉, 단순한 규정이 아니라 하나의 완결된 집행 메커니즘이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "펄어비스, '코리아 인디게임 데브캠프' 협력",
+      "title": "bhc, ‘별 하나 페스티벌’ 티켓 이벤트 진행…앱 통해 응모",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.05",
-      "link": "https://zdnet.co.kr/view/?no=20260406105047",
-      "summary": "펄어비스가 국내 인디 게임 산업의 육성과 건강한 생태계 조성을 위해 ‘2026년 코리아 인디게임 데브캠프’에 참여한다고 6일 밝혔다. ‘코리아 인디게임 데브캠프’는 인디 게임 산업 경쟁력을 강화하기 위해 문화체육관광부와 한국콘텐츠진흥원이 추진하는 사업이다. 펄어비스는 참여를 통해 인디 개발자들을 위한 멘토링과 기술 교류를 진행할 계획이다."
+      "date": "2026.04.06",
+      "link": "https://zdnet.co.kr/view/?no=20260407102741",
+      "summary": "bhc는 다음달 9일 열리는 ‘별 하나 페스티벌’을 앞두고 자사 앱을 통해 티켓 응모 행사를 진행한다고 밝혔다. 7일 회사에 따르면 이번 행사는 고객 참여를 유도하기 위해 주문, 일일 참여, VIP 대상 등 3가지 방식으로 구성됐다. 자사 앱에서 2만 원 이상 주문 후 이벤트 페이지에서 응모하면 추첨을 통해 티켓(1인 2매)이 제공된다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 지원 취약점 탐색 급증에 버그 바운티 프로그램 잇따라 중단",
+      "title": "국내 제조 대기업, 오픈텍스트 AI 기반 자동화로 설비 점검 시간 87% 단축",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.05",
-      "link": "https://www.itworld.co.kr/article/4154378/ai-%ec%a7%80%ec%9b%90-%ec%b7%a8%ec%95%bd%ec%a0%90-%ed%83%90%ec%83%89-%ea%b8%89%ec%a6%9d%ec%97%90-%eb%b2%84%ea%b7%b8-%eb%b0%94%ec%9a%b4%ed%8b%b0-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ec%9e%87%eb%94%b0.html",
-      "summary": "AI 지원 취약점 탐색이 급증하면서 버그 발견 속도가 수정 역량을 압도하고, 오픈소스 보안 생태계의 균형이 흔들리고 있다. Credit: Andrii Yalanskyi / Shutterstock 오픈소스 소프트웨어의 버그를 발견해 신고하는 연구자에 대한 인터넷 버그 바운티 팀의 보상 지급이 중단된다."
+      "date": "2026.04.06",
+      "link": "https://www.itworld.co.kr/article/4154409/%ea%b5%ad%eb%82%b4-%ec%a0%9c%ec%a1%b0-%eb%8c%80%ea%b8%b0%ec%97%85-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ea%b8%b0%eb%b0%98-%ec%9e%90%eb%8f%99%ed%99%94%eb%a1%9c-%ec%84%a4%eb%b9%84-%ec%a0%90.html",
+      "summary": "오픈텍스트의 AI 기반 자동화 플랫폼을 활용한 국내 제조 대기업이 점검 시간 단축과 운영 최적화를 동시에 달성했다 Credit: Sundry Photography / shutterstock 국내 제조 대기업 A사가 오픈텍스트의 인공지능 기반 운영 자동화 솔루션을 도입해 IT 운영 효율성과 안정성을 개선했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "HPE·엔비디아, AI 인프라 운영 경쟁 본격화…차세대 AI 팩토리·슈퍼컴 공개",
+      "title": "“AI 운영의 복잡성, 플랫폼과 에코시스템으로 풀어내다” HS효성인포메이션시스템의 엔터프라이즈 AI 접근법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.05",
-      "link": "https://www.itworld.co.kr/article/4154370/hpe%c2%b7%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%9a%b4%ec%98%81-%ea%b2%bd%ec%9f%81-%eb%b3%b8%ea%b2%a9%ed%99%94%ec%b0%a8%ec%84%b8%eb%8c%80-ai-%ed%8c%a9.html",
-      "summary": "AI 인프라 경쟁이 단순 성능을 넘어 대규모 운영 역량으로 이동하는 가운데, HPE와 엔비디아가 HPC와 AI를 통합한 데이터센터 아키텍처를 앞세워 시장 주도권 확보에 나섰다. Credit: HPE HPE의 액체 냉각과 엔비디아 가속 컴퓨팅이 결합되면서, AI 데이터센터는 성능뿐 아니라 ‘에너지 효율 경쟁’의 무대로 확장되고 있다."
+      "date": "2026.04.06",
+      "link": "https://www.itworld.co.kr/article/4154389/ai-%ec%9a%b4%ec%98%81%ec%9d%98-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ed%94%8c%eb%9e%ab%ed%8f%bc%ea%b3%bc-%ec%97%90%ec%bd%94%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9c%bc%eb%a1%9c-%ed%92%80%ec%96%b4%eb%82%b4.html",
+      "summary": "AI 활용이 멀티 에이전트와 추론 중심으로 진화하는 가운데, HS효성인포메이션시스템은 ‘Cloud & AI 서밋’에서 복잡해진 엔터프라이즈 AI 운영을 플랫폼과 에코시스템으로 해결하는 전략을 제시했다. Credit: Foundry 기업의 AI 활용상은 빠르게 변화하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“인턴에게 ERP 전권을 주겠는가” 오픈클로 도입 전 반드시 들어야 할 경고",
+      "title": "“오픈소스 견제인가, 용량 한계인가” 앤트로픽, 오픈클로 차단에 오픈소스 커뮤니티 반발",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.05",
-      "link": "https://www.itworld.co.kr/article/4154368/%ec%9d%b8%ed%84%b4%ec%97%90%ea%b2%8c-erp-%ec%a0%84%ea%b6%8c%ec%9d%84-%ec%a3%bc%ea%b2%a0%eb%8a%94%ea%b0%80-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%eb%8f%84%ec%9e%85-%ec%a0%84-%eb%b0%98%eb%93%9c.html",
-      "summary": "에이전트 AI가 기업 시스템에 연결되는 순간 단순한 챗봇이 아닌 위임된 운영 권한이 된다는 사실을 직시해야 한다. Credit: Ben Patterson / Foundry 가장 핵심적인 질문부터 시작하자. 오픈클로는 클라우드 서비스인가, 아닌가? 가장 정확한 답은 “꼭 그렇지는 않지만, 기능적으로는 그렇다”는 복잡한 대답이다."
+      "date": "2026.04.06",
+      "link": "https://www.itworld.co.kr/article/4154689/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ea%b2%ac%ec%a0%9c%ec%9d%b8%ea%b0%80-%ec%9a%a9%eb%9f%89-%ed%95%9c%ea%b3%84%ec%9d%b8%ea%b0%80-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%98%a4%ed%94%88%ed%81%b4.html",
+      "summary": "앤트로픽이 유료 구독자의 서드파티 도구 접근을 끊으면서 비용 부담과 경쟁 의도를 둘러싼 논란이 불거졌다. Credit: ackpress - shutterstock.com 앤트로픽이 4월 4일부터 유료 클로드 구독자의 오픈소스 AI 에이전트 오픈클로(OpenClaw) 사용을 기존 구독 요금제 내에서 차단했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“피지컬 AI, 기대는 크지만 10년 후 이야기”…제조업 현장의 냉정한 진단",
+      "title": "파이어폭스, ‘프로젝트 노바’로 6년 만에 전면 개편…AI·프라이버시·커스터마이징 동시 공략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.05",
-      "link": "https://www.itworld.co.kr/article/4153433/%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ea%b8%b0%eb%8c%80%eb%8a%94-%ed%81%ac%ec%a7%80%eb%a7%8c-10%eb%85%84-%ed%9b%84-%ec%9d%b4%ec%95%bc%ea%b8%b0%ec%a0%9c%ec%a1%b0%ec%97%85-%ed%98%84%ec%9e%a5.html",
-      "summary": "지멘스·폭스바겐 IT 리더들이 자율 로봇의 현실적 한계와 도입 과제를 솔직하게 털어놨다. Credit: Alexander Tolstykh - shutterstock.com 지난달 엔비디아 GTC 개발자 행사에 참석한 여러 IT 리더가 피지컬 AI의 실질적인 생산성 효과가 업계 지지자의 주장만큼 가깝지 않다고 입을 모았다."
+      "date": "2026.04.06",
+      "link": "https://www.itworld.co.kr/article/4154657/%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%eb%85%b8%eb%b0%94%eb%a1%9c-6%eb%85%84-%eb%a7%8c%ec%97%90-%ec%a0%84%eb%a9%b4-%ea%b0%9c%ed%8e%b8ai%c2%b7.html",
+      "summary": "모질라가 파이어폭스 브라우저를 대대적으로 개편하는 '프로젝트 노바'를 준비 중이다. Credit: Firefox 파이어폭스 브라우저가 앞으로 몇 달 안에 대대적인 변화를 앞두고 있다. 구글이나 마이크로소프트가 아닌 이상, 어느 브라우저든 사용자 수와 영향력 면에서 근본적인 불리함을 안고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI 모델도 ‘출처’가 중요하다…마이크로소프트 레드팀의 조언",
+      "title": "“스스로 문제 파악하고 고친다” HPE가 제안하는 AI 자율주행 네트워크 비전",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.05",
-      "link": "https://www.itworld.co.kr/article/4153405/ai-%eb%aa%a8%eb%8d%b8%eb%8f%84-%ec%b6%9c%ec%b2%98%ea%b0%80-%ec%a4%91%ec%9a%94%ed%95%98%eb%8b%a4%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%eb%a0%88%eb%93%9c%ed%8c%80.html",
-      "summary": "검증되지 않은 독립 AI 모델의 확산이 새로운 보안 위협으로 떠오르는 가운데, 마이크로소프트 AI 보안 전문가가 인터넷 초창기와 같은 수준의 경계심을 주문했다. Credit: Ben Patterson/Foundry 웹 초창기, 파일 다운로드는 신기하고 즐거운 경험이었다. 좋아하는 노래의 MIDI 버전처럼 희귀하고 흥미로운 것들이 넘쳐났다."
+      "date": "2026.04.06",
+      "link": "https://www.itworld.co.kr/article/4154399/%ec%8a%a4%ec%8a%a4%eb%a1%9c-%eb%ac%b8%ec%a0%9c-%ed%8c%8c%ec%95%85%ed%95%98%ea%b3%a0-%ea%b3%a0%ec%b9%9c%eb%8b%a4-hpe%ea%b0%80-%ec%a0%9c%ec%95%88%ed%95%98%eb%8a%94-ai-%ec%9e%90-2.html",
+      "summary": "AI 기반 네트워크 운영이 사후 장애 처리에서 사전 감지·자율 조치로 진화하며, 실제 도입 기업들에서 운영 효율 대폭 개선 사례가 속속 나오고 있다. Credit: Foundry 2026년 초 AI 개발사 앤트로픽은 AI가 노동시장에 미치는 영향을 분석한 보고서를 발표했다."
     }
   ]
 }
