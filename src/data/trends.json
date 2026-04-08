@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-07T02:09:10.734Z",
-  "collectionDate": "2026.04.06",
-  "displayDate": "2026.04.07",
+  "updatedAt": "2026-04-08T02:09:57.673Z",
+  "collectionDate": "2026.04.07",
+  "displayDate": "2026.04.08",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "스위트스팟, 일본 팬덤 플랫폼 ‘THECOO’와 협력",
+      "title": "‘하늘의 기상관측소’ 기상항공기, 3천 시간 비행…관측 공백 메워",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.06",
-      "link": "https://zdnet.co.kr/view/?no=20260407110326",
-      "summary": "팝업스토어 전문 기업 스위트스팟(대표 김정수)은 일본 팬덤 플랫폼 기업 THECOO(더쿠, 대표 타이라 마사토)와 양국 엔터테인먼트 콘텐츠의 상호 시장 진출 지원을 위한 업무협약을 체결했다고 7일 밝혔다."
+      "date": "2026.04.07",
+      "link": "https://zdnet.co.kr/view/?no=20260408110642",
+      "summary": "기상청 국립기상과학원은 기상항공기 ‘나라호’가 2017년 11월 도입이래 현재까지 연평균 약 375시간, 총 3000시간의 비행과 880회의 관측 임무를 수행했다고 8일 밝혔다. 나라호는 27종의 관측장비와 장치를 장착·탑재한 대기 관측 전용 항공기로, 관측소가 부족한 해상 지역 대기 상태를 직접 관측할 수 있는 이동식 관측 수단이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "아이폰 뒷면에 붙여 쓰는 초소형 전자책 리더기 주목",
+      "title": "리디, 글로벌 플랫폼 '만타'서 망가 서비스 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.06",
-      "link": "https://zdnet.co.kr/view/?no=20260407105438",
-      "summary": "아이폰 뒷면에 자석으로 부착해 사용하는 맥세이프 기반 초소형 전자책 리더기가 등장해 주목받고 있다. 나인투파이브맥 등 외신은 초소형 전자책 리더기 업체 ‘엑스티잉크(Xteink)’의 제품을 6일(현지시간) 소개했다. 아이폰 뒷면에 자석으로 붙여 사용하는 전자책 리더기가 나왔다."
+      "date": "2026.04.07",
+      "link": "https://zdnet.co.kr/view/?no=20260408101032",
+      "summary": "콘텐츠 플랫폼 기업 리디 주식회사는 글로벌 웹툰 플랫폼 '만타'에 망가 서비스를 새롭게 선보인다고 8일 밝혔다. 만타는 2020년 글로벌 출시 이후 구독과 단건 결제를 결합한 하이브리드 비즈니스 모델을 기반으로 성장해 왔으며, 현재 175개국에서 누적 다운로드 1900만 건을 기록하고 있다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "생활연구소, 사명 '청연' 변경…종합 라이프케어 기업 도약",
+      "title": "[현장] \"AI 다음은 양자\"…시스코, 차세대 네트워크 주도권 잡는다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.06",
-      "link": "https://zdnet.co.kr/view/?no=20260407104923",
-      "summary": "라이프케어 플랫폼 청연을 운영하는 생활연구소가 사명을 '청연'으로 변경하고 종합 라이프케어 기업으로 도약한다고 7일 밝혔다. 청연은 지난달 27일 정기 주주총회에서 사명 변경 안건을 가결했다. 등기 절차 완료 후 법인명이 공식 적용되며, 2017년 설립 이후 약 10년 만이다. 이번 사명 변경은 최근 브랜드 재단장과 사업 방향성을 반영한 결정이다."
+      "date": "2026.04.07",
+      "link": "https://zdnet.co.kr/view/?no=20260408105425",
+      "summary": "시스코가 에이전틱 인공지능(AI)과 양자컴퓨팅 시대를 겨냥한 차세대 네트워크 전략을 앞세워 인프라 혁신에 박차를 가한다. 네트워크 장비 기업을 넘어 AI 인프라·보안·데이터를 아우르는 엔드투엔드 플랫폼으로 진화해 기업 AI 전환(AX)을 뒷받침하는 핵심 기반을 제공한다는 목표다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "[법과 상식 사이] 301조 시대, 규제는 통상 리스크가 된다",
+      "title": "배터리협회 \"에너지 절감 노력 동참\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.06",
-      "link": "https://zdnet.co.kr/view/?no=20260407105621",
-      "summary": "왜 미국은 어느 날 갑자기 특정 제품에 높은 관세를 부과할까? 이 질문의 답은 1974년 미국 무역법 301조에 있다. 다만 여기서 말하는 ‘301조’는 하나의 조문이 아니다. 조사, 협의, 판단, 제재까지 이어지는 여러 규정을 묶어 부르는 표현이다. 안정민 한림대 융합과학수사학과 교수 즉, 단순한 규정이 아니라 하나의 완결된 집행 메커니즘이다."
+      "date": "2026.04.07",
+      "link": "https://zdnet.co.kr/view/?no=20260408102200",
+      "summary": "한국배터리산업협회는 회원사와 함께 정부가 중동전쟁 장기화 가능성에 대비해 에너지 수급 안정과 범국민적 절약 실천 등 위기 극복을 위한 노력에 적극 동참하겠다는 입장문을 8일 발표했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "bhc, ‘별 하나 페스티벌’ 티켓 이벤트 진행…앱 통해 응모",
+      "title": "금융위, 가상자산 출금지연 예외기준 통일…보이스피싱 피해 차단",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.06",
-      "link": "https://zdnet.co.kr/view/?no=20260407102741",
-      "summary": "bhc는 다음달 9일 열리는 ‘별 하나 페스티벌’을 앞두고 자사 앱을 통해 티켓 응모 행사를 진행한다고 밝혔다. 7일 회사에 따르면 이번 행사는 고객 참여를 유도하기 위해 주문, 일일 참여, VIP 대상 등 3가지 방식으로 구성됐다. 자사 앱에서 2만 원 이상 주문 후 이벤트 페이지에서 응모하면 추첨을 통해 티켓(1인 2매)이 제공된다."
+      "date": "2026.04.07",
+      "link": "https://zdnet.co.kr/view/?no=20260408104056",
+      "summary": "금융당국이 가상자산 계좌를 통한 보이스피싱 피해금 유출을 막기 위해 가상자산 거래소의 출금지연 예외 기준을 통일했다. 금융위원회는 8일 금융감독원, 가상자산 거래소, 디지털자산거래소 공동협의체(DAXA)와 함께 ‘가상자산 출금 지연 제도’를 정비했다고 밝혔다. 이번 제도 개편으로 각 거래소가 자체적으로 운영하던 출금지연 예외 기준 표준이 마련됐다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "국내 제조 대기업, 오픈텍스트 AI 기반 자동화로 설비 점검 시간 87% 단축",
+      "title": "클로드 코드, 추론 퇴행 논란…GPU 제약이 품질 발목 잡나",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.06",
-      "link": "https://www.itworld.co.kr/article/4154409/%ea%b5%ad%eb%82%b4-%ec%a0%9c%ec%a1%b0-%eb%8c%80%ea%b8%b0%ec%97%85-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ea%b8%b0%eb%b0%98-%ec%9e%90%eb%8f%99%ed%99%94%eb%a1%9c-%ec%84%a4%eb%b9%84-%ec%a0%90.html",
-      "summary": "오픈텍스트의 AI 기반 자동화 플랫폼을 활용한 국내 제조 대기업이 점검 시간 단축과 운영 최적화를 동시에 달성했다 Credit: Sundry Photography / shutterstock 국내 제조 대기업 A사가 오픈텍스트의 인공지능 기반 운영 자동화 솔루션을 도입해 IT 운영 효율성과 안정성을 개선했다."
+      "date": "2026.04.07",
+      "link": "https://www.itworld.co.kr/article/4155402/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%b6%94%eb%a1%a0-%ed%87%b4%ed%96%89-%eb%85%bc%eb%9e%80-gpu-%ec%a0%9c%ec%95%bd%ec%9d%b4-%ed%92%88%ec%a7%88-%eb%b0%9c%eb%aa%a9-%ec%9e%a1%eb%82%98.html",
+      "summary": "복잡한 엔지니어링 작업에서 클로드 코드의 추론 깊이가 얕아졌다는 보고가 잇따르며 개발자 신뢰가 흔들리고 있다. Credit: Koshiro K / Shutterstock 코딩 어시스턴트가 어려운 부분을 회피하는 것처럼 보이면 개발자들은 곧바로 알아챈다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“AI 운영의 복잡성, 플랫폼과 에코시스템으로 풀어내다” HS효성인포메이션시스템의 엔터프라이즈 AI 접근법",
+      "title": "“IT 분야 고용 한파, 2025년보다 빠르다” AI 자동화가 인력 결정 주도",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.06",
-      "link": "https://www.itworld.co.kr/article/4154389/ai-%ec%9a%b4%ec%98%81%ec%9d%98-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ed%94%8c%eb%9e%ab%ed%8f%bc%ea%b3%bc-%ec%97%90%ec%bd%94%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9c%bc%eb%a1%9c-%ed%92%80%ec%96%b4%eb%82%b4.html",
-      "summary": "AI 활용이 멀티 에이전트와 추론 중심으로 진화하는 가운데, HS효성인포메이션시스템은 ‘Cloud & AI 서밋’에서 복잡해진 엔터프라이즈 AI 운영을 플랫폼과 에코시스템으로 해결하는 전략을 제시했다. Credit: Foundry 기업의 AI 활용상은 빠르게 변화하고 있다."
+      "date": "2026.04.07",
+      "link": "https://www.itworld.co.kr/article/4155384/it-%eb%b6%84%ec%95%bc-%ea%b3%a0%ec%9a%a9-%ed%95%9c%ed%8c%8c-2025%eb%85%84%eb%b3%b4%eb%8b%a4-%eb%b9%a0%eb%a5%b4%eb%8b%a4-ai-%ec%9e%90%eb%8f%99%ed%99%94%ea%b0%80-%ec%9d%b8%eb%a0%a5-%ea%b2%b0.html",
+      "summary": "AI 자동화 확산이 기업의 인력 운용 방식을 바꾸면서 기술 분야 일자리 감소세가 이어지고 있다. Credit: Shutterstock/Stokkete 미국 정보기술 산업협회 컴티아(CompTIA)가 노동부 산하 노동통계국이 발표한 지난주 고용 지표를 분석한 결과, 기술직 실업률이 3.9%로 집계됐다고 밝혔다. 전국 평균 실업률 4.3%보다는 낮은 수준이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“오픈소스 견제인가, 용량 한계인가” 앤트로픽, 오픈클로 차단에 오픈소스 커뮤니티 반발",
+      "title": "국내 제조 대기업, 오픈텍스트 AI 기반 자동화로 설비 점검 시간 87% 단축",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.06",
-      "link": "https://www.itworld.co.kr/article/4154689/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ea%b2%ac%ec%a0%9c%ec%9d%b8%ea%b0%80-%ec%9a%a9%eb%9f%89-%ed%95%9c%ea%b3%84%ec%9d%b8%ea%b0%80-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%98%a4%ed%94%88%ed%81%b4.html",
-      "summary": "앤트로픽이 유료 구독자의 서드파티 도구 접근을 끊으면서 비용 부담과 경쟁 의도를 둘러싼 논란이 불거졌다. Credit: ackpress - shutterstock.com 앤트로픽이 4월 4일부터 유료 클로드 구독자의 오픈소스 AI 에이전트 오픈클로(OpenClaw) 사용을 기존 구독 요금제 내에서 차단했다."
+      "date": "2026.04.07",
+      "link": "https://www.itworld.co.kr/article/4154409/%ea%b5%ad%eb%82%b4-%ec%a0%9c%ec%a1%b0-%eb%8c%80%ea%b8%b0%ec%97%85-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ea%b8%b0%eb%b0%98-%ec%9e%90%eb%8f%99%ed%99%94%eb%a1%9c-%ec%84%a4%eb%b9%84-%ec%a0%90.html",
+      "summary": "오픈텍스트의 AI 기반 자동화 플랫폼을 활용한 국내 제조 대기업이 점검 시간 단축과 운영 최적화를 동시에 달성했다 Credit: Sundry Photography / shutterstock 국내 제조 대기업 A사가 오픈텍스트의 인공지능 기반 운영 자동화 솔루션을 도입해 IT 운영 효율성과 안정성을 개선했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "파이어폭스, ‘프로젝트 노바’로 6년 만에 전면 개편…AI·프라이버시·커스터마이징 동시 공략",
+      "title": "“AI 운영의 복잡성, 플랫폼과 에코시스템으로 풀어내다” HS효성인포메이션시스템의 엔터프라이즈 AI 접근법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.06",
-      "link": "https://www.itworld.co.kr/article/4154657/%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%eb%85%b8%eb%b0%94%eb%a1%9c-6%eb%85%84-%eb%a7%8c%ec%97%90-%ec%a0%84%eb%a9%b4-%ea%b0%9c%ed%8e%b8ai%c2%b7.html",
-      "summary": "모질라가 파이어폭스 브라우저를 대대적으로 개편하는 '프로젝트 노바'를 준비 중이다. Credit: Firefox 파이어폭스 브라우저가 앞으로 몇 달 안에 대대적인 변화를 앞두고 있다. 구글이나 마이크로소프트가 아닌 이상, 어느 브라우저든 사용자 수와 영향력 면에서 근본적인 불리함을 안고 있다."
+      "date": "2026.04.07",
+      "link": "https://www.itworld.co.kr/article/4154389/ai-%ec%9a%b4%ec%98%81%ec%9d%98-%eb%b3%b5%ec%9e%a1%ec%84%b1-%ed%94%8c%eb%9e%ab%ed%8f%bc%ea%b3%bc-%ec%97%90%ec%bd%94%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%9c%bc%eb%a1%9c-%ed%92%80%ec%96%b4%eb%82%b4.html",
+      "summary": "AI 활용이 멀티 에이전트와 추론 중심으로 진화하는 가운데, HS효성인포메이션시스템은 ‘Cloud & AI 서밋’에서 복잡해진 엔터프라이즈 AI 운영을 플랫폼과 에코시스템으로 해결하는 전략을 제시했다. Credit: Foundry 기업의 AI 활용상은 빠르게 변화하고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "“스스로 문제 파악하고 고친다” HPE가 제안하는 AI 자율주행 네트워크 비전",
+      "title": "“오픈소스 견제인가, 용량 한계인가” 앤트로픽, 오픈클로 차단에 오픈소스 커뮤니티 반발",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.06",
-      "link": "https://www.itworld.co.kr/article/4154399/%ec%8a%a4%ec%8a%a4%eb%a1%9c-%eb%ac%b8%ec%a0%9c-%ed%8c%8c%ec%95%85%ed%95%98%ea%b3%a0-%ea%b3%a0%ec%b9%9c%eb%8b%a4-hpe%ea%b0%80-%ec%a0%9c%ec%95%88%ed%95%98%eb%8a%94-ai-%ec%9e%90-2.html",
-      "summary": "AI 기반 네트워크 운영이 사후 장애 처리에서 사전 감지·자율 조치로 진화하며, 실제 도입 기업들에서 운영 효율 대폭 개선 사례가 속속 나오고 있다. Credit: Foundry 2026년 초 AI 개발사 앤트로픽은 AI가 노동시장에 미치는 영향을 분석한 보고서를 발표했다."
+      "date": "2026.04.07",
+      "link": "https://www.itworld.co.kr/article/4154689/%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ea%b2%ac%ec%a0%9c%ec%9d%b8%ea%b0%80-%ec%9a%a9%eb%9f%89-%ed%95%9c%ea%b3%84%ec%9d%b8%ea%b0%80-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%98%a4%ed%94%88%ed%81%b4.html",
+      "summary": "앤트로픽이 유료 구독자의 서드파티 도구 접근을 끊으면서 비용 부담과 경쟁 의도를 둘러싼 논란이 불거졌다. Credit: ackpress - shutterstock.com 앤트로픽이 4월 4일부터 유료 클로드 구독자의 오픈소스 AI 에이전트 오픈클로(OpenClaw) 사용을 기존 구독 요금제 내에서 차단했다."
     }
   ]
 }
