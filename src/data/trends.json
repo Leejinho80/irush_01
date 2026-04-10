@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-09T02:02:47.422Z",
-  "collectionDate": "2026.04.08",
-  "displayDate": "2026.04.09",
+  "updatedAt": "2026-04-10T02:23:08.684Z",
+  "collectionDate": "2026.04.09",
+  "displayDate": "2026.04.10",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "공정위, 정유·플라스틱 업계와 상생협약...이란 전쟁 여파",
+      "title": "인텔-구글, AI·클라우드 인프라 다년간 협력",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.08",
-      "link": "https://zdnet.co.kr/view/?no=20260409095506",
-      "summary": "국제유가 급등과 원자재 가격 상승으로 산업 전반의 부담이 커지는 가운데, 정부와 업계가 상생협력 방안을 마련했다. 공정거래위원회는 더불어민주당 을지로위원회 주최로 국회에서 정유업계 및 플라스틱 가공업계와 각각 상생협약을 체결했다고 9일 밝혔다. 이번 협약은 중동전쟁에 따른 원가 상승 부담을 완화하고, 대·중소기업 간 거래 불균형을 개선하기 위해 추진됐다."
+      "date": "2026.04.09",
+      "link": "https://zdnet.co.kr/view/?no=20260410112105",
+      "summary": "인텔과 구글이 10일 차세대 AI와 클라우드 인프라 발전을 위해 향후 수 년간 협력을 강화한다고 밝혔다. AI 처리에 필요한 대용량 데이터 처리, 에이전틱 AI 제어 등으로 CPU의 의존도가 높아지고 있는 상황이다. 구글 클라우드는 인텔 최신 서버용 프로세서인 제온을 활용해 대규모 AI 학습 조정과 추론/범용 컴퓨팅 등 다양한 워크로드를 구동하고 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "개보위, 글로벌 경매 크리스티스에 과징금 2억 8000만 원 부과",
+      "title": "AUBL, 시리즈A 투자 유치...개막전 한국서 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.08",
-      "link": "https://zdnet.co.kr/view/?no=20260408211041",
-      "summary": "개인정보보호위원회는 8일 제 6회 전체회의를 열고 개인정보 보호 법규를 위반한 Cristie, Manson & Woods, Ltd.(이하 크리스티스)에 과징금 2억 8000만 원과 과태료 720만 원을 부과하고, 처분 사실 공표를 명령했다. 크리스티스는 영국 소재 글로벌 경매회사다."
+      "date": "2026.04.09",
+      "link": "https://zdnet.co.kr/view/?no=20260410111605",
+      "summary": "아시아 대학 농구 리그 AUBL(Asian University Basketball League)이 글로벌 투자자들이 참여한 시리즈 A 투자 유치를 완료했다고 10일 밝혔다. AUBL은 한국을 핵심 전략 시장 중 하나로 보고 리그 운영과 커뮤니티 확장을 적극 추진할 계획이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "뉴타닉스, 에이전틱 AI 인프라 고도화…추론·실행 시대 전략 가속",
+      "title": "[전문] 한국은행 4월 통화정책방향",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.08",
-      "link": "https://zdnet.co.kr/view/?no=20260409103656",
-      "summary": "뉴타닉스가 에이전틱 인공지능(AI)을 중심으로 한 클라우드 플랫폼 전략을 강화하며 차세대 AI 인프라 시장 공략에 나섰다. 단순 모델 활용을 넘어 실제 운영 환경에서 AI 에이전트를 안정적으로 실행할 수 있는 기반을 제공한다는 목표다."
+      "date": "2026.04.09",
+      "link": "https://zdnet.co.kr/view/?no=20260410111410",
+      "summary": "금융통화위원회는 다음 통화정책방향 결정시까지 한국은행 기준금리를 현재의 2.50% 수준에서 유지하여 통화정책을 운용하기로 하였다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "진옥동 \"AI 네이티브 회사·세계적인 은행으로 만들 것\"",
+      "title": "웹젠, 2026년 상반기 채용 연계형 인턴십 모집",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.08",
-      "link": "https://zdnet.co.kr/view/?no=20260409100109",
-      "summary": "진옥동 신한금융그룹 회장이 최근 주주에게 서신을 발송해 인공지능(AI) 전환 가속화와 함께 세계로 뻗어나가는 은행으로 만들겠다는 포부를 전달했다. 9일 신한금융은 진옥동 회장이 신한을 ‘AI 네이티브 컴퍼니(Native Company)’로 전환해 나갈 계획임을 밝혔다고 전했다."
+      "date": "2026.04.09",
+      "link": "https://zdnet.co.kr/view/?no=20260410111349",
+      "summary": "웹젠(대표 김태영)은 2026년 상반기 채용 연계형 인턴십 서류 접수를 진행한다고 10일 밝혔다. 이번 모집은 본사를 비롯해 웹젠레드코어, 웹젠레드스타, 웹젠레드앤, 웹젠온네트 등 다수의 계열사가 참여해 오는 27일까지 두 자릿수 규모로 실시된다. 모집 분야는 게임 사업, 개발, 기술, 마케팅, 경영지원 등 총 35개 직무로 구성됐다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "복잡한 의료 공급망 해결…영림원소프트랩, 케이엠헬스케어에 ERP 구축",
+      "title": "토스증권, \"해외주식 양도소득세 신고 대행 해드려요\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.08",
-      "link": "https://zdnet.co.kr/view/?no=20260409101849",
-      "summary": "영림원소프트랩이 데이터 기반 경영 체계 고도화를 위한 의료 산업 특화 전사적자원관리(ERP) 구축을 확산한다. 영림원소프트랩은 감염관리 의료용품 기업 케이엠헬스케어의 ERP 구축 프로젝트를 완료했다고 9일 밝혔다. 케이엠헬스케어는 수술용 가운과 수술포 등을 생산하는 기업으로, 글로벌 생산·물류가 연결된 사업 구조를 갖고 있다."
+      "date": "2026.04.09",
+      "link": "https://zdnet.co.kr/view/?no=20260410111027",
+      "summary": "토스증권은 지난해 해외주식 투자수익 250만원을 초과하는 이용자를 대상으로 ‘해외주식 양도소득세 신고 대행 서비스’를 이달 28일까지 진행한다고 10일 밝혔다. 해외주식 양도소득세는 연간 해외주식 양도차익이 250만원을 초과할 경우, 투자자가 직접 신고, 납부해야 하는 세금이다. 토스증권은 이번달 28일까지 해외주식 양도소득세 신고 대행 접수를 받는다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "아이폰 폴드, 지연설 딛고 가을 출시 ‘예정대로’…블룸버그",
+      "title": "SaaS 데브옵스에서 배우는 기업 IT 회복탄력성 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.08",
-      "link": "https://www.itworld.co.kr/article/4156131/%ec%95%84%ec%9d%b4%ed%8f%b0-%ed%8f%b4%eb%93%9c-%ec%a7%80%ec%97%b0%ec%84%a4-%eb%94%9b%ea%b3%a0-%ea%b0%80%ec%9d%84-%ec%b6%9c%ec%8b%9c-%ec%98%88%ec%a0%95%eb%8c%80%eb%a1%9c-%eb%b8%94%eb%a3%b8.html",
-      "summary": "제조 난항으로 아이폰 폴드의 출하가 12월 또는 2027년 초로 밀릴 수 있다는 우려가 제기된 가운데, 신뢰도 높은 소식통이 예정대로 출시될 것이라고 반박했다. Credit: Foundry 올해 애플 최대 출시작으로 예상되는 아이폰 폴드의 9월 출시 계획에는 변함이 없다."
+      "date": "2026.04.09",
+      "link": "https://www.itworld.co.kr/article/4156953/saas-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4%ec%97%90%ec%84%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1-%ec%a0%84%eb%9e%b5.html",
+      "summary": "제품 관리 관행, 테스트 자동화, Day 0 관찰가능성까지 SaaS 기업이 당연하게 여기는 것들이 기업 데브옵스의 다음 과제다. Credit: Ayman alakhras / Shutterstock 많은 기업의 데브옵스 팀이 빈번한 배포, 테스트 자동화 확대, 안정적인 릴리즈 보장에 어려움을 겪고 있다. SaaS 기업은 무엇이 다를까?"
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI가 만든 비밀번호, 의외로 뚫기 쉽다",
+      "title": "맥북 네오 SSD 업그레이드 가능했다…납땜 실력은 필수",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.08",
-      "link": "https://www.itworld.co.kr/article/4156101/ai%ea%b0%80-%eb%a7%8c%eb%93%a0-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%9d%98%ec%99%b8%eb%a1%9c-%eb%9a%ab%ea%b8%b0-%ec%89%bd%eb%8b%a4.html",
-      "summary": "대규모 언어 모델이 진정한 무작위성 대신 학습 패턴에 기반한 비밀번호를 만들어내면서 기업 인프라에 새로운 보안 위협이 조용히 스며들고 있다. Credit: Vova Kondriianenko AI 보안 기업 이레귤러(Irregular)와 카스퍼스키(Kaspersky)의 독립적인 두 연구가 같은 결론에 도달했다."
+      "date": "2026.04.09",
+      "link": "https://www.itworld.co.kr/article/4156928/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-ssd-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ea%b0%80%eb%8a%a5%ed%96%88%eb%8b%a4%eb%82%a9%eb%95%9c-%ec%8b%a4%eb%a0%a5%ec%9d%80-%ed%95%84%ec%88%98.html",
+      "summary": "한 유튜버가 맥북 네오에 1TB NVMe SSD 장착에 성공하며 저장 용량과 속도 문제를 동시에 해결했다. Credit: Foundry 맥북 네오가 가격 대비 뛰어난 맥 품질로 큰 인기를 끌고 있지만, 단점도 분명 있다. 가장 눈에 띄는 것은 SSD다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "클로드 코드, 추론 퇴행 논란…GPU 제약이 품질 발목 잡나",
+      "title": "원더풀, 한국 진출 본격화…엔터프라이즈 AI 에이전트 시장 공략 나서",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.08",
-      "link": "https://www.itworld.co.kr/article/4155402/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%b6%94%eb%a1%a0-%ed%87%b4%ed%96%89-%eb%85%bc%eb%9e%80-gpu-%ec%a0%9c%ec%95%bd%ec%9d%b4-%ed%92%88%ec%a7%88-%eb%b0%9c%eb%aa%a9-%ec%9e%a1%eb%82%98.html",
-      "summary": "복잡한 엔지니어링 작업에서 클로드 코드의 추론 깊이가 얕아졌다는 보고가 잇따르며 개발자 신뢰가 흔들리고 있다. Credit: Koshiro K / Shutterstock 코딩 어시스턴트가 어려운 부분을 회피하는 것처럼 보이면 개발자들은 곧바로 알아챈다."
+      "date": "2026.04.09",
+      "link": "https://www.itworld.co.kr/article/4156213/%ec%9b%90%eb%8d%94%ed%92%80-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%eb%b3%b8%ea%b2%a9%ed%99%94%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
+      "summary": "기업 시스템에 적용되는 AI 에이전트 플랫폼을 제공하는 원더풀이 한국 지사를 설립하고 국내 시장 공략에 나섰다. Credit: Wonderful AI 에이전트 플랫폼 업체 원더풀이 한국 시장에 진출하며 아시아·태평양(APAC) 확장 전략에 속도를 낸다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“IT 분야 고용 한파, 2025년보다 빠르다” AI 자동화가 인력 결정 주도",
+      "title": "아이폰 폴드, 지연설 딛고 가을 출시 ‘예정대로’…블룸버그",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.08",
-      "link": "https://www.itworld.co.kr/article/4155384/it-%eb%b6%84%ec%95%bc-%ea%b3%a0%ec%9a%a9-%ed%95%9c%ed%8c%8c-2025%eb%85%84%eb%b3%b4%eb%8b%a4-%eb%b9%a0%eb%a5%b4%eb%8b%a4-ai-%ec%9e%90%eb%8f%99%ed%99%94%ea%b0%80-%ec%9d%b8%eb%a0%a5-%ea%b2%b0.html",
-      "summary": "AI 자동화 확산이 기업의 인력 운용 방식을 바꾸면서 기술 분야 일자리 감소세가 이어지고 있다. Credit: Shutterstock/Stokkete 미국 정보기술 산업협회 컴티아(CompTIA)가 노동부 산하 노동통계국이 발표한 지난주 고용 지표를 분석한 결과, 기술직 실업률이 3.9%로 집계됐다고 밝혔다. 전국 평균 실업률 4.3%보다는 낮은 수준이다."
+      "date": "2026.04.09",
+      "link": "https://www.itworld.co.kr/article/4156131/%ec%95%84%ec%9d%b4%ed%8f%b0-%ed%8f%b4%eb%93%9c-%ec%a7%80%ec%97%b0%ec%84%a4-%eb%94%9b%ea%b3%a0-%ea%b0%80%ec%9d%84-%ec%b6%9c%ec%8b%9c-%ec%98%88%ec%a0%95%eb%8c%80%eb%a1%9c-%eb%b8%94%eb%a3%b8.html",
+      "summary": "제조 난항으로 아이폰 폴드의 출하가 12월 또는 2027년 초로 밀릴 수 있다는 우려가 제기된 가운데, 신뢰도 높은 소식통이 예정대로 출시될 것이라고 반박했다. Credit: Foundry 올해 애플 최대 출시작으로 예상되는 아이폰 폴드의 9월 출시 계획에는 변함이 없다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "국내 제조 대기업, 오픈텍스트 AI 기반 자동화로 설비 점검 시간 87% 단축",
+      "title": "AI가 만든 비밀번호, 의외로 뚫기 쉽다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.08",
-      "link": "https://www.itworld.co.kr/article/4154409/%ea%b5%ad%eb%82%b4-%ec%a0%9c%ec%a1%b0-%eb%8c%80%ea%b8%b0%ec%97%85-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ea%b8%b0%eb%b0%98-%ec%9e%90%eb%8f%99%ed%99%94%eb%a1%9c-%ec%84%a4%eb%b9%84-%ec%a0%90.html",
-      "summary": "오픈텍스트의 AI 기반 자동화 플랫폼을 활용한 국내 제조 대기업이 점검 시간 단축과 운영 최적화를 동시에 달성했다 Credit: Sundry Photography / shutterstock 국내 제조 대기업 A사가 오픈텍스트의 인공지능 기반 운영 자동화 솔루션을 도입해 IT 운영 효율성과 안정성을 개선했다."
+      "date": "2026.04.09",
+      "link": "https://www.itworld.co.kr/article/4156101/ai%ea%b0%80-%eb%a7%8c%eb%93%a0-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%9d%98%ec%99%b8%eb%a1%9c-%eb%9a%ab%ea%b8%b0-%ec%89%bd%eb%8b%a4.html",
+      "summary": "대규모 언어 모델이 진정한 무작위성 대신 학습 패턴에 기반한 비밀번호를 만들어내면서 기업 인프라에 새로운 보안 위협이 조용히 스며들고 있다. Credit: Vova Kondriianenko AI 보안 기업 이레귤러(Irregular)와 카스퍼스키(Kaspersky)의 독립적인 두 연구가 같은 결론에 도달했다."
     }
   ]
 }
