@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-10T02:23:08.684Z",
-  "collectionDate": "2026.04.09",
-  "displayDate": "2026.04.10",
+  "updatedAt": "2026-04-11T02:02:54.819Z",
+  "collectionDate": "2026.04.10",
+  "displayDate": "2026.04.11",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "인텔-구글, AI·클라우드 인프라 다년간 협력",
+      "title": "메모리 품귀 '장기화' 진입… 韓 팹리스 수급난 고조",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.09",
-      "link": "https://zdnet.co.kr/view/?no=20260410112105",
-      "summary": "인텔과 구글이 10일 차세대 AI와 클라우드 인프라 발전을 위해 향후 수 년간 협력을 강화한다고 밝혔다. AI 처리에 필요한 대용량 데이터 처리, 에이전틱 AI 제어 등으로 CPU의 의존도가 높아지고 있는 상황이다. 구글 클라우드는 인텔 최신 서버용 프로세서인 제온을 활용해 대규모 AI 학습 조정과 추론/범용 컴퓨팅 등 다양한 워크로드를 구동하고 있다."
+      "date": "2026.04.10",
+      "link": "https://zdnet.co.kr/view/?no=20260411022107",
+      "summary": "글로벌 메모리 반도체 공급 부족으로 국내 인공지능(AI) 반도체 등 팹리스(설계 전문) 업계 전반에 메모리 수급 차질이 우려되고 있다. 메모리 제조사들이 생산라인을 선단 공정에 집중하면서 고대역폭메모리(HBM)는 물론 범용 D램 제품군 전반에서 품귀 현상이 발생함에 따라, 칩 구동에 필수인 메모리 부품 확보가 최우선 과제로 부상했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "AUBL, 시리즈A 투자 유치...개막전 한국서 개최",
+      "title": "\"300도에도 안 터진다\"…열폭주 차단한 나트륨 배터리 나왔다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.09",
-      "link": "https://zdnet.co.kr/view/?no=20260410111605",
-      "summary": "아시아 대학 농구 리그 AUBL(Asian University Basketball League)이 글로벌 투자자들이 참여한 시리즈 A 투자 유치를 완료했다고 10일 밝혔다. AUBL은 한국을 핵심 전략 시장 중 하나로 보고 리그 운영과 커뮤니티 확장을 적극 추진할 계획이다."
+      "date": "2026.04.10",
+      "link": "https://zdnet.co.kr/view/?no=20260410162510",
+      "summary": "중국 연구진이 배터리 셀 내부에 이른바 '스마트 방화벽'을 형성해 열폭주 현상을 효과적으로 차단할 수 있는 혁신적인 나트륨 배터리를 개발했다. 과학매체 인터레스팅엔지니어링은 중국과학원(CAS) 물리학연구소 후용성 교수가 이끄는 연구진이 해당 논문을 국제 학술지 ‘네이처 에너지(Nature Energy)’에 발표했다고 최근 보도했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "[전문] 한국은행 4월 통화정책방향",
+      "title": "[영상] \"아이폰 울트라, 배터리·두께 모두 잡았다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.09",
-      "link": "https://zdnet.co.kr/view/?no=20260410111410",
-      "summary": "금융통화위원회는 다음 통화정책방향 결정시까지 한국은행 기준금리를 현재의 2.50% 수준에서 유지하여 통화정책을 운용하기로 하였다."
+      "date": "2026.04.10",
+      "link": "https://zdnet.co.kr/view/?no=20260410171338",
+      "summary": "애플이 올해 처음으로 선보일 것으로 예상되는 폴더블 아이폰의 배터리 용량과 두께 등 세부 사양을 담은 렌더링 영상이 공개됐다고 IT매체 폰아레나가 최근 보도했다. 유명 IT 팁스터 존 프로서는 폴더블 아이폰 ‘아이폰 울트라(가칭)’의 렌더링 영상을 유튜브 채널 ‘프론트페이지 테크’를 통해 최근 공개했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "웹젠, 2026년 상반기 채용 연계형 인턴십 모집",
+      "title": "TSMC, 1분기 최대 실적 경신…AI칩 호황 증명",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.09",
-      "link": "https://zdnet.co.kr/view/?no=20260410111349",
-      "summary": "웹젠(대표 김태영)은 2026년 상반기 채용 연계형 인턴십 서류 접수를 진행한다고 10일 밝혔다. 이번 모집은 본사를 비롯해 웹젠레드코어, 웹젠레드스타, 웹젠레드앤, 웹젠온네트 등 다수의 계열사가 참여해 오는 27일까지 두 자릿수 규모로 실시된다. 모집 분야는 게임 사업, 개발, 기술, 마케팅, 경영지원 등 총 35개 직무로 구성됐다."
+      "date": "2026.04.10",
+      "link": "https://zdnet.co.kr/view/?no=20260410152035",
+      "summary": "대만 TSMC가 분기 기준 사상 최대 매출을 또 한번 경신했다. 인공지능(AI) 반도체 수요 지속 증가에 따른 수혜다. 업계는 TSMC가 16일 1분기 실적발표에서 AI 반도체에 대해 어떠한 전망을 제시할 지 주목하고 있다. 앞서 TSMC가 발표한 월별 매출에 따르면 1분기 총 1조1341억 대만달러(약 52조9000억원)의 매출을 올렸다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "토스증권, \"해외주식 양도소득세 신고 대행 해드려요\"",
+      "title": "SKT, CPU에 NPU 더해 AI 추론 서버 성능 검증",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.09",
-      "link": "https://zdnet.co.kr/view/?no=20260410111027",
-      "summary": "토스증권은 지난해 해외주식 투자수익 250만원을 초과하는 이용자를 대상으로 ‘해외주식 양도소득세 신고 대행 서비스’를 이달 28일까지 진행한다고 10일 밝혔다. 해외주식 양도소득세는 연간 해외주식 양도차익이 250만원을 초과할 경우, 투자자가 직접 신고, 납부해야 하는 세금이다. 토스증권은 이번달 28일까지 해외주식 양도소득세 신고 대행 접수를 받는다."
+      "date": "2026.04.10",
+      "link": "https://zdnet.co.kr/view/?no=20260411034241",
+      "summary": "ARM의 AGI CPU와 리벨리온의 리벨카드로 AI 추론 성능을 높이는 솔루션을 개발하고 이를 SK텔레콤 AI 데이터센터에서 실증한다. SK텔레콤이 지난 9일 ARM, 리벨리온과 차세대 AI 인프라 혁신을 위한 전략적 업무협약을 체결했다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "SaaS 데브옵스에서 배우는 기업 IT 회복탄력성 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.09",
+      "date": "2026.04.10",
       "link": "https://www.itworld.co.kr/article/4156953/saas-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4%ec%97%90%ec%84%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1-%ec%a0%84%eb%9e%b5.html",
       "summary": "제품 관리 관행, 테스트 자동화, Day 0 관찰가능성까지 SaaS 기업이 당연하게 여기는 것들이 기업 데브옵스의 다음 과제다. Credit: Ayman alakhras / Shutterstock 많은 기업의 데브옵스 팀이 빈번한 배포, 테스트 자동화 확대, 안정적인 릴리즈 보장에 어려움을 겪고 있다. SaaS 기업은 무엇이 다를까?"
     },
@@ -74,7 +74,7 @@
       "title": "맥북 네오 SSD 업그레이드 가능했다…납땜 실력은 필수",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.09",
+      "date": "2026.04.10",
       "link": "https://www.itworld.co.kr/article/4156928/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-ssd-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ea%b0%80%eb%8a%a5%ed%96%88%eb%8b%a4%eb%82%a9%eb%95%9c-%ec%8b%a4%eb%a0%a5%ec%9d%80-%ed%95%84%ec%88%98.html",
       "summary": "한 유튜버가 맥북 네오에 1TB NVMe SSD 장착에 성공하며 저장 용량과 속도 문제를 동시에 해결했다. Credit: Foundry 맥북 네오가 가격 대비 뛰어난 맥 품질로 큰 인기를 끌고 있지만, 단점도 분명 있다. 가장 눈에 띄는 것은 SSD다."
     },
@@ -84,7 +84,7 @@
       "title": "원더풀, 한국 진출 본격화…엔터프라이즈 AI 에이전트 시장 공략 나서",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.09",
+      "date": "2026.04.10",
       "link": "https://www.itworld.co.kr/article/4156213/%ec%9b%90%eb%8d%94%ed%92%80-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%eb%b3%b8%ea%b2%a9%ed%99%94%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
       "summary": "기업 시스템에 적용되는 AI 에이전트 플랫폼을 제공하는 원더풀이 한국 지사를 설립하고 국내 시장 공략에 나섰다. Credit: Wonderful AI 에이전트 플랫폼 업체 원더풀이 한국 시장에 진출하며 아시아·태평양(APAC) 확장 전략에 속도를 낸다."
     },
@@ -94,7 +94,7 @@
       "title": "아이폰 폴드, 지연설 딛고 가을 출시 ‘예정대로’…블룸버그",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.09",
+      "date": "2026.04.10",
       "link": "https://www.itworld.co.kr/article/4156131/%ec%95%84%ec%9d%b4%ed%8f%b0-%ed%8f%b4%eb%93%9c-%ec%a7%80%ec%97%b0%ec%84%a4-%eb%94%9b%ea%b3%a0-%ea%b0%80%ec%9d%84-%ec%b6%9c%ec%8b%9c-%ec%98%88%ec%a0%95%eb%8c%80%eb%a1%9c-%eb%b8%94%eb%a3%b8.html",
       "summary": "제조 난항으로 아이폰 폴드의 출하가 12월 또는 2027년 초로 밀릴 수 있다는 우려가 제기된 가운데, 신뢰도 높은 소식통이 예정대로 출시될 것이라고 반박했다. Credit: Foundry 올해 애플 최대 출시작으로 예상되는 아이폰 폴드의 9월 출시 계획에는 변함이 없다."
     },
@@ -104,7 +104,7 @@
       "title": "AI가 만든 비밀번호, 의외로 뚫기 쉽다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.09",
+      "date": "2026.04.10",
       "link": "https://www.itworld.co.kr/article/4156101/ai%ea%b0%80-%eb%a7%8c%eb%93%a0-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%9d%98%ec%99%b8%eb%a1%9c-%eb%9a%ab%ea%b8%b0-%ec%89%bd%eb%8b%a4.html",
       "summary": "대규모 언어 모델이 진정한 무작위성 대신 학습 패턴에 기반한 비밀번호를 만들어내면서 기업 인프라에 새로운 보안 위협이 조용히 스며들고 있다. Credit: Vova Kondriianenko AI 보안 기업 이레귤러(Irregular)와 카스퍼스키(Kaspersky)의 독립적인 두 연구가 같은 결론에 도달했다."
     }
