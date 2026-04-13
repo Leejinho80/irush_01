@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-12T02:24:47.632Z",
-  "collectionDate": "2026.04.11",
-  "displayDate": "2026.04.12",
+  "updatedAt": "2026-04-13T02:29:32.149Z",
+  "collectionDate": "2026.04.12",
+  "displayDate": "2026.04.13",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "중동 위기, 재생에너지 전환 불 지폈지만…구조적 제약 여전",
+      "title": "[인사] 국토교통부",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.11",
-      "link": "https://zdnet.co.kr/view/?no=20260412013946",
-      "summary": "중동 전쟁 여파로 재생에너지 전환 필요성이 다시 부각되고 있지만, 공급망과 비용 부담 등 구조적 제약이 여전해 위기가 곧바로 전환 가속으로 이어지기는 어렵다는 분석이 나왔다."
+      "date": "2026.04.12",
+      "link": "https://zdnet.co.kr/view/?no=20260413112754",
+      "summary": "◇국장급 전보 ▲도로국장 김효정 ▲부산지방 국토관리청장 이우제 ▲서울지방항공청장 전형필..."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "스테이블코인 시대, 달러는 질주…원화는 전략 '부재'",
+      "title": "'와우' 사설 서버 차단…블리자드, '터틀 와우 소송' 승소",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.11",
-      "link": "https://zdnet.co.kr/view/?no=20260410211717",
-      "summary": "전세계 스테이블코인 시장은 하나의 통화 인프라로 자리 잡아가고 있다. 2025년 한 해 동안 온체인에서 이뤄진 스테이블코인 결제, 송금 규모는 약 33조 달러로, 전년 대비 72% 성장했다. 이 중 대부분은 달러 연동 스테이블코인이다."
+      "date": "2026.04.12",
+      "link": "https://zdnet.co.kr/view/?no=20260413083255",
+      "summary": "블리자드 엔터테인먼트가 MMORPG '월드 오브 워크래프트' 유명 사설 서버인 '터틀 와우'를 상대로 낸 소송에서 승소했다고 PC게이머가 12일(현지시간) 보도했다. 보도에 따르면 미국 연방 지방 법원은 블리자드의 손을 들어주며 '터틀 와우' 측에 운영 중단 명령을 내렸다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "KT, 온라인 전용 인터넷 요금제 출시",
+      "title": "美 정부, 금융권에 앤트로픽 '미토스' 사용 권고…\"취약점 점검하라\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.11",
-      "link": "https://zdnet.co.kr/view/?no=20260412105558",
-      "summary": "KT는 인터넷 상품에 적용되던 계약기간 할인과 온라인 가입 할인을 하나로 통합한 온라인 전용 '요고 할인 요금제'를 출시했다고 12일 밝혔다. 9월 말까지 6개월간 한시 운영되는 새 요금제는 가입자는 별도 조건 확인이나 복잡한 계산 없이 약정 기간만 선택하면 된다."
+      "date": "2026.04.12",
+      "link": "https://zdnet.co.kr/view/?no=20260413100542",
+      "summary": "미국 정부가 은행사에 앤트로픽 새 인공지능(AI) 모델을 시범 적용하라고 권장한 것으로 전해졌다. 12일(현지시간) 블룸버그통신 등 외신에 따르면 스콧 베센트 미국 재무장관과 제롬 파월 연방준비제도 의장은 최근 주요 은행 경영진을 소집해 앤트로픽 '미토스' 모델을 활용한 금용 보안 취약점 점검을 지시한 것으로 확인됐다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "박윤영 KT, 부산 해저케이블 육양국 점검",
+      "title": "[인터뷰] 카카오뱅크, AWS 게임데이 2연패…\"윤호영 대표님, 리인벤트 가고 싶습니다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.11",
-      "link": "https://zdnet.co.kr/view/?no=20260412104445",
-      "summary": "KT는 지난 10일 박윤영 대표가 부산 KT국제통신센터를 방문해 세계 주요 대륙과 국가로 연결되는 통신 기반시설을 점검했다고 밝혔다. 부산 KT국제통신센터는 국제 인터넷 트래픽의 대부분을 처리하는 육양국이다. 육양국은 국제 해저케이블을 육지로 인입해 국내 통신망 및 데이터 인프라와 연결하는 통신 관문 시설이다."
+      "date": "2026.04.12",
+      "link": "https://zdnet.co.kr/view/?no=20260413103416",
+      "summary": "카카오뱅크가 아마존웹서비스(AWS) 게임데이에서 2년 연속 우승을 차지하며 금융권 클라우드·인공지능(AI) 기반 개발 경쟁에서 존재감을 다시 한번 입증했다. 역할 분담과 AI 도구 활용을 앞세운 실전 대응 능력이 승부를 갈랐다는 평가다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "미·이란 협상 긴장에도 비트코인 횡보…7만달러선 지켜",
+      "title": "[유미's 픽] 2조 GPU 사업 오늘 마감…네이버·삼성 양강 속 AWS 참전하나",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.11",
-      "link": "https://zdnet.co.kr/view/?no=20260412103442",
-      "summary": "미국과 이란의 협상이 이어지는 가운데 비트코인이 보합세를 보이고 있다. 12일 코인마켓캡에 따르면 비트코인은 전일 대비 0.45% 상승한 7만 3071 달러에 거래되고 있다. 이같은 흐름은 미국과 이란이 파키스탄 이슬라마바드에서 고위급 협상을 진행 중인 가운데 나타났다."
+      "date": "2026.04.12",
+      "link": "https://zdnet.co.kr/view/?no=20260413003459",
+      "summary": "정부가 추진하는 2조원 규모의 '인공지능(AI) 컴퓨팅 인프라 구축 사업' 참여 기업들의 윤곽이 13일 드러난다. 우리나라 AI 주권과 직결되는 'AI 고속도로' 구축의 본게임이 또 다시 시작된 가운데 막대한 인프라를 갖춘 전통의 강자들과 신흥 세력 간의 수주 경쟁이 본격화된 양상이다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "SaaS 데브옵스에서 배우는 기업 IT 회복탄력성 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.11",
+      "date": "2026.04.12",
       "link": "https://www.itworld.co.kr/article/4156953/saas-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4%ec%97%90%ec%84%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1-%ec%a0%84%eb%9e%b5.html",
       "summary": "제품 관리 관행, 테스트 자동화, Day 0 관찰가능성까지 SaaS 기업이 당연하게 여기는 것들이 기업 데브옵스의 다음 과제다. Credit: Ayman alakhras / Shutterstock 많은 기업의 데브옵스 팀이 빈번한 배포, 테스트 자동화 확대, 안정적인 릴리즈 보장에 어려움을 겪고 있다. SaaS 기업은 무엇이 다를까?"
     },
@@ -74,7 +74,7 @@
       "title": "맥북 네오 SSD 업그레이드 가능했다…납땜 실력은 필수",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.11",
+      "date": "2026.04.12",
       "link": "https://www.itworld.co.kr/article/4156928/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-ssd-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ea%b0%80%eb%8a%a5%ed%96%88%eb%8b%a4%eb%82%a9%eb%95%9c-%ec%8b%a4%eb%a0%a5%ec%9d%80-%ed%95%84%ec%88%98.html",
       "summary": "한 유튜버가 맥북 네오에 1TB NVMe SSD 장착에 성공하며 저장 용량과 속도 문제를 동시에 해결했다. Credit: Foundry 맥북 네오가 가격 대비 뛰어난 맥 품질로 큰 인기를 끌고 있지만, 단점도 분명 있다. 가장 눈에 띄는 것은 SSD다."
     },
@@ -84,7 +84,7 @@
       "title": "원더풀, 한국 진출 본격화…엔터프라이즈 AI 에이전트 시장 공략 나서",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.11",
+      "date": "2026.04.12",
       "link": "https://www.itworld.co.kr/article/4156213/%ec%9b%90%eb%8d%94%ed%92%80-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%eb%b3%b8%ea%b2%a9%ed%99%94%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
       "summary": "기업 시스템에 적용되는 AI 에이전트 플랫폼을 제공하는 원더풀이 한국 지사를 설립하고 국내 시장 공략에 나섰다. Credit: Wonderful AI 에이전트 플랫폼 업체 원더풀이 한국 시장에 진출하며 아시아·태평양(APAC) 확장 전략에 속도를 낸다."
     },
@@ -94,7 +94,7 @@
       "title": "아이폰 폴드, 지연설 딛고 가을 출시 ‘예정대로’…블룸버그",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.11",
+      "date": "2026.04.12",
       "link": "https://www.itworld.co.kr/article/4156131/%ec%95%84%ec%9d%b4%ed%8f%b0-%ed%8f%b4%eb%93%9c-%ec%a7%80%ec%97%b0%ec%84%a4-%eb%94%9b%ea%b3%a0-%ea%b0%80%ec%9d%84-%ec%b6%9c%ec%8b%9c-%ec%98%88%ec%a0%95%eb%8c%80%eb%a1%9c-%eb%b8%94%eb%a3%b8.html",
       "summary": "제조 난항으로 아이폰 폴드의 출하가 12월 또는 2027년 초로 밀릴 수 있다는 우려가 제기된 가운데, 신뢰도 높은 소식통이 예정대로 출시될 것이라고 반박했다. Credit: Foundry 올해 애플 최대 출시작으로 예상되는 아이폰 폴드의 9월 출시 계획에는 변함이 없다."
     },
@@ -104,7 +104,7 @@
       "title": "AI가 만든 비밀번호, 의외로 뚫기 쉽다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.11",
+      "date": "2026.04.12",
       "link": "https://www.itworld.co.kr/article/4156101/ai%ea%b0%80-%eb%a7%8c%eb%93%a0-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%9d%98%ec%99%b8%eb%a1%9c-%eb%9a%ab%ea%b8%b0-%ec%89%bd%eb%8b%a4.html",
       "summary": "대규모 언어 모델이 진정한 무작위성 대신 학습 패턴에 기반한 비밀번호를 만들어내면서 기업 인프라에 새로운 보안 위협이 조용히 스며들고 있다. Credit: Vova Kondriianenko AI 보안 기업 이레귤러(Irregular)와 카스퍼스키(Kaspersky)의 독립적인 두 연구가 같은 결론에 도달했다."
     }
