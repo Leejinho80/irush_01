@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-16T02:28:53.435Z",
-  "collectionDate": "2026.04.15",
-  "displayDate": "2026.04.16",
+  "updatedAt": "2026-04-17T02:24:53.886Z",
+  "collectionDate": "2026.04.16",
+  "displayDate": "2026.04.17",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "도로공사, 국민 목소리로 고속도로 서비스 개선",
+      "title": "양자컴 관련주 50% 이상 급등…엔비디아 효과?",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.15",
-      "link": "https://zdnet.co.kr/view/?no=20260416112618",
-      "summary": "한국도로공사(사장 직무대행 이상재)는 고속도로 서비스 향상을 위해 국민 의견을 정책에 반영하는 ‘한국도로공사 국민소통단’을 16일부터 5월 3일까지 모집한다. ‘국민소통단’은 5월부터 12월까지 아이디어 제안, 정책 과정 참여, SNS 홍보 등 다양한 활동을 수행한다."
+      "date": "2026.04.16",
+      "link": "https://zdnet.co.kr/view/?no=20260417111643",
+      "summary": "엔비디아가 양자 컴퓨팅 도입 가속화를 위해 새 제품을 공개하자 양자 컴퓨팅 관련 주식들이 일제히 상승세를 보이고 있다고 CNBC 등 외신이 16일(현지시간) 보도했다. 엔비디아는 지난 14일 '세계 양자의 날'을 계기로 양자컴퓨팅의 고질적 과제인 오류 보정과 정정 문제를 개선하는 인공지능(AI) 모델 제품군 ‘아이싱(Ising)’을 공개했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "아찔했던 보안 사고 경험담 나누고 맥북 네오·에어팟 득템 행운 얻자",
+      "title": "무신사, 서울숲에 편집숍 2곳 열어…오프라인 확대 본격화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.15",
-      "link": "https://zdnet.co.kr/view/?no=20260416112533",
-      "summary": "\"혹시 이거 피싱 아니야?\" 교묘하게 지인을 사칭한 메시지부터 결제를 유도하는 낚시성 광고까지, 고도화된 기술로 편리해진 일상 만큼이나 다양한 디지털 위험이 대중들을 위협하고 있다."
+      "date": "2026.04.16",
+      "link": "https://zdnet.co.kr/view/?no=20260417105152",
+      "summary": "패션 플랫폼 무신사가 서울숲 일대에 신규 오프라인 매장을 열며 상권 확장에 나섰다. 무신사는 17일 러닝 전문 편집숍 ‘무신사 런 서울숲’과 가방·모자 전문 편집숍 ‘무신사 백 & 캡클럽 서울숲’을 동시 개점했다고 밝혔다. 이번 매장은 ‘서울숲 프로젝트’의 일환으로 선보이는 첫 직영 매장이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "네오위즈, '라운드8' 중심 인력 확충 주력...신작 개발 속도",
+      "title": "풀무원푸드머스, 퓨전 핫도그 ‘오픈도그’ 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.15",
-      "link": "https://zdnet.co.kr/view/?no=20260416105839",
-      "summary": "네오위즈가 '라운드8 스튜디오'(이하 라운드8)를 중심으로 인력 채용을 진행하며 신작 개발에 속도를 내고 있다. 현재 올라온 채용 공고 중 과반이 라운드8에 집중돼 있어, 콘솔 및 PC 기반의 AAA급 라인업 강화에 주력하는 모양새다. 16일 네오위즈 채용 페이지에 게시된 공고는 총 37개로 확인된다."
+      "date": "2026.04.16",
+      "link": "https://zdnet.co.kr/view/?no=20260417094913",
+      "summary": "풀무원푸드머스가 간편식 수요를 겨냥한 핫도그 신제품을 출시했다. 회사는 뉴욕식과 한국식 스타일을 결합한 ‘풀스쿡 오픈도그’ 2종(콘마요, 칠리)을 선보였다고 17일 밝혔다. 신제품은 한국식 핫도그 형태에 토핑을 더한 것이 특징이다. 반으로 가른 빵 사이에 소시지와 치즈, 소스를 넣어 간편하게 먹을 수 있도록 구성됐다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "캐논코리아, 원격 영상 제작용 솔루션 공개",
+      "title": "바디프랜드, ‘헬스케어로봇 페스타’ 진행... 최대 30만원 할인 혜택",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.15",
-      "link": "https://zdnet.co.kr/view/?no=20260416111909",
-      "summary": "캐논코리아가 16일 원격 영상 제작 워크플로우 확장을 고려한 시네 서보 렌즈와 리모트 카메라 컨트롤러, 멀티카메라 운용 솔루션을 공개했다. CN30×40 IAS J/R1(RF 마운트), CN30×40 IAS J/P1(PL 마운트) 등 시네 서보 렌즈 2종은 40mm부터 1200mm까지 초점거리로 스포츠 중계나 콘서트 영상, 공연 실황 중계에 최적화됐다."
+      "date": "2026.04.16",
+      "link": "https://zdnet.co.kr/view/?no=20260417094807",
+      "summary": "바디프랜드가 가정의 달을 기념해 연중 최대 규모 프로모션 ‘헬스케어로봇 페스타’를 5월 말까지 진행한다고 17일 밝혔다. 이번 프로모션은 제품 가격 할인에 라운지 체험 예약 할인, 경품 이벤트 등을 더해 가족 간의 의미를 되새길 수 있게 기획됐다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "셀바티코, ‘무신사 메가스토어 성수’ 입점",
+      "title": "\"20년 뒤 우리 부모님 누가 돌보나\"... 초고령사회 대한민국, AI가 해답일까",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.15",
-      "link": "https://zdnet.co.kr/view/?no=20260416111036",
-      "summary": "본작(대표 배형진)이 운영하는 프랑스 헤리티지 기반 프래그런스 브랜드 셀바티코(Selvatico)가 오는 24일 개점 예정인 ‘무신사 메가스토어 성수’에 공식 입점한다고 16일 밝혔다."
+      "date": "2026.04.16",
+      "link": "https://zdnet.co.kr/view/?no=20260417103129",
+      "summary": "안녕하세요 AMEET 기자입니다. 2026년 오늘, 우리 대한민국은 드디어 초고령사회라는 낯선 문턱을 넘어서고 있습니다. 전체 인구 5명 중 1명이 65세 이상인 시대가 된 거죠. 불과 몇 년 전까지만 해도 멀게만 느껴졌던 이야기가 이제는 우리 집 안의, 그리고 내 부모님의 현실적인 고민으로 다가왔습니다. 당장 20년 뒤를 내다보면 상황은 더 심각해요."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "USB 드라이브·SD카드도 가격 폭등…저장 매체 공급난 전방위 확산",
+      "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.15",
-      "link": "https://www.itworld.co.kr/article/4159396/usb-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c%c2%b7sd%ec%b9%b4%eb%93%9c%eb%8f%84-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%a0%80%ec%9e%a5-%eb%a7%a4%ec%b2%b4-%ea%b3%b5%ea%b8%89%eb%82%9c-%ec%a0%84.html",
-      "summary": "메모리 공급난이 완성품을 넘어 USB 드라이브와 SD카드 등 이동식 저장 매체 전반으로 번지며, 일부 제품은 1년 새 가격이 두 배 이상 뛰었다. Credit: Michael Crider / Foundry RAM과 저장 장치 가격이 급등했다는 사실은 이미 널리 알려져 있다."
+      "date": "2026.04.16",
+      "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
+      "summary": "마이크로소프트가 문제없다고 판단한 리콜의 보안 구조가 사실상 데이터 탈취에 무방비 상태라는 보안 연구자의 경고가 나왔다. Credit: Mojahid Mottakin - shutterstock.com 한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "마이크로소프트, 서피스 가격 인상…애플은 가격 유지 전략",
+      "title": "“맥 중고 시장도 뜨겁다” 기업에까지 번진 애플 하드웨어 재활용 열풍",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.15",
-      "link": "https://www.itworld.co.kr/article/4158953/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%84%9c%ed%94%bc%ec%8a%a4-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81%ec%95%a0%ed%94%8c%ec%9d%80-%ea%b0%80%ea%b2%a9-%ec%9c%a0.html",
-      "summary": "마이크로소프트는 서피스 가격을 올린 반면 애플은 가격을 유지하며 상반된 전략을 보이고 있다. Credit: Mattias Inghe / Foundry 이미 맥북 네오가 노트북 시장에 변화를 가져왔다는 이야기가 확산됐다."
+      "date": "2026.04.16",
+      "link": "https://www.itworld.co.kr/article/4159404/%eb%a7%a5-%ec%a4%91%ea%b3%a0-%ec%8b%9c%ec%9e%a5%eb%8f%84-%eb%9c%a8%ea%b2%81%eb%8b%a4-%ea%b8%b0%ec%97%85%ec%97%90%ea%b9%8c%ec%a7%80-%eb%b2%88%ec%a7%84-%ec%95%a0%ed%94%8c-%ed%95%98%eb%93%9c%ec%9b%a8.html",
+      "summary": "신규 맥 제품의 판매량이 급증하면서 중고 시장 수요도 동반 성장하고 있다. 기업용 맥 대량 데이터 삭제·재판매 준비 솔루션에 대한 관심도 높아졌다. Credit: Apple 맥북 네오 등 신제품 판매량이 호조를 보이는 가운데 중고 시장 역시 강한 성장 흐름을 보이고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "오픈텍스트, 기업 ‘AI 스프롤’ 확산 경고…“통제 가능한 거버넌스가 경쟁력 좌우”",
+      "title": "USB 드라이브·SD카드도 가격 폭등…저장 매체 공급난 전방위 확산",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.15",
-      "link": "https://www.itworld.co.kr/article/4157618/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%97%85-ai-%ec%8a%a4%ed%94%84%eb%a1%a4-%ed%99%95%ec%82%b0-%ea%b2%bd%ea%b3%a0%ed%86%b5%ec%a0%9c-%ea%b0%80.html",
-      "summary": "생성형 AI 도입이 확산되면서 기업 내 AI 도구가 통제 없이 늘어나는 ‘AI 스프롤’이 새로운 경영 리스크로 부상하고 있다. Credit: Sundry Photography / shutterstock 생성형 AI 도입이 빠르게 확산되면서 보안, 중복 투자, 섀도우 AI 등 새로운 리스크 관리가 기업 과제로 떠오르고 있다."
+      "date": "2026.04.16",
+      "link": "https://www.itworld.co.kr/article/4159396/usb-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c%c2%b7sd%ec%b9%b4%eb%93%9c%eb%8f%84-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%a0%80%ec%9e%a5-%eb%a7%a4%ec%b2%b4-%ea%b3%b5%ea%b8%89%eb%82%9c-%ec%a0%84.html",
+      "summary": "메모리 공급난이 완성품을 넘어 USB 드라이브와 SD카드 등 이동식 저장 매체 전반으로 번지며, 일부 제품은 1년 새 가격이 두 배 이상 뛰었다. Credit: Michael Crider / Foundry RAM과 저장 장치 가격이 급등했다는 사실은 이미 널리 알려져 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "‘애플다운 안경’ 만들기, 디자인에서 답 찾는다",
+      "title": "마이크로소프트, 서피스 가격 인상…애플은 가격 유지 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.15",
-      "link": "https://www.itworld.co.kr/article/4158152/%ec%95%a0%ed%94%8c%eb%8b%a4%ec%9a%b4-%ec%95%88%ea%b2%bd-%eb%a7%8c%eb%93%a4%ea%b8%b0-%eb%94%94%ec%9e%90%ec%9d%b8%ec%97%90%ec%84%9c-%eb%8b%b5-%ec%b0%be%eb%8a%94%eb%8b%a4.html",
-      "summary": "애플이 외부 업체에 의존하지 않고 스마트 글래스의 프레임을 자체 개발하며 제품 차별화에 나선 것으로 보인다. Credit: Apple 애플이 외부 업체에 의존하지 않고 스마트 글래스의 프레임을 자체 개발하며 제품 차별화에 나선 것으로 보인다. 블룸버그의 마크 거먼은 최신 보고서를 통해 애플의 스마트 글래스에 대한 추가 정보를 공개했다."
+      "date": "2026.04.16",
+      "link": "https://www.itworld.co.kr/article/4158953/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%84%9c%ed%94%bc%ec%8a%a4-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81%ec%95%a0%ed%94%8c%ec%9d%80-%ea%b0%80%ea%b2%a9-%ec%9c%a0.html",
+      "summary": "마이크로소프트는 서피스 가격을 올린 반면 애플은 가격을 유지하며 상반된 전략을 보이고 있다. Credit: Mattias Inghe / Foundry 이미 맥북 네오가 노트북 시장에 변화를 가져왔다는 이야기가 확산됐다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "SaaS 데브옵스에서 배우는 기업 IT 회복탄력성 전략",
+      "title": "오픈텍스트, 기업 ‘AI 스프롤’ 확산 경고…“통제 가능한 거버넌스가 경쟁력 좌우”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.15",
-      "link": "https://www.itworld.co.kr/article/4156953/saas-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4%ec%97%90%ec%84%9c-%eb%b0%b0%ec%9a%b0%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1-%ec%a0%84%eb%9e%b5.html",
-      "summary": "제품 관리 관행, 테스트 자동화, Day 0 관찰가능성까지 SaaS 기업이 당연하게 여기는 것들이 기업 데브옵스의 다음 과제다. Credit: Ayman alakhras / Shutterstock 많은 기업의 데브옵스 팀이 빈번한 배포, 테스트 자동화 확대, 안정적인 릴리즈 보장에 어려움을 겪고 있다. SaaS 기업은 무엇이 다를까?"
+      "date": "2026.04.16",
+      "link": "https://www.itworld.co.kr/article/4157618/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%97%85-ai-%ec%8a%a4%ed%94%84%eb%a1%a4-%ed%99%95%ec%82%b0-%ea%b2%bd%ea%b3%a0%ed%86%b5%ec%a0%9c-%ea%b0%80.html",
+      "summary": "생성형 AI 도입이 확산되면서 기업 내 AI 도구가 통제 없이 늘어나는 ‘AI 스프롤’이 새로운 경영 리스크로 부상하고 있다. Credit: Sundry Photography / shutterstock 생성형 AI 도입이 빠르게 확산되면서 보안, 중복 투자, 섀도우 AI 등 새로운 리스크 관리가 기업 과제로 떠오르고 있다."
     }
   ]
 }
