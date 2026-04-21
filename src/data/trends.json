@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-20T02:30:12.261Z",
-  "collectionDate": "2026.04.19",
-  "displayDate": "2026.04.20",
+  "updatedAt": "2026-04-21T02:26:06.095Z",
+  "collectionDate": "2026.04.20",
+  "displayDate": "2026.04.21",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "SLL, 대만 문화콘텐츠진흥원과 드라마 공동 개발 착수",
+      "title": "[인사] 한국환경공단",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.19",
-      "link": "https://zdnet.co.kr/view/?no=20260420105700",
-      "summary": "SLL이 대만문화콘텐츠진흥원(TAICCA)과 양국 영상 산업 시너지를 극대화할 ‘빔 공동개발 프로젝트’를 추진한다. SLL은 문진원과 협력해 ‘빔 한국-대만 드라마 공동개발 프로젝트’의 공모를 시작한다고 20일 밝혔다."
+      "date": "2026.04.20",
+      "link": "https://zdnet.co.kr/view/?no=20260421112457",
+      "summary": "◇상임이사 ▲자원순환이사 문갑생..."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "HD건설기계, 포르투갈 1위 발전기 제조사에 G2엔진 공급",
+      "title": "화성서 포착된 '욕조 테두리'…거대 바다 흔적일 수도 [우주로 간다]",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.19",
-      "link": "https://zdnet.co.kr/view/?no=20260420112003",
-      "summary": "HD건설기계가 저공해 엔진을 앞세워 유럽 이동형 발전기 시장 공략을 확대한다. HD건설기계는 포르투갈 1위 발전기 제조사 그루펠과 발전기용 ‘G2 엔진’(1.8·2.4·3.4L급) 264대 공급 계약을 체결했다고 20일 밝혔다."
+      "date": "2026.04.20",
+      "link": "https://zdnet.co.kr/view/?no=20260421103524",
+      "summary": "화성에 한때 행성 표면의 3분의 1을 덮을 만큼 거대한 바다가 존재했을 가능성을 제시하는 연구 결과가 나와 주목된다. 스페이스닷컴, CNN 등 외신은 20일(현지시간) 해당 연구가 지난 15일 국제 학술지 네이처에 발표됐다고 보도했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "라이온하트 스튜디오, 상반기 기획 인턴 전원 정규직 채용",
+      "title": "데이터센터의 '조용한 반란', 주인공은 다시 CPU로",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.19",
-      "link": "https://zdnet.co.kr/view/?no=20260420111951",
-      "summary": "라이온하트 스튜디오(의장 김재영)는 지난 1월부터 진행한 2026년 상반기 기획 직군 채용 연계형 인턴십을 마무리하고 참가자 전원을 정규직으로 전환했다고 20일 밝혔다. 이번 인턴십은 지난 17일 공식 종료됐으며, 회사는 지난 2019년부터 해당 프로그램을 통해 지속적인 미래 인재 양성을 이어오고 있다."
+      "date": "2026.04.20",
+      "link": "https://zdnet.co.kr/view/?no=20260421101104",
+      "summary": "안녕하세요 AMEET 기자입니다. 불과 1~2년 전만 해도 AI라고 하면 모두가 엔비디아의 GPU만 떠올렸죠. 하지만 2026년 현재, 시장의 공기는 묘하게 바뀌고 있습니다. AI 비서라 불리는 '에이전트'가 우리 일상에 깊숙이 들어오면서, 정작 GPU에 명령을 내리고 전체 시스템을 조율할 '두뇌'인 중앙처리장치(CPU)가 부족해지고 있기 때문입니다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "\"메모리 대란, 최소 2027년까지 계속된다\"",
+      "title": "[카드뉴스] 교도소가 터진다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.19",
-      "link": "https://zdnet.co.kr/view/?no=20260420103812",
-      "summary": "글로벌 메모리 반도체 업체들이 메모리 생산 능력 확대에 속도를 내고 있지만, 급증하는 인공지능(AI) 수요를 따라잡기에는 역부족이라는 전망이 나왔다. 닛케이아시아는 18일 삼성전자와 SK하이닉스, 마이크론 등 메모리 반도체 3사의 증산 규모가 2027년까지 수요의 60% 수준에 그칠 것으로 보인다고 보도했다."
+      "date": "2026.04.20",
+      "link": "https://zdnet.co.kr/view/?no=20260420105745",
+      "summary": "안녕하세요, AMEET 기자입니다. 요즘 우리나라 교도소가 정말 심각한 과밀 상태라는 거 알고 계셨나요? 전국 교도소 수용률이 무려 126.1%에 달하고 있어요. 쉽게 말하면 100명이 들어갈 공간에 126명이 빼곡히 들어차 있다는 뜻이죠. 특히 안양교도소의 경우 수용자 1명당 공간이 겨우 1."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "코에 칙 뿌리면 노화 늦추는 스프레이 나왔다",
+      "title": "[AI는 지금] AI 음악, 하루 7만5000곡 쏟아진다…스트리밍 시장 구조 '흔들'",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.19",
-      "link": "https://zdnet.co.kr/view/?no=20260420094209",
-      "summary": "노화를 늦추는 새로운 방식의 비강 스프레이가 개발돼 학계의 주목을 받고 있다. 미국 텍사스 A&M대학교 의과대학 연구진은 최근 노화된 쥐의 작업 기억력을 개선하는 비강 스프레이를 개발했다고 과학매체 퓨처리즘이 최근 보도했다. 전 세계적으로 약 6920만 명이 치매를 앓고 있으며, 이 수치는 2030년에는 8200만 명에 이를 것으로 전망된다."
+      "date": "2026.04.20",
+      "link": "https://zdnet.co.kr/view/?no=20260421110827",
+      "summary": "인공지능(AI)이 만든 음악이 빠르게 늘어나면서 음악 산업의 구조 자체를 흔들고 있다. 콘텐츠 생산 방식이 인간 중심에서 자동화 기반으로 이동하면서 창작·유통·수익 구조 전반에 변화가 확산되는 모습이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "챗GPT·클로드·제미나이와 나눈 대화, 법적 증거 될 수도",
+      "title": "오픈텍스트, SAP 파트너 어워드서 SAP 솔루션 확장·HCM 부문 수상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.19",
-      "link": "https://www.itworld.co.kr/article/4160590/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94-%eb%b2%95%ec%a0%81-%ec%a6%9d%ea%b1%b0-%eb%90%a0-%ec%88%98.html",
-      "summary": "미국 법원이 클로드와 나눈 대화를 증거로 인정하는 판결을 내리면서 AI 챗봇 대화의 법적 지위를 둘러싼 논란이 커지고 있다. Credit: Hatice Baran / Pexels 챗GPT, 클로드, 제미나이는 사람의 속마음을 털어놓을 수 있는 상대로 여기기 쉽다. 친근하고, 개성이 있고, 호기심이 넘치며, 때로는 친밀하기까지 하다."
+      "date": "2026.04.20",
+      "link": "https://www.itworld.co.kr/article/4160653/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-sap-%ed%8c%8c%ed%8a%b8%eb%84%88-%ec%96%b4%ec%9b%8c%eb%93%9c%ec%84%9c-sap-%ec%86%94%eb%a3%a8%ec%85%98-%ed%99%95%ec%9e%a5%c2%b7hcm-%eb%b6%80%eb%ac%b8.html",
+      "summary": "오픈텍스트가 SAP 솔루션 확장과 HCM 영역에서 정보관리와 AI를 결합한 성과를 인정받았다고 발표했다. Credit: Sundry Photography / shutterstock 오픈텍스트(OpenText)가 SAP가 주관하는 ‘2026 SAP 글로벌 파트너 어워드’의 2개 부문에서 수상했다고 밝혔다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
+      "title": "챗GPT·클로드·제미나이와 나눈 대화, 법적 증거 될 수도",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.19",
-      "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
-      "summary": "마이크로소프트가 문제없다고 판단한 리콜의 보안 구조가 사실상 데이터 탈취에 무방비 상태라는 보안 연구자의 경고가 나왔다. Credit: Mojahid Mottakin - shutterstock.com 한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다."
+      "date": "2026.04.20",
+      "link": "https://www.itworld.co.kr/article/4160590/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94-%eb%b2%95%ec%a0%81-%ec%a6%9d%ea%b1%b0-%eb%90%a0-%ec%88%98.html",
+      "summary": "미국 법원이 클로드와 나눈 대화를 증거로 인정하는 판결을 내리면서 AI 챗봇 대화의 법적 지위를 둘러싼 논란이 커지고 있다. Credit: Hatice Baran / Pexels 챗GPT, 클로드, 제미나이는 사람의 속마음을 털어놓을 수 있는 상대로 여기기 쉽다. 친근하고, 개성이 있고, 호기심이 넘치며, 때로는 친밀하기까지 하다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“맥 중고 시장도 뜨겁다” 기업에까지 번진 애플 하드웨어 재활용 열풍",
+      "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.19",
-      "link": "https://www.itworld.co.kr/article/4159404/%eb%a7%a5-%ec%a4%91%ea%b3%a0-%ec%8b%9c%ec%9e%a5%eb%8f%84-%eb%9c%a8%ea%b2%81%eb%8b%a4-%ea%b8%b0%ec%97%85%ec%97%90%ea%b9%8c%ec%a7%80-%eb%b2%88%ec%a7%84-%ec%95%a0%ed%94%8c-%ed%95%98%eb%93%9c%ec%9b%a8.html",
-      "summary": "신규 맥 제품의 판매량이 급증하면서 중고 시장 수요도 동반 성장하고 있다. 기업용 맥 대량 데이터 삭제·재판매 준비 솔루션에 대한 관심도 높아졌다. Credit: Apple 맥북 네오 등 신제품 판매량이 호조를 보이는 가운데 중고 시장 역시 강한 성장 흐름을 보이고 있다."
+      "date": "2026.04.20",
+      "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
+      "summary": "마이크로소프트가 문제없다고 판단한 리콜의 보안 구조가 사실상 데이터 탈취에 무방비 상태라는 보안 연구자의 경고가 나왔다. Credit: Mojahid Mottakin - shutterstock.com 한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "USB 드라이브·SD카드도 가격 폭등…저장 매체 공급난 전방위 확산",
+      "title": "“맥 중고 시장도 뜨겁다” 기업에까지 번진 애플 하드웨어 재활용 열풍",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.19",
-      "link": "https://www.itworld.co.kr/article/4159396/usb-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c%c2%b7sd%ec%b9%b4%eb%93%9c%eb%8f%84-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%a0%80%ec%9e%a5-%eb%a7%a4%ec%b2%b4-%ea%b3%b5%ea%b8%89%eb%82%9c-%ec%a0%84.html",
-      "summary": "메모리 공급난이 완성품을 넘어 USB 드라이브와 SD카드 등 이동식 저장 매체 전반으로 번지며, 일부 제품은 1년 새 가격이 두 배 이상 뛰었다. Credit: Michael Crider / Foundry RAM과 저장 장치 가격이 급등했다는 사실은 이미 널리 알려져 있다."
+      "date": "2026.04.20",
+      "link": "https://www.itworld.co.kr/article/4159404/%eb%a7%a5-%ec%a4%91%ea%b3%a0-%ec%8b%9c%ec%9e%a5%eb%8f%84-%eb%9c%a8%ea%b2%81%eb%8b%a4-%ea%b8%b0%ec%97%85%ec%97%90%ea%b9%8c%ec%a7%80-%eb%b2%88%ec%a7%84-%ec%95%a0%ed%94%8c-%ed%95%98%eb%93%9c%ec%9b%a8.html",
+      "summary": "신규 맥 제품의 판매량이 급증하면서 중고 시장 수요도 동반 성장하고 있다. 기업용 맥 대량 데이터 삭제·재판매 준비 솔루션에 대한 관심도 높아졌다. Credit: Apple 맥북 네오 등 신제품 판매량이 호조를 보이는 가운데 중고 시장 역시 강한 성장 흐름을 보이고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "마이크로소프트, 서피스 가격 인상…애플은 가격 유지 전략",
+      "title": "USB 드라이브·SD카드도 가격 폭등…저장 매체 공급난 전방위 확산",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.19",
-      "link": "https://www.itworld.co.kr/article/4158953/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%84%9c%ed%94%bc%ec%8a%a4-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81%ec%95%a0%ed%94%8c%ec%9d%80-%ea%b0%80%ea%b2%a9-%ec%9c%a0.html",
-      "summary": "마이크로소프트는 서피스 가격을 올린 반면 애플은 가격을 유지하며 상반된 전략을 보이고 있다. Credit: Mattias Inghe / Foundry 이미 맥북 네오가 노트북 시장에 변화를 가져왔다는 이야기가 확산됐다."
+      "date": "2026.04.20",
+      "link": "https://www.itworld.co.kr/article/4159396/usb-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c%c2%b7sd%ec%b9%b4%eb%93%9c%eb%8f%84-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%a0%80%ec%9e%a5-%eb%a7%a4%ec%b2%b4-%ea%b3%b5%ea%b8%89%eb%82%9c-%ec%a0%84.html",
+      "summary": "메모리 공급난이 완성품을 넘어 USB 드라이브와 SD카드 등 이동식 저장 매체 전반으로 번지며, 일부 제품은 1년 새 가격이 두 배 이상 뛰었다. Credit: Michael Crider / Foundry RAM과 저장 장치 가격이 급등했다는 사실은 이미 널리 알려져 있다."
     }
   ]
 }
