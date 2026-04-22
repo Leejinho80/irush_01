@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-21T02:26:06.095Z",
-  "collectionDate": "2026.04.20",
-  "displayDate": "2026.04.21",
+  "updatedAt": "2026-04-22T02:23:40.257Z",
+  "collectionDate": "2026.04.21",
+  "displayDate": "2026.04.22",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "[인사] 한국환경공단",
+      "title": "붉은 행성서 이전에 발견된 적 없는 유기 분자 발견 [여기는 화성]",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.20",
-      "link": "https://zdnet.co.kr/view/?no=20260421112457",
-      "summary": "◇상임이사 ▲자원순환이사 문갑생..."
+      "date": "2026.04.21",
+      "link": "https://zdnet.co.kr/view/?no=20260422100813",
+      "summary": "미국 항공우주국(NASA) 화성 탐사 로버 ‘큐리오시티’가 화성에서 이전에 발견된 적 없는 새로운 유기 분자를 발견해 주목되고 있다. 스페이스닷컴 등 외신은 21일(현지시간) 큐리오시티가 지난 2020년 시추한 암석을 분석한 결과, 총 21개의 탄소 함유 유기 분자를 확인했으며 이 가운데 7개는 처음 발견된 것이라고 보도했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "화성서 포착된 '욕조 테두리'…거대 바다 흔적일 수도 [우주로 간다]",
+      "title": "다쏘시스템-오므론, 버추얼 트윈으로 제조 혁신 나서",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.20",
-      "link": "https://zdnet.co.kr/view/?no=20260421103524",
-      "summary": "화성에 한때 행성 표면의 3분의 1을 덮을 만큼 거대한 바다가 존재했을 가능성을 제시하는 연구 결과가 나와 주목된다. 스페이스닷컴, CNN 등 외신은 20일(현지시간) 해당 연구가 지난 15일 국제 학술지 네이처에 발표됐다고 보도했다."
+      "date": "2026.04.21",
+      "link": "https://zdnet.co.kr/view/?no=20260422111853",
+      "summary": "다쏘시스템이 오므론 손잡고 제조 산업 디지털 전환 가속에 나선다. 다쏘시스템은 정보기술(IT)과 운영기술(OT) 간 격차 해소를 위해 오므론과 전략적 파트너십을 체결했다고 22일 밝혔다. 두 기업은 제조업체와 장비 기업이 가상과 실제 환경을 결합한 방식으로 생산 시스템을 설계하고 시뮬레이션하고 구축할 수 있도록 지원할 방침이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "데이터센터의 '조용한 반란', 주인공은 다시 CPU로",
+      "title": "삼성SDS, 금융권에 AI 청사진 제시…코드 현대화·데이터 플랫폼 승부수",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.20",
-      "link": "https://zdnet.co.kr/view/?no=20260421101104",
-      "summary": "안녕하세요 AMEET 기자입니다. 불과 1~2년 전만 해도 AI라고 하면 모두가 엔비디아의 GPU만 떠올렸죠. 하지만 2026년 현재, 시장의 공기는 묘하게 바뀌고 있습니다. AI 비서라 불리는 '에이전트'가 우리 일상에 깊숙이 들어오면서, 정작 GPU에 명령을 내리고 전체 시스템을 조율할 '두뇌'인 중앙처리장치(CPU)가 부족해지고 있기 때문입니다."
+      "date": "2026.04.21",
+      "link": "https://zdnet.co.kr/view/?no=20260422111638",
+      "summary": "삼성SDS가 금융권 고객을 대상으로 생성형 인공지능(AI) 기반의 차세대 금융 혁신 전략을 공개했다. 단순히 AI 기술을 소개하는 수준을 넘어 금융권의 오랜 과제로 꼽혀온 레거시 시스템 현대화와 개발 인력 부족, 데이터 활용 체계 고도화 문제에 대한 실행 해법을 제시하며 금융 IT 시장 주도권 확대에 나선 모습이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "[카드뉴스] 교도소가 터진다",
+      "title": "엔씨 '아이온2', 올 하반기 글로벌 출시 확정…스팀 위시리스트 오픈",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.20",
-      "link": "https://zdnet.co.kr/view/?no=20260420105745",
-      "summary": "안녕하세요, AMEET 기자입니다. 요즘 우리나라 교도소가 정말 심각한 과밀 상태라는 거 알고 계셨나요? 전국 교도소 수용률이 무려 126.1%에 달하고 있어요. 쉽게 말하면 100명이 들어갈 공간에 126명이 빼곡히 들어차 있다는 뜻이죠. 특히 안양교도소의 경우 수용자 1명당 공간이 겨우 1."
+      "date": "2026.04.21",
+      "link": "https://zdnet.co.kr/view/?no=20260422103743",
+      "summary": "엔씨(공동대표 김택진·박병무)는 MMORPG'아이온2'의 글로벌 출시 일정을 올해 하반기로 확정했다고 22일 밝혔다. 글로벌 이용자들은 이날부터 스팀 공식 페이지를 통해 위시리스트(찜하기) 등록을 진행할 수 있다. 아이온2 글로벌 버전은 PC 전용 플랫폼으로 개발되고 있으며 스팀과 자체 크로스 플레이 플랫폼 퍼플(PURPLE)을 통해 서비스된다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "[AI는 지금] AI 음악, 하루 7만5000곡 쏟아진다…스트리밍 시장 구조 '흔들'",
+      "title": "ST마이크로, '차량 전력분배 특화' MOSFET 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.20",
-      "link": "https://zdnet.co.kr/view/?no=20260421110827",
-      "summary": "인공지능(AI)이 만든 음악이 빠르게 늘어나면서 음악 산업의 구조 자체를 흔들고 있다. 콘텐츠 생산 방식이 인간 중심에서 자동화 기반으로 이동하면서 창작·유통·수익 구조 전반에 변화가 확산되는 모습이다."
+      "date": "2026.04.21",
+      "link": "https://zdnet.co.kr/view/?no=20260422102754",
+      "summary": "ST마이크로일렉트로닉스(ST마이크로)가 전도 성능을 높이고 다이 크기를 줄인 '스마트ST립펫(Smart STripFET) F8' 기술 기반의 새로운 모스펫(MOSFET) 시리즈를 출시했다고 22일 밝혔다. ST마이크로는 이번 신제품이 낮은 온 저항을 구현해 자동차 전력분배와 배터리관리시스템(BMS) 등 공간 제약이 있는 애플리케이션에 적합하다고 설명했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "오픈텍스트, SAP 파트너 어워드서 SAP 솔루션 확장·HCM 부문 수상",
+      "title": "14년만의 CEO 교체…존 터너스 체제로 전환하는 애플",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.20",
-      "link": "https://www.itworld.co.kr/article/4160653/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-sap-%ed%8c%8c%ed%8a%b8%eb%84%88-%ec%96%b4%ec%9b%8c%eb%93%9c%ec%84%9c-sap-%ec%86%94%eb%a3%a8%ec%85%98-%ed%99%95%ec%9e%a5%c2%b7hcm-%eb%b6%80%eb%ac%b8.html",
-      "summary": "오픈텍스트가 SAP 솔루션 확장과 HCM 영역에서 정보관리와 AI를 결합한 성과를 인정받았다고 발표했다. Credit: Sundry Photography / shutterstock 오픈텍스트(OpenText)가 SAP가 주관하는 ‘2026 SAP 글로벌 파트너 어워드’의 2개 부문에서 수상했다고 밝혔다."
+      "date": "2026.04.21",
+      "link": "https://www.itworld.co.kr/article/4161146/14%eb%85%84%eb%a7%8c%ec%9d%98-ceo-%ea%b5%90%ec%b2%b4%ec%a1%b4-%ed%84%b0%eb%84%88%ec%8a%a4-%ec%b2%b4%ec%a0%9c%eb%a1%9c-%ec%a0%84%ed%99%98%ed%95%98%eb%8a%94-%ec%95%a0%ed%94%8c.html",
+      "summary": "오는 9월부터 팀 쿡이 애플 CEO 자리를 존 터너스에게 넘기고 이사회 집행 의장을 맡게 된다. 터너스는 현재 애플 하드웨어 엔지니어링 수석 부사장이다. Credit: Apple 애플이 월요일, 2011년부터 회사를 이끌어 온 팀 쿡 CEO가 9월 1일부로 사임하고 후임으로 존 터너스가 선임된다고 발표했다. 쿡은 이사회 집행 의장을 맡게 된다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "챗GPT·클로드·제미나이와 나눈 대화, 법적 증거 될 수도",
+      "title": "오픈텍스트, SAP 파트너 어워드서 SAP 솔루션 확장·HCM 부문 수상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.20",
-      "link": "https://www.itworld.co.kr/article/4160590/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94-%eb%b2%95%ec%a0%81-%ec%a6%9d%ea%b1%b0-%eb%90%a0-%ec%88%98.html",
-      "summary": "미국 법원이 클로드와 나눈 대화를 증거로 인정하는 판결을 내리면서 AI 챗봇 대화의 법적 지위를 둘러싼 논란이 커지고 있다. Credit: Hatice Baran / Pexels 챗GPT, 클로드, 제미나이는 사람의 속마음을 털어놓을 수 있는 상대로 여기기 쉽다. 친근하고, 개성이 있고, 호기심이 넘치며, 때로는 친밀하기까지 하다."
+      "date": "2026.04.21",
+      "link": "https://www.itworld.co.kr/article/4160653/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-sap-%ed%8c%8c%ed%8a%b8%eb%84%88-%ec%96%b4%ec%9b%8c%eb%93%9c%ec%84%9c-sap-%ec%86%94%eb%a3%a8%ec%85%98-%ed%99%95%ec%9e%a5%c2%b7hcm-%eb%b6%80%eb%ac%b8.html",
+      "summary": "오픈텍스트가 SAP 솔루션 확장과 HCM 영역에서 정보관리와 AI를 결합한 성과를 인정받았다고 발표했다. Credit: Sundry Photography / shutterstock 오픈텍스트(OpenText)가 SAP가 주관하는 ‘2026 SAP 글로벌 파트너 어워드’의 2개 부문에서 수상했다고 밝혔다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
+      "title": "챗GPT·클로드·제미나이와 나눈 대화, 법적 증거 될 수도",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.20",
-      "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
-      "summary": "마이크로소프트가 문제없다고 판단한 리콜의 보안 구조가 사실상 데이터 탈취에 무방비 상태라는 보안 연구자의 경고가 나왔다. Credit: Mojahid Mottakin - shutterstock.com 한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다."
+      "date": "2026.04.21",
+      "link": "https://www.itworld.co.kr/article/4160590/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94-%eb%b2%95%ec%a0%81-%ec%a6%9d%ea%b1%b0-%eb%90%a0-%ec%88%98.html",
+      "summary": "미국 법원이 클로드와 나눈 대화를 증거로 인정하는 판결을 내리면서 AI 챗봇 대화의 법적 지위를 둘러싼 논란이 커지고 있다. Credit: Hatice Baran / Pexels 챗GPT, 클로드, 제미나이는 사람의 속마음을 털어놓을 수 있는 상대로 여기기 쉽다. 친근하고, 개성이 있고, 호기심이 넘치며, 때로는 친밀하기까지 하다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“맥 중고 시장도 뜨겁다” 기업에까지 번진 애플 하드웨어 재활용 열풍",
+      "title": "윈도우 리콜 보안 개편에도 데이터 탈취 가능…연구자 ‘설계 결함’ 지적",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.20",
-      "link": "https://www.itworld.co.kr/article/4159404/%eb%a7%a5-%ec%a4%91%ea%b3%a0-%ec%8b%9c%ec%9e%a5%eb%8f%84-%eb%9c%a8%ea%b2%81%eb%8b%a4-%ea%b8%b0%ec%97%85%ec%97%90%ea%b9%8c%ec%a7%80-%eb%b2%88%ec%a7%84-%ec%95%a0%ed%94%8c-%ed%95%98%eb%93%9c%ec%9b%a8.html",
-      "summary": "신규 맥 제품의 판매량이 급증하면서 중고 시장 수요도 동반 성장하고 있다. 기업용 맥 대량 데이터 삭제·재판매 준비 솔루션에 대한 관심도 높아졌다. Credit: Apple 맥북 네오 등 신제품 판매량이 호조를 보이는 가운데 중고 시장 역시 강한 성장 흐름을 보이고 있다."
+      "date": "2026.04.21",
+      "link": "https://www.itworld.co.kr/article/4159953/%ec%9c%88%eb%8f%84%ec%9a%b0-%eb%a6%ac%ec%bd%9c-%eb%b3%b4%ec%95%88-%ea%b0%9c%ed%8e%b8%ec%97%90%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%83%88%ec%b7%a8-%ea%b0%80%eb%8a%a5%ec%97%b0%ea%b5%ac.html",
+      "summary": "마이크로소프트가 문제없다고 판단한 리콜의 보안 구조가 사실상 데이터 탈취에 무방비 상태라는 보안 연구자의 경고가 나왔다. Credit: Mojahid Mottakin - shutterstock.com 한 보안 연구자가 대대적인 보안 개편에도 불구하고 마이크로소프트의 윈도우 리콜 기능이 완전한 데이터 탈취에 취약한 상태라고 주장했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "USB 드라이브·SD카드도 가격 폭등…저장 매체 공급난 전방위 확산",
+      "title": "“맥 중고 시장도 뜨겁다” 기업에까지 번진 애플 하드웨어 재활용 열풍",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.20",
-      "link": "https://www.itworld.co.kr/article/4159396/usb-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c%c2%b7sd%ec%b9%b4%eb%93%9c%eb%8f%84-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%a0%80%ec%9e%a5-%eb%a7%a4%ec%b2%b4-%ea%b3%b5%ea%b8%89%eb%82%9c-%ec%a0%84.html",
-      "summary": "메모리 공급난이 완성품을 넘어 USB 드라이브와 SD카드 등 이동식 저장 매체 전반으로 번지며, 일부 제품은 1년 새 가격이 두 배 이상 뛰었다. Credit: Michael Crider / Foundry RAM과 저장 장치 가격이 급등했다는 사실은 이미 널리 알려져 있다."
+      "date": "2026.04.21",
+      "link": "https://www.itworld.co.kr/article/4159404/%eb%a7%a5-%ec%a4%91%ea%b3%a0-%ec%8b%9c%ec%9e%a5%eb%8f%84-%eb%9c%a8%ea%b2%81%eb%8b%a4-%ea%b8%b0%ec%97%85%ec%97%90%ea%b9%8c%ec%a7%80-%eb%b2%88%ec%a7%84-%ec%95%a0%ed%94%8c-%ed%95%98%eb%93%9c%ec%9b%a8.html",
+      "summary": "신규 맥 제품의 판매량이 급증하면서 중고 시장 수요도 동반 성장하고 있다. 기업용 맥 대량 데이터 삭제·재판매 준비 솔루션에 대한 관심도 높아졌다. Credit: Apple 맥북 네오 등 신제품 판매량이 호조를 보이는 가운데 중고 시장 역시 강한 성장 흐름을 보이고 있다."
     }
   ]
 }
