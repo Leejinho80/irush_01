@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-26T02:32:23.128Z",
-  "collectionDate": "2026.04.25",
-  "displayDate": "2026.04.26",
+  "updatedAt": "2026-04-27T02:34:36.163Z",
+  "collectionDate": "2026.04.26",
+  "displayDate": "2026.04.27",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "송치형 두나무 회장, 트럼프 만났다…가상자산 미래 논의",
+      "title": "공무원 업무도 AI 에이전트가 처리…네이버클라우드, 공공 AX 정조준",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.25",
-      "link": "https://zdnet.co.kr/view/?no=20260426111954",
-      "summary": "송치형 두나무 회장이 도널드 트럼프 미국 대통령과 만나 업비트 현황을 소개하고 가상자산 산업에 대해 논의했다. 송 회장은 지난 25일(현지시간) 미국 플로리다 마러라고 리조트에서 열린 트럼프 밈코인 VIP 프로그램에 참석해 트럼프 대통령과 대면했다."
+      "date": "2026.04.26",
+      "link": "https://zdnet.co.kr/view/?no=20260427112712",
+      "summary": "네이버클라우드가 공공 행정 분야 AI 전환(AX) 공략을 본격화한다. 범정부 인공지능(AI) 공통기반 사업 성과를 앞세워 공공기관 맞춤형 AI 개발 도구와 행정 AI 에이전트, 네이버웍스 기반 협업 환경을 확산하고 공공 AX 핵심 파트너 입지를 강화한다는 전략이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "이노티카 \"스마트글래스 모듈러 단자·렌즈 프레임 교체 기술 개발\"",
+      "title": "여기어때, 日 4성급 호텔 숙박 기획전…최대 40% 할인",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.25",
-      "link": "https://zdnet.co.kr/view/?no=20260425150012",
-      "summary": "국내 스타트업 이노티카(대표 도근호)가 스마트글래스 프론트(본체)와 템플(다리) 분리 조립이 가능한 곡선형 전기적 인터페이스 단자와 렌즈프레임 교체 기술을 개발하고, 관련 특허를 확보했다고 26일 밝혔다. 이노티카는 이 기술을 국내 특허 등록했다. PCT(해외특허출원)와 미국 및 중국 출원도 진행했다."
+      "date": "2026.04.26",
+      "link": "https://zdnet.co.kr/view/?no=20260427103940",
+      "summary": "여행·여가 플랫폼 여기어때는 일본 오사카로 떠나는 여행객들을 위해 단독 숙박 기획전을 진행한다고 27일 밝혔다. 여기어때는 내달 27일까지 일본 오사카에 새롭게 문을 연 앵커드 바이 리가 오사카 난바 호텔을 최대 40% 할인된 가격에 선보인다. 기본 10% 할인(최대 5만원)에 연박 시 30% 추가 할인을 더해주는 구조다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "UNIST, 입력 데이터 보정 AI 개발…오차 91% 줄여",
+      "title": "‘배터리 없이 혈압 재주는’ 스마트 의류 나왔다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.25",
-      "link": "https://zdnet.co.kr/view/?no=20260426110737",
-      "summary": "정창욱 UNIST 반도체소재·부품대학원 교수 연구팀은 새로운 입력 데이터를 기존에 학습한 데이터 기준에 맞게 재정렬하는 ‘π-불변 테스트 시점 보정'’ 알고리즘을 개발했다고 26일 밝혔다. 연구 결과는 인공지능 분야 3대 국제학회로 꼽히는 국제표현학습학회(ICLR) 2026에 채택됐다."
+      "date": "2026.04.26",
+      "link": "https://zdnet.co.kr/view/?no=20260427104208",
+      "summary": "과학자들이 의류에 건강 추적 기능을 직접 내장해 별도 기기 없이 생체 데이터를 측정할 수 있는 기술을 개발했다. IT매체 디지털트렌드는 26일(현지시간) 배터리 없이도 실시간 혈압 측정이 가능한 새로운 섬유 기반 시스템이 개발됐다고 보도했다. 배터리 없이도 실시간 혈압 측정이 가능한 새로운 스마트 섬유가 개발됐다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "[SW키트] 구글, '에이전틱 AI' 통합 전략 제시…\"인프라·데이터 관건\"",
+      "title": "ISC, 1분기 영업익 236억원…전년比 237% 증가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.25",
-      "link": "https://zdnet.co.kr/view/?no=20260426095934",
-      "summary": "구글이 인공지능(AI) 사업 경쟁력을 한층 강화하기 위해 AI 플랫폼·인프라·데이터·보안을 한데 결합한 '에이전틱 AI' 전략을 제시했다. 구글클라우드는 지난 22~24일 미국 라스베이거스에서 '구글클라우드 넥스트 2026'를 열고 '제미나이'를 앞세운 에이전틱 AI 운영체제(OS)를 비롯한 보안, 인프라, 데이터 전략을 이같이 밝혔다."
+      "date": "2026.04.26",
+      "link": "https://zdnet.co.kr/view/?no=20260427100925",
+      "summary": "반도체 테스트 플랫폼 기업 아이에스시(ISC)는 2026년 1분기 매출 683억원, 영업이익 236억원(영업이익률 35%)의 경영실적을 기록했다고 27일 밝혔다. 전년 동기 대비 매출은 115%, 영업이익은 237% 증가하며 AI 수요 확대에 따른 실적 성장과 수익성 개선이 동시에 나타났다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "경제안보에 막힌 MBK…日 정부, 마키노 인수 제동",
+      "title": "엔키화이트햇, NATO 최대 사이버 방어 훈련 참가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.25",
-      "link": "https://zdnet.co.kr/view/?no=20260426105030",
-      "summary": "일본 정부가 사모펀드 운용사 MBK파트너스의 공작기계 제조사 마키노후라이스제작소(이하 마키노) 인수 추진에 제동을 걸었다. 마키노가 생산하는 고성능 공작기계가 군사용으로도 활용될 수 있는 ‘이중용도 물자’에 해당한다는 점에서 국가안보상 우려가 있다고 판단한 것으로 전해졌다."
+      "date": "2026.04.26",
+      "link": "https://zdnet.co.kr/view/?no=20260427110817",
+      "summary": "오펜시브 보안 전문 기업 엔키화이트햇(대표 이성권)이 세계 최대 규모의 국제 사이버 방어 훈련에 참가했다. 이번 훈련에 15명의 핵신 연구원을 투입하면서 국내 민간 보안 기업 중 가장 많은 인원을 투입했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "예측 불가능한 소비자 여정, AI가 돕는다…크리테오, 에이전틱 AI 활용 전략 제안",
+      "title": "어도비, 에이전틱 AI로 마케팅 워크플로 주도권 사수",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.25",
-      "link": "https://www.itworld.co.kr/article/4162912/%ec%98%88%ec%b8%a1-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%86%8c%eb%b9%84%ec%9e%90-%ec%97%ac%ec%a0%95-ai%ea%b0%80-%eb%8f%95%eb%8a%94%eb%8b%a4%ed%81%ac%eb%a6%ac%ed%85%8c%ec%98%a4-%ec%97%90.html",
-      "summary": "크리테오가 에이전틱 AI와 실시간 커머스 데이터를 결합한 ‘커머스 결과’ 전략을 공개하며, 멀티채널 환경에서 마케팅 성과를 높이는 구체적 방안을 제시했다. Credit: Foundry 글로벌 커머스 인텔리전스 플랫폼 크리테오가 서울 강남구 코엑스에서 열린 ‘크리테오 커머스 포럼 2026’에서 에이전틱 AI를 중심으로 한 AI 기반 커머스 전략을 공개했다."
+      "date": "2026.04.26",
+      "link": "https://www.itworld.co.kr/article/4163480/%ec%96%b4%eb%8f%84%eb%b9%84-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%eb%a1%9c-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ec%82%ac%ec%88%98.html",
+      "summary": "경쟁 디자인 소프트웨어 업체들과 범용 AI 비서의 압박이 커지는 가운데, 어도비가 여러 애플리케이션과 워크플로 전반에서 창작 업무를 조율하고 실행하는 에이전틱 시스템을 전면에 내세우고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI 확장의 숨은 걸림돌 ‘GPU 비용’ 해결책…데이터독 GPU 모니터링 출시",
+      "title": "밸브, 스팀 덱 게임 개발사에 실제 플레이어 체감 성능 데이터 제공",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.25",
-      "link": "https://www.itworld.co.kr/article/4162923/ai-%ed%99%95%ec%9e%a5%ec%9d%98-%ec%88%a8%ec%9d%80-%ea%b1%b8%eb%a6%bc%eb%8f%8c-gpu-%eb%b9%84%ec%9a%a9-%ed%95%b4%ea%b2%b0%ec%b1%85-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-gpu-%eb%aa%a8.html",
-      "summary": "데이터독이 기업의 AI 인프라 확산 과정에서 급증하는 GPU 비용과 활용 비효율 문제를 해결는 ‘GPU 모니터링’ 출시를 발표했다. Credit: Datadog AI 기반 옵저버빌리티와 보안 플랫폼 전문 업체 데이터독(Datadog, Inc."
+      "date": "2026.04.26",
+      "link": "https://www.itworld.co.kr/article/4163468/%eb%b0%b8%eb%b8%8c-%ec%8a%a4%ed%8c%80-%eb%8d%b1-%ea%b2%8c%ec%9e%84-%ea%b0%9c%eb%b0%9c%ec%82%ac%ec%97%90-%ec%8b%a4%ec%a0%9c-%ed%94%8c%eb%a0%88%ec%9d%b4%ec%96%b4-%ec%b2%b4%ea%b0%90-%ec%84%b1%eb%8a%a5.html",
+      "summary": "‘스팀 덱 인증’ 게임이 지난 30일간 실제 사용자 환경에서 수집된 평균 FPS(초당 프레임 수) 데이터를 제공받게 된다. Credit: Chris Hoffman / Foundry 스팀 덱과 기타 핸드헬드 PC는 비교적 오래된 내장 그래픽 하드웨어로도 놀라울 만큼의 성능을 끌어낼 수 있다. 하지만 본질적으로는 전용 GPU가 없는 작은 노트북과 다르지 않다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "아마존의 50억 달러 앤트로픽 투자, 핵심은 ‘현금’이 아니라 ‘컴퓨트’",
+      "title": "예측 불가능한 소비자 여정, AI가 돕는다…크리테오, 에이전틱 AI 활용 전략 제안",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.25",
-      "link": "https://www.itworld.co.kr/article/4161802/%ec%95%84%eb%a7%88%ec%a1%b4%ec%9d%98-50%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%88%ac%ec%9e%90-%ed%95%b5%ec%8b%ac%ec%9d%80-%ed%98%84%ea%b8%88%ec%9d%b4.html",
-      "summary": "이번 투자는 단순한 자금 지원을 넘어, 앤트로픽이 급증하는 AI 워크로드 수요 속에서 장기적인 컴퓨트 자원을 확보하고 인프라 병목을 해소하려는 움직임으로 분석할 수 있다. Credit: JRides / Shutterstock.com 아마존이 월요일, 앤트로픽에 50억 달러를 추가 투자한다고 밝혔다."
+      "date": "2026.04.26",
+      "link": "https://www.itworld.co.kr/article/4162912/%ec%98%88%ec%b8%a1-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%86%8c%eb%b9%84%ec%9e%90-%ec%97%ac%ec%a0%95-ai%ea%b0%80-%eb%8f%95%eb%8a%94%eb%8b%a4%ed%81%ac%eb%a6%ac%ed%85%8c%ec%98%a4-%ec%97%90.html",
+      "summary": "크리테오가 에이전틱 AI와 실시간 커머스 데이터를 결합한 ‘커머스 결과’ 전략을 공개하며, 멀티채널 환경에서 마케팅 성과를 높이는 구체적 방안을 제시했다. Credit: Foundry 글로벌 커머스 인텔리전스 플랫폼 크리테오가 서울 강남구 코엑스에서 열린 ‘크리테오 커머스 포럼 2026’에서 에이전틱 AI를 중심으로 한 AI 기반 커머스 전략을 공개했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“AI가 업무를, 직원은 감독을” 메타의 MCI 실험이 던진 거버넌스 과제",
+      "title": "AI 확장의 숨은 걸림돌 ‘GPU 비용’ 해결책…데이터독 GPU 모니터링 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.25",
-      "link": "https://www.itworld.co.kr/article/4162242/ai%ea%b0%80-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%a7%81%ec%9b%90%ec%9d%80-%ea%b0%90%eb%8f%85%ec%9d%84-%eb%a9%94%ed%83%80%ec%9d%98-mci-%ec%8b%a4%ed%97%98%ec%9d%b4-%eb%8d%98%ec%a7%84.html",
-      "summary": "기업이 점점 더 많은 업무를 AI로 대체하려는 상황에서 이번 조치는 직원 감시와 데이터 거버넌스에 대한 논쟁을 더욱 가열시킬 것으로 보인다. Credit: Ascannio / Shutterstock 메타가 직원의 마우스 움직임, 클릭, 키 입력, 화면 활동을 추적해 업무용 AI 에이전트를 학습시키려는 계획을 세운 것으로 전해졌다."
+      "date": "2026.04.26",
+      "link": "https://www.itworld.co.kr/article/4162923/ai-%ed%99%95%ec%9e%a5%ec%9d%98-%ec%88%a8%ec%9d%80-%ea%b1%b8%eb%a6%bc%eb%8f%8c-gpu-%eb%b9%84%ec%9a%a9-%ed%95%b4%ea%b2%b0%ec%b1%85-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-gpu-%eb%aa%a8.html",
+      "summary": "데이터독이 기업의 AI 인프라 확산 과정에서 급증하는 GPU 비용과 활용 비효율 문제를 해결는 ‘GPU 모니터링’ 출시를 발표했다. Credit: Datadog AI 기반 옵저버빌리티와 보안 플랫폼 전문 업체 데이터독(Datadog, Inc."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "코스믹 오렌지를 잇는 아이폰 18 프로 전용 새 색상은 ‘다크 체리’",
+      "title": "아마존의 50억 달러 앤트로픽 투자, 핵심은 ‘현금’이 아니라 ‘컴퓨트’",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.25",
-      "link": "https://www.itworld.co.kr/article/4161768/%ec%bd%94%ec%8a%a4%eb%af%b9-%ec%98%a4%eb%a0%8c%ec%a7%80%eb%a5%bc-%ec%9e%87%eb%8a%94-%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c-%ec%a0%84%ec%9a%a9-%ec%83%88-%ec%83%89%ec%83%81%ec%9d%80.html",
-      "summary": "언제나 그렇듯 사용자에게 가장 중요한 질문은 “어떤 색상이 출시될까?”이다. Credit: Foundry 다시 아이폰 유출 시즌이 돌아왔다. 아이폰 18 프로와 18 프로 맥스, 아이폰 울트라라는 이름이 붙는다는 소문이 있는 폴더블 아이폰까지 3가지 신제품이 공개되기까지 몇 개월 남지 않았다."
+      "date": "2026.04.26",
+      "link": "https://www.itworld.co.kr/article/4161802/%ec%95%84%eb%a7%88%ec%a1%b4%ec%9d%98-50%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%88%ac%ec%9e%90-%ed%95%b5%ec%8b%ac%ec%9d%80-%ed%98%84%ea%b8%88%ec%9d%b4.html",
+      "summary": "이번 투자는 단순한 자금 지원을 넘어, 앤트로픽이 급증하는 AI 워크로드 수요 속에서 장기적인 컴퓨트 자원을 확보하고 인프라 병목을 해소하려는 움직임으로 분석할 수 있다. Credit: JRides / Shutterstock.com 아마존이 월요일, 앤트로픽에 50억 달러를 추가 투자한다고 밝혔다."
     }
   ]
 }
