@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-04-29T02:42:05.973Z",
-  "collectionDate": "2026.04.28",
-  "displayDate": "2026.04.29",
+  "updatedAt": "2026-04-30T02:43:11.160Z",
+  "collectionDate": "2026.04.29",
+  "displayDate": "2026.04.30",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "식약처 사칭 위조 공문으로 물품 구매 유도…식품업계 주의 당부",
+      "title": "[컨콜] LG CNS \"팔란티어 협력, 그룹사로 확산…FDE 인력 기반 데이터 사업 강화\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.28",
-      "link": "https://zdnet.co.kr/view/?no=20260429114050",
-      "summary": "식품의약품안전처(식약처)는 최근 식약처를 사칭한 위조 공문서를 유포해 식품위생 관련 물품 구매를 강요하는 사례가 발생함에 따라 식품 관련 영업자들의 각별한 주의를 당부했다."
+      "date": "2026.04.29",
+      "link": "https://zdnet.co.kr/view/?no=20260430113939",
+      "summary": "LG CNS가 팔란티어와의 파트너십을 기반으로 데이터 플랫폼 사업을 확대하고 그룹사를 중심으로 적용 사례 확산에 박차를 가한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "2025년 4대 보험료 납부내역, 국세청 홈택스에서 한 눈에 확인",
+      "title": "\"제주도, AI로 돼지 키운다\"…ETRI 스마트 실증 돈사 국내 첫 구축",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.28",
-      "link": "https://zdnet.co.kr/view/?no=20260429113728",
-      "summary": "국민건강보험공단은 국민 편의 증진과 행정 비용 절감을 위해 오는 5월1일부터 ‘국세청 홈택스’에 ‘2025년 4대 사회보험료 납부내역’ 확인이 가능하다고 밝혔다. 공공기관 간 정보 공유로 보험료 납부 증빙 절차가 간소화 되어, 종합소득세 신고 대상자는 5월1일부터 국세청 홈택스 또는 손택스(앱)를 통해 본인의 4대 사회보험료 납부내역을 확인 할 수 있다."
+      "date": "2026.04.29",
+      "link": "https://zdnet.co.kr/view/?no=20260430113758",
+      "summary": "한국전자통신연구원(ETRI)이 제주에 인공지능(AI)로 돈사를 제어하는 실증 시스템을 구축하고, 탄소중립형 축산 모델 개발을 본격화한다. ETRI 제주AX융합연구실은 30일 제주대학교 말산업전문인력양성센터에서 ‘기후위기 대응 제주형 양돈 AX 스마트팜(이하 테스트베드)’ 준공식을 개최했다. 테스트베드는 제주대학교 실험 부지에 역 800㎡ 규모로 조성됐다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "국민연금공단, 황승현 기획이사 임명",
+      "title": "[컨콜] LG CNS \"CBDC 중심 디지털자산 사업 확대…2분기부터 매출 본격화\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.28",
-      "link": "https://zdnet.co.kr/view/?no=20260429113124",
-      "summary": "국민연금공단은 4월29일 자로 신임 기획이사에 황승현(70년생) 후보자를 임명했다고 밝혔다. 임기는 2026년 4월29일부터 2028년 4월28일까지 2년이다."
+      "date": "2026.04.29",
+      "link": "https://zdnet.co.kr/view/?no=20260430113416",
+      "summary": "LG CNS가 중앙은행 디지털화폐(CBDC) 사업을 중심으로 디지털자산 사업을 확대하고 2분기부터 관련 매출이 본격 발생할 것으로 내다봤다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "넷플릭스, 한국 영화 신진 창작자 교육 프로그램 운영",
+      "title": "\"이론 넘어 실전\"… M&A 전 과정 체험 '넥스트 라운드 클래스' 2기 개강",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.28",
-      "link": "https://zdnet.co.kr/view/?no=20260429104345",
-      "summary": "넷플릭스는 한국콘텐츠진흥원(콘진원), 영화진흥위원회(영진위)와 업무협약을 체결했다고 29일 밝혔다. 지난 23일 넷플릭스 서울 오피스에서 진행된 협약식엔 넷플릭스 한국 프로덕션 총괄 하정수 디렉터, 구경본 콘진원 콘텐츠기반본부 본부장, 조근식 영진위 한국영화아카데미 원장이 참석했다."
+      "date": "2026.04.29",
+      "link": "https://zdnet.co.kr/view/?no=20260430113151",
+      "summary": "법무법인 디엘지(DLG Law Corporation, 대표변호사 조원희·안희철)는 벤처스퀘어, 팩트시트와 함께 M&A 전 과정을 실제처럼 경험할 수 있는 실무형 교육 프로그램 ‘넥스트 라운드 클래스(Next Round Class)’ 2기를 개강한다고 30일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "KG모빌리티, 튀르키예서 무쏘 글로벌 출사표…수출 확대 시동",
+      "title": "삼성D \"IT 8G OLED 신규 양산으로 하반기 매출 성장 추진\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.04.28",
-      "link": "https://zdnet.co.kr/view/?no=20260429112922",
-      "summary": "KG모빌리티(KGM)가 최대 수출국인 튀르키예에서 픽업트럭 '무쏘' 글로벌 론칭 행사를 열고 해외 시장 공략에 본격 나섰다. KGM은 28일부터 29일까지(현지시간) 튀르키예 카파도키아 메리어트 호텔에서 글로벌 론칭 행사를 개최했다고 밝혔다."
+      "date": "2026.04.29",
+      "link": "https://zdnet.co.kr/view/?no=20260430110302",
+      "summary": "삼성디스플레이가 \"8.6세대 IT 유기발광다이오드(OLED) 신규 양산으로 하반기 매출 성장을 추진하겠다\"고 밝혔다. 해당 패널은 애플의 첫번째 OLED 맥북에 탑재할 예정이다. 삼성디스플레이는 30일 1분기 실적자료에서 하반기 중소형 사업 전망에 대해 \"시장 환경 불확실성이 이어질 것\"이라면서도 \"차별화 기술 기반 프리미엄 제품을 안정적으로 공급하고 8."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "규제 많은 기업 환경 겨냥…오픈텍스트, 오프라인 앱 보안 실습 교육",
+      "title": "치명적 깃허브 RCE 취약점, 수백만 개 저장소 노출",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.28",
-      "link": "https://www.itworld.co.kr/article/4163976/%ea%b7%9c%ec%a0%9c-%eb%a7%8e%ec%9d%80-%ea%b8%b0%ec%97%85-%ed%99%98%ea%b2%bd-%ea%b2%a8%eb%83%a5%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%ec%95%b1.html",
-      "summary": "오픈텍스트가 파트너 대상 실습 중심 교육을 통해 AI 기반 애플리케이션 보안 솔루션의 오프라인 운용 역량 강화에 나섰다."
+      "date": "2026.04.29",
+      "link": "https://www.itworld.co.kr/article/4165223/%ec%b9%98%eb%aa%85%ec%a0%81-%ea%b9%83%ed%97%88%eb%b8%8c-rce-%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%88%98%eb%b0%b1%eb%a7%8c-%ea%b0%9c-%ec%a0%80%ec%9e%a5%ec%86%8c-%eb%85%b8%ec%b6%9c.html",
+      "summary": "최근 패치된 이 취약점은 조작된 git push 요청을 통해 인증된 사용자가 임의 코드를 실행할 수 있게 했으며, 깃허브닷컴과 깃허브 엔터프라이즈 서버에 영향을 미쳤다. Credit: Gil C - shutterstock."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "애플 ‘울트라’ 로드맵 확인…아이폰·맥북까지 확대",
+      "title": "AI를 위한 비정형 데이터 거버넌스 과제에 대처하기",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.28",
-      "link": "https://www.itworld.co.kr/article/4163930/%ec%95%a0%ed%94%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a1%9c%eb%93%9c%eb%a7%b5-%ed%99%95%ec%9d%b8%ec%95%84%ec%9d%b4%ed%8f%b0%c2%b7%eb%a7%a5%eb%b6%81%ea%b9%8c%ec%a7%80-%ed%99%95.html",
-      "summary": "애플이 ‘울트라(Ultra)’ 브랜드를 아이폰과 맥북으로 확대할 계획이다. Credit: Foundry 올해 애플 아이폰 라인업에는 역대 가장 큰 변화가 예고돼 있다. 첫 폴더블 아이폰의 등장이다. 그동안 다수 매체는 이 기기를 ‘아이폰 폴드’로 불러왔지만, Macworld는 애플이 이 신제품에 ‘울트라’ 브랜드를 적용할 것이라는 정황을 확인했다."
+      "date": "2026.04.29",
+      "link": "https://www.itworld.co.kr/article/4164805/ai%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b9%84%ec%a0%95%ed%98%95-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ea%b3%bc%ec%a0%9c%ec%97%90-%eb%8c%80%ec%b2%98%ed%95%98%ea%b8%b0.html",
+      "summary": "기술과 규제가 진화함에 따라 기업은 파이프라인, 모델, AI 에이전트 전반에 걸쳐 데이터 거버넌스 과제를 해결해야 한다. Credit: tookitook / Shutterstock 규제 대상 산업의 대기업, 특히 풍부한 데이터를 다루는 금융 서비스와 보험 부문의 대기업은 지금까지 데이터 거버넌스 프로그램에 상당한 투자를 해왔다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "어도비, 에이전틱 AI로 마케팅 워크플로 주도권 사수",
+      "title": "규제 많은 기업 환경 겨냥…오픈텍스트, 오프라인 앱 보안 실습 교육",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.28",
-      "link": "https://www.itworld.co.kr/article/4163480/%ec%96%b4%eb%8f%84%eb%b9%84-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%eb%a1%9c-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ec%82%ac%ec%88%98.html",
-      "summary": "경쟁 디자인 소프트웨어 업체들과 범용 AI 비서의 압박이 커지는 가운데, 어도비가 여러 애플리케이션과 워크플로 전반에서 창작 업무를 조율하고 실행하는 에이전틱 시스템을 전면에 내세우고 있다."
+      "date": "2026.04.29",
+      "link": "https://www.itworld.co.kr/article/4163976/%ea%b7%9c%ec%a0%9c-%eb%a7%8e%ec%9d%80-%ea%b8%b0%ec%97%85-%ed%99%98%ea%b2%bd-%ea%b2%a8%eb%83%a5%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%98%a4%ed%94%84%eb%9d%bc%ec%9d%b8-%ec%95%b1.html",
+      "summary": "오픈텍스트가 파트너 대상 실습 중심 교육을 통해 AI 기반 애플리케이션 보안 솔루션의 오프라인 운용 역량 강화에 나섰다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "밸브, 스팀 덱 게임 개발사에 실제 플레이어 체감 성능 데이터 제공",
+      "title": "애플 ‘울트라’ 로드맵 확인…아이폰·맥북까지 확대",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.28",
-      "link": "https://www.itworld.co.kr/article/4163468/%eb%b0%b8%eb%b8%8c-%ec%8a%a4%ed%8c%80-%eb%8d%b1-%ea%b2%8c%ec%9e%84-%ea%b0%9c%eb%b0%9c%ec%82%ac%ec%97%90-%ec%8b%a4%ec%a0%9c-%ed%94%8c%eb%a0%88%ec%9d%b4%ec%96%b4-%ec%b2%b4%ea%b0%90-%ec%84%b1%eb%8a%a5.html",
-      "summary": "‘스팀 덱 인증’ 게임이 지난 30일간 실제 사용자 환경에서 수집된 평균 FPS(초당 프레임 수) 데이터를 제공받게 된다. Credit: Chris Hoffman / Foundry 스팀 덱과 기타 핸드헬드 PC는 비교적 오래된 내장 그래픽 하드웨어로도 놀라울 만큼의 성능을 끌어낼 수 있다. 하지만 본질적으로는 전용 GPU가 없는 작은 노트북과 다르지 않다."
+      "date": "2026.04.29",
+      "link": "https://www.itworld.co.kr/article/4163930/%ec%95%a0%ed%94%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a1%9c%eb%93%9c%eb%a7%b5-%ed%99%95%ec%9d%b8%ec%95%84%ec%9d%b4%ed%8f%b0%c2%b7%eb%a7%a5%eb%b6%81%ea%b9%8c%ec%a7%80-%ed%99%95.html",
+      "summary": "애플이 ‘울트라(Ultra)’ 브랜드를 아이폰과 맥북으로 확대할 계획이다. Credit: Foundry 올해 애플 아이폰 라인업에는 역대 가장 큰 변화가 예고돼 있다. 첫 폴더블 아이폰의 등장이다. 그동안 다수 매체는 이 기기를 ‘아이폰 폴드’로 불러왔지만, Macworld는 애플이 이 신제품에 ‘울트라’ 브랜드를 적용할 것이라는 정황을 확인했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "예측 불가능한 소비자 여정, AI가 돕는다…크리테오, 에이전틱 AI 활용 전략 제안",
+      "title": "어도비, 에이전틱 AI로 마케팅 워크플로 주도권 사수",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.04.28",
-      "link": "https://www.itworld.co.kr/article/4162912/%ec%98%88%ec%b8%a1-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%86%8c%eb%b9%84%ec%9e%90-%ec%97%ac%ec%a0%95-ai%ea%b0%80-%eb%8f%95%eb%8a%94%eb%8b%a4%ed%81%ac%eb%a6%ac%ed%85%8c%ec%98%a4-%ec%97%90.html",
-      "summary": "크리테오가 에이전틱 AI와 실시간 커머스 데이터를 결합한 ‘커머스 결과’ 전략을 공개하며, 멀티채널 환경에서 마케팅 성과를 높이는 구체적 방안을 제시했다. Credit: Foundry 글로벌 커머스 인텔리전스 플랫폼 크리테오가 서울 강남구 코엑스에서 열린 ‘크리테오 커머스 포럼 2026’에서 에이전틱 AI를 중심으로 한 AI 기반 커머스 전략을 공개했다."
+      "date": "2026.04.29",
+      "link": "https://www.itworld.co.kr/article/4163480/%ec%96%b4%eb%8f%84%eb%b9%84-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%eb%a1%9c-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a1%9c-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ec%82%ac%ec%88%98.html",
+      "summary": "경쟁 디자인 소프트웨어 업체들과 범용 AI 비서의 압박이 커지는 가운데, 어도비가 여러 애플리케이션과 워크플로 전반에서 창작 업무를 조율하고 실행하는 에이전틱 시스템을 전면에 내세우고 있다."
     }
   ]
 }
