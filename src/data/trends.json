@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-06T02:37:23.540Z",
-  "collectionDate": "2026.05.05",
-  "displayDate": "2026.05.06",
+  "updatedAt": "2026-05-07T02:39:58.774Z",
+  "collectionDate": "2026.05.06",
+  "displayDate": "2026.05.07",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "[속보] 민주당, 임문영 AI전략위 부위원장 발탁...호남 전략공천",
+      "title": "문체부 저작권 보호 강화 임박…긴급차단제·AI 활용 주목",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.05",
-      "link": "https://zdnet.co.kr/view/?no=20260506113339",
-      "summary": "더불어민주당, 박지원 최고·임문영 국가인공지능전략위 부위원장 발탁. 임문영 부위원장, 광주 광산을 보궐선거 출마 가능성 관련기사 [유미's 픽] AI가 들러리인가…하정우·임문영 두 축 선거판으로2026.05.05 민주당, 광주 광산을에 임문영 국가AI전략위 부위원장 전략공천2026.05."
+      "date": "2026.05.06",
+      "link": "https://zdnet.co.kr/view/?no=20260507113455",
+      "summary": "문화체육관광부(문체부)가 예고한 불법사이트 긴급차단제 시행이 나흘 앞으로 다가오면서 케이-콘텐츠 업계의 기대감도 커지고 있다. 기존에는 불법 유통 사이트 차단까지 일정한 절차와 시간이 필요했지만, 오는 11일부터는 저작권 침해 정보가 대규모로 유통되는 사이트에 대해 훨씬 신속한 대응이 가능해지기 때문이다. 이번 제도 변화의 핵심은 대응 속도다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "KB금융, S&P 글로벌 '다우존스 지속가능경영지수'10회 연속 월드지수 편입",
+      "title": "마키나락스, 국방 AI 에이전트 시장 뚫었다…15억 규모 사업 수주",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.05",
-      "link": "https://zdnet.co.kr/view/?no=20260506113255",
-      "summary": "KB금융그룹이 지난 4일 스탠더드 앤드 푸어스 글로벌(S&P 글로벌)의 '다우존스 지속가능경영지수(DJ BIC)'의 '월드지수(World Index)'에 편입됐다고 6일 밝혔다. DJ BIC는 기존 '다우존스 지속가능경영지수(DJSI)'를 개편한 지수로, 세계 최대 금융정보 제공기관인 S&P 글로벌이 매년 발표한다."
+      "date": "2026.05.06",
+      "link": "https://zdnet.co.kr/view/?no=20260507113147",
+      "summary": "마키나락스가 국방 폐쇄망 인공지능(AI) 에이전트 시장 진출에 속도를 낸다. 마키나락스는 국방과학연구소 '국방 무기체계용 AI 참모 에이전트 개발환경 구축' 사업 수행업체로 선정됐다고 7일 밝혔다. 총사업비는 14억 6000만원이며 오는 12월까지 수행한다. 마키나락스는 자사 AI 운영체제(OS) '런웨이(Runway)'를 활용해 사업을 수행할 계획이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "공정위, 제일제당·삼양사·대한제당 설탕 담합 과징금 감경…\"조사 협조 반영\"",
+      "title": "\"AI 실무·취업 한번에\"…SK AX, 교육 프로그램 '스칼라' 4기 모집",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.05",
-      "link": "https://zdnet.co.kr/view/?no=20260506104900",
-      "summary": "공정거래위원회가 설탕 가격 담합으로 제재를 받은 CJ제일제당·삼양사·대한제당 등 제당 3사 과징금을 약 990억원 감경하기로 했다. 조사·심의 협조를 반영한 조치라는 게 공정위 입장이다."
+      "date": "2026.05.06",
+      "link": "https://zdnet.co.kr/view/?no=20260507112958",
+      "summary": "SK AX가 채용 연계형 인공지능(AI) 교육 프로그램 '스칼라(SKALA)'를 광주와 울산까지 확대하며 지역 기반 AI 인재 육성에 박차를 가한다. SK AX는 오는 13일까지 채용 연계형 AI 실무 교육 프로그램 스칼라 4기 교육생을 모집한다고 7일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "기계체조하는 아틀라스 첫 공개...\"사람보다 유연해\"",
+      "title": "시몬스, 농·특산물 직거래 장터 ‘파머스 마켓’ 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.05",
-      "link": "https://zdnet.co.kr/view/?no=20260506102648",
-      "summary": "보스턴다이나믹스가 휴머노이드 로봇 '아틀라스' 개발형 모델의 실제 작동 영상을 처음 공개하며 전 세계 이용자들의 이목을 끌고 있다. 사람도 하기 어려운 고난도 기계체조 동작을 선보이며 차세대 제조 현장 투입 가능성을 과시했다."
+      "date": "2026.05.06",
+      "link": "https://zdnet.co.kr/view/?no=20260507111750",
+      "summary": "시몬스가 경기도 이천의 복합문화공간 시몬스 테라스에서 농·특산물 직거래 장터 ‘파머스 마켓’을 연다고 7일 밝혔다. 파머스 마켓은 오는 14일부터 17일까지 매일 오전 11시부터 오후 6시까지 진행된다. 이번 행사는 지역과 지역, 사람과 사람을 잇는 소셜라이징 프로젝트의 일환으로, 2018년 시작돼 올해로 9년째를 맞는다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "\"WWDC 앞두고\"…애플, 'AI 시리 허위광고' 소송 3714억에 마무리",
+      "title": "롯데칠성음료, 식물 유래 카페인 담은 ‘핫식스 글로우’ 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.05",
-      "link": "https://zdnet.co.kr/view/?no=20260506110920",
-      "summary": "애플이 존재하지 않는 '인공지능(AI) 시리' 기능을 아이폰 판매에 활용했다는 소비자 집단소송을 금전 합의로 마무리했다. 5일(현지시간) 파이낸셜타임스(FT) 등 외신에 따르면 애플은 미국 캘리포니아 연방법원에 2억 5000만 달러(약 3714억원) 규모 합의안을 제출했다. 이번 합의안에는 애플이 위법 행위를 인정한다는 내용은 담기지 않았다."
+      "date": "2026.05.06",
+      "link": "https://zdnet.co.kr/view/?no=20260507105742",
+      "summary": "롯데칠성음료가 식물 유래 카페인을 담은 에너지 음료 ‘핫식스 글로우’ 2종을 출시했다고 7일 밝혔다. 신제품은 ‘사과&포멜로’, ‘복숭아&살구’ 두 가지 맛으로 구성됐으며, 당과 칼로리를 낮춘 것이 특징이다. 핫식스 글로우는 기존 고카페인 중심 에너지 음료와 달리 일상에서 비교적 가볍게 마실 수 있는 제품으로 기획됐다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "20년 묵은 버그가 깨어났다…AI가 포스트그레SQL·마리아DB 취약점 발굴",
+      "title": "“핵심 사용자 먼저”…테이크투, GTA 6 출시 전략 밝혀",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.05",
-      "link": "https://www.itworld.co.kr/article/4167545/20%eb%85%84-%eb%ac%b5%ec%9d%80-%eb%b2%84%ea%b7%b8%ea%b0%80-%ea%b9%a8%ec%96%b4%eb%82%ac%eb%8b%a4ai%ea%b0%80-%ed%8f%ac%ec%8a%a4%ed%8a%b8%ea%b7%b8%eb%a0%88sql%c2%b7%eb%a7%88%eb%a6%ac%ec%95%84db.html",
-      "summary": "AI 기반 보안 분석 도구가 오픈소스 데이터베이스의 수십 년 된 버퍼 오버플로 취약점을 수면 위로 끌어올렸다. Credit: Getti Images Bank AI가 수십 년 된 버퍼 오버플로 문제를 광범위하게 사용되는 구성요소에서 발굴하면서 오픈소스 데이터베이스가 오래된 메모리 문제에 직면하고 있다."
+      "date": "2026.05.06",
+      "link": "https://www.itworld.co.kr/article/4168105/%ed%95%b5%ec%8b%ac-%ec%82%ac%ec%9a%a9%ec%9e%90-%eb%a8%bc%ec%a0%80%ed%85%8c%ec%9d%b4%ed%81%ac%ed%88%ac-gta-6-%ec%b6%9c%ec%8b%9c-%ec%a0%84%eb%9e%b5-%eb%b0%9d%ed%98%80.html",
+      "summary": "테이크투 CEO가 최근 인터뷰에서 GTA 5 플레이어 대다수가 PC에서 게임을 즐기는데도 GTA 6을 콘솔에서 먼저 출시하는 이유를 설명했다. Credit: Take-Two 테이크투의 CEO 스트라우스 젤닉이 최근 블룸버그와의 인터뷰에서 차기작 그랜드 테프트 오토 6(GTA 6)을 두고 PC가 ‘핵심 사용자’ 층이 아니라고 말했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "엣지 브라우저, 비밀번호 평문 노출…마이크로소프트 “설계 의도”",
+      "title": "보안·복잡성 높은 환경에서도 통했다…오픈텍스트의 AI 기반 콘텐츠 관리",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.05",
-      "link": "https://www.itworld.co.kr/article/4167538/%ec%97%a3%ec%a7%80-%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ed%8f%89%eb%ac%b8-%eb%85%b8%ec%b6%9c%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
-      "summary": "엣지의 비밀번호 평문 저장 문제에 마이크로소프트가 사실상 방치 입장을 취하면서 비판이 쏟아지고 있다. Credit: Ascannio - shutterstock."
+      "date": "2026.05.06",
+      "link": "https://www.itworld.co.kr/article/4166282/%eb%b3%b4%ec%95%88%c2%b7%eb%b3%b5%ec%9e%a1%ec%84%b1-%eb%86%92%ec%9d%80-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c%eb%8f%84-%ed%86%b5%ed%96%88%eb%8b%a4-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
+      "summary": "수백만 개 부품과 복잡한 유지보수 체계를 운영하는 환경에서, AI는 단순 자동화가 아닌 ‘정보 구조화’로 역할을 확장했다. 미 해군 프로젝트는 데이터 연결이 곧 현장 생산성으로 이어질 수 있음을 보여준다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "친절한 AI 챗봇이 더 많이 틀린다…옥스퍼드 연구",
+      "title": "20년 묵은 버그가 깨어났다…AI가 포스트그레SQL·마리아DB 취약점 발굴",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.05",
-      "link": "https://www.itworld.co.kr/article/4166253/%ec%b9%9c%ec%a0%88%ed%95%9c-ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8d%94-%eb%a7%8e%ec%9d%b4-%ed%8b%80%eb%a6%b0%eb%8b%a4-%ec%98%a5%ec%8a%a4%ed%8d%bc%eb%93%9c-%ec%97%b0%ea%b5%ac.html",
-      "summary": "AI 모델을 더 공감적으로 훈련할수록 오류가 늘고 사용자가 원하는 말을 들려주는 아첨형 응답이 증가한다는 연구 결과가 나왔다."
+      "date": "2026.05.06",
+      "link": "https://www.itworld.co.kr/article/4167545/20%eb%85%84-%eb%ac%b5%ec%9d%80-%eb%b2%84%ea%b7%b8%ea%b0%80-%ea%b9%a8%ec%96%b4%eb%82%ac%eb%8b%a4ai%ea%b0%80-%ed%8f%ac%ec%8a%a4%ed%8a%b8%ea%b7%b8%eb%a0%88sql%c2%b7%eb%a7%88%eb%a6%ac%ec%95%84db.html",
+      "summary": "AI 기반 보안 분석 도구가 오픈소스 데이터베이스의 수십 년 된 버퍼 오버플로 취약점을 수면 위로 끌어올렸다. Credit: Getti Images Bank AI가 수십 년 된 버퍼 오버플로 문제를 광범위하게 사용되는 구성요소에서 발굴하면서 오픈소스 데이터베이스가 오래된 메모리 문제에 직면하고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "치명적 깃허브 RCE 취약점, 수백만 개 저장소 노출",
+      "title": "엣지 브라우저, 비밀번호 평문 노출…마이크로소프트 “설계 의도”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.05",
-      "link": "https://www.itworld.co.kr/article/4165223/%ec%b9%98%eb%aa%85%ec%a0%81-%ea%b9%83%ed%97%88%eb%b8%8c-rce-%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%88%98%eb%b0%b1%eb%a7%8c-%ea%b0%9c-%ec%a0%80%ec%9e%a5%ec%86%8c-%eb%85%b8%ec%b6%9c.html",
-      "summary": "최근 패치된 이 취약점은 조작된 git push 요청을 통해 인증된 사용자가 임의 코드를 실행할 수 있게 했으며, 깃허브닷컴과 깃허브 엔터프라이즈 서버에 영향을 미쳤다. Credit: Gil C - shutterstock."
+      "date": "2026.05.06",
+      "link": "https://www.itworld.co.kr/article/4167538/%ec%97%a3%ec%a7%80-%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ed%8f%89%eb%ac%b8-%eb%85%b8%ec%b6%9c%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
+      "summary": "엣지의 비밀번호 평문 저장 문제에 마이크로소프트가 사실상 방치 입장을 취하면서 비판이 쏟아지고 있다. Credit: Ascannio - shutterstock."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI를 위한 비정형 데이터 거버넌스 과제에 대처하기",
+      "title": "친절한 AI 챗봇이 더 많이 틀린다…옥스퍼드 연구",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.05",
-      "link": "https://www.itworld.co.kr/article/4164805/ai%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b9%84%ec%a0%95%ed%98%95-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ea%b3%bc%ec%a0%9c%ec%97%90-%eb%8c%80%ec%b2%98%ed%95%98%ea%b8%b0.html",
-      "summary": "기술과 규제가 진화함에 따라 기업은 파이프라인, 모델, AI 에이전트 전반에 걸쳐 데이터 거버넌스 과제를 해결해야 한다. Credit: tookitook / Shutterstock 규제 대상 산업의 대기업, 특히 풍부한 데이터를 다루는 금융 서비스와 보험 부문의 대기업은 지금까지 데이터 거버넌스 프로그램에 상당한 투자를 해왔다."
+      "date": "2026.05.06",
+      "link": "https://www.itworld.co.kr/article/4166253/%ec%b9%9c%ec%a0%88%ed%95%9c-ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8d%94-%eb%a7%8e%ec%9d%b4-%ed%8b%80%eb%a6%b0%eb%8b%a4-%ec%98%a5%ec%8a%a4%ed%8d%bc%eb%93%9c-%ec%97%b0%ea%b5%ac.html",
+      "summary": "AI 모델을 더 공감적으로 훈련할수록 오류가 늘고 사용자가 원하는 말을 들려주는 아첨형 응답이 증가한다는 연구 결과가 나왔다."
     }
   ]
 }
