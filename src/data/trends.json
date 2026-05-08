@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-07T02:39:58.774Z",
-  "collectionDate": "2026.05.06",
-  "displayDate": "2026.05.07",
+  "updatedAt": "2026-05-08T02:44:41.834Z",
+  "collectionDate": "2026.05.07",
+  "displayDate": "2026.05.08",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "문체부 저작권 보호 강화 임박…긴급차단제·AI 활용 주목",
+      "title": "세종시문화관광재단, 창립 10주년 전시 참여 작가 공모 진행",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.06",
-      "link": "https://zdnet.co.kr/view/?no=20260507113455",
-      "summary": "문화체육관광부(문체부)가 예고한 불법사이트 긴급차단제 시행이 나흘 앞으로 다가오면서 케이-콘텐츠 업계의 기대감도 커지고 있다. 기존에는 불법 유통 사이트 차단까지 일정한 절차와 시간이 필요했지만, 오는 11일부터는 저작권 침해 정보가 대규모로 유통되는 사이트에 대해 훨씬 신속한 대응이 가능해지기 때문이다. 이번 제도 변화의 핵심은 대응 속도다."
+      "date": "2026.05.07",
+      "link": "https://zdnet.co.kr/view/?no=20260508113453",
+      "summary": "세종시문화관광재단이 창립 10주년을 기념하는 전시회 준비에 나섰다. 세종시문화관광재단(대표 박영국)은 지역 예술인들과 함께 축적해온 발자취를 되돌아보고 그 결실을 시민들과 향유하고자 '열 해의 매듭: 마주한 실, 나아갈 길' 전시 참여 작가 공모를 20일까지 진행한다고 8일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "마키나락스, 국방 AI 에이전트 시장 뚫었다…15억 규모 사업 수주",
+      "title": "엔비디아가 찍은 코어위브, AI 인프라 매출 급증했지만…부채 부담에 주가 급락",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.06",
-      "link": "https://zdnet.co.kr/view/?no=20260507113147",
-      "summary": "마키나락스가 국방 폐쇄망 인공지능(AI) 에이전트 시장 진출에 속도를 낸다. 마키나락스는 국방과학연구소 '국방 무기체계용 AI 참모 에이전트 개발환경 구축' 사업 수행업체로 선정됐다고 7일 밝혔다. 총사업비는 14억 6000만원이며 오는 12월까지 수행한다. 마키나락스는 자사 AI 운영체제(OS) '런웨이(Runway)'를 활용해 사업을 수행할 계획이다."
+      "date": "2026.05.07",
+      "link": "https://zdnet.co.kr/view/?no=20260508105053",
+      "summary": "인공지능(AI) 인프라 수요 급증 수혜를 입고 있는 미국 네오클라우드 기업 코어위브가 시장 예상치를 웃도는 분기 매출을 기록했지만, 공격적인 데이터센터 투자와 비용 부담 우려가 커지며 주가가 급락했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "\"AI 실무·취업 한번에\"…SK AX, 교육 프로그램 '스칼라' 4기 모집",
+      "title": "콘진원, 콘텐츠 지원 제작에서 수출까지…해외 연결형 사업 잇따라",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.06",
-      "link": "https://zdnet.co.kr/view/?no=20260507112958",
-      "summary": "SK AX가 채용 연계형 인공지능(AI) 교육 프로그램 '스칼라(SKALA)'를 광주와 울산까지 확대하며 지역 기반 AI 인재 육성에 박차를 가한다. SK AX는 오는 13일까지 채용 연계형 AI 실무 교육 프로그램 스칼라 4기 교육생을 모집한다고 7일 밝혔다."
+      "date": "2026.05.07",
+      "link": "https://zdnet.co.kr/view/?no=20260508110326",
+      "summary": "한국콘텐츠진흥원이 최근 콘텐츠 산업 분야에서 제작지원 이후 단계를 겨냥한 사업을 잇따라 내놓고 있다. 성과조사와 해외 스크리닝을 함께 묶고, 콘텐츠IP 마켓과 해외 전시 참가 지원을 이어가는 방식이다. 단순히 콘텐츠를 만드는 단계에 머무르지 않고, 해외 노출과 거래 접점까지 연결하려는 흐름이 한층 뚜렷해졌다는 평가가 나온다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "시몬스, 농·특산물 직거래 장터 ‘파머스 마켓’ 개최",
+      "title": "제네시스 마그마레이싱, e스포츠팀 출범…한국인 드라이버 참여",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.06",
-      "link": "https://zdnet.co.kr/view/?no=20260507111750",
-      "summary": "시몬스가 경기도 이천의 복합문화공간 시몬스 테라스에서 농·특산물 직거래 장터 ‘파머스 마켓’을 연다고 7일 밝혔다. 파머스 마켓은 오는 14일부터 17일까지 매일 오전 11시부터 오후 6시까지 진행된다. 이번 행사는 지역과 지역, 사람과 사람을 잇는 소셜라이징 프로젝트의 일환으로, 2018년 시작돼 올해로 9년째를 맞는다."
+      "date": "2026.05.07",
+      "link": "https://zdnet.co.kr/view/?no=20260508110939",
+      "summary": "제네시스 마그마 레이싱이 공식 e스포츠팀 'GMR 이스포츠(GMR Esports)'를 출범하고 실전 레이스와 가상 레이싱을 연계한 통합 모터스포츠 생태계 구축에 나선다. 제네시스 마그마 레이싱은 FIA 세계내구선수권대회(WEC) 2026 시즌 개막전인 이탈리아 이몰라 라운드 데뷔 이후 활동 영역을 e스포츠까지 확장한다고 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "롯데칠성음료, 식물 유래 카페인 담은 ‘핫식스 글로우’ 출시",
+      "title": "노란봉투법 대비 현대차그룹, 노무통 전면 배치…새 총괄에 최준영",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.06",
-      "link": "https://zdnet.co.kr/view/?no=20260507105742",
-      "summary": "롯데칠성음료가 식물 유래 카페인을 담은 에너지 음료 ‘핫식스 글로우’ 2종을 출시했다고 7일 밝혔다. 신제품은 ‘사과&포멜로’, ‘복숭아&살구’ 두 가지 맛으로 구성됐으며, 당과 칼로리를 낮춘 것이 특징이다. 핫식스 글로우는 기존 고카페인 중심 에너지 음료와 달리 일상에서 비교적 가볍게 마실 수 있는 제품으로 기획됐다."
+      "date": "2026.05.07",
+      "link": "https://zdnet.co.kr/view/?no=20260508110125",
+      "summary": "현대자동차그룹이 노사 대응 체계 강화를 위한 임원 인사를 단행했다. 그룹 차원의 노무 컨트롤타워를 강화하고 계열사별 생산·노무 관리 체계도 재정비하는 데 초점이 맞춰졌다. 8일 업계에 따르면 최준영 기아 사장은 현대차그룹 정책개발담당으로 자리를 옮긴다. 정상빈 현대차 정책개발실장(부사장)은 현대모비스 노사정책담당으로 이동한다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“핵심 사용자 먼저”…테이크투, GTA 6 출시 전략 밝혀",
+      "title": "“내 데이터인데 왜 돈 내야 보나” 링크드인, EU서 법적 도전 직면",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.06",
-      "link": "https://www.itworld.co.kr/article/4168105/%ed%95%b5%ec%8b%ac-%ec%82%ac%ec%9a%a9%ec%9e%90-%eb%a8%bc%ec%a0%80%ed%85%8c%ec%9d%b4%ed%81%ac%ed%88%ac-gta-6-%ec%b6%9c%ec%8b%9c-%ec%a0%84%eb%9e%b5-%eb%b0%9d%ed%98%80.html",
-      "summary": "테이크투 CEO가 최근 인터뷰에서 GTA 5 플레이어 대다수가 PC에서 게임을 즐기는데도 GTA 6을 콘솔에서 먼저 출시하는 이유를 설명했다. Credit: Take-Two 테이크투의 CEO 스트라우스 젤닉이 최근 블룸버그와의 인터뷰에서 차기작 그랜드 테프트 오토 6(GTA 6)을 두고 PC가 ‘핵심 사용자’ 층이 아니라고 말했다."
+      "date": "2026.05.07",
+      "link": "https://www.itworld.co.kr/article/4168644/%eb%82%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%b8%eb%8d%b0-%ec%99%9c-%eb%8f%88-%eb%82%b4%ec%95%bc-%eb%b3%b4%eb%82%98-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-eu%ec%84%9c-%eb%b2%95%ec%a0%81.html",
+      "summary": "EU에서 링크드인의 ‘누가 내 프로필을 봤는지’ 기능이 GDPR 위반이라는 법적 공방에 휘말렸다. Credit: Greg Bulla | Unsplash 프로필을 방문한 사람 목록을 보여주는 링크드인의 기능이 EU 사용자 모두에게 무료로 제공되어야 하며, 그렇지 않을 경우 EU의 일반개인정보보호법(GDPR)을 위반하는 것이라는 법적 주장이 제기됐다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "보안·복잡성 높은 환경에서도 통했다…오픈텍스트의 AI 기반 콘텐츠 관리",
+      "title": "“바이브 코딩 vs 사양 주도 개발” AI 시대 개발 방식 선택 기준은?",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.06",
-      "link": "https://www.itworld.co.kr/article/4166282/%eb%b3%b4%ec%95%88%c2%b7%eb%b3%b5%ec%9e%a1%ec%84%b1-%eb%86%92%ec%9d%80-%ed%99%98%ea%b2%bd%ec%97%90%ec%84%9c%eb%8f%84-%ed%86%b5%ed%96%88%eb%8b%a4-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
-      "summary": "수백만 개 부품과 복잡한 유지보수 체계를 운영하는 환경에서, AI는 단순 자동화가 아닌 ‘정보 구조화’로 역할을 확장했다. 미 해군 프로젝트는 데이터 연결이 곧 현장 생산성으로 이어질 수 있음을 보여준다."
+      "date": "2026.05.07",
+      "link": "https://www.itworld.co.kr/article/4168198/%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9-vs-%ec%82%ac%ec%96%91-%ec%a3%bc%eb%8f%84-%ea%b0%9c%eb%b0%9c-ai-%ec%8b%9c%eb%8c%80-%ea%b0%9c%eb%b0%9c-%eb%b0%a9%ec%8b%9d-%ec%84%a0.html",
+      "summary": "경쟁 관계든 상호 보완적 관계든, 탄력적인 애플리케이션 개발을 위해 이 두 가지 AI 기반 방법을 통합하는 여러 좋은 방식이 있다. Credit: Getty Images Bank 바이브 코딩과 사양 주도 개발(SDD)은 데브옵스 팀이 AI를 사용해 애플리케이션 코드를 개발하는 두 가지 새로운 접근 방식이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "20년 묵은 버그가 깨어났다…AI가 포스트그레SQL·마리아DB 취약점 발굴",
+      "title": "메모리 품귀 여파, 울트라 맥 스튜디오 256GB·프로 맥 미니 64GB 사양 삭제",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.06",
-      "link": "https://www.itworld.co.kr/article/4167545/20%eb%85%84-%eb%ac%b5%ec%9d%80-%eb%b2%84%ea%b7%b8%ea%b0%80-%ea%b9%a8%ec%96%b4%eb%82%ac%eb%8b%a4ai%ea%b0%80-%ed%8f%ac%ec%8a%a4%ed%8a%b8%ea%b7%b8%eb%a0%88sql%c2%b7%eb%a7%88%eb%a6%ac%ec%95%84db.html",
-      "summary": "AI 기반 보안 분석 도구가 오픈소스 데이터베이스의 수십 년 된 버퍼 오버플로 취약점을 수면 위로 끌어올렸다. Credit: Getti Images Bank AI가 수십 년 된 버퍼 오버플로 문제를 광범위하게 사용되는 구성요소에서 발굴하면서 오픈소스 데이터베이스가 오래된 메모리 문제에 직면하고 있다."
+      "date": "2026.05.07",
+      "link": "https://www.itworld.co.kr/article/4168629/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ed%92%88%ea%b7%80-%ec%97%ac%ed%8c%8c-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a7%a5-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4-256gb%c2%b7%ed%94%84%eb%a1%9c-%eb%a7%a5-%eb%af%b8%eb%8b%88.html",
+      "summary": "AI 서버용 하드웨어 수요 급증으로 촉발된 메모리 부족 사태가 이제 PC 제품 구성에도 직접적인 영향을 미치고 있다. Credit: Foundry 메모리 부족 사태가 이어지면서, 규모와 영향력을 막론하고 기업은 현실에 맞게 전략을 조정해야 하는 상황에 놓였다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "엣지 브라우저, 비밀번호 평문 노출…마이크로소프트 “설계 의도”",
+      "title": "우리 회사 Node.js 프로젝트, 정말 안전한가?",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.06",
-      "link": "https://www.itworld.co.kr/article/4167538/%ec%97%a3%ec%a7%80-%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ed%8f%89%eb%ac%b8-%eb%85%b8%ec%b6%9c%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84.html",
-      "summary": "엣지의 비밀번호 평문 저장 문제에 마이크로소프트가 사실상 방치 입장을 취하면서 비판이 쏟아지고 있다. Credit: Ascannio - shutterstock."
+      "date": "2026.05.07",
+      "link": "https://www.itworld.co.kr/article/4168177/%ec%9a%b0%eb%a6%ac-%ed%9a%8c%ec%82%ac-node-js-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a0%95%eb%a7%90-%ec%95%88%ec%a0%84%ed%95%9c%ea%b0%80.html",
+      "summary": "종속성 스캔이 여전히 제대로 되지 않는 이유는 무엇이고, 이 문제를 어떻게 해결할 수 있는가? Credit: enzozo / Shutterstock 자바스크립트와 Node.js 팀에 부족한 것은 보안 툴이 아니라, 개발자가 릴리즈 전에 실제로 사용할 수 있는 종속성 보안 워크플로우다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "친절한 AI 챗봇이 더 많이 틀린다…옥스퍼드 연구",
+      "title": "“핵심 사용자 먼저”…테이크투, GTA 6 출시 전략 밝혀",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.06",
-      "link": "https://www.itworld.co.kr/article/4166253/%ec%b9%9c%ec%a0%88%ed%95%9c-ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8d%94-%eb%a7%8e%ec%9d%b4-%ed%8b%80%eb%a6%b0%eb%8b%a4-%ec%98%a5%ec%8a%a4%ed%8d%bc%eb%93%9c-%ec%97%b0%ea%b5%ac.html",
-      "summary": "AI 모델을 더 공감적으로 훈련할수록 오류가 늘고 사용자가 원하는 말을 들려주는 아첨형 응답이 증가한다는 연구 결과가 나왔다."
+      "date": "2026.05.07",
+      "link": "https://www.itworld.co.kr/article/4168105/%ed%95%b5%ec%8b%ac-%ec%82%ac%ec%9a%a9%ec%9e%90-%eb%a8%bc%ec%a0%80%ed%85%8c%ec%9d%b4%ed%81%ac%ed%88%ac-gta-6-%ec%b6%9c%ec%8b%9c-%ec%a0%84%eb%9e%b5-%eb%b0%9d%ed%98%80.html",
+      "summary": "테이크투 CEO가 최근 인터뷰에서 GTA 5 플레이어 대다수가 PC에서 게임을 즐기는데도 GTA 6을 콘솔에서 먼저 출시하는 이유를 설명했다. Credit: Take-Two 테이크투의 CEO 스트라우스 젤닉이 최근 블룸버그와의 인터뷰에서 차기작 그랜드 테프트 오토 6(GTA 6)을 두고 PC가 ‘핵심 사용자’ 층이 아니라고 말했다."
     }
   ]
 }
