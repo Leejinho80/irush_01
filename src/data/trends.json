@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-11T02:53:29.714Z",
-  "collectionDate": "2026.05.10",
-  "displayDate": "2026.05.11",
+  "updatedAt": "2026-05-12T02:45:32.003Z",
+  "collectionDate": "2026.05.11",
+  "displayDate": "2026.05.12",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "국가유산청, 역사문화권 정비구역 불합리 규제 전면 개선",
+      "title": "플레이위드코리아 신작 '씰M2', 신규 콘셉트 아트 3종 최초 공개",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.10",
-      "link": "https://zdnet.co.kr/view/?no=20260511113654",
-      "summary": "국가유산청이 역사문화권 정비구역 내 일률적인 규제를 완화하고 실시계획 승인 절차를 일원화해 정비사업의 속도를 높인다. 국가유산청(청장 허민)은 과도한 규제를 개선해 역사문화권 정비사업 실효성을 높이기 위한 '역사문화권 정비 등에 관한 특별법' 개정안이 국회 본회의를 통과했다고 11일 밝혔다."
+      "date": "2026.05.11",
+      "link": "https://zdnet.co.kr/view/?no=20260512113321",
+      "summary": "플레이위드코리아가 하반기 출시를 앞둔 신작 '씰M2'의 신규 콘셉트 아트를 공개하며 글로벌 IP(지식재산권) 사업 확장에 속도를 낸다. 플레이위드코리아(대표 김학준)는 서비스 예정 신작 '씰M2(가칭)' 신규 콘셉트 아트 3종을 공개했다고 12일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "비트코인 흔들리고 코스피 오르자…국내 코인 투자 위축",
+      "title": "김학준 플레이위드코리아 대표, 자사주 10만 주 매입…책임경영 강화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.10",
-      "link": "https://zdnet.co.kr/view/?no=20260511114333",
-      "summary": "비트코인 시세 하락과 국내 주식시장 상승이 맞물리며, 최근 6개월간 가상자산 투자자가 급격히 줄었다. 11일 안도걸 더불어민주당 의원이 국내 5대 가상자산 거래소(업비트, 빗썸, 코인원, 코빗, 스트리미)로부터 제출받은 자료에 따르면, 지난 2월 기준 가상자산 투자자는 1022만명으로, 6개월 전인 2025년 8월 대비 7.0% 감소했다."
+      "date": "2026.05.11",
+      "link": "https://zdnet.co.kr/view/?no=20260512112929",
+      "summary": "김학준 플레이위드코리아 대표가 자사주 매입을 통해 책임경영 실천과 중장기 성장을 바탕으로 한 기업가치 제고에 나선다. 플레이위드코리아(대표 김학준)는 김 대표가 자사주 10만 주 매입을 추진한다고 12일 밝혔다. 이번 매입은 경영진이 회사의 미래 성장성과 중장기 비전에 대한 확신을 시장에 표명하고, 주주가치 제고와 책임경영을 실천하기 위해 진행됐다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "'1강 3중' LCK 상위권 윤곽…한화생명e스포츠 10연승 '독주'",
+      "title": "서울반도체, 1분기 흑자전환",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.10",
-      "link": "https://zdnet.co.kr/view/?no=20260511112440",
-      "summary": "라이엇 게임즈가 주최하는 2026 LCK 정규 시즌 6주 차가 마무리된 가운데, 한화생명e스포츠가 10연승을 달리며 단독 1위를 굳건히 지키고 한진 브리온이 4연승으로 6위 도약에 성공했다. 지난 6일부터 10일까지 서울 롤파크 LCK 아레나와 베트남 하노이 전시센터에서 진행된 2026 LCK 정규 시즌 6주 차 경기 결과, 상위권 구도가 뚜렷해졌다."
+      "date": "2026.05.11",
+      "link": "https://zdnet.co.kr/view/?no=20260512084838",
+      "summary": "발광다이오드(LED) 업체 서울반도체가 1분기 매출 2382억원, 영업이익 18억원 등을 기록했다고 12일 밝혔다. 전년 동기보다 매출은 0.4% 줄었고, 영업손익은 흑자전환했다. 전 분기 대비로 매출은 10.4% 줄었고, 영업이익은 10억원 늘었다. 지난 1월 제시했던 1분기 매출 전망치 2500억원과 비교하면 4.7% 적다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "HPE, 자율형 네트워킹 시대 연다…에이전틱 AI 지원 박차",
+      "title": "삼성전자, 오라클 손잡고 반도체 개발 환경 재편…'자바'로 운영·보안 강화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.10",
-      "link": "https://zdnet.co.kr/view/?no=20260511113422",
-      "summary": "HPE가 사람 개입 없이 네트워크 스스로 문제를 해결하는 '에이전틱 인공지능 운영관리(AIOps)' 기반 자율형 네트워킹 시대 개척에 나선다. HPE는 'HPE 미스트'와 'HPE 아루바 센트럴' 전반에 걸쳐 네트워크가 실시간으로 문제를 감지·진단·해결하는 신규 '셀프 드라이빙 네트워크' 기능을 발표했다고 11일 밝혔다."
+      "date": "2026.05.11",
+      "link": "https://zdnet.co.kr/view/?no=20260512112645",
+      "summary": "삼성전자가 글로벌 반도체 개발 환경 표준화를 위해 '오라클 자바'를 도입한다. 전사 애플리케이션 개발 환경을 통합해 보안과 라이선스 관리 체계를 강화하고 반도체 엔지니어링 조직의 개발 안정성을 높인다는 목표다. 오라클은 삼성전자가 글로벌 소프트웨어(SW) 개발 표준화를 위해 오라클 '자바 SE 유니버설 서브스크립션'을 도입한다고 12일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "다목적방사광가속기 명칭 공모에 1만3천여건 …\"이례적\"",
+      "title": "엘리스그룹, 고용노동부 'KDT AI 캠퍼스' 운영기관 선정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.10",
-      "link": "https://zdnet.co.kr/view/?no=20260511093610",
-      "summary": "한국기초과학지원연구원 다목적방사광가속기 명칭 공모전에 대국민 관심이 폭발했다. 접수 1개월만에 전국 지원 건수가 1만 3천 건이나 몰리는 등 이례적이다. 한국기초과학지원연구원(원장 직무대행 황금숙, KBSI)은 지난 4월 한 달간 진행한 ‘다목적방사광가속기 명칭 공모전’에 총 1만 3천여 건의 명칭이 접수됐다고 11일 밝혔다."
+      "date": "2026.05.11",
+      "link": "https://zdnet.co.kr/view/?no=20260512111908",
+      "summary": "엘리스그룹(대표 김재원)이 고용노동부 주관 'K-디지털 트레이닝(KDT) AI 캠퍼스' 사업 운영기관에 선정됐다고 12일 밝혔다. 엘리스그룹은 이번 선정을 계기로 ‘AI 풀스택’ 역량을 바탕으로 한 실무 인재 양성에 나선다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "미국 정부, 생성형 AI 모델 출시 전 안전 테스트 실시",
+      "title": "AI 급변기 기술력 기준 재편…AI 시대 기업의 채용 신호 엇갈려",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.10",
-      "link": "https://www.itworld.co.kr/article/4169165/%eb%af%b8%ea%b5%ad-%ec%a0%95%eb%b6%80-%ec%83%9d%ec%84%b1%ed%98%95-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c-%ec%a0%84-%ec%95%88%ec%a0%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%8b%a4%ec%8b%9c.html",
-      "summary": "미국 상무부 산하 CAISI는 구글 딥마인드, 마이크로소프트, xAI로부터 AI 모델 출시 전 검증 권한을 확보하면서 선제적 보안 체계로의 전환을 신호했다. Credit: Andrey_Popov/Shutterstock CAISI가 구글, 마이크로소프트, xAI와 협약을 체결하면서 백악관의 자체 AI 검증 시스템 구축 추진 계획 보도에 앞서 움직임을 보였다."
+      "date": "2026.05.11",
+      "link": "https://www.itworld.co.kr/article/4169755/ai-%ea%b8%89%eb%b3%80%ea%b8%b0-%ea%b8%b0%ec%88%a0%eb%a0%a5-%ea%b8%b0%ec%a4%80-%ec%9e%ac%ed%8e%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85%ec%9d%98-%ec%b1%84%ec%9a%a9-%ec%8b%a0%ed%98%b8.html",
+      "summary": "AI 확산으로 기술 인력 시장이 흔들리는 가운데, 기업들이 채용 기준을 명확히 하는 모습을 보이고 있다. 기존의 광범위한 인재 영입 대신, 비즈니스 임팩트를 낼 수 있는 핵심 역량 중심으로 선별 기준을 짜고 있는 것이다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI 에이전트 중심으로 재편되는 엔지니어링 팀 구조 트렌드",
+      "title": "RAM 부족 현상이 몰고 온 DDR5 위조품 범람",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.10",
-      "link": "https://www.itworld.co.kr/article/4169156/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ed%8e%b8%eb%90%98%eb%8a%94-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ed%8c%80-%ea%b5%ac%ec%a1%b0-%ed%8a%b8.html",
-      "summary": "브라우저베이스, 마스트라, 파이어웍스 AI 등 7개 신생업체 창업자들이 샌프란시스코 캠프 AI 행사에서 AI 에이전트 도입으로 인한 팀 기업과 업무 프로세스의 변화상을 공유했다. Credit: Shutterstock 브라우저베이스의 창업자 겸 CEO 폴 클라인 4세는 엔지니어링 팀 내 AI 도입 속도에 대해 언급하며 밤새 가장 인상적인 발언을 남겼다."
+      "date": "2026.05.11",
+      "link": "https://www.itworld.co.kr/article/4169719/ram-%eb%b6%80%ec%a1%b1-%ed%98%84%ec%83%81%ec%9d%b4-%eb%aa%b0%ea%b3%a0-%ec%98%a8-ddr5-%ec%9c%84%ec%a1%b0%ed%92%88-%eb%b2%94%eb%9e%8c.html",
+      "summary": "메모리 칩 부족 현상이 심화하면서 가짜 DDR5 모듈이 중고 거래 플랫폼에서 적극 판매되고 있으며, 착각할 수 없는 검수 방법이 없어 피해가 속출하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "앤트로픽 클로드 확장, 악성 확장 프로그램의 권한 상승 취약점 노출",
+      "title": "미국 정부, 생성형 AI 모델 출시 전 안전 테스트 실시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.10",
-      "link": "https://www.itworld.co.kr/article/4169154/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%99%95%ec%9e%a5-%ec%95%85%ec%84%b1-%ed%99%95%ec%9e%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8%ec%9d%98-%ea%b6%8c%ed%95%9c-%ec%83%81.html",
-      "summary": "브라우저 통신 레이어의 보안 검증 부족으로 권한 없는 악의적 확장이 클로드의 AI 역량을 조종할 수 있는 구조적 결함이 적발됐다. Credit: Google / Gerd Altmann 앤트로픽의 클로드 인 크롬 확장 프로그램이 악성 확장 프로그램에 의해 탈취될 수 있다는 보안 경고가 나왔다."
+      "date": "2026.05.11",
+      "link": "https://www.itworld.co.kr/article/4169165/%eb%af%b8%ea%b5%ad-%ec%a0%95%eb%b6%80-%ec%83%9d%ec%84%b1%ed%98%95-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c-%ec%a0%84-%ec%95%88%ec%a0%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%8b%a4%ec%8b%9c.html",
+      "summary": "미국 상무부 산하 CAISI는 구글 딥마인드, 마이크로소프트, xAI로부터 AI 모델 출시 전 검증 권한을 확보하면서 선제적 보안 체계로의 전환을 신호했다. Credit: Andrey_Popov/Shutterstock CAISI가 구글, 마이크로소프트, xAI와 협약을 체결하면서 백악관의 자체 AI 검증 시스템 구축 추진 계획 보도에 앞서 움직임을 보였다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "애플-인텔 미국 칩 제조 협력, 예비 합의 체결",
+      "title": "AI 에이전트 중심으로 재편되는 엔지니어링 팀 구조 트렌드",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.10",
-      "link": "https://www.itworld.co.kr/article/4169138/%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94-%eb%af%b8%ea%b5%ad-%ec%b9%a9-%ec%a0%9c%ec%a1%b0-%ed%98%91%eb%a0%a5-%ec%98%88%eb%b9%84-%ed%95%a9%ec%9d%98-%ec%b2%b4%ea%b2%b0.html",
-      "summary": "애플과 인텔이 미국 내 칩 제조를 위한 예비 합의에 도달했다. Credit: Apple 월스트리트저널은 애플과 인텔이 칩 제조를 위한 공식 합의에 도달했다고 보도했다. 다만 구체적 세부 사항은 아직 공개되지 않았다. 월스트리트저널의 보도에 따르면 애플과 인텔이 애플 칩 일부를 제조하기 위한 예비 합의에 도달했다."
+      "date": "2026.05.11",
+      "link": "https://www.itworld.co.kr/article/4169156/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ed%8e%b8%eb%90%98%eb%8a%94-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ed%8c%80-%ea%b5%ac%ec%a1%b0-%ed%8a%b8.html",
+      "summary": "브라우저베이스, 마스트라, 파이어웍스 AI 등 7개 신생업체 창업자들이 샌프란시스코 캠프 AI 행사에서 AI 에이전트 도입으로 인한 팀 기업과 업무 프로세스의 변화상을 공유했다. Credit: Shutterstock 브라우저베이스의 창업자 겸 CEO 폴 클라인 4세는 엔지니어링 팀 내 AI 도입 속도에 대해 언급하며 밤새 가장 인상적인 발언을 남겼다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "“내 데이터인데 왜 돈 내야 보나” 링크드인, EU서 법적 도전 직면",
+      "title": "앤트로픽 클로드 확장, 악성 확장 프로그램의 권한 상승 취약점 노출",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.10",
-      "link": "https://www.itworld.co.kr/article/4168644/%eb%82%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%b8%eb%8d%b0-%ec%99%9c-%eb%8f%88-%eb%82%b4%ec%95%bc-%eb%b3%b4%eb%82%98-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-eu%ec%84%9c-%eb%b2%95%ec%a0%81.html",
-      "summary": "EU에서 링크드인의 ‘누가 내 프로필을 봤는지’ 기능이 GDPR 위반이라는 법적 공방에 휘말렸다. Credit: Greg Bulla | Unsplash 프로필을 방문한 사람 목록을 보여주는 링크드인의 기능이 EU 사용자 모두에게 무료로 제공되어야 하며, 그렇지 않을 경우 EU의 일반개인정보보호법(GDPR)을 위반하는 것이라는 법적 주장이 제기됐다."
+      "date": "2026.05.11",
+      "link": "https://www.itworld.co.kr/article/4169154/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%99%95%ec%9e%a5-%ec%95%85%ec%84%b1-%ed%99%95%ec%9e%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8%ec%9d%98-%ea%b6%8c%ed%95%9c-%ec%83%81.html",
+      "summary": "브라우저 통신 레이어의 보안 검증 부족으로 권한 없는 악의적 확장이 클로드의 AI 역량을 조종할 수 있는 구조적 결함이 적발됐다. Credit: Google / Gerd Altmann 앤트로픽의 클로드 인 크롬 확장 프로그램이 악성 확장 프로그램에 의해 탈취될 수 있다는 보안 경고가 나왔다."
     }
   ]
 }
