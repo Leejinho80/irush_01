@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-21T03:27:00.332Z",
-  "collectionDate": "2026.05.20",
-  "displayDate": "2026.05.21",
+  "updatedAt": "2026-05-22T03:26:35.037Z",
+  "collectionDate": "2026.05.21",
+  "displayDate": "2026.05.22",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"랜섬웨어 위협, 국민·국가로 번졌다…전주기 대응 필요\"",
+      "title": "세일즈포스 보안 강화에 일부 관리자 접속 차단…\"1인 관리 조직 대응 부담\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.20",
-      "link": "https://zdnet.co.kr/view/?no=20260521114653",
-      "summary": "한국정보보호학회 랜섬웨어대응연구회는 21일 한국과학기술회관 대회의실2에서 '2026 제4회 랜섬웨어대응연구회 워크숍'을 개최했다. 이날 연구회는 최근 랜섬웨어 위협 동향과 실제 피해·수사 사례, 인공지능(AI) 기반 대응 전략, 법적 쟁점 등 인사이트를 공유했다."
+      "date": "2026.05.21",
+      "link": "https://zdnet.co.kr/view/?no=20260522120823",
+      "summary": "세일즈포스가 보안 정책을 강화하는 과정에서 일부 관리자 계정이 잠기거나 조직 접속이 차단되는 사례가 발생하고 있다. 지난해 잇단 보안 사고 이후 세일즈포스가 인증·접속 관리 체계를 강화하고 있지만, 일부 조치가 현장 운영에 부담을 주고 있다는 지적이 나온다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "실험실창업 매출 증가속도, 평균대비 9.3배 빨라",
+      "title": "[AI는 지금] 스페이스X가 찜한 커서, 매출 4.5조 찍었다…머스크 90조 베팅 힘 받나",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.20",
-      "link": "https://zdnet.co.kr/view/?no=20260521112324",
-      "summary": "국내 실험실 창업기업 매출 증가율이 평균 17.6%에 이르는 것으로 조사됐다. 이들의 연간 평균 매출액은 9억원이었다. 일반 기업 대비 매출증가속도는 9.3배에 달했다. 과학기술정보통신부는 공공연구성과 기반 창업 생태계 현황 파악을 위해 2024년 말 기준 실험실창업 실태를 조사한 결과 이 같이 나타났다고 21일 밝혔다."
+      "date": "2026.05.21",
+      "link": "https://zdnet.co.kr/view/?no=20260522115115",
+      "summary": "커서가 스페이스X에 인수될 것으로 예상되는 가운데 기업용 개발 인프라 시장에서 존재감을 키우고 있다. 개발자 생산성 도구로 출발한 AI 코딩 서비스가 기업 소프트웨어 개발 환경으로 빠르게 확산되면서 일론 머스크의 AI 전략도 모델·컴퓨팅·개발 도구를 묶는 방향으로 확장되고 있다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "AI 기업에 공공시장 열린다…정부, 제품 확인제로 도입 속도전",
+      "title": "요기요 \"특정 메뉴 주문시 포인트 더 드려요\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.20",
-      "link": "https://zdnet.co.kr/view/?no=20260521113049",
-      "summary": "정부가 공공부문 인공지능(AI) 도입을 늘리기 위해 'AI 제품·서비스 확인 제도'를 새롭게 만든다. AI 기술이 적용된 제품과 서비스를 확인해 공공조달 시장에서 우선 고려할 수 있도록 하고, AI연구소 설립·운영 요건과 취약계층 대상 비용 지원 범위도 구체화한다."
+      "date": "2026.05.21",
+      "link": "https://zdnet.co.kr/view/?no=20260522114824",
+      "summary": "배달앱 요기요가 주문 메뉴에 따라 추가 포인트 혜택을 제공하는 ‘메뉴 적립’ 서비스를 새롭게 선보인다고 22일 밝혔다. ‘메뉴 적립’은 고객이 특정 메뉴를 주문하면 추가 포인트가 적립되는 서비스로, 기본 주문 적립에 더해 메뉴별 추가 적립을 제공하는 방식으로 운영된다. 메뉴별 적립률은 프로모션 및 대상 메뉴에 따라 다르게 적용된다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "테슬라, 스페이스X에 전기차·배터리 1.3조원 어치 팔았다",
+      "title": "티빙, 5월 4주차 KBO ‘팬덤중계’ 라인업 공개",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.20",
-      "link": "https://zdnet.co.kr/view/?no=20260521115345",
-      "summary": "테슬라가 일론 머스크 최고경영자(CEO)의 다른 회사인 스페이스X에 총 1조 3000억원 가량의 매출을 올린 것으로 나타났다. 20일(현지시간) 블룸버그는 스페이스X가 미국 증권거래위원회(SEC)에 제출한 투자설명서(S-1)을 분석해 이같이 보도했다."
+      "date": "2026.05.21",
+      "link": "https://zdnet.co.kr/view/?no=20260522094547",
+      "summary": "티빙은 5월 4주차 KBO 리그‘팬덤중계’ 라인업을 공개했다고 22일 밝혔다. 오는 23일 오후 5시엔 두산베어스와 한화이글스의 대결이 펼쳐진다. 두산 진영엔 코미디언 최성민과 두산 전문 크리에이터 '베어물어쓰'가 호스트로 나선다. 한화는 크리에이터 매직박과 모예진 아나운서가 호흡한다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "과학기술시설관리단장에 ETRI 출신 박종팔 박사",
+      "title": "버너 보겔스 아마존 CTO \"AI 시대 개발자, '르네상스 인재'로 거듭나야\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.20",
-      "link": "https://zdnet.co.kr/view/?no=20260521115216",
-      "summary": "박종팔 전 K-R벤처스 대표가 신임 과학기술시설관리단장에 선임됐다. 임기는 오는 6월 1일부터 2029년 5월 31일까지 3년이다. 박 신임 단장은 한국전자통신연구원(ETRI)에서 34년간 재직하며 홍보부장, 운영보안부장, 건설추진센터장 등을 역임했다. 재직 기간 연구기관 운영과 시설관리, 조직운영, 대외협력 분야에서 전문성을 쌓았다."
+      "date": "2026.05.21",
+      "link": "https://zdnet.co.kr/view/?no=20260522112727",
+      "summary": "\"지금은 빌더(builder)에게 가장 위대한 시대입니다. 인공지능(AI)과 우주, 로보틱스에 이르기까지 여러 황금기가 동시에 펼쳐지고 있습니다. 이 시대에 걸맞은 '르네상스 인재'가 되는 것이 무엇보다 중요합니다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "구글, ‘특이점의 초입’에 서다…I/O에서 자율 에이전트 팩토리 구상 펼쳐",
+      "title": "‘감’만으로는 안 되는 바이브 코딩, 사양 주도 개발 4대 툴로 극복하기",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.20",
-      "link": "https://www.itworld.co.kr/article/4175426/%ea%b5%ac%ea%b8%80-%ed%8a%b9%ec%9d%b4%ec%a0%90%ec%9d%98-%ec%b4%88%ec%9e%85%ec%97%90-%ec%84%9c%eb%8b%a4-i-o%ec%97%90%ec%84%9c-%ec%9e%90%ec%9c%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%8c%a9.html",
-      "summary": "구글이 딥마인드 주도 아래 자율 추론·실행 에이전트를 핵심 축으로 한 기업용 AI 로드맵을 공개하며, CIO들에게 플랫폼 차원의 전략 전환을 촉구했다. Credit: Rob Schultz / Shutterstock 구글이 자율 시스템과 인공일반지능(AGI)을 중심으로 기업용 AI 로드맵을 재편하고 있다."
+      "date": "2026.05.21",
+      "link": "https://www.itworld.co.kr/article/4175438/%ea%b0%90%eb%a7%8c%ec%9c%bc%eb%a1%9c%eb%8a%94-%ec%95%88-%eb%90%98%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9-%ec%82%ac%ec%96%91-%ec%a3%bc%eb%8f%84-%ea%b0%9c%eb%b0%9c-4%eb%8c%80.html",
+      "summary": "키로(Kiro), 스펙 킷(Spec Kit), 테슬(Tessl), 젠플로우(Zenflow)는 모두 AI 에이전트를 활용한 개발에 있어 바이브 코딩보다 더 체계적이고 구조적인 접근 방식을 제공한다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "회계법인 AI 투자 가속화, 신입사원 채용은 급감",
+      "title": "구글, ‘특이점의 초입’에 서다…I/O에서 자율 에이전트 팩토리 구상 펼쳐",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.20",
-      "link": "https://www.itworld.co.kr/article/4173427/%ed%9a%8c%ea%b3%84%eb%b2%95%ec%9d%b8-ai-%ed%88%ac%ec%9e%90-%ea%b0%80%ec%86%8d%ed%99%94-%ec%8b%a0%ec%9e%85%ec%82%ac%ec%9b%90-%ec%b1%84%ec%9a%a9%ec%9d%80-%ea%b8%89%ea%b0%90.html",
-      "summary": "글로벌 회계법인이 수십억 달러를 AI 개발에 투자하면서 피라미드 구조의 직장 모델을 재편하고 있다. Credit: Shutterstock 딜로이트, EY, KPMG, PwC 등 글로벌 회계 컨설팅 법인이 2025년 전통적인 감사직보다 AI 관련 직무를 더 많이 모집했다."
+      "date": "2026.05.21",
+      "link": "https://www.itworld.co.kr/article/4175426/%ea%b5%ac%ea%b8%80-%ed%8a%b9%ec%9d%b4%ec%a0%90%ec%9d%98-%ec%b4%88%ec%9e%85%ec%97%90-%ec%84%9c%eb%8b%a4-i-o%ec%97%90%ec%84%9c-%ec%9e%90%ec%9c%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%8c%a9.html",
+      "summary": "구글이 딥마인드 주도 아래 자율 추론·실행 에이전트를 핵심 축으로 한 기업용 AI 로드맵을 공개하며, CIO들에게 플랫폼 차원의 전략 전환을 촉구했다. Credit: Rob Schultz / Shutterstock 구글이 자율 시스템과 인공일반지능(AGI)을 중심으로 기업용 AI 로드맵을 재편하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "앤트로픽 스테인리스 인수로 클로드 플랫폼 개발자 도구 확충",
+      "title": "회계법인 AI 투자 가속화, 신입사원 채용은 급감",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.20",
-      "link": "https://www.itworld.co.kr/article/4173407/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ec%9d%b8%ec%88%98%eb%a1%9c-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b0%9c%eb%b0%9c%ec%9e%90.html",
-      "summary": "앤트로픽이 SDK 생성 및 API 연동 도구 개발 업체 스테인리스를 인수함으로써 AI 에이전트 개발 인프라 확보에 나섰다. 모델 성능 경쟁에서 개발자 도구 경쟁으로 이동하는 AI 업계 추세를 반영한다. Credit: T."
+      "date": "2026.05.21",
+      "link": "https://www.itworld.co.kr/article/4173427/%ed%9a%8c%ea%b3%84%eb%b2%95%ec%9d%b8-ai-%ed%88%ac%ec%9e%90-%ea%b0%80%ec%86%8d%ed%99%94-%ec%8b%a0%ec%9e%85%ec%82%ac%ec%9b%90-%ec%b1%84%ec%9a%a9%ec%9d%80-%ea%b8%89%ea%b0%90.html",
+      "summary": "글로벌 회계법인이 수십억 달러를 AI 개발에 투자하면서 피라미드 구조의 직장 모델을 재편하고 있다. Credit: Shutterstock 딜로이트, EY, KPMG, PwC 등 글로벌 회계 컨설팅 법인이 2025년 전통적인 감사직보다 AI 관련 직무를 더 많이 모집했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“36년의 DNA, AI 시대로 업그레이드” 한컴, 사명 변경과 ‘소버린 에이전틱 OS’ 집중 발표",
+      "title": "앤트로픽 스테인리스 인수로 클로드 플랫폼 개발자 도구 확충",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.20",
-      "link": "https://www.itworld.co.kr/article/4172713/36%eb%85%84%ec%9d%98-dna-ai-%ec%8b%9c%eb%8c%80%eb%a1%9c-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ed%95%9c%ec%bb%b4-%ec%82%ac%eb%aa%85-%eb%b3%80%ea%b2%bd%ea%b3%bc-%ec%86%8c%eb%b2%84.html",
-      "summary": "AI 에이전트 시장이 급팽창하면서 단순한 기능 탑재를 넘어 데이터 주권과 보안을 동시에 보장하는 통합 AI 운영체제에 대한 수요가 빠르게 커지고 있다. 한글과컴퓨터가 36년 만에 사명을 '한컴'으로 변경하고 소버린 에이전틱 OS 기업으로의 전환을 공식 선언하면서, 국내 기업이 이 신흥 시장의 선점을 본격 추진하기 시작했다."
+      "date": "2026.05.21",
+      "link": "https://www.itworld.co.kr/article/4173407/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%8a%a4%ed%85%8c%ec%9d%b8%eb%a6%ac%ec%8a%a4-%ec%9d%b8%ec%88%98%eb%a1%9c-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ea%b0%9c%eb%b0%9c%ec%9e%90.html",
+      "summary": "앤트로픽이 SDK 생성 및 API 연동 도구 개발 업체 스테인리스를 인수함으로써 AI 에이전트 개발 인프라 확보에 나섰다. 모델 성능 경쟁에서 개발자 도구 경쟁으로 이동하는 AI 업계 추세를 반영한다. Credit: T."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "오픈텍스트, 버티카 매각으로 AI·클라우드 사업 집중",
+      "title": "“36년의 DNA, AI 시대로 업그레이드” 한컴, 사명 변경과 ‘소버린 에이전틱 OS’ 집중 발표",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.20",
-      "link": "https://www.itworld.co.kr/article/4172709/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b2%84%ed%8b%b0%ec%b9%b4-%eb%a7%a4%ea%b0%81%ec%9c%bc%eb%a1%9c-ai%c2%b7%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%82%ac%ec%97%85-%ec%a7%91%ec%a4%91.html",
-      "summary": "오픈텍스트가 데이터 분석 플랫폼 버티카를 로켓소프트웨어에 1억 5천만 달러에 매각했다. 포트폴리오 재편을 통해 AI 기반 정보관리와 클라우드 사업에 역량을 집중하겠다는 전략적 결정이다."
+      "date": "2026.05.21",
+      "link": "https://www.itworld.co.kr/article/4172713/36%eb%85%84%ec%9d%98-dna-ai-%ec%8b%9c%eb%8c%80%eb%a1%9c-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ed%95%9c%ec%bb%b4-%ec%82%ac%eb%aa%85-%eb%b3%80%ea%b2%bd%ea%b3%bc-%ec%86%8c%eb%b2%84.html",
+      "summary": "AI 에이전트 시장이 급팽창하면서 단순한 기능 탑재를 넘어 데이터 주권과 보안을 동시에 보장하는 통합 AI 운영체제에 대한 수요가 빠르게 커지고 있다. 한글과컴퓨터가 36년 만에 사명을 '한컴'으로 변경하고 소버린 에이전틱 OS 기업으로의 전환을 공식 선언하면서, 국내 기업이 이 신흥 시장의 선점을 본격 추진하기 시작했다."
     }
   ]
 }
