@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-05-26T02:54:18.611Z",
-  "collectionDate": "2026.05.25",
-  "displayDate": "2026.05.26",
+  "updatedAt": "2026-05-27T03:33:39.762Z",
+  "collectionDate": "2026.05.26",
+  "displayDate": "2026.05.27",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "문체부, 안전진단 세칙 정비...공연장 무대 뒤까지 점검한다",
+      "title": "[현장] AI 성패 가르는 데이터…IBM, '잠들지 않는' 스토리지 시대 연다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.25",
-      "link": "https://zdnet.co.kr/view/?no=20260526103835",
-      "summary": "공연장 안전 관리의 초점이 관객이 보는 무대 앞을 넘어 무대 뒤 시설과 기술 영역으로 넓어지고 있다. 대형 공연과 지역 공연 수요가 이어지는 가운데, 무대 장치와 기계·전기 설비 등 공연장 내부 시설 안전을 제도적으로 점검하는 작업도 중요해지는 모습이다."
+      "date": "2026.05.26",
+      "link": "https://zdnet.co.kr/view/?no=20260527121904",
+      "summary": "IBM이 인공지능(AI) 확산에 맞춰 차세대 스토리지 전략 'IBM 퓨전'을 공개하며 데이터 인프라 시장 공략에 박차를 가한다. 단순 저장 장치를 넘어 AI 워크로드와 하이브리드 클라우드 환경에 최적화된 지능형 스토리지를 앞세워 데이터 통합·자동화·보안까지 아우르는 AI 데이터 플랫폼 기업으로 진화한다는 목표다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "원세연 하이브로 대표 \"드래곤빌리지3, 정성스럽게 빚은 드빌다운 신작\"",
+      "title": "자동차연구원, JR에너지솔루션에 ‘차세대 배터리 전극 기술’ 이전",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.25",
-      "link": "https://zdnet.co.kr/view/?no=20260526083211",
-      "summary": "드래곤빌리지 시리즈가 12년 만의 정식 넘버링 타이틀 '드래곤빌리지 3'로 돌아온다. 오랜 기간 다양한 시리즈와 외전작을 거쳐 온 하이브로가 정식 명칭을 부여한 만큼, 이번 신작에 임하는 각오는 남다르다."
+      "date": "2026.05.26",
+      "link": "https://zdnet.co.kr/view/?no=20260527121933",
+      "summary": "한국자동차연구원(원장 진종욱)은 차세대 보급형 배터리 시장에서 주목받는 리튬망간인산철(LMFP) 과 나트륨 전지 전극 기술 2건을 배터리 전극 전문기업 JR에너지솔루션에 이전했다고 27일 밝혔다. 한자연과 JR에너지솔루션은 기술 이전을 계기로 해당 기술 상용화를 추진하고, 차세대 배터리 시장 선점과 산업 활성화를 위한 협력을 본격화할 계획이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "소니 번지, '데스티니2' 개발 종료에 대규모 구조조정 예고",
+      "title": "테이크투, GTA5 비공식 모드 '레이지MP' 서비스 중단 명령",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.25",
-      "link": "https://zdnet.co.kr/view/?no=20260526082849",
-      "summary": "소니 그룹 산하 게임 스튜디오 번지가 '데스티니2'의 개발을 종료하며 대규모 인원 감축을 계획하고 있다고 블룸버그가 22일(현지시간) 보도했다. 보도에 따르면 다음 달 '데스티니2'의 개발이 마무리된 이후 해당 개발팀에 배정된 신규 프로젝트는 없는 것으로 파악됐다."
+      "date": "2026.05.26",
+      "link": "https://zdnet.co.kr/view/?no=20260527095443",
+      "summary": "테이크투 인터랙티브(이하 테이크투)가 '그랜드 테프트 오토5'(dlgk GTA5) 비공식 멀티플레이어 모드 플랫폼 '레이지MP(RAGEMP)'에 권고 및 중단 명령을 전달했다. 이에 레이지MP는 오는 8월 운영을 전면 중단한다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "앤트로픽 공동 창업자 \"AI 기업, 구조적으로 편향…외부 비판자 필요\"",
+      "title": "LA K-박람회, 공연 넘어 수출상담으로…K-컬처 북미 소비시장 시험대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.25",
-      "link": "https://zdnet.co.kr/view/?no=20260526101813",
-      "summary": "크리스 올라 앤트로픽 공동 창업자가 모든 프런티어 인공지능(AI) 기업은 상업적·지정학적 압박에서 자유로울 수 없다며 외부의 독립적 비판자가 반드시 필요하다고 강조했다."
+      "date": "2026.05.26",
+      "link": "https://zdnet.co.kr/view/?no=20260527103728",
+      "summary": "K-컬처 해외 행사가 공연과 체험 중심의 홍보를 넘어 수출상담과 비즈니스 연계로 확장되고 있다. 미국 LA에서 열린 K-박람회가 K팝 공연과 K푸드 체험, 콘텐츠 전시를 넘어 콘텐츠·뷰티 기업 수출상담까지 결합하면서, 북미 시장에서 한류 팬덤을 실제 소비와 거래로 연결할 수 있을지가 시험대에 올랐다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "\"AI, 도입 넘어 성과로\"…‘CIS 2026’ 컨퍼런스 열린다",
+      "title": "[현장] LG CNS \"AI, 이제 실행의 단계\"…AX 페어 2026 개막",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.25",
-      "link": "https://zdnet.co.kr/view/?no=20260526114315",
-      "summary": "AI가 비즈니스 현장에 본격적으로 반영된 지 시간이 경과했지만, 실상은 여전히 기대와는 거리가 먼 것이 현실이다. 많은 글로벌 기업들이 적극적으로 AI를 도입했음에도 불구하고, 전사적 확산과 실질적인 비즈니스 가치 창출 단계까지 진입한 사례는 제한적이다."
+      "date": "2026.05.26",
+      "link": "https://zdnet.co.kr/view/?no=20260527104601",
+      "summary": "LG CNS가 산업 전반으로 확산하고 있는 인공지능(AI) 전환(AX)의 현재와 미래를 한눈에 조망할 수 있는 자리를 마련했다. LG CNS는 27일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 'AX 페어 2026'를 개최하고 기업 AX 실행 전략과 산업별 적용 사례를 공개했다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "8,000명 내보내고 AI에 수백조 쏟는 메타",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "link": "https://www.itworld.co.kr/article/4176863/8000%eb%aa%85-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b3%a0-ai%ec%97%90-%ec%88%98%eb%b0%b1%ec%a1%b0-%ec%8f%9f%eb%8a%94-%eb%a9%94%ed%83%80.html",
       "summary": "메타가 8,000명 규모의 감원을 단행하며, AI 전환에 적응하지 못한 기업과 인력의 미래가 불투명해지고 있다는 경고가 현실로 나타나고 있다. Credit: Ascannio / Shutterstock 메타도 AI 전환 흐름 속 인력 구조조정에 나선 기업 대열에 이름을 올렸다."
     },
@@ -74,7 +74,7 @@
       "title": "격차 좁힌 딥시크, 이번엔 가격으로 시장 흔든다…V4-프로 가격 75% 인하",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "link": "https://www.itworld.co.kr/article/4176858/%ea%b2%a9%ec%b0%a8-%ec%a2%81%ed%9e%8c-%eb%94%a5%ec%8b%9c%ed%81%ac-%ec%9d%b4%eb%b2%88%ec%97%94-%ea%b0%80%ea%b2%a9%ec%9c%bc%eb%a1%9c-%ec%8b%9c%ec%9e%a5-%ed%9d%94%eb%93%a0%eb%8b%a4-v4-%ed%94%84.html",
       "summary": "딥시크가 V4-프로 모델 가격을 대폭 낮추면서 성능과 비용 경쟁력을 동시에 앞세운 중국발 AI 공세가 글로벌 시장 판도를 바꿀지 주목된다. Credit: mundissima | shutterstock.com 중국 AI 신생업체 딥시크가 최근 출시한 플래그십 AI 모델 V4-프로의 가격을 75% 인하한다고 발표했다."
     },
@@ -84,7 +84,7 @@
       "title": "‘감’만으로는 안 되는 바이브 코딩, 사양 주도 개발 4대 툴로 극복하기",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "link": "https://www.itworld.co.kr/article/4175438/%ea%b0%90%eb%a7%8c%ec%9c%bc%eb%a1%9c%eb%8a%94-%ec%95%88-%eb%90%98%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9-%ec%82%ac%ec%96%91-%ec%a3%bc%eb%8f%84-%ea%b0%9c%eb%b0%9c-4%eb%8c%80.html",
       "summary": "키로(Kiro), 스펙 킷(Spec Kit), 테슬(Tessl), 젠플로우(Zenflow)는 모두 AI 에이전트를 활용한 개발에 있어 바이브 코딩보다 더 체계적이고 구조적인 접근 방식을 제공한다."
     },
@@ -94,7 +94,7 @@
       "title": "구글, ‘특이점의 초입’에 서다…I/O에서 자율 에이전트 팩토리 구상 펼쳐",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "link": "https://www.itworld.co.kr/article/4175426/%ea%b5%ac%ea%b8%80-%ed%8a%b9%ec%9d%b4%ec%a0%90%ec%9d%98-%ec%b4%88%ec%9e%85%ec%97%90-%ec%84%9c%eb%8b%a4-i-o%ec%97%90%ec%84%9c-%ec%9e%90%ec%9c%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%8c%a9.html",
       "summary": "구글이 딥마인드 주도 아래 자율 추론·실행 에이전트를 핵심 축으로 한 기업용 AI 로드맵을 공개하며, CIO들에게 플랫폼 차원의 전략 전환을 촉구했다. Credit: Rob Schultz / Shutterstock 구글이 자율 시스템과 인공일반지능(AGI)을 중심으로 기업용 AI 로드맵을 재편하고 있다."
     },
@@ -104,7 +104,7 @@
       "title": "회계법인 AI 투자 가속화, 신입사원 채용은 급감",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.25",
+      "date": "2026.05.26",
       "link": "https://www.itworld.co.kr/article/4173427/%ed%9a%8c%ea%b3%84%eb%b2%95%ec%9d%b8-ai-%ed%88%ac%ec%9e%90-%ea%b0%80%ec%86%8d%ed%99%94-%ec%8b%a0%ec%9e%85%ec%82%ac%ec%9b%90-%ec%b1%84%ec%9a%a9%ec%9d%80-%ea%b8%89%ea%b0%90.html",
       "summary": "글로벌 회계법인이 수십억 달러를 AI 개발에 투자하면서 피라미드 구조의 직장 모델을 재편하고 있다. Credit: Shutterstock 딜로이트, EY, KPMG, PwC 등 글로벌 회계 컨설팅 법인이 2025년 전통적인 감사직보다 AI 관련 직무를 더 많이 모집했다."
     }
