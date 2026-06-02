@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-01T03:47:35.165Z",
-  "collectionDate": "2026.05.31",
-  "displayDate": "2026.06.01",
+  "updatedAt": "2026-06-02T03:41:59.779Z",
+  "collectionDate": "2026.06.01",
+  "displayDate": "2026.06.02",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "인텔 오픈비노, 피지컬 AI로 확장... \"개발 시간·복잡도 개선\"",
+      "title": "삼성D, 컴퓨텍스서 엔비디아와 'GPUxOLED' 체험존 운영",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.31",
-      "link": "https://zdnet.co.kr/view/?no=20260601014937",
-      "summary": "[타이베이(대만)=권봉석 기자] 인텔은 1일(현지시간) AI 처리용 프레임워크 '오픈비노(OpenVINO)'를 휴머노이드와 로봇 등 피지컬 AI를 지원할 수 있도록 확장한다고 밝혔다. 오픈비노는 CPU와 GPU, NPU 등 시스템반도체(SoC) 내 모든 자원을 AI 연산에 활용할 수 있는 오픈소스 기반 프레임워크다."
+      "date": "2026.06.01",
+      "link": "https://zdnet.co.kr/view/?no=20260602095512",
+      "summary": "삼성디스플레이는 2일(현지시간) 대만 타이베이에서 개막한 컴퓨텍스에서 엔비디아와 유기발광다이오드(OLED) 체험존을 운영한다고 밝혔다. 체험존에서 엔비디아 그래픽처리장치(GPU)와 삼성디스플레이 OLED가 제공하는 그래픽을 확인할 수 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "인텔, 추론용 GPU '크레센트 아일랜드' 내년 출시 재확인",
+      "title": "WBD 합병 후폭풍...美CBS 기자 \"편집국장이 시사 프로그램 망가뜨렸다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.31",
-      "link": "https://zdnet.co.kr/view/?no=20260531235938",
-      "summary": "[타이베이(대만)=권봉석 기자] AI 가속용 GPU 시장에서 엔비디아와 AMD 등 경쟁사 대비 열세에 있었던 인텔이 반격을 준비한다. 에이전틱 AI 처리에 필요한 추론 연산의 가격 대비 성능을 높인 새 GPU '크레센트 아일랜드'를 내세웠다. 크레센트 아일랜드는 작년 10월 '2025 OCP 글로벌 서밋' 행사에서 처음 공개됐다."
+      "date": "2026.06.01",
+      "link": "https://zdnet.co.kr/view/?no=20260602120818",
+      "summary": "미국 뉴스 채널 CBS 모회사인 파라마운트스카이댄스가 CNN 모회사 워너브라더스디스커버리(WBD) 인수를 앞둔 가운데, CBS 내부에서 파라마운트가 임명한 편집국 지도부부에 대한 불신이 드러나는 등 언론 독립성에 대한 우려가 증폭되고 있다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "인텔, 데이터센터용 이더넷 플랫폼 'E835' 공개",
+      "title": "전시도 ‘지역 유통’ 시대…미술콘텐츠, 지역 공간 접점 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.31",
-      "link": "https://zdnet.co.kr/view/?no=20260601004122",
-      "summary": "[타이베이(대만)=권봉석 기자] 인텔이 1일(현지시간) AI와 클라우드, 분산 컴퓨팅 환경 확산에 대응하기 위한 200G급 이더넷 플랫폼 '이더넷 E835'를 공개했다. 현재 데이터센터에서 AI 학습과 추론, 클라우드 서비스 등은 단일 서버가 아닌 여러 서버가 동시에 데이터를 주고 받는 형태로 진행된다."
+      "date": "2026.06.01",
+      "link": "https://zdnet.co.kr/view/?no=20260602113058",
+      "summary": "전시산업에도 유통의 중요성이 커지고 있다. 예술경영지원센터의 2026년 지역전시 활성화 사업에서 미술콘텐츠와 지역 전시공간의 매칭 결과가 최근 공개되면서, 기획·제작된 전시 콘텐츠를 지역 공간으로 확산시키는 구조가 다시 주목받고 있다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "과기정통부 홈페이지, AI 친화적으로 바뀐다",
+      "title": "하이브로 신작 '드래곤빌리지3', 출시 초반 순항…양대 마켓 인기 1위 석권",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.31",
-      "link": "https://zdnet.co.kr/view/?no=20260601094938",
-      "summary": "과학기술정보통신부는 정부 정책 정보를 AI가 쉽고 정확하게 파악해 활용할 수 있도록 홈페이지를 AI 친화형으로 개선한다고 1일 밝혔다. 홈페이지 개선 사업 공고는 이날부터 10일까지 진행된다. 홈페이지 개선 사업으로 AI 친화적인 웹 구조, 콘텐츠 구성과 제공 방식 등으로 전환하고 대국민 사용성도 전반적으로 정비할 예정이다."
+      "date": "2026.06.01",
+      "link": "https://zdnet.co.kr/view/?no=20260602115229",
+      "summary": "하이브로(대표 원세연)의 신작 모바일 수집형 RPG '드래곤빌리지3'가 출시 초반 흥행 가도를 달리고 있다. 하이브로는 신작 '드래곤빌리지3'가 구글 플레이스토어와 애플 앱스토어에서 동시에 인기 순위 1위를 달성했다고 2일 밝혔다. 특히 출시 후 첫 주말 동안 애플 앱스토어 매출 순위 5위에 진입하는 등 대세감을 입증하며 초반 흥행몰이에 성공했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "‘N서울타워’ 담은 기념우표 나온다",
+      "title": "LG디스플레이, 차량 SW 표준 'ASPICE' 획득",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.05.31",
-      "link": "https://zdnet.co.kr/view/?no=20260601091428",
-      "summary": "서울지방우정청은 CJ푸드빌과 N서울타워를 담은 나만의 우표와 국제엽서를 판매한다고 1일 밝혔다. 나만의우표 4종은 3000원이며, 국제엽서 7종은 2000원이다. N서울타워는 서울시 용산구 남산 정상에 위치해 360도 조망이 가능한 랜드마크다. 우표엔 N서울타워의 봄과 여름, 가을, 겨울 모습이 담겼다."
+      "date": "2026.06.01",
+      "link": "https://zdnet.co.kr/view/?no=20260602095528",
+      "summary": "LG디스플레이가 인증기관 씨엔비스(C&BIS)에서 차량 소프트웨어 개발표준 인증 '오토모티브 스파이스'(ASPICE) 레벨2(CL2, Capability Level 2)를 받았다고 2일 밝혔다. ASPICE 공식 인증기관은 독일 인탁스(Intacs)이고, 씨엔비스는 국내에 있는 ASPICE 기술지원 기업이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
+      "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.31",
-      "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
-      "summary": "기업이 AI 도입 실적을 측정하려 앞다퉈 도입한 내부 리더보드가 오히려 형식적인 보안 활동에 가까운 역기능을 낳고 있다. Credit: Pixabay 많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다."
+      "date": "2026.06.01",
+      "link": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
+      "summary": "오픈텍스트가 G7 주도의 AI 안전·신뢰 국제 협력 체계에 합류했다. Credit: Sundry Photography / shutterstock 글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "빅테크, AI 핑계로 직원 내보내기 바쁜데…ROI는 언제쯤",
+      "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.31",
-      "link": "https://www.itworld.co.kr/article/4177968/%eb%b9%85%ed%85%8c%ed%81%ac-ai-%ed%95%91%ea%b3%84%eb%a1%9c-%ec%a7%81%ec%9b%90-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%eb%b0%94%ec%81%9c%eb%8d%b0roi%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4.html",
-      "summary": "주요 기술 기업이 앞다퉈 AI 관련 감원을 발표하고 있지만, 딜로이트 조사에 따르면 AI 투자 회수에는 평균 2~4년이 소요되는 것으로 나타났다. Credit: Drazen Zigic / Shutterstock 생성형 AI가 주류로 떠오른 순간부터, 이런 사태가 올 것이라는 건 모두가 알고 있었다."
+      "date": "2026.06.01",
+      "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
+      "summary": "기업이 AI 도입 실적을 측정하려 앞다퉈 도입한 내부 리더보드가 오히려 형식적인 보안 활동에 가까운 역기능을 낳고 있다. Credit: Pixabay 많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "오픈텍스트, UCMDB 기반 IT 운영 혁신 사례 공개",
+      "title": "빅테크, AI 핑계로 직원 내보내기 바쁜데…ROI는 언제쯤",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.31",
-      "link": "https://www.itworld.co.kr/article/4177503/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-it-%ec%9a%b4%ec%98%81-%ed%98%81%ec%8b%a0-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
-      "summary": "수작업 의존도가 높은 IT 운영은 인적 오류와 낭비된 비용을 초래한다. 오픈텍스트 코리아의 맞춤형 상담 프로그램은 현황 진단부터 자동화 전략, 실제 도입 사례까지 제시한다."
+      "date": "2026.06.01",
+      "link": "https://www.itworld.co.kr/article/4177968/%eb%b9%85%ed%85%8c%ed%81%ac-ai-%ed%95%91%ea%b3%84%eb%a1%9c-%ec%a7%81%ec%9b%90-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%eb%b0%94%ec%81%9c%eb%8d%b0roi%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4.html",
+      "summary": "주요 기술 기업이 앞다퉈 AI 관련 감원을 발표하고 있지만, 딜로이트 조사에 따르면 AI 투자 회수에는 평균 2~4년이 소요되는 것으로 나타났다. Credit: Drazen Zigic / Shutterstock 생성형 AI가 주류로 떠오른 순간부터, 이런 사태가 올 것이라는 건 모두가 알고 있었다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "8,000명 내보내고 AI에 수백조 쏟는 메타",
+      "title": "오픈텍스트, UCMDB 기반 IT 운영 혁신 사례 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.31",
-      "link": "https://www.itworld.co.kr/article/4176863/8000%eb%aa%85-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b3%a0-ai%ec%97%90-%ec%88%98%eb%b0%b1%ec%a1%b0-%ec%8f%9f%eb%8a%94-%eb%a9%94%ed%83%80.html",
-      "summary": "메타가 8,000명 규모의 감원을 단행하며, AI 전환에 적응하지 못한 기업과 인력의 미래가 불투명해지고 있다는 경고가 현실로 나타나고 있다. Credit: Ascannio / Shutterstock 메타도 AI 전환 흐름 속 인력 구조조정에 나선 기업 대열에 이름을 올렸다."
+      "date": "2026.06.01",
+      "link": "https://www.itworld.co.kr/article/4177503/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-it-%ec%9a%b4%ec%98%81-%ed%98%81%ec%8b%a0-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
+      "summary": "수작업 의존도가 높은 IT 운영은 인적 오류와 낭비된 비용을 초래한다. 오픈텍스트 코리아의 맞춤형 상담 프로그램은 현황 진단부터 자동화 전략, 실제 도입 사례까지 제시한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "격차 좁힌 딥시크, 이번엔 가격으로 시장 흔든다…V4-프로 가격 75% 인하",
+      "title": "8,000명 내보내고 AI에 수백조 쏟는 메타",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.05.31",
-      "link": "https://www.itworld.co.kr/article/4176858/%ea%b2%a9%ec%b0%a8-%ec%a2%81%ed%9e%8c-%eb%94%a5%ec%8b%9c%ed%81%ac-%ec%9d%b4%eb%b2%88%ec%97%94-%ea%b0%80%ea%b2%a9%ec%9c%bc%eb%a1%9c-%ec%8b%9c%ec%9e%a5-%ed%9d%94%eb%93%a0%eb%8b%a4-v4-%ed%94%84.html",
-      "summary": "딥시크가 V4-프로 모델 가격을 대폭 낮추면서 성능과 비용 경쟁력을 동시에 앞세운 중국발 AI 공세가 글로벌 시장 판도를 바꿀지 주목된다. Credit: mundissima | shutterstock.com 중국 AI 신생업체 딥시크가 최근 출시한 플래그십 AI 모델 V4-프로의 가격을 75% 인하한다고 발표했다."
+      "date": "2026.06.01",
+      "link": "https://www.itworld.co.kr/article/4176863/8000%eb%aa%85-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b3%a0-ai%ec%97%90-%ec%88%98%eb%b0%b1%ec%a1%b0-%ec%8f%9f%eb%8a%94-%eb%a9%94%ed%83%80.html",
+      "summary": "메타가 8,000명 규모의 감원을 단행하며, AI 전환에 적응하지 못한 기업과 인력의 미래가 불투명해지고 있다는 경고가 현실로 나타나고 있다. Credit: Ascannio / Shutterstock 메타도 AI 전환 흐름 속 인력 구조조정에 나선 기업 대열에 이름을 올렸다."
     }
   ]
 }
