@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-03T03:51:18.798Z",
-  "collectionDate": "2026.06.02",
-  "displayDate": "2026.06.03",
+  "updatedAt": "2026-06-04T03:44:43.028Z",
+  "collectionDate": "2026.06.03",
+  "displayDate": "2026.06.04",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "'유증 추진' LB세미콘, \"내년까지 R&D 인력 2배로...반도체 후공정 확대\"",
+      "title": "문체부·외교부, 월드컵 계기 멕시코서 한국문화 행사 연다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.02",
-      "link": "https://zdnet.co.kr/view/?no=20260603121017",
-      "summary": "유상증자를 추진 중인 LB세미콘이 재배선(RDL) 인터포저, 2.5D 패키징 기술 등 반도체 후공정 연구개발(R&D) 인력을 2027년까지 지금의 2배 이상으로 늘리겠다고 밝혔다. 올해 1분기 18명까지 줄어든 R&D 인력을 2027년 38명까지 늘리면, 42명이었던 2023년 수준까지 회복할 수 있다."
+      "date": "2026.06.03",
+      "link": "https://zdnet.co.kr/view/?no=20260604123951",
+      "summary": "문화체육관광부(문체부)는 외교부와 2026 북중미 월드컵을 계기로 멕시코에서 한국문화 행사를 연다. 두 부처는 주멕시코 대한민국대사관, 주멕시코한국문화원을 통해 6월 한 달간 멕시코 현지에서 미디어파사드, 현대미술 전시, 전통연희, K팝 커버댄스 등 한국의 전통과 현대문화를 아우르는 행사를 개최한다고 4일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "티빙 ,개인정보 유출...비밀번호 변경 권고",
+      "title": "금보원, 미토스·STO 법제화 등 금융권 이슈 심층 분석",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.02",
-      "link": "https://zdnet.co.kr/view/?no=20260603121100",
-      "summary": "OTT 티빙이 개인정보 유출을 확인하고 정부에 관련 사실을 신고했다. 티빙은 3일 개인정보 유출 사실을 이용자에 공지했다. 유출 가능성이 꼽히는 정보는 아이디, 이름, 생년월일, 성별, 전화번호 이메일 등이다. 주민등록번허와 결제 관련 정보는 별도로 보유하지 않아 유출 대상이 아니라고 회사 측은 설명했다."
+      "date": "2026.06.03",
+      "link": "https://zdnet.co.kr/view/?no=20260604122911",
+      "summary": "금융보안원이 '금융보안 수준진단'을 추진 중인 금융회사가 고려해야 할 사항 등 관련 인사이트를 제공하는 정기간행물을 발간했다. 금융보안원은 4일 인공지능(AI), 토큰증권(STO), 금융보안 수준진단에 관한 이슈 및 시사점을 담은 '디지털 파이낸스 인사이트'를 발간했다고 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "국내 부가통신 서비스 연매출 500조원 돌파",
+      "title": "마음AI, 'IMTWS 2026'서 차세대 기뢰탐지 AI 발표 시선",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.02",
-      "link": "https://zdnet.co.kr/view/?no=20260603120318",
-      "summary": "지난 2024년 국내 부가통신 서비스 매출이 500조원 규모를 넘어선 것으로 추정됐다. 3일 과학기술정보통신부가 박표한 2025년 부가통신사업 실태조사 결과에 따르면 2024년 기준 부가통신 서비스 매출은 502조 9000억원으로 추정되며 이 가운데 디지털 플랫폼 서비스 매출은 전체 32.1% 규모인 161조 5000억원으로 추산됐다."
+      "date": "2026.06.03",
+      "link": "https://zdnet.co.kr/view/?no=20260604121239",
+      "summary": "마음AI(MAUM.AI) 김문환 CTO(부사장)가 미국 샌디에고에서 열린 '제18회 국제기뢰전기술심포지엄(IMTWS 2026, International Mine Warfare Technology Symposium)' 참가해 차세대 인공지능 기반 기뢰 탐지 기술인 Mine-JEPA(Mine Joint Embedding Predictive..."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "S&P, LG전자 신용등급 12년 만에 'BBB+'로 상향",
+      "title": "문체부, 게임물관리위원회 위원 7명 위촉...3년간 게임물 등급분류-사후관리 심의 참여",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.02",
-      "link": "https://zdnet.co.kr/view/?no=20260603112337",
-      "summary": "국제신용평가기관 스탠더드앤드푸어스(S&P)가 LG전자 신용등급을 기존 'BBB(긍정적)'에서 'BBB+(안정적)'로 한 단계 높였다. S&P가 LG전자 신용등급을 올린 것은 지난 2014년 이후 12년 만이다. S&P는 주력 사업의 견조한 성장과 부채 감소, 재무구조 개선 전망을 이번 등급 상향 요인으로 꼽았다."
+      "date": "2026.06.03",
+      "link": "https://zdnet.co.kr/view/?no=20260604121009",
+      "summary": "문화체육관광부(문체부)가 4일 게임물관리위원회(게임위) 위원 7명을 새로 위촉했다. 이번 위촉은 기존 위원 임기 만료 등에 따른 것으로, 신임·연임 위원들은 앞으로 3년간 게임물 등급분류와 사후관리 심의 업무에 참여하게 된다. 게임물관리위원회는 게임 이용자 보호와 등급분류 제도 운영을 맡는 기관이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "\"지배구조 개선 노력 결실\"...고려아연, 핵심지표 준수율 100% 충족",
+      "title": "카스퍼스키 \"랜섬웨어, 줄었지만 더 위험해졌다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.02",
-      "link": "https://zdnet.co.kr/view/?no=20260603114310",
-      "summary": "고려아연이 지난해 80%였던 기업지배구조 핵심지표 지표율을 100%로 끌어올리며 지배구조 개선 노력을 성과로 이어갔다. 특히, 고려아연은 올해 주주권익 보호, 이사회의 독립성 및 투명성 강화 등에 주력했다. 정기주총 소집을 개최일 29일 전에 공고해 주주들이 의안 내용을 충분히 검토할 수 있도록 했으며 개최일도 주주총회 집중일을 피했다."
+      "date": "2026.06.03",
+      "link": "https://zdnet.co.kr/view/?no=20260604120349",
+      "summary": "지난해 랜섬웨어 공격 건수는 2024년 대비 소폭 감소했지만, 공격 방식 자체가 단순 시스템 암호화에서 민감 정보 탈취 및 유출에 집중되면서 위험은 더욱 고조됐다는 분석이 나왔다. 글로벌 보안 기업 카스퍼스키(한국지사장 이효은)는 4일 이같은 내용을 골자로 한 '랜섬웨어 동향 보고서'를 발표했다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.02",
+      "date": "2026.06.03",
       "link": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
       "summary": "오픈텍스트가 G7 주도의 AI 안전·신뢰 국제 협력 체계에 합류했다. Credit: Sundry Photography / shutterstock 글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다."
     },
@@ -74,7 +74,7 @@
       "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.02",
+      "date": "2026.06.03",
       "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
       "summary": "기업이 AI 도입 실적을 측정하려 앞다퉈 도입한 내부 리더보드가 오히려 형식적인 보안 활동에 가까운 역기능을 낳고 있다. Credit: Pixabay 많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다."
     },
@@ -84,7 +84,7 @@
       "title": "빅테크, AI 핑계로 직원 내보내기 바쁜데…ROI는 언제쯤",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.02",
+      "date": "2026.06.03",
       "link": "https://www.itworld.co.kr/article/4177968/%eb%b9%85%ed%85%8c%ed%81%ac-ai-%ed%95%91%ea%b3%84%eb%a1%9c-%ec%a7%81%ec%9b%90-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%eb%b0%94%ec%81%9c%eb%8d%b0roi%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4.html",
       "summary": "주요 기술 기업이 앞다퉈 AI 관련 감원을 발표하고 있지만, 딜로이트 조사에 따르면 AI 투자 회수에는 평균 2~4년이 소요되는 것으로 나타났다. Credit: Drazen Zigic / Shutterstock 생성형 AI가 주류로 떠오른 순간부터, 이런 사태가 올 것이라는 건 모두가 알고 있었다."
     },
@@ -94,7 +94,7 @@
       "title": "오픈텍스트, UCMDB 기반 IT 운영 혁신 사례 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.02",
+      "date": "2026.06.03",
       "link": "https://www.itworld.co.kr/article/4177503/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-it-%ec%9a%b4%ec%98%81-%ed%98%81%ec%8b%a0-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
       "summary": "수작업 의존도가 높은 IT 운영은 인적 오류와 낭비된 비용을 초래한다. 오픈텍스트 코리아의 맞춤형 상담 프로그램은 현황 진단부터 자동화 전략, 실제 도입 사례까지 제시한다."
     },
@@ -104,7 +104,7 @@
       "title": "8,000명 내보내고 AI에 수백조 쏟는 메타",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.02",
+      "date": "2026.06.03",
       "link": "https://www.itworld.co.kr/article/4176863/8000%eb%aa%85-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b3%a0-ai%ec%97%90-%ec%88%98%eb%b0%b1%ec%a1%b0-%ec%8f%9f%eb%8a%94-%eb%a9%94%ed%83%80.html",
       "summary": "메타가 8,000명 규모의 감원을 단행하며, AI 전환에 적응하지 못한 기업과 인력의 미래가 불투명해지고 있다는 경고가 현실로 나타나고 있다. Credit: Ascannio / Shutterstock 메타도 AI 전환 흐름 속 인력 구조조정에 나선 기업 대열에 이름을 올렸다."
     }
