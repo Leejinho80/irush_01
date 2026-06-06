@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-05T03:32:03.313Z",
-  "collectionDate": "2026.06.04",
-  "displayDate": "2026.06.05",
+  "updatedAt": "2026-06-06T02:53:16.866Z",
+  "collectionDate": "2026.06.05",
+  "displayDate": "2026.06.06",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "크래프톤 '서브노티카2', 이용자 피드백 기반 업데이트 로드맵 공개",
+      "title": "[스페이스X 상장 ⑤] 공모 자금, 스타십·스타링크·AI 컴퓨트에 사용",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.04",
-      "link": "https://zdnet.co.kr/view/?no=20260605121816",
-      "summary": "얼리액세스(앞서 해보기)로 출시된 ‘서브노티카2(Subnautica2)’가 추가 업데이트를 통해 완성도를 높인다. 크래프톤(대표 김창한)은 크리에이티브 스튜디오 언노운 월즈(Unknown Worlds)가 개발한 ‘서브노티카2’의 여덟 번째 개발자 브이로그 영상을 공개했다고 5일 밝혔다."
+      "date": "2026.06.05",
+      "link": "https://zdnet.co.kr/view/?no=20260606111434",
+      "summary": "스페이스X(SpaceX)는 IPO로 조달한 자금의 사용처도 신고서에 구체적으로 밝혔다. 회사는 순수취액을 ‘성장 전략’에 투입하겠다며 ① AI 컴퓨트 인프라 확장, ② 발사 인프라와 발사 빈도(launch cadence) 강화, 그리고 일반 기업 운영자금을 핵심 용처로 제시했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "컴투스홀딩스, PC-콘솔 게임 '론 셰프' 크라우드 펀딩 캠페인 돌",
+      "title": "[스페이스X 상장 ④] 머스크, 10배 의결권으로 지배력 유지",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.04",
-      "link": "https://zdnet.co.kr/view/?no=20260605121237",
-      "summary": "하반기 출시 예정인 신작 게임 ‘론 셰프(Lone Chef)’의 크라우드 펀딩 캠페인이 시작됐다. 컴투스홀딩스(대표 정철호)는 PC 및 콘솔 기반 신작 ‘론 셰프’의 크라우드 펀딩 플랫폼 ‘텀블벅’에서 펀딩 캠페인을 진행한다고 5일 밝혔다."
+      "date": "2026.06.05",
+      "link": "https://zdnet.co.kr/view/?no=20260606111347",
+      "summary": "스페이스X(SpaceX)는 상장에 맞춰 주식 구조를 Class A·B·C 체계로 재편한다고 신고했다. 기존 우선주는 34억 4,811만 주의 Class A와 32억 7,445만 주의 Class B로 전환되고, Class C 주식은 4억 9,405만 주의 Class A로 전환된다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "FIU, 가상자산거래소 대주주 요건·STR 보고 완화하기로",
+      "title": "[스페이스X 상장 ③] 초과배정까지 6.39억, 주·순수취 132조원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.04",
-      "link": "https://zdnet.co.kr/view/?no=20260605111927",
-      "summary": "금융당국이 특정금융정보법(특금법) 시행령 개정안 일부 규제를 대폭 완화했다. 1000만원 이상 거래 관련 의심거래보고(STR)를 의무사항에서 자체 관리로 전환하고, 가상자산사업자(VASP) 대주주 일부 요건에 유예기간을 두기로 했다."
+      "date": "2026.06.05",
+      "link": "https://zdnet.co.kr/view/?no=20260606111247",
+      "summary": "스페이스X(SpaceX)의 IPO 공모 규모는 인수단의 초과배정(그린슈) 옵션에 따라 더 커질 수 있다. 신고서에 따르면 기본 공모는 Class A 주식 5억 5,555만 5,555주이지만, 인수단이 옵션을 행사하면 6억 3,888만 8,888주까지 늘어난다. 고정가는 주당 135달러(약 20만 9천 원)로 동일하다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "YMTC, 1분기 낸드 점유율 13%…키오시아·마이크론 턱밑 추격",
+      "title": "[스페이스X 상장 ②] 영국 개미에게도 직접 판다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.04",
-      "link": "https://zdnet.co.kr/view/?no=20260605112928",
-      "summary": "중국 낸드플래시 업체 YMTC(양쯔메모리테크놀로지)의 낸드 시장 점유율이 미국 마이크론을 넘을 수 있다는 전망이 나왔다. 올해 1분기 낸드 시장 점유율은 전년 동기보다 5%포인트 뛰었고, 기업공개(IPO) 후 상위 업체를 추격할 자금을 확보할 수 있다. YMTC의 UFS 3."
+      "date": "2026.06.05",
+      "link": "https://zdnet.co.kr/view/?no=20260606111152",
+      "summary": "스페이스X(SpaceX)가 이번 글로벌 공모에 영국 일반 투자자가 직접 청약할 수 있는 ‘UK 리테일 공모(UK Retail Offer)’ 트랜치를 별도로 마련했다. 영국 투자자를 겨냥한 전용 투자설명서(FWP)가 미국 증권거래위원회(SEC)에 함께 공개되면서 확인됐다. 미국 기업의 IPO가 영국 개인 투자자에게 직접 문을 여는 구조는 흔치 않다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "넥써쓰, 게임사 D2C 웹샵 플랫폼 '크로쓰 게임 허브' 정식 오픈",
+      "title": "[스페이스X 상장 ①] ‘SPCX’로 결정…나스닥·나스닥 텍사스 동시 상장",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.04",
-      "link": "https://zdnet.co.kr/view/?no=20260605114616",
-      "summary": "넥써쓰가 인공지능(AI) 자동 세팅과 노코드 빌더 등을 적용한 크로쓰 페이(CROSS Pay) 결제 기반 웹샵 구축을 지원한다. 넥써쓰(대표 장현국)는 D2C(직접 판매) 웹샵 플랫폼 '크로쓰 게임 허브(CROSS GameHub)'를 오픈했다고 5일 밝혔다."
+      "date": "2026.06.05",
+      "link": "https://zdnet.co.kr/view/?no=20260606111107",
+      "summary": "스페이스X(SpaceX)가 상장을 앞두고 미국 증권거래위원회(SEC)에 기업공개(IPO) 조건 신고서(FWP)를 제출했다. 상장 티커는 ‘SPCX’로 확정됐다. 보통주에 해당하는 Class A 주식을 나스닥(Nasdaq)과 나스닥 텍사스(Nasdaq Texas) 두 거래소에 동시 상장 신청한 점이 가장 눈에 띈다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "마이크로소프트, 오픈클로 기반 자율 AI 에이전트 ‘스카우트’ 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.04",
+      "date": "2026.06.05",
       "link": "https://www.itworld.co.kr/article/4181454/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ea%b8%b0%eb%b0%98-%ec%9e%90%ec%9c%a8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ec%b9%b4.html",
       "summary": "마이크로소프트가 오픈클로 프레임워크 기반의 신형 AI 에이전트 스카우트를 출시해 회의 조율·일정 관리 등 반복 업무의 자동화를 예고했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다."
     },
@@ -74,7 +74,7 @@
       "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.04",
+      "date": "2026.06.05",
       "link": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
       "summary": "오픈텍스트가 G7 주도의 AI 안전·신뢰 국제 협력 체계에 합류했다. Credit: Sundry Photography / shutterstock 글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다."
     },
@@ -84,7 +84,7 @@
       "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.04",
+      "date": "2026.06.05",
       "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
       "summary": "기업이 AI 도입 실적을 측정하려 앞다퉈 도입한 내부 리더보드가 오히려 형식적인 보안 활동에 가까운 역기능을 낳고 있다. Credit: Pixabay 많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다."
     },
@@ -94,7 +94,7 @@
       "title": "빅테크, AI 핑계로 직원 내보내기 바쁜데…ROI는 언제쯤",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.04",
+      "date": "2026.06.05",
       "link": "https://www.itworld.co.kr/article/4177968/%eb%b9%85%ed%85%8c%ed%81%ac-ai-%ed%95%91%ea%b3%84%eb%a1%9c-%ec%a7%81%ec%9b%90-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%eb%b0%94%ec%81%9c%eb%8d%b0roi%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4.html",
       "summary": "주요 기술 기업이 앞다퉈 AI 관련 감원을 발표하고 있지만, 딜로이트 조사에 따르면 AI 투자 회수에는 평균 2~4년이 소요되는 것으로 나타났다. Credit: Drazen Zigic / Shutterstock 생성형 AI가 주류로 떠오른 순간부터, 이런 사태가 올 것이라는 건 모두가 알고 있었다."
     },
@@ -104,7 +104,7 @@
       "title": "오픈텍스트, UCMDB 기반 IT 운영 혁신 사례 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.04",
+      "date": "2026.06.05",
       "link": "https://www.itworld.co.kr/article/4177503/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-it-%ec%9a%b4%ec%98%81-%ed%98%81%ec%8b%a0-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
       "summary": "수작업 의존도가 높은 IT 운영은 인적 오류와 낭비된 비용을 초래한다. 오픈텍스트 코리아의 맞춤형 상담 프로그램은 현황 진단부터 자동화 전략, 실제 도입 사례까지 제시한다."
     }
