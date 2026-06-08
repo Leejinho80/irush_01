@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-07T03:38:26.239Z",
-  "collectionDate": "2026.06.06",
-  "displayDate": "2026.06.07",
+  "updatedAt": "2026-06-08T03:43:27.785Z",
+  "collectionDate": "2026.06.07",
+  "displayDate": "2026.06.08",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"AI야, 침수 위험지역 알려줘\"…행안부, 재난안전 AI 아이디어 찾는다",
+      "title": "李대통령, 투표용지 부족에 \"헌정시스템 문제, 정부 요인 의견 듣겠다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.06",
-      "link": "https://zdnet.co.kr/view/?no=20260607123510",
-      "summary": "정부가 재난안전데이터와 생성형 인공지능(AI)을 결합한 창업 아이디어 발굴에 나선다. AI가 재난 상황을 스스로 분석하고 대응 방안을 제시하는 서비스 개발 수요가 늘어나는 가운데, 국민 아이디어를 활용해 재난안전 분야 AI 활용 모델을 확대한다는 목표다."
+      "date": "2026.06.07",
+      "link": "https://zdnet.co.kr/view/?no=20260608123324",
+      "summary": "이재명 대통령이 지방선거 투표용지 부족과 관련해 “헌정 시스템에 문제가 생겼다. 오후에 정부 주요 요인과 만나 의견을 들어보려고 한다”고 밝혔다. 이 대통령은 8일 청와대에서 열린 취임 1년 기자회견에서 투표용지 사태에 대한 외신의 질의에 “근본적인 고민을 하게 해준 청년들에 감사드린다”며 이같이 말했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "영림원 '217회 CEO포럼' 개최...\"AI로 미래경영 대변화\"",
+      "title": "화해-아비브, 라이브커머스서 수분 케어 라인 할인 판매",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.06",
-      "link": "https://zdnet.co.kr/view/?no=20260607123254",
-      "summary": "권영범 영림원소프트랩(대표 권영범)는 4일 오전 서울 소공동 소재 더 플라자 호텔에서 개최한 '제 217회 영림원 CEO포럼'에서 \"AI가 쓰나미처럼 온 세상을 휩쓸고 있다. 미래 경영도 많이 바뀌어야 한다\"고 밝혔다."
+      "date": "2026.06.07",
+      "link": "https://zdnet.co.kr/view/?no=20260608121707",
+      "summary": "화해글로벌(대표 이웅)이 스킨케어 브랜드 아비브와 8일 오후 8시 라이브커머스 열고 신규 수분 케어 라인을 할인 판매한다. 화해는 2030세대와 높은 공감대를 형성하며 뷰티·라이프스타일 경험을 진정성 있게 전달해온 뷰티 크리에이터 ‘지혜사랑’을 라이브 크리에이터로 선정했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "GS샵, 빌레로이앤보흐 '서울' 조명 판매 방송…홈퍼니싱 수요 공략",
+      "title": "젠슨 황 \"LG·엔비디아 '원 팀'처럼 일해…많은 발표 있을 것\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.06",
-      "link": "https://zdnet.co.kr/view/?no=20260607120114",
-      "summary": "GS샵이 독일 프리미엄 라이프스타일 브랜드 빌레로이앤보흐의 도시 조명 컬렉션 '서울' 시리즈를 선보이며 홈퍼니싱 수요 공략에 나선다. 가구 교체 대신 조명과 소품으로 공간 분위기를 바꾸는 인테리어 트렌드가 확산되는 가운데, GS샵은 TV 라이브 방송 최초로 인테리어 조명 상품을 편성했다."
+      "date": "2026.06.07",
+      "link": "https://zdnet.co.kr/view/?no=20260608114035",
+      "summary": "LG그룹과 엔비디아가 인공지능(AI), 로보틱스 등 첨단 산업에서 협력을 강화한다. 8일 오전 구광모 LG 대표를 만난 젠슨 황 엔비디아 최고경영자(CEO)는 \"LG와 하나의 거대한 팀처럼 일하고 있다\"며 \"가까운 미래에 더 많은 발표를 전해드릴 수 있을 것\"이라고 말했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "LG전자, 美타임스스퀘어·英피카딜리서 '기후변화 대응 촉구' 영상 상영",
+      "title": "이재명 대통령 \"산업·일상에 AI전면화한 첫 번째 나라 만들 것\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.06",
-      "link": "https://zdnet.co.kr/view/?no=20260607113023",
-      "summary": "LG전자가 세계 환경의 날을 맞아 글로벌 명소에서 기후변화 대응을 촉구하는 캠페인을 펼치는 한편, 국내외 사업장 임직원이 참여하는 환경보호 활동에 나섰다. LG전자는 13일(현지시간)까지 미국 뉴욕 타임스스퀘어와 영국 런던 피카딜리광장에 있는 옥외전광판에서 유엔환경계획(UNEP)이 제작한 세계 환경의 날(6월 5일) 영상을 상영한다고 7일 밝혔다."
+      "date": "2026.06.07",
+      "link": "https://zdnet.co.kr/view/?no=20260608114434",
+      "summary": "이재명 대통령이 취임 1주년 기자회견에서 인공지능(AI)을 국정 2년 차 핵심 의제로 제시했다. AI를 개별 산업 육성에 그치지 않고 산업 전반과 국민 일상으로 확산시키는 국가 전략으로 삼겠다는 구상이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "'비'부터 '보넥도'까지 한 무대에…위버스콘 첫날 15팀 무대 펼쳐",
+      "title": "LG, 엔비디아와 'AI 동맹' 판 키운다…계열사 역량 총집결",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.06",
-      "link": "https://zdnet.co.kr/view/?no=20260607113530",
-      "summary": "하이브가 주최하는 '2026 위버스콘 페스티벌'이 6일 서울 올림픽공원에서 첫 일정을 마쳤다. 위버스파크와 위버스콘으로 나뉘어 진행된 이날 행사에서는 총 15개 팀이 무대에 올라 세대와 장르를 아우르는 공연을 선보였으며, 비를 조명한 트리뷰트 스테이지가 축제의 하이라이트를 장식했다."
+      "date": "2026.06.07",
+      "link": "https://zdnet.co.kr/view/?no=20260608120520",
+      "summary": "LG그룹과 엔비디아가 인공지능(AI) 생태계 강화를 위한 협력 범위를 확대한다. 엔비디아와 차세대 로보틱스와 스마트팩토리를 구현하는 것은 물론, 액체 냉각 솔루션과 자율주행 분야에서도 개발 속도를 높인다. 이를 위해 LG는 LG전자·CNS·이노텍·에너지솔루션 등 전사 역량을 총 동원할 예정이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "마이크로소프트, 오픈클로 기반 자율 AI 에이전트 ‘스카우트’ 공개",
+      "title": "미국 5월 기술업계 감원, 2024년 이후 최대…해고 원인 1위는 AI",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.06",
-      "link": "https://www.itworld.co.kr/article/4181454/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ea%b8%b0%eb%b0%98-%ec%9e%90%ec%9c%a8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ec%b9%b4.html",
-      "summary": "마이크로소프트가 오픈클로 프레임워크 기반의 신형 AI 에이전트 스카우트를 출시해 회의 조율·일정 관리 등 반복 업무의 자동화를 예고했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다."
+      "date": "2026.06.07",
+      "link": "https://www.itworld.co.kr/article/4182072/%eb%af%b8%ea%b5%ad-5%ec%9b%94-%ea%b8%b0%ec%88%a0%ec%97%85%ea%b3%84-%ea%b0%90%ec%9b%90-2024%eb%85%84-%ec%9d%b4%ed%9b%84-%ec%b5%9c%eb%8c%80%ed%95%b4%ea%b3%a0-%ec%9b%90%ec%9d%b8-1%ec%9c%84.html",
+      "summary": "AI가 5월 미국 전체 산업 감원의 40%를 차지하며 해고 원인 1위로 부상했지만, 일각에서는 AI가 구조적 인력 감축의 명분으로 활용되고 있다는 지적도 나온다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
+      "title": "앤트로픽 “AI가 AI를 만드는 시대, 지금 속도를 늦춰야 한다”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.06",
-      "link": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
-      "summary": "오픈텍스트가 G7 주도의 AI 안전·신뢰 국제 협력 체계에 합류했다. Credit: Sundry Photography / shutterstock 글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다."
+      "date": "2026.06.07",
+      "link": "https://www.itworld.co.kr/article/4182065/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai%ea%b0%80-ai%eb%a5%bc-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%a7%80%ea%b8%88-%ec%86%8d%eb%8f%84%eb%a5%bc-%eb%8a%a6%ec%b6%b0%ec%95%bc-%ed%95%9c.html",
+      "summary": "앤트로픽이 개발 속도 조절 필요성을 제기하자, 가트너와 포레스터 애널리스트들은 기업 현장에서 거버넌스 공백이 이미 가시화되고 있다고 진단했다. Credit: Thantaree - shutterstock AI 개발 속도가 빨라지고 AI가 스스로를 구축할 수 있다는 가능성이 부상하면서, 기업에서는 다시금 정렬 문제가 화두로 떠오르고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
+      "title": "마이크로소프트, 오픈클로 기반 자율 AI 에이전트 ‘스카우트’ 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.06",
-      "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
-      "summary": "기업이 AI 도입 실적을 측정하려 앞다퉈 도입한 내부 리더보드가 오히려 형식적인 보안 활동에 가까운 역기능을 낳고 있다. Credit: Pixabay 많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다."
+      "date": "2026.06.07",
+      "link": "https://www.itworld.co.kr/article/4181454/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ea%b8%b0%eb%b0%98-%ec%9e%90%ec%9c%a8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ec%b9%b4.html",
+      "summary": "마이크로소프트가 오픈클로 프레임워크 기반의 신형 AI 에이전트 스카우트를 출시해 회의 조율·일정 관리 등 반복 업무의 자동화를 예고했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "빅테크, AI 핑계로 직원 내보내기 바쁜데…ROI는 언제쯤",
+      "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.06",
-      "link": "https://www.itworld.co.kr/article/4177968/%eb%b9%85%ed%85%8c%ed%81%ac-ai-%ed%95%91%ea%b3%84%eb%a1%9c-%ec%a7%81%ec%9b%90-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b8%b0-%eb%b0%94%ec%81%9c%eb%8d%b0roi%eb%8a%94-%ec%96%b8%ec%a0%9c%ec%af%a4.html",
-      "summary": "주요 기술 기업이 앞다퉈 AI 관련 감원을 발표하고 있지만, 딜로이트 조사에 따르면 AI 투자 회수에는 평균 2~4년이 소요되는 것으로 나타났다. Credit: Drazen Zigic / Shutterstock 생성형 AI가 주류로 떠오른 순간부터, 이런 사태가 올 것이라는 건 모두가 알고 있었다."
+      "date": "2026.06.07",
+      "link": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
+      "summary": "오픈텍스트가 G7 주도의 AI 안전·신뢰 국제 협력 체계에 합류했다. Credit: Sundry Photography / shutterstock 글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "오픈텍스트, UCMDB 기반 IT 운영 혁신 사례 공개",
+      "title": "AI 사용량 경쟁 유도하다 비용 폭탄 맞은 기업들…”AI 너무 써도 안 돼”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.06",
-      "link": "https://www.itworld.co.kr/article/4177503/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-it-%ec%9a%b4%ec%98%81-%ed%98%81%ec%8b%a0-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
-      "summary": "수작업 의존도가 높은 IT 운영은 인적 오류와 낭비된 비용을 초래한다. 오픈텍스트 코리아의 맞춤형 상담 프로그램은 현황 진단부터 자동화 전략, 실제 도입 사례까지 제시한다."
+      "date": "2026.06.07",
+      "link": "https://www.itworld.co.kr/article/4179053/ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b2%bd%ec%9f%81-%ec%9c%a0%eb%8f%84%ed%95%98%eb%8b%a4-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%9e%ec%9d%80-%ea%b8%b0%ec%97%85%eb%93%a4-ai-%eb%84%88%eb%ac%b4.html",
+      "summary": "기업이 AI 도입 실적을 측정하려 앞다퉈 도입한 내부 리더보드가 오히려 형식적인 보안 활동에 가까운 역기능을 낳고 있다. Credit: Pixabay 많은 기업이 직원을 대상으로 AI 도입을 독려하고 있으며, 누가 AI 토큰을 가장 많이 사용했는지를 보여주는 내부 리더보드도 속속 등장하고 있다."
     }
   ]
 }
