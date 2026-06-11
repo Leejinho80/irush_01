@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-10T03:29:51.325Z",
-  "collectionDate": "2026.06.09",
-  "displayDate": "2026.06.10",
+  "updatedAt": "2026-06-11T03:41:42.542Z",
+  "collectionDate": "2026.06.10",
+  "displayDate": "2026.06.11",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "동서발전, 발전소 찾아오는 구매상담회로 중소기업 판로지원 확대",
+      "title": "샘 올트먼, 15일 삼성전자 방문…'AI 업무혁신' 논의",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.09",
-      "link": "https://zdnet.co.kr/view/?no=20260610120126",
-      "summary": "한국동서발전(대표 권명호)는 중소기업 우수제품 홍보와 판로개척지원을 위한 ‘2026년 상반기 맞춤형 구매상담회(스페셜 오더)’에서 44억 3000만원 규모 구매상담 성과를 창출했다고 10일 밝혔다."
+      "date": "2026.06.10",
+      "link": "https://zdnet.co.kr/view/?no=20260611114306",
+      "summary": "샘 올트먼 오픈AI 최고경영자(CEO)가 15일 한국을 방문해 삼성전자 임직원들과 만난다. 11일 업계에 따르면 올트먼 CEO는 15일 경기도 수원 삼성전자 디지털시티를 찾아 완제품(DX) 부문 임직원을 대상으로 'DX 인사이트 토크(DX Insight Talk)'를 진행한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "소방대원 응급 통화 우선 처리...망중립성 예외 적용",
+      "title": "[AI는 지금] 샘 알트먼, 8개월 만에 재방한…'AI 동맹 확장'",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.09",
-      "link": "https://zdnet.co.kr/view/?no=20260610114215",
-      "summary": "화재를 비롯한 복합 재난 상황에서 소방대원의 긴급구조와 응급처치를 위한 전화통화는 망중립성 가이드라인 예외 적용을 받게 된다. 통신 네트워크 자원을 소방대원에 우선 할당하는 방식이다. 과학기술정보통신부는 LG유플러스와 소방청이 제안한 소방관 긴급구조 통신 우선전송 서비스를 10일 개시한다고 밝혔다."
+      "date": "2026.06.10",
+      "link": "https://zdnet.co.kr/view/?no=20260611113751",
+      "summary": "샘 알트먼 오픈AI 최고경영자(CEO)가 8개월 만에 다시 한국을 찾는다. 최근 경쟁사인 앤트로픽이 한국 지사 운영을 공식화한 가운데 카카오와 삼성전자, 네이버 등 국내 주요 기업 경영진을 만나며 협력 관계를 한층 구체화하기 위한 행보로 읽힌다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "[동정]구혁채 1차관, IBS 연구현장 시찰 및 간담회 주재",
+      "title": "[부음] 한종희 KG모빌리티 커뮤니케이션실 상무 장모상",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.09",
-      "link": "https://zdnet.co.kr/view/?no=20260610104640",
-      "summary": "구혁채 과학기술정보통신부 1차관은 10일 기초과학연구원을 방문, 연구 현장을 돌아본뒤 연구단장들과 간담회를 개최했다. 이번 방문은 현장 중심 과학기술 정책 실현을 위한 '프로젝트 공감118'의 19번째 행보다. 특히, IBS 장석복 신임 원장 취임에 맞춰 추진됐다. 구 1차관은 이날 리서치솔루션센터에서 초저온전자현미경과 슈퍼컴퓨터(올라프) 등을 돌아봤다."
+      "date": "2026.06.10",
+      "link": "https://zdnet.co.kr/view/?no=20260611113938",
+      "summary": "▲강숙자(향년 85세)씨 별세, 김이규·김혜경·김정희씨 모친상, 한종희(KG모빌리티 커뮤니케이션실장)·이기호씨 장모상 = 일시 6월 10일, 빈소 울산 남구 산업로 517번길 10 울산영락원 201호, 발인 12일 8시, 장지 울산하늘공원→경주공원묘원, 연락처 052-272-1111."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "빛 파장으로 데이터 기억·망각 제어하는 AI반도체 구현 성공",
+      "title": "우간다 방문 3명, 에볼라바이러스 증상 입원·치료…검사에서 모두 ‘음성’",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.09",
-      "link": "https://zdnet.co.kr/view/?no=20260610092409",
-      "summary": "빛 파장(색깔)으로 데이터 기억 시간을 마음대로 제어할 수 있는 AI반도체가 처음 개발됐다. 한국연구재단은 조새벽·양우석 성균관대학교 화학공학과 교수와 조정호 연세대학교 교수 연구팀이 공동으로 빛 파장에 따라 기억 시간을 독립적으로 제어할 수 있는 새로운 광시냅스 플랫폼을 개발했다고 10일 밝혔다."
+      "date": "2026.06.10",
+      "link": "https://zdnet.co.kr/view/?no=20260611113030",
+      "summary": "최근 에볼라바이러스병 발생국인 아프리카 우간다를 방문하고 귀국 후에 증상 발현으로 의사환자(감염 확진되기 전 감병병으로 의심되는 사람)로 신고된 사례가 잇따르고 있어 해당 지역 방문시 주의가 필요하다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "유통·물류 M.AX 생태계 확산의 장 ‘2026 디지털 유통·물류대전’ 개막",
+      "title": "[속보] 개보위 \"쿠팡 고발할 것...조사 어렵게 한 사실 확인\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.09",
-      "link": "https://zdnet.co.kr/view/?no=20260610113913",
-      "summary": "유통·물류산업의 인공지능 전환(AX) 확산과 디지털 혁신을 지원하는 디지털 유통·물류 비즈니스 전시회인 ‘2026년 디지털 유통·믈류대전’이 10일부터 12일까지 서울 삼성동 코엑스에서 막을 올렸다. 올해 전시회에서는 AI 모델·로봇·스마트 물류 등 유통·물류 현장의 생산성 향상과 고객 경험 혁신을 이끌 신기술을 한자리에 확인할 수 있다."
+      "date": "2026.06.10",
+      "link": "https://zdnet.co.kr/view/?no=20260611112451",
+      "summary": "개인정보보호위원회가 지난해 대규모 개인정보 유출 사건을 일으킨 쿠팡에 대해 조사를 어렵게 한 사실이 확인돼 고발한다고 11일 밝혔다. 쿠팡이 이번 개보위의 결정에 불복해 소송을 제기할 경우 적극적으로 대응한다는 입장이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“양자는 멀고 준비는 급하다” 지금 양자 컴퓨팅으로 할 수 있는 대비",
+      "title": "WWDC26이 말하지 않은 것, 아이폰 울트라·애플 TV·애플 워치",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.09",
-      "link": "https://www.itworld.co.kr/article/4182746/%ec%96%91%ec%9e%90%eb%8a%94-%eb%a9%80%ea%b3%a0-%ec%a4%80%eb%b9%84%eb%8a%94-%ea%b8%89%ed%95%98%eb%8b%a4-%ec%a7%80%ea%b8%88-%ec%96%91%ec%9e%90-%ec%bb%b4%ed%93%a8%ed%8c%85%ec%9c%bc%eb%a1%9c-%ed%95%a0.html",
-      "summary": "상용화까지 수십 년이 남았지만 클라우드 기반 양자 서비스와 파일럿 기회가 이미 열려 있어 기업의 선제적 대응이 시급하다. Credit: sakkmesterke/Shutterstock 현재 부상하는 신기술 중 기업에 미칠 영향에 대한 기대와 전망 측면에서 가장 앞선 두 기술은 에이전틱 AI와 양자 컴퓨팅이다."
+      "date": "2026.06.10",
+      "link": "https://www.itworld.co.kr/article/4183843/wwdc26%ec%9d%b4-%eb%a7%90%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%ea%b2%83-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9a%b8%ed%8a%b8%eb%9d%bc%c2%b7%ec%95%a0%ed%94%8c-tv%c2%b7%ec%95%a0%ed%94%8c-%ec%9b%8c%ec%b9%98.html",
+      "summary": "애플이 WWDC26에서 선보이지 않은 OS 27 기능은 올가을 신규 기기 출시와 함께 베일을 벗을 것으로 예상된다. Credit: Apple OS 27이 성능 향상, 디자인 개선, 2024년에 처음 공개된 대규모 시리 업그레이드를 중심으로 구성될 것이라는 사실은 수개월 전부터 알려져 있었다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "S9 칩이 기준, 워치OS 27 지원 모델 절반 이하로 줄어",
+      "title": "“하나의 화면, 모든 인프라 가시성” eG이노베이션스, AI 기반 옵저버빌리티 비전 및 국내 사업 전략 발표",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.09",
-      "link": "https://www.itworld.co.kr/article/4182672/s9-%ec%b9%a9%ec%9d%b4-%ea%b8%b0%ec%a4%80-%ec%9b%8c%ec%b9%98os-27-%ec%a7%80%ec%9b%90-%eb%aa%a8%eb%8d%b8-%ec%a0%88%eb%b0%98-%ec%9d%b4%ed%95%98%eb%a1%9c-%ec%a4%84%ec%96%b4.html",
-      "summary": "애플이 WWDC 2026에서 공개한 워치OS 27이 최신 세대 모델에만 호환되는 것으로 드러나, 구형 기기 사용자의 반발이 예상된다. Credit: Apple 월요일 애플 WWDC 키노트를 지켜본 애플워치 팬이라면 실망감을 느꼈을 것이다."
+      "date": "2026.06.10",
+      "link": "https://www.itworld.co.kr/article/4183266/%ed%95%98%eb%82%98%ec%9d%98-%ed%99%94%eb%a9%b4-%eb%aa%a8%eb%93%a0-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b0%80%ec%8b%9c%ec%84%b1-eg%ec%9d%b4%eb%85%b8%eb%b2%a0%ec%9d%b4%ec%85%98%ec%8a%a4-ai-%ea%b8%b0.html",
+      "summary": "기업이 평균 8~10개 모니터링 도구로 IT 환경을 관리하는 가운데, IT 팀의 41%가 업무 시간의 75%를 문제 파악에만 소비하는 현실에서 eG이노베이션스가 AI 기반 통합 옵저버빌리티 솔루션 비전을 발표했다. Credit: eGInnovations 기업의 IT 환경이 온프레미스, 멀티클라우드, 엣지 인프라로 분산되면서 모니터링 도구도 함께 증가했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "방산·공공 AI 프로젝트 85% 실패하는 이유…오픈텍스트 “신뢰할 수 있는 데이터 먼저”",
+      "title": "“양자는 멀고 준비는 급하다” 지금 양자 컴퓨팅으로 할 수 있는 대비",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.09",
-      "link": "https://www.itworld.co.kr/article/4182599/%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-85-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
-      "summary": "오픈텍스트가 \"전 세계 AI 프로젝트의 85%가 실패하는 근본 원인은 데이터 문제\"라며 \"신뢰할 수 있는 데이터 관리 프레임워크 없이 시작된 AI 투자는 기대 효과를 거두기 어렵다\"고 강조했다."
+      "date": "2026.06.10",
+      "link": "https://www.itworld.co.kr/article/4182746/%ec%96%91%ec%9e%90%eb%8a%94-%eb%a9%80%ea%b3%a0-%ec%a4%80%eb%b9%84%eb%8a%94-%ea%b8%89%ed%95%98%eb%8b%a4-%ec%a7%80%ea%b8%88-%ec%96%91%ec%9e%90-%ec%bb%b4%ed%93%a8%ed%8c%85%ec%9c%bc%eb%a1%9c-%ed%95%a0.html",
+      "summary": "상용화까지 수십 년이 남았지만 클라우드 기반 양자 서비스와 파일럿 기회가 이미 열려 있어 기업의 선제적 대응이 시급하다. Credit: sakkmesterke/Shutterstock 현재 부상하는 신기술 중 기업에 미칠 영향에 대한 기대와 전망 측면에서 가장 앞선 두 기술은 에이전틱 AI와 양자 컴퓨팅이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "미국 5월 기술업계 감원, 2024년 이후 최대…해고 원인 1위는 AI",
+      "title": "S9 칩이 기준, 워치OS 27 지원 모델 절반 이하로 줄어",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.09",
-      "link": "https://www.itworld.co.kr/article/4182072/%eb%af%b8%ea%b5%ad-5%ec%9b%94-%ea%b8%b0%ec%88%a0%ec%97%85%ea%b3%84-%ea%b0%90%ec%9b%90-2024%eb%85%84-%ec%9d%b4%ed%9b%84-%ec%b5%9c%eb%8c%80%ed%95%b4%ea%b3%a0-%ec%9b%90%ec%9d%b8-1%ec%9c%84.html",
-      "summary": "AI가 5월 미국 전체 산업 감원의 40%를 차지하며 해고 원인 1위로 부상했지만, 일각에서는 AI가 구조적 인력 감축의 명분으로 활용되고 있다는 지적도 나온다."
+      "date": "2026.06.10",
+      "link": "https://www.itworld.co.kr/article/4182672/s9-%ec%b9%a9%ec%9d%b4-%ea%b8%b0%ec%a4%80-%ec%9b%8c%ec%b9%98os-27-%ec%a7%80%ec%9b%90-%eb%aa%a8%eb%8d%b8-%ec%a0%88%eb%b0%98-%ec%9d%b4%ed%95%98%eb%a1%9c-%ec%a4%84%ec%96%b4.html",
+      "summary": "애플이 WWDC 2026에서 공개한 워치OS 27이 최신 세대 모델에만 호환되는 것으로 드러나, 구형 기기 사용자의 반발이 예상된다. Credit: Apple 월요일 애플 WWDC 키노트를 지켜본 애플워치 팬이라면 실망감을 느꼈을 것이다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "앤트로픽 “AI가 AI를 만드는 시대, 지금 속도를 늦춰야 한다”",
+      "title": "방산·공공 AI 프로젝트 85% 실패하는 이유…오픈텍스트 “신뢰할 수 있는 데이터 먼저”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.09",
-      "link": "https://www.itworld.co.kr/article/4182065/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai%ea%b0%80-ai%eb%a5%bc-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%a7%80%ea%b8%88-%ec%86%8d%eb%8f%84%eb%a5%bc-%eb%8a%a6%ec%b6%b0%ec%95%bc-%ed%95%9c.html",
-      "summary": "앤트로픽이 개발 속도 조절 필요성을 제기하자, 가트너와 포레스터 애널리스트들은 기업 현장에서 거버넌스 공백이 이미 가시화되고 있다고 진단했다. Credit: Thantaree - shutterstock AI 개발 속도가 빨라지고 AI가 스스로를 구축할 수 있다는 가능성이 부상하면서, 기업에서는 다시금 정렬 문제가 화두로 떠오르고 있다."
+      "date": "2026.06.10",
+      "link": "https://www.itworld.co.kr/article/4182599/%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-85-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
+      "summary": "오픈텍스트가 \"전 세계 AI 프로젝트의 85%가 실패하는 근본 원인은 데이터 문제\"라며 \"신뢰할 수 있는 데이터 관리 프레임워크 없이 시작된 AI 투자는 기대 효과를 거두기 어렵다\"고 강조했다."
     }
   ]
 }
