@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-14T03:45:32.905Z",
-  "collectionDate": "2026.06.13",
-  "displayDate": "2026.06.14",
+  "updatedAt": "2026-06-15T04:00:40.057Z",
+  "collectionDate": "2026.06.14",
+  "displayDate": "2026.06.15",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"AI가 대체할 수 없는 인간 역량은 '융합적 사고, 깊은 읽기'\"",
+      "title": "문체부, 월드 웹툰 어워즈, 본상 후보작 독자 추천 접수",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.13",
-      "link": "https://zdnet.co.kr/view/?no=20260614114539",
-      "summary": "디지털소사이어티 디지털문화위원회는 지난 13일 서울 마포 채그로 북카페에서 ‘AI가 대체할 수 없는 인간 역량’을 주제로 포럼을 열어 인간 고유 역량과 미래 교육 방향성을 모색했다. 이날 포럼은 김건 세종대 물리천문학과 교수와 편집문화실험실 장은수 대표의 발제를 통해 AI시대에 필수적인 인간의 핵심 역량을 진단했다."
+      "date": "2026.06.14",
+      "link": "https://zdnet.co.kr/view/?no=20260615125158",
+      "summary": "문화체육관광부(문체부)가 ‘2026 월드 웹툰 어워즈’ 본상 후보작 추천 접수를 시작한다. 문체부는 한국콘텐츠진흥원과 함께 15일부터 7월 24일까지 전 세계 독자를 대상으로 본상 후보작 추천을 접수하고, 예심과 본심을 거쳐 본상 수상작 10개 작품을 선정한다고 15일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "‘신입사원 강회장’ OST 세번째 음원 14일 발매",
+      "title": "[인사] 이코노믹리뷰",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.13",
-      "link": "https://zdnet.co.kr/view/?no=20260614113645",
-      "summary": "그룹 클로즈유어아이즈가 참여한 드라마 ‘신입사원 강회장’ OST가 14일 발매된다. SLL이 제작한 JTBC 토일드라마 ‘신입사원 강회장’ 세 번째 OST ‘I'm Runnin(아임 러닝)’은 일렉트로닉 베이스 텍스처와 다층적인 신스, 정교한 리듬이 결합된 곡이다. 앞서 공개된 강용호 테마곡의 묵직한 하드록 무드와 확실한 대비를 이루는 황준현의 테마곡이다."
+      "date": "2026.06.14",
+      "link": "https://zdnet.co.kr/view/?no=20260615124957",
+      "summary": "▲편집국 건설전문기자 부국장 권일구..."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "목소리로 마음 전달...LGU+ 심플사서함 사흘 만에 이용 1000건 돌파",
+      "title": "219조원 쏟아붓는 메타 AI…이젠 수익화 시험대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.13",
-      "link": "https://zdnet.co.kr/view/?no=20260614113006",
-      "summary": "LG유플러스가 ‘심플 사서함’ 서비스 개시 3일 만에 이용 건수가 1000 건을 돌파했다고 14일 밝혔다. 심플 사서함은 전화(ARS)를 통해 이용자가 익명으로 직접 응원 메시지를 남기거나 듣는 방식의 서비스로, 빠른 연결 중심의 기존 통신 경험을 넘어 사람과 사람의 마음을 잇는 새로운 경험을 주기 위해 기획됐다."
+      "date": "2026.06.14",
+      "link": "https://zdnet.co.kr/view/?no=20260615082657",
+      "summary": "메타가 자체 인공지능(AI) 모델 개발과 인재 확보, 데이터센터 투자에 속도를 내고 있지만 개발자 생태계 확대와 신규 매출 창출은 아직 초기 단계에 머물러 있다는 평가가 나온다. 14일(현지시간) CNBC에 따르면 메타는 지난해 스케일AI 창업자 알렉산더 왕과 핵심 연구진 영입에 143억 달러(약 21조원)를 투입한 이후 AI 조직을 전면 재편했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "효성, 美 '초고압차단기' 생산 거점 확보…콴타와 협력",
+      "title": "[AI 리더스] 조재우 칵테일아이오 대표 \"AI 시대 핵심은 플랫폼…기업 운영 기반 되겠다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.13",
-      "link": "https://zdnet.co.kr/view/?no=20260614105815",
-      "summary": "효성중공업은 자회사 효성HICO가 북미 에너지인프라 솔루션 선도 기업 콴타 자회사와 GCB 합작법인 ‘효성HICO브레이커’ 설립 계약을 체결했다고 14일 밝혔다. 내달 설립되는 합작법인은 오는 10월부터 미국 펜실베이니아주에 소재한 콴타의 캐논스버그 공장에서 72.5kV부터 800kV까지 초고압차단기 생산에 돌입한다."
+      "date": "2026.06.14",
+      "link": "https://zdnet.co.kr/view/?no=20260612140544",
+      "summary": "\"앞으로 인공지능(AI) 서비스는 평준화되겠지만 이를 기업 환경에서 안정적으로 운영하고 비용 효율적으로 활용할 수 있도록 하는 플랫폼의 중요성은 더욱 커질 것입니다. 칵테일아이오는 AI 네이티브 시대를 뒷받침하는 핵심 플랫폼 기업으로 성장하겠습니다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "‘파판7 레벨레이션’ 디렉터 \"RPG, 스트리밍 시대 위기 맞았다”",
+      "title": "MS, 양자컴퓨터 오류율 0.001% 달성…기존 대비 '800배 개선'",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.13",
-      "link": "https://zdnet.co.kr/view/?no=20260614111927",
-      "summary": "스퀘어에닉스 ‘파이널 판타지7 리벨레이션’ 개발을 이끌고 있는 하마구치 나오키 디렉터가 최근 RPG 장르의 위기와 관련해 스트리밍 문화를 원인으로 지목했다고 미국 게임매체 게임스팟이 12일(현지시간) 보도했다."
+      "date": "2026.06.14",
+      "link": "https://zdnet.co.kr/view/?no=20260615095202",
+      "summary": "마이크로소프트가 양자 오류 정정 기술을 적용해 오류율을 기존 대비 800배 이상 개선하는데 성공했다. 14일 마이크로소프트는 자체 양자 플랫폼과 퀀티뉴엄의 트랩드이온 하드웨어를 결합한 실험 결과를 국제학술지 네이처에 게재했다고 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "WWDC26이 말하지 않은 것, 아이폰 울트라·애플 TV·애플 워치",
+      "title": "구글, 순차 처리 탈피한 확산 기반 AI 모델 디퓨전젬마 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.13",
-      "link": "https://www.itworld.co.kr/article/4183843/wwdc26%ec%9d%b4-%eb%a7%90%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%ea%b2%83-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9a%b8%ed%8a%b8%eb%9d%bc%c2%b7%ec%95%a0%ed%94%8c-tv%c2%b7%ec%95%a0%ed%94%8c-%ec%9b%8c%ec%b9%98.html",
-      "summary": "애플이 WWDC26에서 선보이지 않은 OS 27 기능은 올가을 신규 기기 출시와 함께 베일을 벗을 것으로 예상된다. Credit: Apple OS 27이 성능 향상, 디자인 개선, 2024년에 처음 공개된 대규모 시리 업그레이드를 중심으로 구성될 것이라는 사실은 수개월 전부터 알려져 있었다."
+      "date": "2026.06.14",
+      "link": "https://www.itworld.co.kr/article/4184835/%ea%b5%ac%ea%b8%80-%ec%88%9c%ec%b0%a8-%ec%b2%98%eb%a6%ac-%ed%83%88%ed%94%bc%ed%95%9c-%ed%99%95%ec%82%b0-%ea%b8%b0%eb%b0%98-ai-%eb%aa%a8%eb%8d%b8-%eb%94%94%ed%93%a8%ec%a0%84%ec%a0%ac%eb%a7%88.html",
+      "summary": "구글의 신규 실험 모델 디퓨전젬마가 기존 자기회귀 모델 대비 최대 4배 빠른 추론 속도를 앞세워 로컬 워크플로 효율화에 도전장을 내밀었다. Credit: Google / JR Raphael 극도로 강력한 대규모 언어 모델(LLM)도 워크로드를 키보드 자판을 두드리듯 왼쪽에서 오른쪽으로 한 토큰씩 순차 처리하는 방식에서 벗어나지 못하고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“하나의 화면, 모든 인프라 가시성” eG이노베이션스, AI 기반 옵저버빌리티 비전 및 국내 사업 전략 발표",
+      "title": "파워토이즈 버전 0.100 출시, 20주년 기념 최대 업데이트",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.13",
-      "link": "https://www.itworld.co.kr/article/4183266/%ed%95%98%eb%82%98%ec%9d%98-%ed%99%94%eb%a9%b4-%eb%aa%a8%eb%93%a0-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b0%80%ec%8b%9c%ec%84%b1-eg%ec%9d%b4%eb%85%b8%eb%b2%a0%ec%9d%b4%ec%85%98%ec%8a%a4-ai-%ea%b8%b0.html",
-      "summary": "기업이 평균 8~10개 모니터링 도구로 IT 환경을 관리하는 가운데, IT 팀의 41%가 업무 시간의 75%를 문제 파악에만 소비하는 현실에서 eG이노베이션스가 AI 기반 통합 옵저버빌리티 솔루션 비전을 발표했다. Credit: eGInnovations 기업의 IT 환경이 온프레미스, 멀티클라우드, 엣지 인프라로 분산되면서 모니터링 도구도 함께 증가했다."
+      "date": "2026.06.14",
+      "link": "https://www.itworld.co.kr/article/4184792/%ed%8c%8c%ec%9b%8c%ed%86%a0%ec%9d%b4%ec%a6%88-%eb%b2%84%ec%a0%84-0-100-%ec%b6%9c%ec%8b%9c-20%ec%a3%bc%eb%85%84-%ea%b8%b0%eb%85%90-%ec%b5%9c%eb%8c%80-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8.html",
+      "summary": "마이크로소프트가 파워토이즈 20주년을 기념해 버전 0.100을 선보였다. 새 숏컷 가이드와 커맨드 팔레트 개선, 빠른 기동 속도 등이 핵심 변화다. Credit: Microsoft 파워토이즈 출시 20주년을 기념해 마이크로소프트는 윈도우용 유틸리티 모음인 파워토이즈 버전 0.100을 공개했다. 이번 업데이트에는 새로운 기능이 다수 포함됐다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“양자는 멀고 준비는 급하다” 지금 양자 컴퓨팅으로 할 수 있는 대비",
+      "title": "WWDC26이 말하지 않은 것, 아이폰 울트라·애플 TV·애플 워치",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.13",
-      "link": "https://www.itworld.co.kr/article/4182746/%ec%96%91%ec%9e%90%eb%8a%94-%eb%a9%80%ea%b3%a0-%ec%a4%80%eb%b9%84%eb%8a%94-%ea%b8%89%ed%95%98%eb%8b%a4-%ec%a7%80%ea%b8%88-%ec%96%91%ec%9e%90-%ec%bb%b4%ed%93%a8%ed%8c%85%ec%9c%bc%eb%a1%9c-%ed%95%a0.html",
-      "summary": "상용화까지 수십 년이 남았지만 클라우드 기반 양자 서비스와 파일럿 기회가 이미 열려 있어 기업의 선제적 대응이 시급하다. Credit: sakkmesterke/Shutterstock 현재 부상하는 신기술 중 기업에 미칠 영향에 대한 기대와 전망 측면에서 가장 앞선 두 기술은 에이전틱 AI와 양자 컴퓨팅이다."
+      "date": "2026.06.14",
+      "link": "https://www.itworld.co.kr/article/4183843/wwdc26%ec%9d%b4-%eb%a7%90%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%ea%b2%83-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9a%b8%ed%8a%b8%eb%9d%bc%c2%b7%ec%95%a0%ed%94%8c-tv%c2%b7%ec%95%a0%ed%94%8c-%ec%9b%8c%ec%b9%98.html",
+      "summary": "애플이 WWDC26에서 선보이지 않은 OS 27 기능은 올가을 신규 기기 출시와 함께 베일을 벗을 것으로 예상된다. Credit: Apple OS 27이 성능 향상, 디자인 개선, 2024년에 처음 공개된 대규모 시리 업그레이드를 중심으로 구성될 것이라는 사실은 수개월 전부터 알려져 있었다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "S9 칩이 기준, 워치OS 27 지원 모델 절반 이하로 줄어",
+      "title": "“하나의 화면, 모든 인프라 가시성” eG이노베이션스, AI 기반 옵저버빌리티 비전 및 국내 사업 전략 발표",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.13",
-      "link": "https://www.itworld.co.kr/article/4182672/s9-%ec%b9%a9%ec%9d%b4-%ea%b8%b0%ec%a4%80-%ec%9b%8c%ec%b9%98os-27-%ec%a7%80%ec%9b%90-%eb%aa%a8%eb%8d%b8-%ec%a0%88%eb%b0%98-%ec%9d%b4%ed%95%98%eb%a1%9c-%ec%a4%84%ec%96%b4.html",
-      "summary": "애플이 WWDC 2026에서 공개한 워치OS 27이 최신 세대 모델에만 호환되는 것으로 드러나, 구형 기기 사용자의 반발이 예상된다. Credit: Apple 월요일 애플 WWDC 키노트를 지켜본 애플워치 팬이라면 실망감을 느꼈을 것이다."
+      "date": "2026.06.14",
+      "link": "https://www.itworld.co.kr/article/4183266/%ed%95%98%eb%82%98%ec%9d%98-%ed%99%94%eb%a9%b4-%eb%aa%a8%eb%93%a0-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b0%80%ec%8b%9c%ec%84%b1-eg%ec%9d%b4%eb%85%b8%eb%b2%a0%ec%9d%b4%ec%85%98%ec%8a%a4-ai-%ea%b8%b0.html",
+      "summary": "기업이 평균 8~10개 모니터링 도구로 IT 환경을 관리하는 가운데, IT 팀의 41%가 업무 시간의 75%를 문제 파악에만 소비하는 현실에서 eG이노베이션스가 AI 기반 통합 옵저버빌리티 솔루션 비전을 발표했다. Credit: eGInnovations 기업의 IT 환경이 온프레미스, 멀티클라우드, 엣지 인프라로 분산되면서 모니터링 도구도 함께 증가했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "방산·공공 AI 프로젝트 85% 실패하는 이유…오픈텍스트 “신뢰할 수 있는 데이터 먼저”",
+      "title": "“양자는 멀고 준비는 급하다” 지금 양자 컴퓨팅으로 할 수 있는 대비",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.13",
-      "link": "https://www.itworld.co.kr/article/4182599/%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-85-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
-      "summary": "오픈텍스트가 \"전 세계 AI 프로젝트의 85%가 실패하는 근본 원인은 데이터 문제\"라며 \"신뢰할 수 있는 데이터 관리 프레임워크 없이 시작된 AI 투자는 기대 효과를 거두기 어렵다\"고 강조했다."
+      "date": "2026.06.14",
+      "link": "https://www.itworld.co.kr/article/4182746/%ec%96%91%ec%9e%90%eb%8a%94-%eb%a9%80%ea%b3%a0-%ec%a4%80%eb%b9%84%eb%8a%94-%ea%b8%89%ed%95%98%eb%8b%a4-%ec%a7%80%ea%b8%88-%ec%96%91%ec%9e%90-%ec%bb%b4%ed%93%a8%ed%8c%85%ec%9c%bc%eb%a1%9c-%ed%95%a0.html",
+      "summary": "상용화까지 수십 년이 남았지만 클라우드 기반 양자 서비스와 파일럿 기회가 이미 열려 있어 기업의 선제적 대응이 시급하다. Credit: sakkmesterke/Shutterstock 현재 부상하는 신기술 중 기업에 미칠 영향에 대한 기대와 전망 측면에서 가장 앞선 두 기술은 에이전틱 AI와 양자 컴퓨팅이다."
     }
   ]
 }
