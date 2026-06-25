@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-24T02:57:48.589Z",
-  "collectionDate": "2026.06.23",
-  "displayDate": "2026.06.24",
+  "updatedAt": "2026-06-25T02:56:48.050Z",
+  "collectionDate": "2026.06.24",
+  "displayDate": "2026.06.25",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "비트플래닛, 비트코인 채굴 사업 시작한다",
+      "title": "넥슨, 구작 가고 신작 온다…게임 IP 세대교체 지속",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.23",
-      "link": "https://zdnet.co.kr/view/?no=20260624113537",
-      "summary": "비트플래닛이 비트코인 채굴 사업에 나선다. 비트플래닛은 나스닥 상장사 앤트알파와 전략적 업무협약을 체결했다고 24일 밝혔다. 앤트알파는 비트코인 공급망 및 증거금 대출 서비스를 제공하는 웹3 핀테크 기업이다. 이번 협력으로 비트플래닛은 150억원 규모 비트코인 채굴 설비를 도입해 이번 달부터 채굴 사업에 나선다."
+      "date": "2026.06.24",
+      "link": "https://zdnet.co.kr/view/?no=20260625111030",
+      "summary": "넥슨이 체질 개선과 차세대 성장 동력 확보를 위해 게임 라인업의 세대교체를 지속한다. 최근 이어지는 행보는 단순한 서비스 종료가 아닌, 자체 개발 신작과 핵심 지식재산권(IP) 고도화를 통한 브랜드 진화의 과정으로 풀이된다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "퀄컴, 'AI 이노베이터 프로그램' 선정 15개사 발표",
+      "title": "[영상] \"용수철처럼 거미줄 쏜다\"…발리스타 거미의 놀라운 사냥법",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.23",
-      "link": "https://zdnet.co.kr/view/?no=20260624113452",
-      "summary": "퀄컴이 한국과 싱가포르, 일본 등 아태지역 AI 스타트업 육성 프로그램 '퀄컴 AI 이노베이터 프로그램(QAIPI) 2026 - APAC' 선정 15개 스타트업을 발표했다."
+      "date": "2026.06.24",
+      "link": "https://zdnet.co.kr/view/?no=20260625113857",
+      "summary": "거미줄을 쳐놓고 먹이가 걸려들기를 기다리는 대부분의 거미들과 달리 용수철처럼 튀어 오르는 덫을 만들어 먹이를 사냥하는 독특한 거미가 발견돼 주목 받고 있다. CNN과 사이언스얼랏 등 외신은 23일(현지시간) 호주 퀸즐랜드 북부 열대우림에 서식하는 프로포스티라(Propostira) 속 거미에 대한 연구 결과를 소개했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "1000㎞ 화성계곡서 회오리 30개 포착…무슨 일? [여기는 화성]",
+      "title": "[현장] 이학준 대표 \"플로우, 협업툴 그 이상…AI 워크 에이전트로 진화\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.23",
-      "link": "https://zdnet.co.kr/view/?no=20260624111509",
-      "summary": "유럽우주국(ESA)의 화성 탐사선 ‘마스 익스프레스’가 화성의 마메르스 협곡을 촬영한 새로운 이미지를 공개했다고 우주과학매체 스페이스닷컴이 최근 보도했다. 마메르스 협곡은 1000km에 걸쳐 펼쳐진 거대한 계곡 지대로, 먼지 회오리가 자주 관측되는 지역이다. 이번 촬영에는 협곡 곳곳에서 활동 중인 약 30개의 먼지 회오리가 포착됐다고 ESA는 설명했다."
+      "date": "2026.06.24",
+      "link": "https://zdnet.co.kr/view/?no=20260625114348",
+      "summary": "\"우리 플랫폼 '플로우'는 단순한 업무 도구가 아닙니다. 사람 간 소통 중심이던 협업 공간을 사람과 인공지능(AI) 에이전트가 함께 일하는 실행환경으로 바꾸는 'AI 워크 에이전트 플로우'로 진화했습니다.\" 이학준 마드라스체크 대표는 25일 여의도 페어몬트호텔에서 열린 '플로우 AX페스타 2026' 기조연설에서 플로우 특장점을 이같이 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "여야, 디지털자산기본법 신속 처리 공감…\"정부안 막바지 손질\"",
+      "title": "[AI 리더스] 오혜연 \"글로벌 AI 협력, 한국이 의제 주도권 잡을 때\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.23",
-      "link": "https://zdnet.co.kr/view/?no=20260624111236",
-      "summary": "여야가 하반기 디지털자산기본법 통과에 대한 공감대를 다시 한번 확인했다. 정부안 역시 막바지 보완 작업 단계로, 여당은 원 구성이 이뤄지는대로 금융당국과 입법 논의에 돌입할 계획이다."
+      "date": "2026.06.24",
+      "link": "https://zdnet.co.kr/view/?no=20260625111803",
+      "summary": "\"올해 상반기가 인공지능(AI) 기본법 정비와 국제 표준화로 제도적 기반을 다졌다면, 하반기는 글로벌 AI 특화지구 조성을 본격화하고 다자 협력 무대에서 한국이 주도할 의제를 구체화할 것입니다.\" 오혜연 국가인공지능전략위원회 글로벌협력분과장(카이스트 전산학부 교수)은 지난달 서울 서초구에서 지디넷코리아와 만나 이같이 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "김용범 정책실장 \"호남·충청 반도체 클러스터 조만간 발표...용인 이전 아냐\"",
+      "title": "랩노쉬, 토핑 370% 늘린 '프로틴 쉐이크' 출시…사전예약 완판",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.23",
-      "link": "https://zdnet.co.kr/view/?no=20260624111034",
-      "summary": "정부가 수도권 이외의 지역에 새로운 반도체 생산 기지를 구축하는 '지방 제2반도체 클러스터' 조성안을 조만간 확정해 발표할 전망이다. 김용범 청와대 정책실장은 24일 서울 프레스센터에서 열린 관훈클럽 초청 토론회에 참석해 대기업들의 광주·전남 반도체 클러스터 조성 검토 관련 질의에 “제2의 지방 반도체 클러스터 논의가 마무리 단계에 와 있다."
+      "date": "2026.06.24",
+      "link": "https://zdnet.co.kr/view/?no=20260625112338",
+      "summary": "이그니스의 기능성 단백질 브랜드 랩노쉬가 토핑 함량을 대폭 늘린 신제품 '프로틴 쉐이크'를 출시했다. 기존 베스트셀러 제품을 개선해 식감과 영양을 강화했으며, 출시 전 사전예약 초도 물량이 모두 판매되는 등 소비자 관심을 모았다. 이그니스는 기능성 단백질 간편식 브랜드 랩노쉬가 신제품 '프로틴 쉐이크'를 정식 출시했다고 25일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "JD닷컴, 택배 로봇 전환 준비…70만 기사 재교육 협약 체결",
+      "title": "‘안전 판정’ 받은 AI 에이전트 스킬의 배신…정적 스캔 한계 드러나",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.23",
-      "link": "https://www.itworld.co.kr/article/4188651/jd%eb%8b%b7%ec%bb%b4-%ed%83%9d%eb%b0%b0-%eb%a1%9c%eb%b4%87-%ec%a0%84%ed%99%98-%ec%a4%80%eb%b9%8470%eb%a7%8c-%ea%b8%b0%ec%82%ac-%ec%9e%ac%ea%b5%90%ec%9c%a1-%ed%98%91%ec%95%bd-%ec%b2%b4.html",
-      "summary": "JD닷컴 창업자 리처드 류가 택배 로봇 전환을 기정사실로 못 박으면서도 70만 현장 인력의 고용은 반드시 지킨다고 밝혔다. 자동화와 고용 보호라는 두 약속이 공존하는 가운데, 글로벌 물류 자동화 경쟁도 본격화하고 있다. Credit: Foodora 중국 전자상거래 대기업 JD닷컴(JD.com)이 택배를 로봇이 배송하는 미래를 준비하고 있다."
+      "date": "2026.06.24",
+      "link": "https://www.itworld.co.kr/article/4189141/%ec%95%88%ec%a0%84-%ed%8c%90%ec%a0%95-%eb%b0%9b%ec%9d%80-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ed%82%ac%ec%9d%98-%eb%b0%b0%ec%8b%a0%ec%a0%95%ec%a0%81-%ec%8a%a4.html",
+      "summary": "사이버보안 기업 AIR의 실험 결과, 시스코와 엔비디아 등 주요 보안 스캐너에서 안전한 것으로 판정된 AI 에이전트 스킬이 실제로는 외부 콘텐츠 변경을 통해 악성 행위를 수행할 수 있는 것으로 확인됐다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "‘에이전틱 AI PC’ 열풍, 실체는 재포장된 AI PC",
+      "title": "JD닷컴, 택배 로봇 전환 준비…70만 기사 재교육 협약 체결",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.23",
-      "link": "https://www.itworld.co.kr/article/4188631/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-pc-%ec%97%b4%ed%92%8d-%ec%8b%a4%ec%b2%b4%eb%8a%94-%ec%9e%ac%ed%8f%ac%ec%9e%a5%eb%90%9c-ai-pc.html",
-      "summary": "엔비디아와 마이크로소프트가 '에이전틱 AI PC' 시대를 선언했지만, 업계 애널리스트는 기존 AI PC와 실질적 차이가 없다며 기업의 섣부른 업그레이드를 경계했다. Credit: Shutterstock 엔비디아와 마이크로소프트는 이달 “PC 작동 방식을 재편할” 새로운 범주의 ‘에이전틱 AI PC’를 내세우며 컴퓨터의 재창조를 강조했다."
+      "date": "2026.06.24",
+      "link": "https://www.itworld.co.kr/article/4188651/jd%eb%8b%b7%ec%bb%b4-%ed%83%9d%eb%b0%b0-%eb%a1%9c%eb%b4%87-%ec%a0%84%ed%99%98-%ec%a4%80%eb%b9%8470%eb%a7%8c-%ea%b8%b0%ec%82%ac-%ec%9e%ac%ea%b5%90%ec%9c%a1-%ed%98%91%ec%95%bd-%ec%b2%b4.html",
+      "summary": "JD닷컴 창업자 리처드 류가 택배 로봇 전환을 기정사실로 못 박으면서도 70만 현장 인력의 고용은 반드시 지킨다고 밝혔다. 자동화와 고용 보호라는 두 약속이 공존하는 가운데, 글로벌 물류 자동화 경쟁도 본격화하고 있다. Credit: Foodora 중국 전자상거래 대기업 JD닷컴(JD.com)이 택배를 로봇이 배송하는 미래를 준비하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "‘지식 붕괴’가 온다, AI 남용이 부르는 기업 역량 위기",
+      "title": "‘에이전틱 AI PC’ 열풍, 실체는 재포장된 AI PC",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.23",
-      "link": "https://www.itworld.co.kr/article/4188622/%ec%a7%80%ec%8b%9d-%eb%b6%95%ea%b4%b4%ea%b0%80-%ec%98%a8%eb%8b%a4-ai-%eb%82%a8%ec%9a%a9%ec%9d%b4-%eb%b6%80%eb%a5%b4%eb%8a%94-%ea%b8%b0%ec%97%85-%ec%97%ad%eb%9f%89-%ec%9c%84%ea%b8%b0.html",
-      "summary": "생성형 AI의 무분별한 활용이 기업 내 '생산성 역설'의 재현으로 이어질 수 있다는 전문가 경고가 나오는 가운데, 소규모 언어 모델과 독점 모델을 통한 대안도 제시됐다. Credit: Getty Images Bank 생성형 AI는 잠재력이 크지만 전반적으로 상당한 양의 쓰레기를 양산한다."
+      "date": "2026.06.24",
+      "link": "https://www.itworld.co.kr/article/4188631/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-pc-%ec%97%b4%ed%92%8d-%ec%8b%a4%ec%b2%b4%eb%8a%94-%ec%9e%ac%ed%8f%ac%ec%9e%a5%eb%90%9c-ai-pc.html",
+      "summary": "엔비디아와 마이크로소프트가 '에이전틱 AI PC' 시대를 선언했지만, 업계 애널리스트는 기존 AI PC와 실질적 차이가 없다며 기업의 섣부른 업그레이드를 경계했다. Credit: Shutterstock 엔비디아와 마이크로소프트는 이달 “PC 작동 방식을 재편할” 새로운 범주의 ‘에이전틱 AI PC’를 내세우며 컴퓨터의 재창조를 강조했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“일관된 애플리케이션 보안이 AI 경쟁력” F5, 하이브리드 멀티클라우드 시대 ADSP 비전 공개",
+      "title": "‘지식 붕괴’가 온다, AI 남용이 부르는 기업 역량 위기",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.23",
-      "link": "https://www.itworld.co.kr/article/4188237/%ec%9d%bc%ea%b4%80%eb%90%9c-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%b3%b4%ec%95%88%ec%9d%b4-ai-%ea%b2%bd%ec%9f%81%eb%a0%a5-f5-%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c.html",
-      "summary": "웹 공격과 봇 활동이 지속적으로 증가하는 가운데, 기업들은 전통적 방어 기법의 한계를 직면하고 있다. AI를 활용한 이상 탐지와 자동화된 방어 기제가 차세대 보안 전략의 중심축으로 떠오르면서, 기업 환경에서의 보안 운영 방식이 근본적으로 변화하고 있다."
+      "date": "2026.06.24",
+      "link": "https://www.itworld.co.kr/article/4188622/%ec%a7%80%ec%8b%9d-%eb%b6%95%ea%b4%b4%ea%b0%80-%ec%98%a8%eb%8b%a4-ai-%eb%82%a8%ec%9a%a9%ec%9d%b4-%eb%b6%80%eb%a5%b4%eb%8a%94-%ea%b8%b0%ec%97%85-%ec%97%ad%eb%9f%89-%ec%9c%84%ea%b8%b0.html",
+      "summary": "생성형 AI의 무분별한 활용이 기업 내 '생산성 역설'의 재현으로 이어질 수 있다는 전문가 경고가 나오는 가운데, 소규모 언어 모델과 독점 모델을 통한 대안도 제시됐다. Credit: Getty Images Bank 생성형 AI는 잠재력이 크지만 전반적으로 상당한 양의 쓰레기를 양산한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "다중 모델로 AI 업체 종속 막아라, 전문가의 한목소리",
+      "title": "“일관된 애플리케이션 보안이 AI 경쟁력” F5, 하이브리드 멀티클라우드 시대 ADSP 비전 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.23",
-      "link": "https://www.itworld.co.kr/article/4188199/%eb%8b%a4%ec%a4%91-%eb%aa%a8%eb%8d%b8%eb%a1%9c-ai-%ec%97%85%ec%b2%b4-%ec%a2%85%ec%86%8d-%eb%a7%89%ec%95%84%eb%9d%bc-%ec%a0%84%eb%ac%b8%ea%b0%80%ec%9d%98-%ed%95%9c%eb%aa%a9%ec%86%8c%eb%a6%ac.html",
-      "summary": "가트너를 비롯한 IT 업계 전문가가 공짜 AI 토큰 같은 업체 마케팅에 현혹되지 말고 다중 공급업체·다중 모델 전략을 도입해 업체 종속 위험을 줄여야 한다고 강조했다. Credit: Zubkov Igor | shutterstock."
+      "date": "2026.06.24",
+      "link": "https://www.itworld.co.kr/article/4188237/%ec%9d%bc%ea%b4%80%eb%90%9c-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%b3%b4%ec%95%88%ec%9d%b4-ai-%ea%b2%bd%ec%9f%81%eb%a0%a5-f5-%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c.html",
+      "summary": "웹 공격과 봇 활동이 지속적으로 증가하는 가운데, 기업들은 전통적 방어 기법의 한계를 직면하고 있다. AI를 활용한 이상 탐지와 자동화된 방어 기제가 차세대 보안 전략의 중심축으로 떠오르면서, 기업 환경에서의 보안 운영 방식이 근본적으로 변화하고 있다."
     }
   ]
 }
