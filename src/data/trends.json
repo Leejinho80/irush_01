@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-30T03:25:46.325Z",
-  "collectionDate": "2026.06.29",
-  "displayDate": "2026.06.30",
+  "updatedAt": "2026-07-01T03:34:29.765Z",
+  "collectionDate": "2026.06.30",
+  "displayDate": "2026.07.01",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "더존비즈온, 잔여 지분 현금 매입 마무리…15일 상장폐지",
+      "title": "삼성 파운드리, AI 시대 '넥서스' 선언…\"2나노·HBM4로 생태계 주도\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.29",
-      "link": "https://zdnet.co.kr/view/?no=20260630114044",
-      "summary": "국내 대표 기업용 소프트웨어 기업 더존비즈온이 상장사 지위를 내려놓고 비상장 완전자회사 체제로 전환된다. 중소·중견기업 경영 데이터가 축적되는 업무 인프라 기업이라는 점에서 단순 지배구조 개편을 넘어 데이터 통제와 향후 매각 방향을 둘러싼 논의도 커질 전망이다."
+      "date": "2026.06.30",
+      "link": "https://zdnet.co.kr/view/?no=20260701114115",
+      "summary": "\"인공지능(AI)의 대전환 시대, 삼성 파운드리는 제품과 인프라, 고객과 파트너를 연결하는 '넥서스(Nexus)'로 진화할 것입니다.\" 신종신 삼성전자 디자인플랫폼(DP) 개발실장(부사장)이 1일 서울 강남 서초사옥에서 열린 SAFE(Samsung Advanced Foundry Ecosystem) 포럼 기조연설에서 이처럼 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "과기정통부, 양자내성암호 첫 전문 교육...620명 양성 나서",
+      "title": "크래프톤, 언노운월즈와 갈등 봉합…3400억대 소송 취하",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.29",
-      "link": "https://zdnet.co.kr/view/?no=20260630112530",
-      "summary": "과학기술정보통신부(과기정통부)와 한국인터넷진흥원(원장 이상중, KISA)이 '양자내성암호(PQC) 전문교육’을 7월부터 11월까지 순차적으로 시행한다. 올해 처음하는 사업이다. 최근 양자컴퓨터 기술이 빠르게 발전하면서 기존 암호체계에 대한 보안 위협이 현실화하고 있다. 이에, 안전하게 사용할 수 있는 양자내성암호 전환 필요성이 부각했다."
+      "date": "2026.06.30",
+      "link": "https://zdnet.co.kr/view/?no=20260701120154",
+      "summary": "크래프톤이 자회사 언노운월즈 엔터테인먼트 창업 멤버들과 벌이던 3400억원 규모의 손해배상 소송 갈등을 원만히 마무리하며 리스크를 해소했다. 크래프톤은 언노운월즈 전 주주 대표인 포티스 어드바이저스가 제기했던 계약 이행 및 손해배상 청구 소송을 당사자 간 합의에 따라 원고 측이 취하했다고 1일 공시했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "KBO 올스타전 열리는 날 10개 구단 기념우표 나온다",
+      "title": "전기차 공공 충전 요금, 8월부터 완속 9.1% 인하",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.29",
-      "link": "https://zdnet.co.kr/view/?no=20260630101747",
-      "summary": "KBO 리그 올스타전에 맞춰 10개 구단의 기념우표가 나온다. 우정사업본부는 각 구단의 마스코트가 담긴 KBO 리그 기념우표 10종, 70만 장을 7월10일 발행한다고 밝혔다."
+      "date": "2026.06.30",
+      "link": "https://zdnet.co.kr/view/?no=20260701101553",
+      "summary": "기후에너지환경부는 '전기차 공공충전요금 체계 개편안'을 1일 확정하고 내달 1일부터 시행한다고 밝혔다. 이번 개편으로 공공충전요금 체계는 기존 2단계에서, 완속 구간과 초급속 구간을 포함한 5단계로 세분화됐다. 요금 단가는 충전기 운영에 소요되는 전기요금, 운영비, 법정검사비 등을 반영해 산정됐다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "KIST 망막대체 투명전극 개발…\"10년내 인공눈 나올수도\"",
+      "title": "스타일로프트, 글로벌 호텔 컨설팅사 HVS와 라이선스 계약 체결",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.29",
-      "link": "https://zdnet.co.kr/view/?no=20260629201151",
-      "summary": "사람의 눈은 물체에서 반사된 빛을 망막에서 전기신호로 변환, 뇌가 이를 인식하는 과정을 거쳐 사물을 보기 때문에 망막이 손상되면 사물을 볼 수 없다. 그런데 국내 연구진이 이를 인공적으로 대체할 신기술 개발의 첫발을 내디뎠다."
+      "date": "2026.06.30",
+      "link": "https://zdnet.co.kr/view/?no=20260701114230",
+      "summary": "국내 호텔 전문 컨설팅 및 자산관리 기업 스타일로프트가 세계 최대 호텔 컨설팅 기관인 HVS와 라이선스 계약을 체결하고 국내 시장 선도에 나선다. 스타일로프트는 HVS와 라이선스 계약을 맺고 국내 호텔 기획 및 개발, 자산 거래 영역까지 자문 서비스를 대폭 확대한다고 1일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "주연테크, 포켓몬스터 피카츄 게이밍PC 출시",
+      "title": "마이크론 \"고객사 가격 압박이 메모리 부족 키웠다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.06.29",
-      "link": "https://zdnet.co.kr/view/?no=20260630115134",
-      "summary": "주연테크가 30일 포켓몬스터 '피카츄' 캐릭터를 적용한 한정판 PC 케이스를 판매한다. 포켓몬스터 피카츄 게이밍PC는 케이스 전면과 측면에 투명 소재를 적용하고 대표 포켓몬 피카츄와 노란색 색상을 배치했다."
+      "date": "2026.06.30",
+      "link": "https://zdnet.co.kr/view/?no=20260701111713",
+      "summary": "산제이 메흐로트라 마이크론 테크놀로지 최고경영자(CEO)가 메모리 부족 사태의 책임이 칩 제조업체 뿐 아니라 고객사에도 있다고 주장했다고 CNBC 등 외신이 30일(현지시간) 보도했다. 주요 고객사의 과도한 가격 인하 압박 때문에 투자 여력이 약화됐다는 것이 그 근거다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "애플, AI발 메모리 쇼크에 맥·아이패드 가격 전면 인상",
+      "title": "토큰 소비 최대 98% 절감…마이크로소프트, AI 에이전트 메모리 한계 넘는 ‘메모라’ 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.29",
-      "link": "https://www.itworld.co.kr/article/4190870/%ec%95%a0%ed%94%8c-ai%eb%b0%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%87%bc%ed%81%ac%ec%97%90-%eb%a7%a5%c2%b7%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ea%b0%80%ea%b2%a9-%ec%a0%84%eb%a9%b4-%ec%9d%b8%ec%83%81.html",
-      "summary": "글로벌 AI 인프라 투자가 메모리 수급 불균형을 심화시키면서, 애플이 아이폰을 제외한 전 제품의 가격을 일제히 인상했다. Credit: geralt 애플이 예고했던 제품 가격 인상이 현실화됐다. 아이폰을 제외한 전 제품에 걸쳐 대폭적인 인상이 단행됐으며, 급등하는 RAM 가격이 주된 원인으로 지목된다."
+      "date": "2026.06.30",
+      "link": "https://www.itworld.co.kr/article/4191363/%ed%86%a0%ed%81%b0-%ec%86%8c%eb%b9%84-%ec%b5%9c%eb%8c%80-98-%ec%a0%88%ea%b0%90-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a9%94.html",
+      "summary": "마이크로소프트 리서치가 기억 저장과 검색 방식을 분리한 새로운 메모리 아키텍처를 공개하며 AI 에이전트의 장기 기억 문제 해결에 나섰다. Credit: Fstop Images / Shutterstock AI 에이전트의 장기 기억 한계를 극복하기 위해, 마이크로소프트 리서치가 추상화와 큐 기반 검색을 결합한 메모리 시스템 메모라(Memora)를 개발했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "포드, AI 품질 검사 실패 인정하고 베테랑 엔지니어 350명 재고용",
+      "title": "RAM 위기 속 애플, 가격·납기 이중고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.29",
-      "link": "https://www.itworld.co.kr/article/4190818/%ed%8f%ac%eb%93%9c-ai-%ed%92%88%ec%a7%88-%ea%b2%80%ec%82%ac-%ec%8b%a4%ed%8c%a8-%ec%9d%b8%ec%a0%95%ed%95%98%ea%b3%a0-%eb%b2%a0%ed%85%8c%eb%9e%91-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-350%eb%aa%85.html",
-      "summary": "AI 기반 품질 관리 시스템의 한계를 실감한 포드가 베테랑 엔지니어 350명을 재고용한 사례가, 제조 현장에서 AI의 현실적 역할에 대한 업계 논의를 재점화하고 있다. Credit: Insta_photos / Shutterstock AI와 자동화 품질 관리 시스템의 성과가 기대를 밑돌자, 포트가 베테랑 엔지니어 약 350명을 재고용했다."
+      "date": "2026.06.30",
+      "link": "https://www.itworld.co.kr/article/4191338/ram-%ec%9c%84%ea%b8%b0-%ec%86%8d-%ec%95%a0%ed%94%8c-%ea%b0%80%ea%b2%a9%c2%b7%eb%82%a9%ea%b8%b0-%ec%9d%b4%ec%a4%91%ea%b3%a0.html",
+      "summary": "메모리 공급 부족이 장기화될 것으로 보이는 가운데, 애플은 미 국방부 블랙리스트에 오른 중국 기업으로부터 메모리를 구매하기 위한 로비를 시작했다. Credit: 360b / Shutterstock RAM 위기가 계속되는 상황에서도 업계의 다른 기업이 가격을 올리는 동안 몇 달간 버텨온 애플이 지난주 결국 대폭적인 가격 인상을 단행했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "‘역대 최대 규모’ AI 탈취 주장…앤트로픽, 알리바바 직접 지목",
+      "title": "데이터브릭스, 팬서 인수로 보안팀 경고 조사 완전 자동화…수작업 중심 SOC 시대 종료",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.29",
-      "link": "https://www.itworld.co.kr/article/4190778/%ec%97%ad%eb%8c%80-%ec%b5%9c%eb%8c%80-%ea%b7%9c%eb%aa%a8-ai-%ed%83%88%ec%b7%a8-%ec%a3%bc%ec%9e%a5%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ec%a7%81.html",
-      "summary": "앤트로픽이 알리바바를 자사 역사상 최대 규모의 AI 모델 추출 시도 배후로 지목하며, 미국 의회에 공식 경고장을 보냈다. Credit: T. Schneider / Shutterstock 앤트로픽이 알리바바가 가짜 계정 2만5,000개가량을 이용해 자사 클로드 AI 모델의 기능을 추출하려 했다고 주장했다."
+      "date": "2026.06.30",
+      "link": "https://www.itworld.co.kr/article/4190895/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4-%ed%8c%ac%ec%84%9c-%ec%9d%b8%ec%88%98%eb%a1%9c-%eb%b3%b4%ec%95%88%ed%8c%80-%ea%b2%bd%ea%b3%a0-%ec%a1%b0%ec%82%ac-%ec%99%84%ec%a0%84-%ec%9e%90.html",
+      "summary": "데이터브릭스가 AI 기반 보안운영 기업 팬서를 인수한다. 팬서와 자사 플랫폼 레이크워치를 통합하면 보안팀이 지금까지 수작업으로 처리해온 경고 분류·조사·대응의 전 과정을 에이전트 AI가 자동으로 처리하게 된다. Credit: Databricks 데이터브릭스가 AI 기반 보안운영 기업 팬서를 인수한다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "프라이빗 AI가 더 현명한 선택인 이유",
+      "title": "애플, AI발 메모리 쇼크에 맥·아이패드 가격 전면 인상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.29",
-      "link": "https://www.itworld.co.kr/article/4190256/%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b9%97-ai%ea%b0%80-%eb%8d%94-%ed%98%84%eb%aa%85%ed%95%9c-%ec%84%a0%ed%83%9d%ec%9d%b8-%ec%9d%b4%ec%9c%a0.html",
-      "summary": "토큰 기반 가격 모델의 불안정성과 거버넌스 압박이 맞물리며 프라이빗 AI가 기업의 장기 전략으로 부상하고 있다. Credit: Carsten Medom Madsen / Shutterstock 지난 몇 년간 기업 IT 업계의 기본 전제는 AI가 다른 워크로드와 마찬가지로 퍼블릭 클라우드에 자리를 잡을 것이라는 가정이었다."
+      "date": "2026.06.30",
+      "link": "https://www.itworld.co.kr/article/4190870/%ec%95%a0%ed%94%8c-ai%eb%b0%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%87%bc%ed%81%ac%ec%97%90-%eb%a7%a5%c2%b7%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ea%b0%80%ea%b2%a9-%ec%a0%84%eb%a9%b4-%ec%9d%b8%ec%83%81.html",
+      "summary": "글로벌 AI 인프라 투자가 메모리 수급 불균형을 심화시키면서, 애플이 아이폰을 제외한 전 제품의 가격을 일제히 인상했다. Credit: geralt 애플이 예고했던 제품 가격 인상이 현실화됐다. 아이폰을 제외한 전 제품에 걸쳐 대폭적인 인상이 단행됐으며, 급등하는 RAM 가격이 주된 원인으로 지목된다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "코딩 에이전트 쓸수록 커지는 토큰 비용, 인건비 지출 넘본다",
+      "title": "포드, AI 품질 검사 실패 인정하고 베테랑 엔지니어 350명 재고용",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.06.29",
-      "link": "https://www.itworld.co.kr/article/4190247/%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%93%b8%ec%88%98%eb%a1%9d-%ec%bb%a4%ec%a7%80%eb%8a%94-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-%ec%9d%b8%ea%b1%b4%eb%b9%84-%ec%a7%80%ec%b6%9c.html",
-      "summary": "가트너는 소비 기반 라이선스 확산 속에 토큰 소비 최적화와 거버넌스 내재화가 소프트웨어 엔지니어링의 핵심 과제로 부상했다고 진단했다. Credit: PeopleImages.com - Yuri A / Shutterstock 기업이 개발자의 AI 토큰 사용료로 급여만큼 지불해야 하는 상황이 멀지 않았다."
+      "date": "2026.06.30",
+      "link": "https://www.itworld.co.kr/article/4190818/%ed%8f%ac%eb%93%9c-ai-%ed%92%88%ec%a7%88-%ea%b2%80%ec%82%ac-%ec%8b%a4%ed%8c%a8-%ec%9d%b8%ec%a0%95%ed%95%98%ea%b3%a0-%eb%b2%a0%ed%85%8c%eb%9e%91-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-350%eb%aa%85.html",
+      "summary": "AI 기반 품질 관리 시스템의 한계를 실감한 포드가 베테랑 엔지니어 350명을 재고용한 사례가, 제조 현장에서 AI의 현실적 역할에 대한 업계 논의를 재점화하고 있다. Credit: Insta_photos / Shutterstock AI와 자동화 품질 관리 시스템의 성과가 기대를 밑돌자, 포트가 베테랑 엔지니어 약 350명을 재고용했다."
     }
   ]
 }
