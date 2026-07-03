@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-02T02:58:43.201Z",
-  "collectionDate": "2026.07.01",
-  "displayDate": "2026.07.02",
+  "updatedAt": "2026-07-03T02:42:52.149Z",
+  "collectionDate": "2026.07.02",
+  "displayDate": "2026.07.03",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"클라우드 ERP 잡아라\"…SAP, 아태 수장 교체로 AI 확산 정조준",
+      "title": "법원, 홈플러스 회생절차 폐지…\"회생계획안 수행 가능성 없어\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.01",
-      "link": "https://zdnet.co.kr/view/?no=20260702115142",
-      "summary": "SAP가 아시아태평양(APAC) 지역 수장을 교체하며 클라우드 전사적자원관리(ERP)와 비즈니스 인공지능(AI) 확산에 속도를 낸다. 기존 ERP 고객의 클라우드 전환 수요가 커지는 가운데 이번 인사를 통해 아태 지역을 SAP 성장 전략의 핵심 실행 무대로 삼으려는 분위기다."
+      "date": "2026.07.02",
+      "link": "https://zdnet.co.kr/view/?no=20260703112558",
+      "summary": "서울회생법원이 기업회생 절차를 밟고 있던 홈플러스의 회생절차 폐지를 결정했다. 서울회생법원 회생 4부(정준영 법원장)는 홈플러스 기업회생절차를 폐지한다고 3일 밝혔다. 법원은 홈플러스가 지난달 30일 제출한 수정 회생계획안 변경안의 수행 가능성이 없다고 판단했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "아카마이-엔비디아, AI 팩토리 보안 맞손…\"인프라 단계서 제로 트러스트\"",
+      "title": "LG엔솔-혼다 美 배터리 공장, ESS부터 생산 돌입",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.01",
-      "link": "https://zdnet.co.kr/view/?no=20260702113757",
-      "summary": "아카마이가 엔비디아 손잡고 인공지능(AI) 팩토리 내부 보안 체계를 강화한다. 아카마이는 에비디아와 AI 팩토리 보안 아키텍처 도입을 위한 협력을 확대한다고 2일 밝혔다. 두 기업은 아카마이 가디코어 세그멘테이션을 엔비디아 도카 소프트웨어(SW) 플랫폼과 엔비디아 베라 블루필드-4 STX 스토리지 아키텍처에 통합한다."
+      "date": "2026.07.02",
+      "link": "https://zdnet.co.kr/view/?no=20260703113318",
+      "summary": "LG에너지솔루션과 혼다의 미국 배터리 합작 공장이 에너지저장장치(ESS) 배터리 생산에 돌입했다. LG에너지솔루션과 혼다의 합작법인인 L-H배터리컴퍼니는 2일(현지시간) 미국 오하이오주 파예트 카운티 제퍼슨빌 공장에서 ESS용 배터리셀 생산라인 상업가동(SOP)을 시작했다고 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "AI가 베수비오 화산 두루마리 '2000년 비밀' 풀었다",
+      "title": "엠게임, 창립 이래 첫 분기배당 실시…주당 110원 현금배당",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.01",
-      "link": "https://zdnet.co.kr/view/?no=20260702103138",
-      "summary": "약 2000년 전 베수비오 화산 폭발로 새까맣게 타버린 고대 파피루스 두루마리가 인공지능(AI) 기술 덕분에 마침내 베일을 벗었다. CNN과 라이브사이언스 등 외신은 AI를 활용한 연구 프로젝트를 통해 탄화된 두루마리 내부 내용을 완전히 해독하는 성과를 거뒀다고 최근 보도했다."
+      "date": "2026.07.02",
+      "link": "https://zdnet.co.kr/view/?no=20260703110522",
+      "summary": "엠게임이 창립 이래 최초로 분기 단위 배당을 도입하며 주주환원 정책을 대폭 강화한다. 엠게임(대표 권이형)은 이사회 결의를 통해 주당 110원의 분기 현금배당을 실시한다고 3일 밝혔다. 총배당금은 약 20억원 규모이며 배당기준일은 지난 2일이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "BYD 씨라이언7 안전띠 미착용 경고 부적합…자발적 리콜",
+      "title": "알프레드, '코르티크 서밋 2026'서 에이전틱 AI 시대 비전 제시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.01",
-      "link": "https://zdnet.co.kr/view/?no=20260702113203",
-      "summary": "국토교통부는 비와이디코리아·메르세데스벤츠코리아·스텔란티스코리아·재규어랜드로버코리아·현대자동차·볼보자동차코리아가 제작·수입·판매한 38개 차종 14만 6505대에서 제작 결함이 발견돼 자발적 시정조치(리콜)한다고 2일 밝혔다."
+      "date": "2026.07.02",
+      "link": "https://zdnet.co.kr/view/?no=20260703110923",
+      "summary": "알프레드가 AI 연구자와 개발자들이 모인 자리에서 에이전틱 AI 현황와 비전을 제시한다. 알프레드(대표 옥형석)는 '코르티크 서밋 2026: 에이전틱 AI'에서 '에이전틱 AI가 시장과 조직에 일으키는 변화'를 주제로 발표한다고 3일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "트웰브랩스, 1500억원 시리즈B 유치…'영상 초지능' 고도화",
+      "title": "'국민 SUV' 쏘렌토, 3년 연속 상반기 판매 1위",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.01",
-      "link": "https://zdnet.co.kr/view/?no=20260702113013",
-      "summary": "트웰브랩스가 투자를 투자 유치해 영상 인공지능(AI) 고도화에 나섰다. 트웰브랩스는 1억 달러 규모 시리즈B 투자를 유치했다고 2일 밝혔다. 원화 기준 약 1500억원 규모로 누적 투자 총액은 2억 달러를 넘었다. 이번 투자는 NEA와 네이버벤처스가 공동 주도했다."
+      "date": "2026.07.02",
+      "link": "https://zdnet.co.kr/view/?no=20260703105803",
+      "summary": "기아 쏘렌토가 올해 상반기 국내 자동차 시장에서 가장 많이 팔린 차종에 오르며 3년 연속 상반기 판매 1위를 차지했다. 테슬라 모델Y는 수입차 가운데 처음으로 상반기 전체 차종 판매 2위에 오르며 존재감을 키웠지만, 쏘렌토의 아성을 넘지는 못했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "토큰 소비 최대 98% 절감…마이크로소프트, AI 에이전트 메모리 한계 넘는 ‘메모라’ 공개",
+      "title": "윈도우, 개발자 플랫폼으로 귀환 선언",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.01",
-      "link": "https://www.itworld.co.kr/article/4191363/%ed%86%a0%ed%81%b0-%ec%86%8c%eb%b9%84-%ec%b5%9c%eb%8c%80-98-%ec%a0%88%ea%b0%90-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a9%94.html",
-      "summary": "마이크로소프트 리서치가 기억 저장과 검색 방식을 분리한 새로운 메모리 아키텍처를 공개하며 AI 에이전트의 장기 기억 문제 해결에 나섰다. Credit: Fstop Images / Shutterstock AI 에이전트의 장기 기억 한계를 극복하기 위해, 마이크로소프트 리서치가 추상화와 큐 기반 검색을 결합한 메모리 시스템 메모라(Memora)를 개발했다."
+      "date": "2026.07.02",
+      "link": "https://www.itworld.co.kr/article/4192528/%ec%9c%88%eb%8f%84%ec%9a%b0-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-%ea%b7%80%ed%99%98-%ec%84%a0%ec%96%b8.html",
+      "summary": "마이크로소프트가 러스트 기반 코어유틸과 디벨로퍼 컨피그를 출시하며 윈도우·리눅스 혼용 개발 환경의 단절을 해소하고 있다. Credit: Gorodenkoff / Shutterstock 마이크로소프트의 윈도우 전략이 달라지고 있다. 한동안 웹 기반 사용자 경험을 강조하던 윈도우 인사이더 빌드가 네이티브 코드 중심으로 방향을 선회했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "RAM 위기 속 애플, 가격·납기 이중고",
+      "title": "토큰 소비 최대 98% 절감…마이크로소프트, AI 에이전트 메모리 한계 넘는 ‘메모라’ 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.01",
-      "link": "https://www.itworld.co.kr/article/4191338/ram-%ec%9c%84%ea%b8%b0-%ec%86%8d-%ec%95%a0%ed%94%8c-%ea%b0%80%ea%b2%a9%c2%b7%eb%82%a9%ea%b8%b0-%ec%9d%b4%ec%a4%91%ea%b3%a0.html",
-      "summary": "메모리 공급 부족이 장기화될 것으로 보이는 가운데, 애플은 미 국방부 블랙리스트에 오른 중국 기업으로부터 메모리를 구매하기 위한 로비를 시작했다. Credit: 360b / Shutterstock RAM 위기가 계속되는 상황에서도 업계의 다른 기업이 가격을 올리는 동안 몇 달간 버텨온 애플이 지난주 결국 대폭적인 가격 인상을 단행했다."
+      "date": "2026.07.02",
+      "link": "https://www.itworld.co.kr/article/4191363/%ed%86%a0%ed%81%b0-%ec%86%8c%eb%b9%84-%ec%b5%9c%eb%8c%80-98-%ec%a0%88%ea%b0%90-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a9%94.html",
+      "summary": "마이크로소프트 리서치가 기억 저장과 검색 방식을 분리한 새로운 메모리 아키텍처를 공개하며 AI 에이전트의 장기 기억 문제 해결에 나섰다. Credit: Fstop Images / Shutterstock AI 에이전트의 장기 기억 한계를 극복하기 위해, 마이크로소프트 리서치가 추상화와 큐 기반 검색을 결합한 메모리 시스템 메모라(Memora)를 개발했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "데이터브릭스, 팬서 인수로 보안팀 경고 조사 완전 자동화…수작업 중심 SOC 시대 종료",
+      "title": "RAM 위기 속 애플, 가격·납기 이중고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.01",
-      "link": "https://www.itworld.co.kr/article/4190895/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4-%ed%8c%ac%ec%84%9c-%ec%9d%b8%ec%88%98%eb%a1%9c-%eb%b3%b4%ec%95%88%ed%8c%80-%ea%b2%bd%ea%b3%a0-%ec%a1%b0%ec%82%ac-%ec%99%84%ec%a0%84-%ec%9e%90.html",
-      "summary": "데이터브릭스가 AI 기반 보안운영 기업 팬서를 인수한다. 팬서와 자사 플랫폼 레이크워치를 통합하면 보안팀이 지금까지 수작업으로 처리해온 경고 분류·조사·대응의 전 과정을 에이전트 AI가 자동으로 처리하게 된다. Credit: Databricks 데이터브릭스가 AI 기반 보안운영 기업 팬서를 인수한다."
+      "date": "2026.07.02",
+      "link": "https://www.itworld.co.kr/article/4191338/ram-%ec%9c%84%ea%b8%b0-%ec%86%8d-%ec%95%a0%ed%94%8c-%ea%b0%80%ea%b2%a9%c2%b7%eb%82%a9%ea%b8%b0-%ec%9d%b4%ec%a4%91%ea%b3%a0.html",
+      "summary": "메모리 공급 부족이 장기화될 것으로 보이는 가운데, 애플은 미 국방부 블랙리스트에 오른 중국 기업으로부터 메모리를 구매하기 위한 로비를 시작했다. Credit: 360b / Shutterstock RAM 위기가 계속되는 상황에서도 업계의 다른 기업이 가격을 올리는 동안 몇 달간 버텨온 애플이 지난주 결국 대폭적인 가격 인상을 단행했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "애플, AI발 메모리 쇼크에 맥·아이패드 가격 전면 인상",
+      "title": "데이터브릭스, 팬서 인수로 보안팀 경고 조사 완전 자동화…수작업 중심 SOC 시대 종료",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.01",
-      "link": "https://www.itworld.co.kr/article/4190870/%ec%95%a0%ed%94%8c-ai%eb%b0%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%87%bc%ed%81%ac%ec%97%90-%eb%a7%a5%c2%b7%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ea%b0%80%ea%b2%a9-%ec%a0%84%eb%a9%b4-%ec%9d%b8%ec%83%81.html",
-      "summary": "글로벌 AI 인프라 투자가 메모리 수급 불균형을 심화시키면서, 애플이 아이폰을 제외한 전 제품의 가격을 일제히 인상했다. Credit: geralt 애플이 예고했던 제품 가격 인상이 현실화됐다. 아이폰을 제외한 전 제품에 걸쳐 대폭적인 인상이 단행됐으며, 급등하는 RAM 가격이 주된 원인으로 지목된다."
+      "date": "2026.07.02",
+      "link": "https://www.itworld.co.kr/article/4190895/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4-%ed%8c%ac%ec%84%9c-%ec%9d%b8%ec%88%98%eb%a1%9c-%eb%b3%b4%ec%95%88%ed%8c%80-%ea%b2%bd%ea%b3%a0-%ec%a1%b0%ec%82%ac-%ec%99%84%ec%a0%84-%ec%9e%90.html",
+      "summary": "데이터브릭스가 AI 기반 보안운영 기업 팬서를 인수한다. 팬서와 자사 플랫폼 레이크워치를 통합하면 보안팀이 지금까지 수작업으로 처리해온 경고 분류·조사·대응의 전 과정을 에이전트 AI가 자동으로 처리하게 된다. Credit: Databricks 데이터브릭스가 AI 기반 보안운영 기업 팬서를 인수한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "포드, AI 품질 검사 실패 인정하고 베테랑 엔지니어 350명 재고용",
+      "title": "애플, AI발 메모리 쇼크에 맥·아이패드 가격 전면 인상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.01",
-      "link": "https://www.itworld.co.kr/article/4190818/%ed%8f%ac%eb%93%9c-ai-%ed%92%88%ec%a7%88-%ea%b2%80%ec%82%ac-%ec%8b%a4%ed%8c%a8-%ec%9d%b8%ec%a0%95%ed%95%98%ea%b3%a0-%eb%b2%a0%ed%85%8c%eb%9e%91-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-350%eb%aa%85.html",
-      "summary": "AI 기반 품질 관리 시스템의 한계를 실감한 포드가 베테랑 엔지니어 350명을 재고용한 사례가, 제조 현장에서 AI의 현실적 역할에 대한 업계 논의를 재점화하고 있다. Credit: Insta_photos / Shutterstock AI와 자동화 품질 관리 시스템의 성과가 기대를 밑돌자, 포트가 베테랑 엔지니어 약 350명을 재고용했다."
+      "date": "2026.07.02",
+      "link": "https://www.itworld.co.kr/article/4190870/%ec%95%a0%ed%94%8c-ai%eb%b0%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%87%bc%ed%81%ac%ec%97%90-%eb%a7%a5%c2%b7%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ea%b0%80%ea%b2%a9-%ec%a0%84%eb%a9%b4-%ec%9d%b8%ec%83%81.html",
+      "summary": "글로벌 AI 인프라 투자가 메모리 수급 불균형을 심화시키면서, 애플이 아이폰을 제외한 전 제품의 가격을 일제히 인상했다. Credit: geralt 애플이 예고했던 제품 가격 인상이 현실화됐다. 아이폰을 제외한 전 제품에 걸쳐 대폭적인 인상이 단행됐으며, 급등하는 RAM 가격이 주된 원인으로 지목된다."
     }
   ]
 }
