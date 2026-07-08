@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-07T02:50:30.111Z",
-  "collectionDate": "2026.07.06",
-  "displayDate": "2026.07.07",
+  "updatedAt": "2026-07-08T02:27:40.549Z",
+  "collectionDate": "2026.07.07",
+  "displayDate": "2026.07.08",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "이직하고픈 IT 플랫폼 기업...네·토·카·당·라·쿠·배 순",
+      "title": "SOOP, MSI 팬페스타서 LCK 파트너 구단 팬미팅 진행",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.06",
-      "link": "https://zdnet.co.kr/view/?no=20260707113246",
-      "summary": "현직자들은 국내 IT 플랫폼 기업 중에서 이직할 회사를 고른다면 어떤 곳을 선택할까. 설문 조사 결과 네이버가 1위를 차지했고, 토스·카카오·당근·라인플러스·쿠팡·배달의민족이 뒤를 이었다. 웍스피어(대표 윤현준)가 운영하는 커리어 플랫폼 잡플래닛이 'IT 플랫폼 이직 티어 월드컵' 설문 결과를 7일 공개했다."
+      "date": "2026.07.07",
+      "link": "https://zdnet.co.kr/view/?no=20260708111232",
+      "summary": "SOOP이 리그오브레전드 이스포츠 '2026 미드 시즌 인비테이셔널(MSI)'을 맞아 오프라인 현장에서 대규모 이벤트를 마련했다. SOOP은 대전 엑스포 과학공원 한빛광장에서 오는 12일까지 진행되는 MSI 팬페스타에서 LCK 파트너 구단 팬미팅과 각종 현장 이벤트를 운영한다고 8일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "네이버-KAI, 국산 AI로 전투기·무인기 '두뇌' 만든다",
+      "title": "카카오페이증권 \"글로벌 기업 실적발표, 실시간 번역 제공\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.06",
-      "link": "https://zdnet.co.kr/view/?no=20260707114428",
-      "summary": "팀네이버와 한국항공우주산업(KAI)이 국내 독자 기술을 기반으로 방산 특화 인공지능(AI) 모델 개발 및 피지컬 AI 기반 미래전투체계 플랫폼 개발을 공동 추진하기로 했다."
+      "date": "2026.07.07",
+      "link": "https://zdnet.co.kr/view/?no=20260708111949",
+      "summary": "카카오페이증권에서 한국어로 글로벌 기업 실적발표 내용을 실시간으로 확인할 수 있다. 카카오페이증권은 인공지능(AI) 어닝콜 서비스를 시작한다고 8일 밝혔다. 해당 서비스는 글로벌 기업 실적 발표를 한국어로 실시간 번역하고 AI가 발표 내용을 구간별로 나눠 핵심을 요약해 보여준다. 관련기사 신한투자증권, 뮤직카우와 400억원 규모 조각투자 펀드 결성2026."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "잠수복 입은 바퀴벌레, 물속 3시간 버텼다",
+      "title": "CATL, '전기트럭' 고속 충전 배터리 출시…\"9분 내 완충\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.06",
-      "link": "https://zdnet.co.kr/view/?no=20260707091433",
-      "summary": "싱가포르 난양공대(NTU)와 일본 와세다대 공동 연구진이 사이보그 바퀴벌레를 위한 초소형 잠수복을 개발했다고 기즈모도 등 외신이 최근 보도했다. 해당 연구 결과는 국제 학술지 ‘네이처 커뮤니케이션즈’에 게재됐다. 이번에 개발된 3D 프린팅 잠수복 덕분에 사이보그 바퀴벌레는 전자장치를 장착한 채 물속에서 최대 3시간 동안 생존하며 움직일 수 있게 됐다."
+      "date": "2026.07.07",
+      "link": "https://zdnet.co.kr/view/?no=20260708110310",
+      "summary": "세계 1위 배터리 기업인 중국 CATL이 경량 전기 트럭 전용 배터리를 공식 출시했다. 특히 초고속 충전을 지원해 9분 내 완전 충전이 가능하다는 점을 내세웠다. CNEV포스트, 카뉴스차이나 등 외신에 따르면 CATL은 경상용차용 배터리 ‘테크트랜스2’를 출시했다고 지난 6일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "BYD와 격차 좁히는 테슬라…1~5월 전기차 인도량 10% ↑",
+      "title": "경찰청 '압수 가상자산 수탁사업자'에 두나무 선정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.06",
-      "link": "https://zdnet.co.kr/view/?no=20260707111631",
-      "summary": "테슬라가 글로벌 전기차 시장에서 판매량이 약진하면서 1위인 BYD와의 점유율 격차를 절반 가까이 줄였다. 7일 시장조사업체 SNE리서치는 올해 1월부터 5월까지 글로벌 전기차(BEV), 플러그인하이브리드차(PHEV) 인도량이 775만4000대로 전년 동기 대비 3.5% 증가했다고 분석했다."
+      "date": "2026.07.07",
+      "link": "https://zdnet.co.kr/view/?no=20260708104922",
+      "summary": "경찰청이 추진한 ‘압수 가상자산 보관·관리 사업’의 최종 사업자로 두나무가 선정됐다. 8일 조달청 나라장터에 따르면, 지난 6월 경찰청이 발주한 해당 사업의 입찰 결과 두나무가 종합 평가 1위를 차지하며 수주에 성공했다. 한국디지털자산수탁(케이닥)과 헥토월렛원이 각각 2위와 3위로 그 뒤를 이었다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "SOOP, ‘2026 VNL’ 70경기 온라인 독점 생중계",
+      "title": "호요버스, '붕괴: 스타레일' 국내 첫 체험 전시 1차 예매 시작",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.06",
-      "link": "https://zdnet.co.kr/view/?no=20260707112621",
-      "summary": "SOOP은 국제배구연맹(FIVB)이 주관하는 ‘2026 발리볼네이션스리그(VNL)’ 주요 경기를 온라인 독점 생중계한다고 7일 밝혔다. 이번 중계 대상은 약 70경기다. SOOP은 여자부와 남자부 예선 3주차 경기를 비롯해 결선 토너먼트 주요 경기를 순차적으로 선보인다. 일부 경기에는 한국어 해설도 제공해 국내 배구 팬들의 시청 편의성을 높일 예정이다."
+      "date": "2026.07.07",
+      "link": "https://zdnet.co.kr/view/?no=20260708110718",
+      "summary": "호요버스 코리아가 은하 판타지 RPG '붕괴: 스타레일'의 IP를 활용한 몰입형 체험 전시를 국내에서 처음으로 개최한다. 호요버스 코리아는 '붕괴: 스타레일-별 사이를 걷는 회고록' 전시의 1차 예매를 멜론티켓을 통해 오픈한다고 8일 밝혔다. 1차 예매는 오는 17일부터 31일까지의 입장권을 대상으로 이날 오후 6시부터 진행된다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 에이전트, 네트워크 자율 해킹부터 랜섬 요구까지 자율 수행하다",
+      "title": "AI가 소프트웨어 엔지니어링 재정의…초소형 팀 도입 기업 2029년 60%",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.06",
-      "link": "https://www.itworld.co.kr/article/4193485/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ec%9e%90%ec%9c%a8-%ed%95%b4%ed%82%b9%eb%b6%80%ed%84%b0-%eb%9e%9c%ec%84%ac-%ec%9a%94%ea%b5%ac%ea%b9%8c%ec%a7%80-%ec%9e%90.html",
-      "summary": "시스디그 연구에 따르면, AI 에이전트가 Langflow 취약점을 이용해 자율적으로 침투부터 데이터 암호화, 비트코인 랜섬 요구까지 완수한 사례가 최초로 문서화됐다."
+      "date": "2026.07.07",
+      "link": "https://www.itworld.co.kr/article/4194153/ai%ea%b0%80-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ec%9e%ac%ec%a0%95%ec%9d%98%ec%b4%88%ec%86%8c%ed%98%95-%ed%8c%80-%eb%8f%84%ec%9e%85.html",
+      "summary": "초소형 팀은 단순한 비용 절감 수단이 아니라 인간과 AI의 역량을 결합해 조직 효율성을 극대화하는 전략적 대응으로, 소프트웨어 엔지니어링 업계 전반의 구조 변화를 예고하고 있다. Credit: Gartner 가트너가 발표한 최신 분석에 따르면, AI가 소프트웨어 엔지니어링 역할을 근본적으로 재편하고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "폴더블 아이폰 울트라, 아이폰 X의 전철 밟나…늦은 출시에 고가 예고",
+      "title": "AI 에이전트, 네트워크 자율 해킹부터 랜섬 요구까지 자율 수행하다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.06",
-      "link": "https://www.itworld.co.kr/article/4193469/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%95%84%ec%9d%b4%ed%8f%b0-x%ec%9d%98-%ec%a0%84%ec%b2%a0-%eb%b0%9f%eb%82%98-%eb%8a%a6%ec%9d%80-%ec%b6%9c.html",
-      "summary": "애플의 첫 폴더블 아이폰이 아이폰 18 프로와 동시 발표 후 한 달 이상 늦게 판매될 수 있다는 분석이 나왔다. Credit: Foundry 많은 애플 팬은 폴더블 아이폰을 손에 넣기 위해 수년을 기다려왔다. 최신 보도가 정확하다면, 올 가을 아이폰 울트라가 공개될 때 그 기다림이 예상보다 조금 더 길어질 수도 있다."
+      "date": "2026.07.07",
+      "link": "https://www.itworld.co.kr/article/4193485/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ec%9e%90%ec%9c%a8-%ed%95%b4%ed%82%b9%eb%b6%80%ed%84%b0-%eb%9e%9c%ec%84%ac-%ec%9a%94%ea%b5%ac%ea%b9%8c%ec%a7%80-%ec%9e%90.html",
+      "summary": "시스디그 연구에 따르면, AI 에이전트가 Langflow 취약점을 이용해 자율적으로 침투부터 데이터 암호화, 비트코인 랜섬 요구까지 완수한 사례가 최초로 문서화됐다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "오픈텍스트, 국경을 넘지 않는 AI 설계의 원칙을 제시하다",
+      "title": "폴더블 아이폰 울트라, 아이폰 X의 전철 밟나…늦은 출시에 고가 예고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.06",
-      "link": "https://www.itworld.co.kr/article/4192980/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b5%ad%ea%b2%bd%ec%9d%84-%eb%84%98%ec%a7%80-%ec%95%8a%eb%8a%94-ai-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%9b%90%ec%b9%99%ec%9d%84-%ec%a0%9c%ec%8b%9c%ed%95%98.html",
-      "summary": "오픈텍스트는 기업의 IT 운영팀이 데이터 주권 요건과 운영 안정성을 동시에 확보하려면, 규정을 기존 인프라에 덧붙이는 방식이 아니라 거버넌스를 AI 시스템의 설계 원칙 그 자체로 내재화해야 한다고 강조한다."
+      "date": "2026.07.07",
+      "link": "https://www.itworld.co.kr/article/4193469/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%95%84%ec%9d%b4%ed%8f%b0-x%ec%9d%98-%ec%a0%84%ec%b2%a0-%eb%b0%9f%eb%82%98-%eb%8a%a6%ec%9d%80-%ec%b6%9c.html",
+      "summary": "애플의 첫 폴더블 아이폰이 아이폰 18 프로와 동시 발표 후 한 달 이상 늦게 판매될 수 있다는 분석이 나왔다. Credit: Foundry 많은 애플 팬은 폴더블 아이폰을 손에 넣기 위해 수년을 기다려왔다. 최신 보도가 정확하다면, 올 가을 아이폰 울트라가 공개될 때 그 기다림이 예상보다 조금 더 길어질 수도 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "RAM 가격 폭등에 메타가 내놓은 해법, 구형 메모리 재활용",
+      "title": "오픈텍스트, 국경을 넘지 않는 AI 설계의 원칙을 제시하다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.06",
-      "link": "https://www.itworld.co.kr/article/4192929/ram-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%97%90-%eb%a9%94%ed%83%80%ea%b0%80-%eb%82%b4%eb%86%93%ec%9d%80-%ed%95%b4%eb%b2%95-%ea%b5%ac%ed%98%95-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%9e%ac%ed%99%9c.html",
-      "summary": "메타가 폐서버에서 회수한 DDR4 메모리를 신형 서버에 재사용하는 자체 전용 집적 회로 비스타라를 개발해 하이퍼스케일 데이터센터의 메모리 수급 문제 해결에 나섰다. Credit: Sergei Elagin / Shutterstock 메타에 따르면 메타 서버 수백만 대 중 약 40%는 메모리 부족으로 성능이 제한된 상태다."
+      "date": "2026.07.07",
+      "link": "https://www.itworld.co.kr/article/4192980/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b5%ad%ea%b2%bd%ec%9d%84-%eb%84%98%ec%a7%80-%ec%95%8a%eb%8a%94-ai-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%9b%90%ec%b9%99%ec%9d%84-%ec%a0%9c%ec%8b%9c%ed%95%98.html",
+      "summary": "오픈텍스트는 기업의 IT 운영팀이 데이터 주권 요건과 운영 안정성을 동시에 확보하려면, 규정을 기존 인프라에 덧붙이는 방식이 아니라 거버넌스를 AI 시스템의 설계 원칙 그 자체로 내재화해야 한다고 강조한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "메타, 코딩·에이전틱 강화한 ‘뮤즈 스파크’ 업데이트 예고",
+      "title": "RAM 가격 폭등에 메타가 내놓은 해법, 구형 메모리 재활용",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.06",
-      "link": "https://www.itworld.co.kr/article/4192919/%eb%a9%94%ed%83%80-%ec%bd%94%eb%94%a9%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%ea%b0%95%ed%99%94%ed%95%9c-%eb%ae%a4%ec%a6%88-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8.html",
-      "summary": "메타가 코딩과 에이전틱 AI 역량을 강화한 뮤즈 스파크 모델 업데이트를 예고하며 기업 AI 시장 공략 의지를 드러냈다. Credit: Ascannio / Shutterstock 메타가 코딩과 에이전틱 AI 역량을 강화한 새 뮤즈 스파크(Muse Spark) 모델을 출시할 예정이다."
+      "date": "2026.07.07",
+      "link": "https://www.itworld.co.kr/article/4192929/ram-%ea%b0%80%ea%b2%a9-%ed%8f%ad%eb%93%b1%ec%97%90-%eb%a9%94%ed%83%80%ea%b0%80-%eb%82%b4%eb%86%93%ec%9d%80-%ed%95%b4%eb%b2%95-%ea%b5%ac%ed%98%95-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%9e%ac%ed%99%9c.html",
+      "summary": "메타가 폐서버에서 회수한 DDR4 메모리를 신형 서버에 재사용하는 자체 전용 집적 회로 비스타라를 개발해 하이퍼스케일 데이터센터의 메모리 수급 문제 해결에 나섰다. Credit: Sergei Elagin / Shutterstock 메타에 따르면 메타 서버 수백만 대 중 약 40%는 메모리 부족으로 성능이 제한된 상태다."
     }
   ]
 }
