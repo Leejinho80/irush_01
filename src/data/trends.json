@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-15T02:09:28.532Z",
-  "collectionDate": "2026.07.14",
-  "displayDate": "2026.07.15",
+  "updatedAt": "2026-07-16T02:22:44.113Z",
+  "collectionDate": "2026.07.15",
+  "displayDate": "2026.07.16",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "KTL, 부울경 통합교육으로 지역 산업 AI 융합 역량 강화",
+      "title": "대법, 사내하청 불법파견 또 인정…포스코, 직고용 절차 착수",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.14",
-      "link": "https://zdnet.co.kr/view/?no=20260715110855",
-      "summary": "한국산업기술시험원(KTL)은 부산산학융합원·케이모빌리티클러스터협회와 함께 ‘동남권 지역혁신클러스터 육성사업’의 일환으로 ‘동남권 AI 융합 기술 재직자 교육’을 개최했다고 15일 밝혔다."
+      "date": "2026.07.15",
+      "link": "https://zdnet.co.kr/view/?no=20260716110802",
+      "summary": "대법원이 포스코 제철소에서 근무한 사내 협력사 직원들과 포스코 사이에 근로자 파견관계가 성립한다고 재차 판단했다. 포스코는 판결을 존중한다며 조업과 직접 연관된 지원업무를 수행하는 협력사 현장직원을 직접 고용하고, 이번 소송에서 승소한 원고들을 대상으로 후속 절차를 순차적으로 진행하겠다고 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "LG엔솔, 구글 최대 '태양광∙ESS' 사업에 배터리 공급",
+      "title": "李대통령, 방미통위에 \"허위조작정보 대응, 규제기관 역할 잘해야\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.14",
-      "link": "https://zdnet.co.kr/view/?no=20260715100912",
-      "summary": "구글이 자체 최대 규모로 추진하는 태양광 및 에너지저장장치(ESS) 발전 사업에 LG에너지솔루션이 배터리를 공급한다. 14일(현지시간) 구글과 신재생에너지 독립발전사업자(IPP) 사이프레스크릭에너지(CCE)는 대규모 에너지 인프라 프로젝트 ‘스틸 리버 에너지센터’를 추진한다면서, LG에너지솔루션 배터리를 탑재한다고 밝혔다."
+      "date": "2026.07.15",
+      "link": "https://zdnet.co.kr/view/?no=20260716111612",
+      "summary": "이재명 대통령은 방송미디어통신위원회에 “불법 허위조작정보 유통에 대해 아주 철저히 대응하고 예방할 수 있도록 노력해 달라”고 주문했다. 이 대통령은 16일 오전 청와대 영빈관에서 열린 업무보고에서 김종철 방미통위 위원장에 “방송통신을 진흥하는 것도 중요하지만 악용되지 않게 하는 것이 훨씬 더 중요한 역할”이라며 이같이 말했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "조영탁 휴넷 대표 \"AI Powered Learning 시대 선도\"...'랩스' 선보여",
+      "title": "넵튠, 도트 픽셀 기반 판타지 RPG '바람의 흔적' 글로벌 서비스 맡는다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.14",
-      "link": "https://zdnet.co.kr/view/?no=20260715105715",
-      "summary": "기업교육 전문기업 휴넷(대표 조영탁)이 15일 서울 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 'AI Powered Learning FESTA(이하 APL 페스타)'를 개최했다. 'AI Powered Learning' 시대를 이끌 핵심 플랫폼 '랩스(LABS)'를 중심으로 다양한 AI 기반 학습 솔루션을 선보였다."
+      "date": "2026.07.15",
+      "link": "https://zdnet.co.kr/view/?no=20260716111311",
+      "summary": "넵튠(대표 강율빈)은 글로벌 게임 개발사 섹스턴트(Sextant)와 모바일 신작 ‘바람의 흔적’의 글로벌 퍼블리싱 계약을 체결했다고 16일 밝혔다. ‘바람의 흔적’은 방대한 서사와 세계관을 가진 판타지 RPG로 고해상도 도트 픽셀 아트와 턴제 전략 전투를 결합했으며, 세로와 가로 화면을 자유롭게 전환할 수 있어 이용 환경에 맞춘 플레이가 가능하다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "항우연, 누리호 개발 도중 폭발한 75톤급 엔진 실물 첫 공개",
+      "title": "'통일교 1억 수수' 권성동 징역 2년 확정…의원직 상실",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.14",
-      "link": "https://zdnet.co.kr/view/?no=20260715105702",
-      "summary": "한국항공우주연구원이 한국형발사체 누리호 개발 과정에서 폭발했던 75톤급 엔진을 '있는 그대로' 전시, 관심을 끌었다. 파손된 엔진을 대중에 공개하기는 이번이 처음이다. 이성민 항우연 홍보실장은 \"그동안 연구용으로만 쓰던 것을 지난 주부터 나로우주센터 우주과학관 실물전시관에 전시 중\"이라고 15일 밝혔다."
+      "date": "2026.07.15",
+      "link": "https://zdnet.co.kr/view/?no=20260716110957",
+      "summary": "통일교로부터 1억 원 상당의 불법 정치자금을 수수한 혐의로 기소된 권성동 국민의힘 의원에 대한 징역 2년 실형이 대법원에서 최종 확정됐다. 대법원 2부(주심 엄상필 대법관)는 16일 정치자금법 위반 혐의로 재판에 넘겨진 권 의원의 상고를 기각하고 원심 판결을 확정했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "엑스엘에이트, '2026 관광플러스테크 브릿지' 선정",
+      "title": "[영상] 소음 없이 사람 곁을 떠다니는 '고래 로봇' 등장",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.14",
-      "link": "https://zdnet.co.kr/view/?no=20260715105450",
-      "summary": "엑스엘에이트가 문화체육관광부 주최·한국관광공사 주관 ‘2026 관광플러스테크 브릿지’ 사업에 참여해 실시간 AI 통번역 솔루션 ‘이벤트캣’으로 관광 시장 진출을 본격화한다. 관광플러스테크 브릿지는 중소벤처기업부 팁스(TIPS) 선정 이력이 있는 기업의 관광 사업화와 해외 실증(PoC)을 지원하는 사업이다."
+      "date": "2026.07.15",
+      "link": "https://zdnet.co.kr/view/?no=20260716110545",
+      "summary": "일본 연구진이 애니메이션 캐릭터처럼 소음 없이 공중을 떠다니는 풍선형 동반 로봇을 개발했다고 과학매체 인터레스팅엔지니어링이 15일(현지시간) 보도했다. 일본 게이오대 연구팀이 주도하고 미국 매사추세츠공과대(MIT) 미디어랩 등이 참여한 연구진은 사람들이 친근하고 안전하며 편안하게 느낄 수 있는 공기보다 가벼운 시제품 로봇을 개발했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "미스트랄, 카메라 1대만으로 길 찾는 로봇 AI 모델 출시",
+      "title": "수십 년치 핵 기록, 원자력 르네상스 시대 과제는 ‘기록물 관리’",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.14",
-      "link": "https://www.itworld.co.kr/article/4196444/%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-%ec%b9%b4%eb%a9%94%eb%9d%bc-1%eb%8c%80%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ea%b8%b8-%ec%b0%be%eb%8a%94-%eb%a1%9c%eb%b4%87-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c.html",
-      "summary": "미스트랄이 라이다·깊이 센서를 배제하고도 멀티 센서 경쟁 시스템보다 높은 성능을 기록한 로봇 내비게이션 모델을 선보이며 피지컬 AI 시장 공략에 본격적으로 나섰다. Credit: Mistral AI 프랑스 AI 기업 미스트랄이 단일 컬러 카메라만으로 로봇을 자율 주행시키는 AI 모델 ‘로보스트랄 내비게이트’를 공개했다."
+      "date": "2026.07.15",
+      "link": "https://www.itworld.co.kr/article/4197165/%ec%88%98%ec%8b%ad-%eb%85%84%ec%b9%98-%ed%95%b5-%ea%b8%b0%eb%a1%9d-%ec%9b%90%ec%9e%90%eb%a0%a5-%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4-%ec%8b%9c%eb%8c%80-%ea%b3%bc%ec%a0%9c%eb%8a%94-%ea%b8%b0%eb%a1%9d.html",
+      "summary": "국내 원전 산업은 신규 i-SMR 건설과 다수 시설 해체를 동시에 추진해야 하는 과제를 안았다. 이 시점에서 핵심은 1940년대부터 쌓인 방대한 기록물을 AI와 자동화 기술을 통해 규제 준수와 실제 가치를 동시에 만족시킬 수 있는 정보 거버넌스 체계로 전환하는 것이다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "챗GPT·클로드 최신 모델, 경쟁의 반사이익 누리려면 지금",
+      "title": "미스트랄, 카메라 1대만으로 길 찾는 로봇 AI 모델 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.14",
-      "link": "https://www.itworld.co.kr/article/4196423/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%b5%9c%ec%8b%a0-%eb%aa%a8%eb%8d%b8-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%b0%98%ec%82%ac%ec%9d%b4%ec%9d%b5-%eb%88%84%eb%a6%ac%eb%a0%a4%eb%a9%b4-%ec%a7%80.html",
-      "summary": "오픈AI와 앤트로픽이 각사의 최신 플래그십 모델인 GPT-5.6 솔과 페이블 5의 사용 제한을 한시적으로 완화했다. Credit: David Price / Foundry 챗GPT와 클로드의 최신 모델을 아직 써보지 못했다면, 지금이 바로 그 기회다. 오픈AI는 지난 일요일, 최고 성능 모델인 GPT-5."
+      "date": "2026.07.15",
+      "link": "https://www.itworld.co.kr/article/4196444/%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-%ec%b9%b4%eb%a9%94%eb%9d%bc-1%eb%8c%80%eb%a7%8c%ec%9c%bc%eb%a1%9c-%ea%b8%b8-%ec%b0%be%eb%8a%94-%eb%a1%9c%eb%b4%87-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c.html",
+      "summary": "미스트랄이 라이다·깊이 센서를 배제하고도 멀티 센서 경쟁 시스템보다 높은 성능을 기록한 로봇 내비게이션 모델을 선보이며 피지컬 AI 시장 공략에 본격적으로 나섰다. Credit: Mistral AI 프랑스 AI 기업 미스트랄이 단일 컬러 카메라만으로 로봇을 자율 주행시키는 AI 모델 ‘로보스트랄 내비게이트’를 공개했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "내 PC가 왜 느린지 코파일럿이 알까? 마이크로소프트, PC 성능 저하 원인 진단하는 실험 기능 배포 중",
+      "title": "챗GPT·클로드 최신 모델, 경쟁의 반사이익 누리려면 지금",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.14",
-      "link": "https://www.itworld.co.kr/article/4196400/%eb%82%b4-pc%ea%b0%80-%ec%99%9c-%eb%8a%90%eb%a6%b0%ec%a7%80-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%9d%b4-%ec%95%8c%ea%b9%8c-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-pc.html",
-      "summary": "마이크로소프트가 코파일럿을 통해 윈도우 11 PC의 하드웨어 상태를 직접 진단하는 'PC 인사이트' 기능을 시험 운영 중이다. Credit: Microsoft 마이크로소프트가 윈도우 11용 코파일럿에 새로운 ‘PC 인사이트(PC Insights)’ 기능을 테스트하기 시작했다."
+      "date": "2026.07.15",
+      "link": "https://www.itworld.co.kr/article/4196423/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%b5%9c%ec%8b%a0-%eb%aa%a8%eb%8d%b8-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%b0%98%ec%82%ac%ec%9d%b4%ec%9d%b5-%eb%88%84%eb%a6%ac%eb%a0%a4%eb%a9%b4-%ec%a7%80.html",
+      "summary": "오픈AI와 앤트로픽이 각사의 최신 플래그십 모델인 GPT-5.6 솔과 페이블 5의 사용 제한을 한시적으로 완화했다. Credit: David Price / Foundry 챗GPT와 클로드의 최신 모델을 아직 써보지 못했다면, 지금이 바로 그 기회다. 오픈AI는 지난 일요일, 최고 성능 모델인 GPT-5."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI 에이전트가 거짓말을 한다면, ‘휴먼 인 더 루프’는 의미가 있는가?",
+      "title": "내 PC가 왜 느린지 코파일럿이 알까? 마이크로소프트, PC 성능 저하 원인 진단하는 실험 기능 배포 중",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.14",
-      "link": "https://www.itworld.co.kr/article/4195861/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%84-%ed%95%9c%eb%8b%a4%eb%a9%b4-%ed%9c%b4%eb%a8%bc-%ec%9d%b8-%eb%8d%94-%eb%a3%a8%ed%94%84%eb%8a%94-%ec%9d%98.html",
-      "summary": "위즈의 보안 연구는 아마존, 앤트로픽, 구글 등 주요 AI 코딩 어시스턴트 6종이 심볼릭 링크를 악용해 승인 화면에 허위 정보를 표시하는 동일한 구조적 취약점을 공유하고 있음을 드러냈다. Credit: Credit Acceptance 에이전트가 인간에게 허위 정보를 제공해 결정을 유도하는 방식으로 샌드박스 탈출이 가능하다는 사실이 드러났다."
+      "date": "2026.07.15",
+      "link": "https://www.itworld.co.kr/article/4196400/%eb%82%b4-pc%ea%b0%80-%ec%99%9c-%eb%8a%90%eb%a6%b0%ec%a7%80-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%9d%b4-%ec%95%8c%ea%b9%8c-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-pc.html",
+      "summary": "마이크로소프트가 코파일럿을 통해 윈도우 11 PC의 하드웨어 상태를 직접 진단하는 'PC 인사이트' 기능을 시험 운영 중이다. Credit: Microsoft 마이크로소프트가 윈도우 11용 코파일럿에 새로운 ‘PC 인사이트(PC Insights)’ 기능을 테스트하기 시작했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "내 컴퓨터가 슈퍼컴퓨터의 일부가 되는 시간…유휴 컴퓨팅이 여는 시민 과학 시대",
+      "title": "AI 에이전트가 거짓말을 한다면, ‘휴먼 인 더 루프’는 의미가 있는가?",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.14",
-      "link": "https://www.itworld.co.kr/article/4194693/%eb%82%b4-%ec%bb%b4%ed%93%a8%ed%84%b0%ea%b0%80-%ec%8a%88%ed%8d%bc%ec%bb%b4%ed%93%a8%ed%84%b0%ec%9d%98-%ec%9d%bc%eb%b6%80%ea%b0%80-%eb%90%98%eb%8a%94-%ec%8b%9c%ea%b0%84-%ec%9c%a0%ed%9c%b4-%ec%bb%b4.html",
-      "summary": "PC와 스마트폰의 유휴 처리 능력을 우주 탐색·기후 모델링·의학 연구 등 실제 과학 프로젝트에 연결해 주는 자원봉사 분산 컴퓨팅 프로그램이 시민 과학의 새 지평을 열고 있다. Credit: Dave Parrack / IDG 보통 사람들은 매일 수 시간씩 컴퓨터를 그냥 켜둔다."
+      "date": "2026.07.15",
+      "link": "https://www.itworld.co.kr/article/4195861/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%ea%b1%b0%ec%a7%93%eb%a7%90%ec%9d%84-%ed%95%9c%eb%8b%a4%eb%a9%b4-%ed%9c%b4%eb%a8%bc-%ec%9d%b8-%eb%8d%94-%eb%a3%a8%ed%94%84%eb%8a%94-%ec%9d%98.html",
+      "summary": "위즈의 보안 연구는 아마존, 앤트로픽, 구글 등 주요 AI 코딩 어시스턴트 6종이 심볼릭 링크를 악용해 승인 화면에 허위 정보를 표시하는 동일한 구조적 취약점을 공유하고 있음을 드러냈다. Credit: Credit Acceptance 에이전트가 인간에게 허위 정보를 제공해 결정을 유도하는 방식으로 샌드박스 탈출이 가능하다는 사실이 드러났다."
     }
   ]
 }
