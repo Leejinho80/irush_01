@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-22T02:24:58.307Z",
-  "collectionDate": "2026.07.21",
-  "displayDate": "2026.07.22",
+  "updatedAt": "2026-07-23T02:29:25.581Z",
+  "collectionDate": "2026.07.22",
+  "displayDate": "2026.07.23",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "문체부-대한장애인체육회, '2026년 꿈나무 선수 하계 스포츠캠프' 개최",
+      "title": "물류센터 '메자닌' 공식 통계 깜깜이...\"기본 현황부터 파악해야\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.21",
-      "link": "https://zdnet.co.kr/view/?no=20260722111856",
-      "summary": "문화체육관광부(이하 문체부)는 대한장애인체육회와 함께 이천선수촌에서 ‘2026년 꿈나무 선수 하계 스포츠캠프’를 개최한다고 22일 밝혔다. 오늘부터 28일까지 열리는 이번 캠프는 장애인 스포츠 꿈나무 선수 35명이 자기 적성을 발견하고, 선수로서 필요한 기초 역량과 진로를 함께 설계할 수 있도록 마련했다는 것이 문체부 측 설명이다."
+      "date": "2026.07.22",
+      "link": "https://zdnet.co.kr/view/?no=20260723111327",
+      "summary": "인천 쿠팡 물류센터 화재를 계기로 복층 적층 구조인 '메자닌'에 대한 관심이 커지고 있지만, 정작 국내 메자닌 물류센터의 규모와 현황을 파악할 수 있는 정부 공식 통계는 없는 것으로 나타났다. 업계에서는 물류센터 안전대책을 마련하기 위해 기본 현황부터 체계적으로 관리해야 한다는 지적이 나온다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "콘콘, 신규 IP '꺅두기' 카톡 선물하기서 판매",
+      "title": "이노그리드, xPU부터 서비스까지 잇는다…파트너와 AI 플랫폼 확장",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.21",
-      "link": "https://zdnet.co.kr/view/?no=20260722111721",
-      "summary": "콘콘(대표 서소영)은 IP 에이전시 '유니버스존'이 육성해온 두 번째 캐릭터 IP '꺅두기'를 카카오톡 선물하기에서 판매한다고 22일 밝혔다. 꺅두기는 기괴하면서도 귀여운 외계 생명체 캐릭터로, 앞서 카카오이모티콘에서 네 개의 시리즈를 연이어 출시하며 온라인 팬덤을 다져왔다."
+      "date": "2026.07.22",
+      "link": "https://zdnet.co.kr/view/?no=20260723112122",
+      "summary": "이노그리드가 그래픽처리장치(GPU)와 신경망처리장치(NPU) 등 이기종 컴퓨팅 자원부터 인공지능(AI) 서비스까지 단일 플랫폼에서 통합 관리하는 기술 로드맵을 공개하고 파트너사와 AI 사업 확대에 나선다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "세라젬, 웰니스 토크 콘서트 '세라젬 드 애프터눈' 성료",
+      "title": "NASA 큐리오시티, 화성서 고대 모래폭풍 흔적 발견 [여기는 화성]",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.21",
-      "link": "https://zdnet.co.kr/view/?no=20260722090558",
-      "summary": "세라젬이 중장년층 고객의 건강한 라이프스타일을 지원하는 대규모 소통 행사를 다채롭게 선보였다. 세라젬은 서울 송파구 롯데콘서트홀에서 고객 1000명과 함께한 웰니스 토크 콘서트 '세라젬 드 애프터눈'을 성황리에 마무리했다고 22일 밝혔다. 세라젬 웰니스 토크 콘서트 ‘세라젬 드 애프터눈’에 참여한 연사와 축하 공연 가수."
+      "date": "2026.07.22",
+      "link": "https://zdnet.co.kr/view/?no=20260723103506",
+      "summary": "미국 항공우주국(NASA) 화성탐사 로버 큐리오시티가 화성에서 고대 모래폭풍의 흔적을 발견했다고 우주과학매체 스페이스닷컴이 최근 보도했다. 과학자들은 수십억 년 전 화성이 지금과는 크게 다른 환경이었을 것으로 보고 있다. 현재의 화성은 붉은 황무지이지만, 당시에는 두꺼운 대기와 함께 강이 흐르고 넓은 호수가 존재했을 가능성이 제기되고 있다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "에이비일팔공, '모던 그로스 스택 2026' 성료…AI 시대 AX 전략 공유",
+      "title": "나무에이엑스, KISTI 바이오 연구 디지털 업무환경 구축한다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.21",
-      "link": "https://zdnet.co.kr/view/?no=20260722102558",
-      "summary": "에이비일팔공이 AI 시대의 마케팅과 조직 혁신 전략을 공유하는 컨퍼런스 '모던 그로스 스택(MGS) 2026'을 개최했다. 오픈AI와 무신사, 컬리, 크래프톤 등 국내외 기업들이 참여해 AI를 활용한 마케팅 자동화와 조직 전환 사례를 소개했다."
+      "date": "2026.07.22",
+      "link": "https://zdnet.co.kr/view/?no=20260723110415",
+      "summary": "나무기술에서 사명을 변경한 나무에이엑스가 바이오 분야 디지털 업무 환경 확장에 나선다. 나무에이엑스는 자회사 나무ICT와 컨소시엄을 구성해 한국과학기술정보연구원(KISTI)이 추진하는 바이오 연구 지원 플랫폼 구축 사업을 수주했다고 23일 밝혔다. 이번 사업은 약 3년에 걸쳐 바이오 데이터 분석·활용을 지원하는 공통 플랫폼을 구축하는 프로젝트다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "NOL 플랫폼 통합 기념…놀유니버스, 고객 참여형 행사 개최",
+      "title": "EU, 알리익스프레스에 9300억원 과징금…\"추천 알고리즘이 위험·위조 상품 노출\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.21",
-      "link": "https://zdnet.co.kr/view/?no=20260722103925",
-      "summary": "놀유니버스는 오는 9월 NOL 플랫폼 통합을 앞두고, 추억을 공유하고 NOL에서의 새로운 설렘을 준비하는 특별 참여형 행사를 연다고 22일 밝혔다."
+      "date": "2026.07.22",
+      "link": "https://zdnet.co.kr/view/?no=20260723110644",
+      "summary": "현지 시각 7월 20일 유럽연합 집행위원회 발표와 포춘 등 외신에 따르면, 집행위가 알리익스프레스에 5억 5,000만 유로(약 9,300억 원)의 과징금을 부과했다. 유럽 소비자에게 불법·위조 상품이 팔리는 것을 충분히 막지 못했다는 이유다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
+      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.21",
-      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
-      "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
+      "date": "2026.07.22",
+      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
+      "summary": "오픈AI가 자체 샌드박스를 뚫고 충돌하는 지침을 완수한 미공개 AI 모델의 개발을 일시 중단했다. Credit: Ben Patterson/Foundry 최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“규칙은 지켰지만 경계는 넘었다” AI 코딩 에이전트의 샌드박스 취약점 보고",
+      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.21",
-      "link": "https://www.itworld.co.kr/article/4199698/%ea%b7%9c%ec%b9%99%ec%9d%80-%ec%a7%80%ec%bc%b0%ec%a7%80%eb%a7%8c-%ea%b2%bd%ea%b3%84%eb%8a%94-%eb%84%98%ec%97%88%eb%8b%a4-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98.html",
-      "summary": "AI 코딩 에이전트 보안의 핵심으로 꼽히는 샌드박스가 실제로는 기대만큼의 격리 효과를 내지 못할 수 있다는 연구 결과가 나왔다."
+      "date": "2026.07.22",
+      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
+      "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "오픈텍스트, FIFA 월드컵에서 찾은 사이버 복원력 전략 제시",
+      "title": "“규칙은 지켰지만 경계는 넘었다” AI 코딩 에이전트의 샌드박스 취약점 보고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.21",
-      "link": "https://www.itworld.co.kr/article/4199193/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-fifa-%ec%9b%94%eb%93%9c%ec%bb%b5%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b5%ec%9b%90%eb%a0%a5-%ec%a0%84%eb%9e%b5.html",
-      "summary": "오픈텍스트가 변경 불가능 백업, 자동 복구 오케스트레이션, 엔드포인트 보안, 복구 검증 등 네 가지 요소를 통합한 사이버 복원력 전략을 제시했다."
+      "date": "2026.07.22",
+      "link": "https://www.itworld.co.kr/article/4199698/%ea%b7%9c%ec%b9%99%ec%9d%80-%ec%a7%80%ec%bc%b0%ec%a7%80%eb%a7%8c-%ea%b2%bd%ea%b3%84%eb%8a%94-%eb%84%98%ec%97%88%eb%8b%a4-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98.html",
+      "summary": "AI 코딩 에이전트 보안의 핵심으로 꼽히는 샌드박스가 실제로는 기대만큼의 격리 효과를 내지 못할 수 있다는 연구 결과가 나왔다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI가 코드를 짜는 시대…코딩 병목 해소 다음은 운영 환경",
+      "title": "오픈텍스트, FIFA 월드컵에서 찾은 사이버 복원력 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.21",
-      "link": "https://www.itworld.co.kr/article/4198608/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%bd%94%eb%94%a9-%eb%b3%91%eb%aa%a9-%ed%95%b4%ec%86%8c-%eb%8b%a4%ec%9d%8c%ec%9d%80-%ec%9a%b4%ec%98%81-%ed%99%98.html",
-      "summary": "에이전트 AI로 코드 작성이 손쉬워진 오늘날, 업계는 유지보수와 운영 문제 해결이라는 개발자 업무의 나머지 영역에 AI를 적용하는 방법을 모색하고 있다. Credit: US Army 소프트웨어 엔지니어링 강의 첫날이라면 누구나 SDLC, 즉 소프트웨어 개발 생애주기(Software Development Life Cycle)를 배운다."
+      "date": "2026.07.22",
+      "link": "https://www.itworld.co.kr/article/4199193/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-fifa-%ec%9b%94%eb%93%9c%ec%bb%b5%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b5%ec%9b%90%eb%a0%a5-%ec%a0%84%eb%9e%b5.html",
+      "summary": "오픈텍스트가 변경 불가능 백업, 자동 복구 오케스트레이션, 엔드포인트 보안, 복구 검증 등 네 가지 요소를 통합한 사이버 복원력 전략을 제시했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "메타 AI 해고 소송 파장, 기업 인사 결정의 새 기준을 요구하다",
+      "title": "AI가 코드를 짜는 시대…코딩 병목 해소 다음은 운영 환경",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.21",
-      "link": "https://www.itworld.co.kr/article/4198602/%eb%a9%94%ed%83%80-ai-%ed%95%b4%ea%b3%a0-%ec%86%8c%ec%86%a1-%ed%8c%8c%ec%9e%a5-%ea%b8%b0%ec%97%85-%ec%9d%b8%ec%82%ac-%ea%b2%b0%ec%a0%95%ec%9d%98-%ec%83%88-%ea%b8%b0%ec%a4%80%ec%9d%84-%ec%9a%94.html",
-      "summary": "AI 기반 인력 감축 과정에서 법정 휴가 중인 직원이 부당하게 해고 대상으로 선별됐다는 소장이 접수되면서, 기업의 AI 활용 인사 결정에 대한 법적·윤리적 논란이 수면 위로 떠올랐다."
+      "date": "2026.07.22",
+      "link": "https://www.itworld.co.kr/article/4198608/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%bd%94%eb%94%a9-%eb%b3%91%eb%aa%a9-%ed%95%b4%ec%86%8c-%eb%8b%a4%ec%9d%8c%ec%9d%80-%ec%9a%b4%ec%98%81-%ed%99%98.html",
+      "summary": "에이전트 AI로 코드 작성이 손쉬워진 오늘날, 업계는 유지보수와 운영 문제 해결이라는 개발자 업무의 나머지 영역에 AI를 적용하는 방법을 모색하고 있다. Credit: US Army 소프트웨어 엔지니어링 강의 첫날이라면 누구나 SDLC, 즉 소프트웨어 개발 생애주기(Software Development Life Cycle)를 배운다."
     }
   ]
 }
