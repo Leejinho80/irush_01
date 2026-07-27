@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-26T02:31:43.711Z",
-  "collectionDate": "2026.07.25",
-  "displayDate": "2026.07.26",
+  "updatedAt": "2026-07-27T02:39:38.448Z",
+  "collectionDate": "2026.07.26",
+  "displayDate": "2026.07.27",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"개발자 시간 낭비 끝\"… MS, 진짜 위협만 90% 솎아내는 'AI 보안' 선봬",
+      "title": "디즈니플러스, 메이저리그·LOL 대회 생중계",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.25",
-      "link": "https://zdnet.co.kr/view/?no=20260724153126",
-      "summary": "수천만 줄의 코드 속에서 '가짜 경고'만 남겨 개발자의 시간을 뺏던 AI 보안 도구의 치명적 약점을 MS가 해결했다. 단순 탐지를 넘어 실제 공격 가능성까지 검증해 오탐률을 획기적으로 낮춘 기술 구조가 공개됐다."
+      "date": "2026.07.26",
+      "link": "https://zdnet.co.kr/view/?no=20260727105405",
+      "summary": "디즈니플러스가 메이저리그베이스볼(MLB)와 리그 오브 레전드(LoL) 대회를 실시간으로 한국에 선보인다. 디즈니플러스는 스포츠 전문 채널 스포티비 협약을 맺고 MLB 생중계부터 2026 LoL 케스파컵(KeSPA CUP), 글로벌 뮤직 페스티벌 등 팬덤 콘텐츠를 한국에 선보인다고 27일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "대한민국관 부스서 빛난 '백제역사유적지구'… 고대 동아시아 교류 조명",
+      "title": "크래프톤 배틀그라운드모바일, '2026 크래프트 그라운드 공모전' 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.25",
-      "link": "https://zdnet.co.kr/view/?no=20260726002119",
-      "summary": "[부산=정진성 기자] 제48차 유네스코 세계유산위원회가 열리는 부산 벡스코 제1전시장 '대한민국관(K-Heritage House)'에 고대 왕국 백제의 숨결이 깨어났다. 백제세계유산센터는 이번 행사에서 '백제역사유적지구' 홍보 부스를 마련하고 전 세계 관람객을 맞이하고 있다."
+      "date": "2026.07.26",
+      "link": "https://zdnet.co.kr/view/?no=20260727110955",
+      "summary": "배틀그라운드 모바일(PUBG MOBILE)의 이용자 창작 모드를 활용한 총상금 2400만원 규모 공모전이 열렸다. 크래프톤(대표 김창한)은 배틀그라운드 모바일(PUBG MOBILE) 이용자 창작 모드 ‘크래프트 그라운드(Craft Ground)’로 참여할 수 있는 ‘2026 PUBG Mobile 크래프트 그라운드 공모전’을 개최한다고 27일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "카카오맵, 스트레이 키즈 콘서트 전용 지도 공개…티켓부스·MD부스 한눈에",
+      "title": "신한투자증권, 블록체인 네트워크 기업 '디지털에셋'에 투자",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.25",
-      "link": "https://zdnet.co.kr/view/?no=20260726103128",
-      "summary": "카카오맵이 JYP엔터테인먼트와 손잡고 스트레이 키즈 월드투어 서울 공연을 위한 전용 지도를 선보인다. 공연장 내 티켓부스와 MD부스 위치부터 실시간 팬 소통 기능까지 제공하며 콘서트 현장 편의성을 높인다는 계획이다."
+      "date": "2026.07.26",
+      "link": "https://zdnet.co.kr/view/?no=20260727110317",
+      "summary": "신한투자증권이 디지털자산 인프라 투자에 나섰다. 신한투자증권은 블록체인 네트워크인 ‘캔톤 네트워크’ 운영사 디지털에셋에 투자했다고 27일 밝혔다. 투자금액은 비공개다. 이번 투자는 가상자산 전문 펀드 a16z가 주도한 3억 5500만 달러 규모 펀딩 라운드에 참여하는 방식으로 이뤄졌다. 신한벤처투자와 공동으로 투자했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "\"시공간 초월한 유산의 감동\"…대한민국관 'K-헤리티지 이머시브' 전시 눈길",
+      "title": "[영상] 발사 30초 만에 번개 맞은 中 로켓…어떻게 버텼나",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.25",
-      "link": "https://zdnet.co.kr/view/?no=20260726001903",
-      "summary": "[부산=정진성 기자] 제48차 유네스코 세계유산위원회가 열리는 부산 벡스코 전시장 내에서 가장 화려한 빛으로 관람객의 발길을 붙잡는 곳이 있다. 바로 국가유산진흥원이 기획한 제2회 K-헤리티지 이머시브 전시 '헤리티지: 타임리스 타임' 부스다."
+      "date": "2026.07.26",
+      "link": "https://zdnet.co.kr/view/?no=20260727094038",
+      "summary": "중국 로켓이 발사 직후 번개에 맞는 모습이 포착돼 큰 화제를 모았다. 지난 23일 중국 남서부 시창위성발사센터에서 통신 중계 위성을 싣고 발사된 창정 3B 로켓이 이륙 약 30초 만에 번개를 맞았다고 스페이스닷컴, 아스테크니카 등 외신들이 보도했다. 2026년 7월 23일 창정 3B 로켓이 발사된 직후 번개를 맞았다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "[인사] 보건복지부",
+      "title": "국가유산청 국립문화유산연구원, 美 게티연구소 전문가 초청 강연 마련",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.25",
-      "link": "https://zdnet.co.kr/view/?no=20260725225207",
-      "summary": "◇국장급 <승진> ▲노인정책관 최봉근 ▲사회서비스정책관 장재원 <승진 및 파견>▲의료혁신추진단 부단장 유보영 ◇과장급 <전보> ▲의료자원정책과장 박재찬 ▲질병정책과장 김영아 <파견> ▲의료혁신추진단 의료혁신소통과장 박광훈 <전입> ▲아동정책과장 박찬수 (발령일자 : 2026. 7. 27."
+      "date": "2026.07.26",
+      "link": "https://zdnet.co.kr/view/?no=20260727103656",
+      "summary": "국가유산청 국립문화유산연구원(원장 임종덕)은 대전 국립문화유산연구원 분석과학관 강당에서 미국 게티연구소 전문가 초청 ‘접근성과 상호운용성: 게티연구소 미술사 데이터의 변화하는 과제와 지향점(Access and Interoperability: The Evolving Stakes and Aspirations for Art Historical Data at..."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.25",
+      "date": "2026.07.26",
       "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
       "summary": "오픈AI가 자체 샌드박스를 뚫고 충돌하는 지침을 완수한 미공개 AI 모델의 개발을 일시 중단했다. Credit: Ben Patterson/Foundry 최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다."
     },
@@ -74,7 +74,7 @@
       "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.25",
+      "date": "2026.07.26",
       "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
       "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
     },
@@ -84,7 +84,7 @@
       "title": "“규칙은 지켰지만 경계는 넘었다” AI 코딩 에이전트의 샌드박스 취약점 보고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.25",
+      "date": "2026.07.26",
       "link": "https://www.itworld.co.kr/article/4199698/%ea%b7%9c%ec%b9%99%ec%9d%80-%ec%a7%80%ec%bc%b0%ec%a7%80%eb%a7%8c-%ea%b2%bd%ea%b3%84%eb%8a%94-%eb%84%98%ec%97%88%eb%8b%a4-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98.html",
       "summary": "AI 코딩 에이전트 보안의 핵심으로 꼽히는 샌드박스가 실제로는 기대만큼의 격리 효과를 내지 못할 수 있다는 연구 결과가 나왔다."
     },
@@ -94,7 +94,7 @@
       "title": "오픈텍스트, FIFA 월드컵에서 찾은 사이버 복원력 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.25",
+      "date": "2026.07.26",
       "link": "https://www.itworld.co.kr/article/4199193/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-fifa-%ec%9b%94%eb%93%9c%ec%bb%b5%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b5%ec%9b%90%eb%a0%a5-%ec%a0%84%eb%9e%b5.html",
       "summary": "오픈텍스트가 변경 불가능 백업, 자동 복구 오케스트레이션, 엔드포인트 보안, 복구 검증 등 네 가지 요소를 통합한 사이버 복원력 전략을 제시했다."
     },
@@ -104,7 +104,7 @@
       "title": "AI가 코드를 짜는 시대…코딩 병목 해소 다음은 운영 환경",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.25",
+      "date": "2026.07.26",
       "link": "https://www.itworld.co.kr/article/4198608/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%bd%94%eb%94%a9-%eb%b3%91%eb%aa%a9-%ed%95%b4%ec%86%8c-%eb%8b%a4%ec%9d%8c%ec%9d%80-%ec%9a%b4%ec%98%81-%ed%99%98.html",
       "summary": "에이전트 AI로 코드 작성이 손쉬워진 오늘날, 업계는 유지보수와 운영 문제 해결이라는 개발자 업무의 나머지 영역에 AI를 적용하는 방법을 모색하고 있다. Credit: US Army 소프트웨어 엔지니어링 강의 첫날이라면 누구나 SDLC, 즉 소프트웨어 개발 생애주기(Software Development Life Cycle)를 배운다."
     }
