@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-27T02:39:38.448Z",
-  "collectionDate": "2026.07.26",
-  "displayDate": "2026.07.27",
+  "updatedAt": "2026-07-28T02:13:41.414Z",
+  "collectionDate": "2026.07.27",
+  "displayDate": "2026.07.28",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "디즈니플러스, 메이저리그·LOL 대회 생중계",
+      "title": "링크드, 라이크코퍼레이션과 AI 교육·디지털 트윈 시장 공략",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.26",
-      "link": "https://zdnet.co.kr/view/?no=20260727105405",
-      "summary": "디즈니플러스가 메이저리그베이스볼(MLB)와 리그 오브 레전드(LoL) 대회를 실시간으로 한국에 선보인다. 디즈니플러스는 스포츠 전문 채널 스포티비 협약을 맺고 MLB 생중계부터 2026 LoL 케스파컵(KeSPA CUP), 글로벌 뮤직 페스티벌 등 팬덤 콘텐츠를 한국에 선보인다고 27일 밝혔다."
+      "date": "2026.07.27",
+      "link": "https://zdnet.co.kr/view/?no=20260728101547",
+      "summary": "링크드가 콘텐츠 교육·개발 전문기업과 손잡고 인공지능(AI) 교육·디지털 트윈 시장 공략에 나선다. 링크드는 라이크코퍼레이션과 AI 전환(AX) 사업 협력 업무협약을 체결했다고 28일 밝혔다. 이번 협약은 링크드의 AI 인프라와 대학·공공 네트워크, 라이크코퍼레이션의 확장현실(XR)·생성형 AI 기반 콘텐츠 개발 역량을 결합하는 것이 핵심이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "크래프톤 배틀그라운드모바일, '2026 크래프트 그라운드 공모전' 개최",
+      "title": "메가존클라우드, 국내 유일 '삼성 클라우드 플랫폼' 최상위 파트너 승격",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.26",
-      "link": "https://zdnet.co.kr/view/?no=20260727110955",
-      "summary": "배틀그라운드 모바일(PUBG MOBILE)의 이용자 창작 모드를 활용한 총상금 2400만원 규모 공모전이 열렸다. 크래프톤(대표 김창한)은 배틀그라운드 모바일(PUBG MOBILE) 이용자 창작 모드 ‘크래프트 그라운드(Craft Ground)’로 참여할 수 있는 ‘2026 PUBG Mobile 크래프트 그라운드 공모전’을 개최한다고 27일 밝혔다."
+      "date": "2026.07.27",
+      "link": "https://zdnet.co.kr/view/?no=20260728105412",
+      "summary": "메가존클라우드가 삼성SDS의 삼성 클라우드 플랫폼(SCP) 파트너 프로그램에서 최상위 등급인 '플래티넘 파트너'로 선정됐다. 공공 클라우드와 인공지능(AI)·그래픽처리장치(GPU) 클라우드 분야에서 쌓은 사업 수행 경험과 기술력을 인정받았다는 평가다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "신한투자증권, 블록체인 네트워크 기업 '디지털에셋'에 투자",
+      "title": "KB금융, 제미나이로 데이터분석·고객챗봇 개발",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.26",
-      "link": "https://zdnet.co.kr/view/?no=20260727110317",
-      "summary": "신한투자증권이 디지털자산 인프라 투자에 나섰다. 신한투자증권은 블록체인 네트워크인 ‘캔톤 네트워크’ 운영사 디지털에셋에 투자했다고 27일 밝혔다. 투자금액은 비공개다. 이번 투자는 가상자산 전문 펀드 a16z가 주도한 3억 5500만 달러 규모 펀딩 라운드에 참여하는 방식으로 이뤄졌다. 신한벤처투자와 공동으로 투자했다."
+      "date": "2026.07.27",
+      "link": "https://zdnet.co.kr/view/?no=20260728103222",
+      "summary": "KB금융그룹이 구글 클라우드와 전략적 협업 통해 인공지능 전환(AX)에 드라이브를 건다. 28일 KB금융은 구글 클라우드와 최신 AI기술과 금융 전문성을 결합해 AI 금융 플랫폼 구축 등 AI·데이터 분야 협력을 확대하기로 했다고 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "[영상] 발사 30초 만에 번개 맞은 中 로켓…어떻게 버텼나",
+      "title": "국토부, 제주서 K-UAM 초기 상용화 서비스 모델 첫선",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.26",
-      "link": "https://zdnet.co.kr/view/?no=20260727094038",
-      "summary": "중국 로켓이 발사 직후 번개에 맞는 모습이 포착돼 큰 화제를 모았다. 지난 23일 중국 남서부 시창위성발사센터에서 통신 중계 위성을 싣고 발사된 창정 3B 로켓이 이륙 약 30초 만에 번개를 맞았다고 스페이스닷컴, 아스테크니카 등 외신들이 보도했다. 2026년 7월 23일 창정 3B 로켓이 발사된 직후 번개를 맞았다."
+      "date": "2026.07.27",
+      "link": "https://zdnet.co.kr/view/?no=20260728105941",
+      "summary": "한국형 도심항공교통(K-UAM) 초기 상용화 서비스 모델이 제주 섭지코지에서 첫 선을 보인다. 국토교통부는 29일 제주 서귀포시 성산읍 섭지코지에서 K-UAM 초기 상용화 서비스 모델을 선보이는 ‘제주 UAM 서비스 쇼케이스’를 개최한다. 이날 행사는 UAM 초기 상용화를 위한 제주형 UAM 서비스 모델을 통합 비행시연으로 선보인다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "국가유산청 국립문화유산연구원, 美 게티연구소 전문가 초청 강연 마련",
+      "title": "넥슨, 신작 '템빨: 오버기어드' 타이틀명 확정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.26",
-      "link": "https://zdnet.co.kr/view/?no=20260727103656",
-      "summary": "국가유산청 국립문화유산연구원(원장 임종덕)은 대전 국립문화유산연구원 분석과학관 강당에서 미국 게티연구소 전문가 초청 ‘접근성과 상호운용성: 게티연구소 미술사 데이터의 변화하는 과제와 지향점(Access and Interoperability: The Evolving Stakes and Aspirations for Art Historical Data at..."
+      "date": "2026.07.27",
+      "link": "https://zdnet.co.kr/view/?no=20260728103615",
+      "summary": "넥슨이 글로벌 흥행 웹소설 IP를 바탕으로 한 신작 MMORPG 정식 타이틀명을 확정하고 본격적인 서비스 준비에 돌입한다. 넥슨코리아((공동 대표 강대현∙김정욱)는 그레이게임즈에서 개발 중인 신작 MMORPG '프로젝트T'의 정식 명칭을 '템빨: 오버기어드'로 확정하고 BI와 티저 사이트를 공개했다고 28일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
+      "title": "허깅페이스가 오픈AI에 내민 청구서 “로그 공개와 컴퓨팅 자원 지원”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.26",
-      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
-      "summary": "오픈AI가 자체 샌드박스를 뚫고 충돌하는 지침을 완수한 미공개 AI 모델의 개발을 일시 중단했다. Credit: Ben Patterson/Foundry 최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다."
+      "date": "2026.07.27",
+      "link": "https://www.itworld.co.kr/article/4202030/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%ea%b0%80-%ec%98%a4%ed%94%88ai%ec%97%90-%eb%82%b4%eb%af%bc-%ec%b2%ad%ea%b5%ac%ec%84%9c-%eb%a1%9c%ea%b7%b8-%ea%b3%b5%ea%b0%9c%ec%99%80-%ec%bb%b4%ed%93%a8.html",
+      "summary": "자율 AI 에이전트가 최초로 저지른 사이버 공격 앞에서, 업계는 투명성과 방어 역량 확보를 동시에 요구받고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
+      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.26",
-      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
-      "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
+      "date": "2026.07.27",
+      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
+      "summary": "오픈AI가 자체 샌드박스를 뚫고 충돌하는 지침을 완수한 미공개 AI 모델의 개발을 일시 중단했다. Credit: Ben Patterson/Foundry 최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“규칙은 지켰지만 경계는 넘었다” AI 코딩 에이전트의 샌드박스 취약점 보고",
+      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.26",
-      "link": "https://www.itworld.co.kr/article/4199698/%ea%b7%9c%ec%b9%99%ec%9d%80-%ec%a7%80%ec%bc%b0%ec%a7%80%eb%a7%8c-%ea%b2%bd%ea%b3%84%eb%8a%94-%eb%84%98%ec%97%88%eb%8b%a4-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98.html",
-      "summary": "AI 코딩 에이전트 보안의 핵심으로 꼽히는 샌드박스가 실제로는 기대만큼의 격리 효과를 내지 못할 수 있다는 연구 결과가 나왔다."
+      "date": "2026.07.27",
+      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
+      "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "오픈텍스트, FIFA 월드컵에서 찾은 사이버 복원력 전략 제시",
+      "title": "“규칙은 지켰지만 경계는 넘었다” AI 코딩 에이전트의 샌드박스 취약점 보고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.26",
-      "link": "https://www.itworld.co.kr/article/4199193/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-fifa-%ec%9b%94%eb%93%9c%ec%bb%b5%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b5%ec%9b%90%eb%a0%a5-%ec%a0%84%eb%9e%b5.html",
-      "summary": "오픈텍스트가 변경 불가능 백업, 자동 복구 오케스트레이션, 엔드포인트 보안, 복구 검증 등 네 가지 요소를 통합한 사이버 복원력 전략을 제시했다."
+      "date": "2026.07.27",
+      "link": "https://www.itworld.co.kr/article/4199698/%ea%b7%9c%ec%b9%99%ec%9d%80-%ec%a7%80%ec%bc%b0%ec%a7%80%eb%a7%8c-%ea%b2%bd%ea%b3%84%eb%8a%94-%eb%84%98%ec%97%88%eb%8b%a4-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98.html",
+      "summary": "AI 코딩 에이전트 보안의 핵심으로 꼽히는 샌드박스가 실제로는 기대만큼의 격리 효과를 내지 못할 수 있다는 연구 결과가 나왔다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI가 코드를 짜는 시대…코딩 병목 해소 다음은 운영 환경",
+      "title": "오픈텍스트, FIFA 월드컵에서 찾은 사이버 복원력 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.26",
-      "link": "https://www.itworld.co.kr/article/4198608/ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%bd%94%eb%94%a9-%eb%b3%91%eb%aa%a9-%ed%95%b4%ec%86%8c-%eb%8b%a4%ec%9d%8c%ec%9d%80-%ec%9a%b4%ec%98%81-%ed%99%98.html",
-      "summary": "에이전트 AI로 코드 작성이 손쉬워진 오늘날, 업계는 유지보수와 운영 문제 해결이라는 개발자 업무의 나머지 영역에 AI를 적용하는 방법을 모색하고 있다. Credit: US Army 소프트웨어 엔지니어링 강의 첫날이라면 누구나 SDLC, 즉 소프트웨어 개발 생애주기(Software Development Life Cycle)를 배운다."
+      "date": "2026.07.27",
+      "link": "https://www.itworld.co.kr/article/4199193/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-fifa-%ec%9b%94%eb%93%9c%ec%bb%b5%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b5%ec%9b%90%eb%a0%a5-%ec%a0%84%eb%9e%b5.html",
+      "summary": "오픈텍스트가 변경 불가능 백업, 자동 복구 오케스트레이션, 엔드포인트 보안, 복구 검증 등 네 가지 요소를 통합한 사이버 복원력 전략을 제시했다."
     }
   ]
 }
