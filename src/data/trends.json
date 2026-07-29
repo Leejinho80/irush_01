@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-28T02:13:41.414Z",
-  "collectionDate": "2026.07.27",
-  "displayDate": "2026.07.28",
+  "updatedAt": "2026-07-29T02:24:09.511Z",
+  "collectionDate": "2026.07.28",
+  "displayDate": "2026.07.29",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "링크드, 라이크코퍼레이션과 AI 교육·디지털 트윈 시장 공략",
+      "title": "노이즈앤피치 \"연내 캠페인 1000건 도전\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.27",
-      "link": "https://zdnet.co.kr/view/?no=20260728101547",
-      "summary": "링크드가 콘텐츠 교육·개발 전문기업과 손잡고 인공지능(AI) 교육·디지털 트윈 시장 공략에 나선다. 링크드는 라이크코퍼레이션과 AI 전환(AX) 사업 협력 업무협약을 체결했다고 28일 밝혔다. 이번 협약은 링크드의 AI 인프라와 대학·공공 네트워크, 라이크코퍼레이션의 확장현실(XR)·생성형 AI 기반 콘텐츠 개발 역량을 결합하는 것이 핵심이다."
+      "date": "2026.07.28",
+      "link": "https://zdnet.co.kr/view/?no=20260729112048",
+      "summary": "노이즈앤피치가 서울 충무로에 새 거점을 마련, 연내 캠페인 1000건 도전에 나선다. 노이즈앤피치는 2025년 12월 출범 이후 7개월 만에 공유 오피스에서 단독 사무실로 이전했다고 29일 밝혔다. 노이즈앤피치는 7월 기준 누적 캠페인 집행 건수가 약 700건에 달한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "메가존클라우드, 국내 유일 '삼성 클라우드 플랫폼' 최상위 파트너 승격",
+      "title": "뱅크샐러드 \"대출 있으면 누구나 이자 지원해드려요\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.27",
-      "link": "https://zdnet.co.kr/view/?no=20260728105412",
-      "summary": "메가존클라우드가 삼성SDS의 삼성 클라우드 플랫폼(SCP) 파트너 프로그램에서 최상위 등급인 '플래티넘 파트너'로 선정됐다. 공공 클라우드와 인공지능(AI)·그래픽처리장치(GPU) 클라우드 분야에서 쌓은 사업 수행 경험과 기술력을 인정받았다는 평가다."
+      "date": "2026.07.28",
+      "link": "https://zdnet.co.kr/view/?no=20260729111958",
+      "summary": "뱅크샐러드는 신용대출·전세담보대출·주택담보대출 등을 보유한 이용자에게 이자지원금을 제공한다고 29일 밝혔다. 뱅크샐러드를 통해 가입하지 않은 대출상품도 적용 대상이다. 이용자는 대출 이자를 납부한 후 뱅크샐러드 앱에서 ‘이자지원금 받기’를 누르면 월 지원금을 확인할 수 있다. 여러 대출을 보유한 경우에도 각 상품의 지원금을 받을 수 있다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "KB금융, 제미나이로 데이터분석·고객챗봇 개발",
+      "title": "PFCT, 애큐온저축은행에 AI 데이터 솔루션 공급",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.27",
-      "link": "https://zdnet.co.kr/view/?no=20260728103222",
-      "summary": "KB금융그룹이 구글 클라우드와 전략적 협업 통해 인공지능 전환(AX)에 드라이브를 건다. 28일 KB금융은 구글 클라우드와 최신 AI기술과 금융 전문성을 결합해 AI 금융 플랫폼 구축 등 AI·데이터 분야 협력을 확대하기로 했다고 밝혔다."
+      "date": "2026.07.28",
+      "link": "https://zdnet.co.kr/view/?no=20260729111022",
+      "summary": "PFCT(피에프씨티테크놀로지스)가 애큐온저축은행에 금융특화 인공지능(AI) 인프라를 공급한다. PFCT는 애큐온저축은행에 AI 인프라 ‘에어팩-스튜디오’와 ‘에어팩-인사이트’를 제공한다고 29일 밝혔다. 에어팩은 AI 모델과 전략 운영·실시간 모니터링 등 금융 리스크 관리 기능을 연결한다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "국토부, 제주서 K-UAM 초기 상용화 서비스 모델 첫선",
+      "title": "어니스트AI-누리소프트 업무협약...\"몽골 시장 진출\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.27",
-      "link": "https://zdnet.co.kr/view/?no=20260728105941",
-      "summary": "한국형 도심항공교통(K-UAM) 초기 상용화 서비스 모델이 제주 섭지코지에서 첫 선을 보인다. 국토교통부는 29일 제주 서귀포시 성산읍 섭지코지에서 K-UAM 초기 상용화 서비스 모델을 선보이는 ‘제주 UAM 서비스 쇼케이스’를 개최한다. 이날 행사는 UAM 초기 상용화를 위한 제주형 UAM 서비스 모델을 통합 비행시연으로 선보인다."
+      "date": "2026.07.28",
+      "link": "https://zdnet.co.kr/view/?no=20260729105112",
+      "summary": "어니스트에이아이가 해외 시장 진출에 나선다. 회사는 몽골의 금융 IT 기업 누비소프트와 몽골 금융 시장 내 AI 기반 신용 솔루션 공급을 위한 업무협약(MOU)을 체결했다고 29일 밝혔다. 누비소프트는 2019년 설립 이래 몽골 현지 금융 및 결제 인프라 시장을 이끌어온 금융 IT 솔루션 전문 기업이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "넥슨, 신작 '템빨: 오버기어드' 타이틀명 확정",
+      "title": "하라주쿠에 뜬 무신사역…무신사, 도쿄서 팝업 연다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.27",
-      "link": "https://zdnet.co.kr/view/?no=20260728103615",
-      "summary": "넥슨이 글로벌 흥행 웹소설 IP를 바탕으로 한 신작 MMORPG 정식 타이틀명을 확정하고 본격적인 서비스 준비에 돌입한다. 넥슨코리아((공동 대표 강대현∙김정욱)는 그레이게임즈에서 개발 중인 신작 MMORPG '프로젝트T'의 정식 명칭을 '템빨: 오버기어드'로 확정하고 BI와 티저 사이트를 공개했다고 28일 밝혔다."
+      "date": "2026.07.28",
+      "link": "https://zdnet.co.kr/view/?no=20260729101747",
+      "summary": "무신사는 내달 일본 도쿄 하라주쿠에 '무신사 스테이션 인 하라주쿠' 팝업 스토어를 개최한다고 29일 밝혔다. 이번 팝업은 무신사의 상징성에서 착안한 '무신사 스테이션'을 콘셉트로 기획됐다. 무신사는 패션·뷰티 브랜드 등이 집결한 성수의 감도와 쇼핑 경험을 일본에 구현해 현지 고객이 K-라이프스타일을 입체적으로 경험할 수 있도록 한다는 구상이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "허깅페이스가 오픈AI에 내민 청구서 “로그 공개와 컴퓨팅 자원 지원”",
+      "title": "더 쉬워진 프레임워크 선택, 더 무거워진 아키텍처 책임",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.27",
-      "link": "https://www.itworld.co.kr/article/4202030/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%ea%b0%80-%ec%98%a4%ed%94%88ai%ec%97%90-%eb%82%b4%eb%af%bc-%ec%b2%ad%ea%b5%ac%ec%84%9c-%eb%a1%9c%ea%b7%b8-%ea%b3%b5%ea%b0%9c%ec%99%80-%ec%bb%b4%ed%93%a8.html",
-      "summary": "자율 AI 에이전트가 최초로 저지른 사이버 공격 앞에서, 업계는 투명성과 방어 역량 확보를 동시에 요구받고 있다."
+      "date": "2026.07.28",
+      "link": "https://www.itworld.co.kr/article/4202513/%eb%8d%94-%ec%89%ac%ec%9b%8c%ec%a7%84-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac-%ec%84%a0%ed%83%9d-%eb%8d%94-%eb%ac%b4%ea%b1%b0%ec%9b%8c%ec%a7%84-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%b1%85.html",
+      "summary": "수개월을 잡아먹었던 SDK 논쟁은 일단락됐지만, 프로덕션 현장에서 반복적으로 등장하는 진짜 질문은 '어떤 프레임워크를 쓸 것인가'가 아닌 '이 시스템에 에이전트가 정말 필요한가'로 바뀌고 있다. Credit: bluestork - shutterstock.com 지난 1년 동안 AI 이니셔티브를 시작하는 거의 모든 팀과 같은 대화를 나눴다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
+      "title": "1년만의 AMD 신작 라데온 RX 9050, 4GB VRAM으로의 퇴보",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.27",
-      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
-      "summary": "오픈AI가 자체 샌드박스를 뚫고 충돌하는 지침을 완수한 미공개 AI 모델의 개발을 일시 중단했다. Credit: Ben Patterson/Foundry 최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다."
+      "date": "2026.07.28",
+      "link": "https://www.itworld.co.kr/article/4202498/1%eb%85%84%eb%a7%8c%ec%9d%98-amd-%ec%8b%a0%ec%9e%91-%eb%9d%bc%eb%8d%b0%ec%98%a8-rx-9050-4gb-vram%ec%9c%bc%eb%a1%9c%ec%9d%98-%ed%87%b4%eb%b3%b4.html",
+      "summary": "AMD가 새 보급형 그래픽 카드 라데온 RX 9050을 공개했지만, 일부 완제품 데스크톱 PC용 변형 모델에는 단 4GB의 GDDR6 메모리만 탑재될 것으로 알려졌다. Credit: ASRock 터무니없이 비싸거나 부끄러울 정도로 성능이 낮은 노트북 가운데 하나를 골라야 하는 최악의 상황이 RAM 부족 사태의 극단이라고 생각했다면 오산이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
+      "title": "허깅페이스가 오픈AI에 내민 청구서 “로그 공개와 컴퓨팅 자원 지원”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.27",
-      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
-      "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
+      "date": "2026.07.28",
+      "link": "https://www.itworld.co.kr/article/4202030/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%ea%b0%80-%ec%98%a4%ed%94%88ai%ec%97%90-%eb%82%b4%eb%af%bc-%ec%b2%ad%ea%b5%ac%ec%84%9c-%eb%a1%9c%ea%b7%b8-%ea%b3%b5%ea%b0%9c%ec%99%80-%ec%bb%b4%ed%93%a8.html",
+      "summary": "자율 AI 에이전트가 최초로 저지른 사이버 공격 앞에서, 업계는 투명성과 방어 역량 확보를 동시에 요구받고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“규칙은 지켰지만 경계는 넘었다” AI 코딩 에이전트의 샌드박스 취약점 보고",
+      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.27",
-      "link": "https://www.itworld.co.kr/article/4199698/%ea%b7%9c%ec%b9%99%ec%9d%80-%ec%a7%80%ec%bc%b0%ec%a7%80%eb%a7%8c-%ea%b2%bd%ea%b3%84%eb%8a%94-%eb%84%98%ec%97%88%eb%8b%a4-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98.html",
-      "summary": "AI 코딩 에이전트 보안의 핵심으로 꼽히는 샌드박스가 실제로는 기대만큼의 격리 효과를 내지 못할 수 있다는 연구 결과가 나왔다."
+      "date": "2026.07.28",
+      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
+      "summary": "오픈AI가 자체 샌드박스를 뚫고 충돌하는 지침을 완수한 미공개 AI 모델의 개발을 일시 중단했다. Credit: Ben Patterson/Foundry 최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "오픈텍스트, FIFA 월드컵에서 찾은 사이버 복원력 전략 제시",
+      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.27",
-      "link": "https://www.itworld.co.kr/article/4199193/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-fifa-%ec%9b%94%eb%93%9c%ec%bb%b5%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b5%ec%9b%90%eb%a0%a5-%ec%a0%84%eb%9e%b5.html",
-      "summary": "오픈텍스트가 변경 불가능 백업, 자동 복구 오케스트레이션, 엔드포인트 보안, 복구 검증 등 네 가지 요소를 통합한 사이버 복원력 전략을 제시했다."
+      "date": "2026.07.28",
+      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
+      "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
     }
   ]
 }
