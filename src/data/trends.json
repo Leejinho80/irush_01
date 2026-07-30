@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-29T02:24:09.511Z",
-  "collectionDate": "2026.07.28",
-  "displayDate": "2026.07.29",
+  "updatedAt": "2026-07-30T02:06:13.076Z",
+  "collectionDate": "2026.07.29",
+  "displayDate": "2026.07.30",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "노이즈앤피치 \"연내 캠페인 1000건 도전\"",
+      "title": "NHN, 블록체인·웹3 신사업 드라이브…대표 직속 조직 신설",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.28",
-      "link": "https://zdnet.co.kr/view/?no=20260729112048",
-      "summary": "노이즈앤피치가 서울 충무로에 새 거점을 마련, 연내 캠페인 1000건 도전에 나선다. 노이즈앤피치는 2025년 12월 출범 이후 7개월 만에 공유 오피스에서 단독 사무실로 이전했다고 29일 밝혔다. 노이즈앤피치는 7월 기준 누적 캠페인 집행 건수가 약 700건에 달한다."
+      "date": "2026.07.29",
+      "link": "https://zdnet.co.kr/view/?no=20260730101622",
+      "summary": "NHN이 신사업으로 블록체인을 낙점하고 관련 인력 영입과 조직 정비에 나섰다. 향후 원화 스테이블코인 제도화에 대비해 그룹 차원 대응을 하기 위한 움직임으로 풀이된다. 30일 관련 업계에 따르면 NHN은 올해 초 정우진 대표 직속으로 신사업추진실을 신설했다. 신사업추진실은 그룹 전반의 신사업을 총괄하며 실무는 신사업전략팀이 담당한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "뱅크샐러드 \"대출 있으면 누구나 이자 지원해드려요\"",
+      "title": "아마존, '노바' 시리즈 운영 중단…\"새 AI 모델 개발에 집중\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.28",
-      "link": "https://zdnet.co.kr/view/?no=20260729111958",
-      "summary": "뱅크샐러드는 신용대출·전세담보대출·주택담보대출 등을 보유한 이용자에게 이자지원금을 제공한다고 29일 밝혔다. 뱅크샐러드를 통해 가입하지 않은 대출상품도 적용 대상이다. 이용자는 대출 이자를 납부한 후 뱅크샐러드 앱에서 ‘이자지원금 받기’를 누르면 월 지원금을 확인할 수 있다. 여러 대출을 보유한 경우에도 각 상품의 지원금을 받을 수 있다."
+      "date": "2026.07.29",
+      "link": "https://zdnet.co.kr/view/?no=20260730101908",
+      "summary": "아마존이 인공지능(AI) 모델 '노바' 제품군을 단계적으로 정리하고 새 모델 개발에 자원을 집중하는 것으로 전해졌다. 29일(현지시간) 비즈니스인사이더 보도에 따르면 아마존은 기존 노바 개발 조직을 정리하고 피터 아빌 부사장이 이끄는 '프런티어 모델 연구(FMR)' 계획을 사내 핵심 AI 사업으로 추진 중인 것으로 확인됐다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "PFCT, 애큐온저축은행에 AI 데이터 솔루션 공급",
+      "title": "문체부, 게임 AX 지원사업 3차 공고 검토…1~2인 개발사 정원 확대 가능성",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.28",
-      "link": "https://zdnet.co.kr/view/?no=20260729111022",
-      "summary": "PFCT(피에프씨티테크놀로지스)가 애큐온저축은행에 금융특화 인공지능(AI) 인프라를 공급한다. PFCT는 애큐온저축은행에 AI 인프라 ‘에어팩-스튜디오’와 ‘에어팩-인사이트’를 제공한다고 29일 밝혔다. 에어팩은 AI 모델과 전략 운영·실시간 모니터링 등 금융 리스크 관리 기능을 연결한다."
+      "date": "2026.07.29",
+      "link": "https://zdnet.co.kr/view/?no=20260730105600",
+      "summary": "문화체육관광부(문체부)와 한국콘텐츠진흥원(콘진원)이 '게임제작환경 AX(AI 전환) 지원사업'의 3차 모집 공고와 함께 지원 범위를 확대하는 방안을 검토 중이다. 해당 사업은 소규모 게임 개발사의 AI 활용을 전폭적으로 지원하기 위해 추진됐다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "어니스트AI-누리소프트 업무협약...\"몽골 시장 진출\"",
+      "title": "해외부터 국내 숙박·레저까지…롯데온, '여행박람회' 연다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.28",
-      "link": "https://zdnet.co.kr/view/?no=20260729105112",
-      "summary": "어니스트에이아이가 해외 시장 진출에 나선다. 회사는 몽골의 금융 IT 기업 누비소프트와 몽골 금융 시장 내 AI 기반 신용 솔루션 공급을 위한 업무협약(MOU)을 체결했다고 29일 밝혔다. 누비소프트는 2019년 설립 이래 몽골 현지 금융 및 결제 인프라 시장을 이끌어온 금융 IT 솔루션 전문 기업이다."
+      "date": "2026.07.29",
+      "link": "https://zdnet.co.kr/view/?no=20260730101440",
+      "summary": "롯데온이 다음달 3일부터 16일까지 해외여행부터 국내 숙박과 레저까지 다양한 여행 상품을 한자리에서 선보이는 '여행박람회'를 진행한다. 행사 기간 여행 상품 구매 고객에게 최대 즉시할인 18%와 카드할인 5%를 제공한다. 여행지와 여행 방식에 따라 상품을 비교하고 선택할 수 있도록 ▲해외여행 ▲국내숙박 ▲국내레저 등 카테고리별로 다양한 상품을 제안한다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "하라주쿠에 뜬 무신사역…무신사, 도쿄서 팝업 연다",
+      "title": "채소값 내렸는데 김치·만두 가격은 왜 오를까",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.07.28",
-      "link": "https://zdnet.co.kr/view/?no=20260729101747",
-      "summary": "무신사는 내달 일본 도쿄 하라주쿠에 '무신사 스테이션 인 하라주쿠' 팝업 스토어를 개최한다고 29일 밝혔다. 이번 팝업은 무신사의 상징성에서 착안한 '무신사 스테이션'을 콘셉트로 기획됐다. 무신사는 패션·뷰티 브랜드 등이 집결한 성수의 감도와 쇼핑 경험을 일본에 구현해 현지 고객이 K-라이프스타일을 입체적으로 경험할 수 있도록 한다는 구상이다."
+      "date": "2026.07.29",
+      "link": "https://zdnet.co.kr/view/?no=20260729164446",
+      "summary": "배추와 오이, 애호박 등 주요 채소 가격이 평년보다 낮은 수준을 보이고 있지만 이를 원재료로 사용하는 일부 가공식품 가격은 오히려 오르고 있다. 산지에서는 작황 개선과 출하량 증가로 채소 가격이 안정세를 보이는 반면, 소비자들이 마트에서 마주하는 김치와 만두, 카레 등 가공식품 가격에는 이 같은 흐름이 나타나지 않는 모습이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "더 쉬워진 프레임워크 선택, 더 무거워진 아키텍처 책임",
+      "title": "오픈AI 탈주 에이전트, 허깅페이스 이어 모달 랩스 고객까지 연쇄 침해",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.28",
-      "link": "https://www.itworld.co.kr/article/4202513/%eb%8d%94-%ec%89%ac%ec%9b%8c%ec%a7%84-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac-%ec%84%a0%ed%83%9d-%eb%8d%94-%eb%ac%b4%ea%b1%b0%ec%9b%8c%ec%a7%84-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%b1%85.html",
-      "summary": "수개월을 잡아먹었던 SDK 논쟁은 일단락됐지만, 프로덕션 현장에서 반복적으로 등장하는 진짜 질문은 '어떤 프레임워크를 쓸 것인가'가 아닌 '이 시스템에 에이전트가 정말 필요한가'로 바뀌고 있다. Credit: bluestork - shutterstock.com 지난 1년 동안 AI 이니셔티브를 시작하는 거의 모든 팀과 같은 대화를 나눴다."
+      "date": "2026.07.29",
+      "link": "https://www.itworld.co.kr/article/4203142/%ec%98%a4%ed%94%88ai-%ed%83%88%ec%a3%bc-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b4%ec%96%b4-%eb%aa%a8%eb%8b%ac-%eb%9e%a9%ec%8a%a4-%ea%b3%a0%ea%b0%9d.html",
+      "summary": "오픈AI가 미국 정부에 가장 강력한 모델의 공개 출시 허가를 요청하는 시점과 맞물려 발생한 이번 사고는, 규제 당국에 통제를 벗어난 에이전트가 현실에서 어떤 결과를 초래할 수 있는지 보여주는 구체적 사례가 됐다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "1년만의 AMD 신작 라데온 RX 9050, 4GB VRAM으로의 퇴보",
+      "title": "오픈 웨이트, AI를 더 정직하게 만들 수 있을까",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.28",
-      "link": "https://www.itworld.co.kr/article/4202498/1%eb%85%84%eb%a7%8c%ec%9d%98-amd-%ec%8b%a0%ec%9e%91-%eb%9d%bc%eb%8d%b0%ec%98%a8-rx-9050-4gb-vram%ec%9c%bc%eb%a1%9c%ec%9d%98-%ed%87%b4%eb%b3%b4.html",
-      "summary": "AMD가 새 보급형 그래픽 카드 라데온 RX 9050을 공개했지만, 일부 완제품 데스크톱 PC용 변형 모델에는 단 4GB의 GDDR6 메모리만 탑재될 것으로 알려졌다. Credit: ASRock 터무니없이 비싸거나 부끄러울 정도로 성능이 낮은 노트북 가운데 하나를 골라야 하는 최악의 상황이 RAM 부족 사태의 극단이라고 생각했다면 오산이다."
+      "date": "2026.07.29",
+      "link": "https://www.itworld.co.kr/article/4203127/%ec%98%a4%ed%94%88-%ec%9b%a8%ec%9d%b4%ed%8a%b8-ai%eb%a5%bc-%eb%8d%94-%ec%a0%95%ec%a7%81%ed%95%98%ea%b2%8c-%eb%a7%8c%eb%93%a4-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
+      "summary": "클로드 페이블 5가 존재하지 않는 유언장 내용을 만들어낸 사례를 통해, 오픈 웨이트 AI 모델이 실제로 해결하는 문제와 그렇지 않은 문제의 경계를 짚는다. Credit: Elena Abrazhevich/shutterstock.com 지난달 필자는 클로드 페이블 5 모델에 18세기 유언 검인 서류 4건을 분석해달라고 요청했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "허깅페이스가 오픈AI에 내민 청구서 “로그 공개와 컴퓨팅 자원 지원”",
+      "title": "더 쉬워진 프레임워크 선택, 더 무거워진 아키텍처 책임",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.28",
-      "link": "https://www.itworld.co.kr/article/4202030/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%ea%b0%80-%ec%98%a4%ed%94%88ai%ec%97%90-%eb%82%b4%eb%af%bc-%ec%b2%ad%ea%b5%ac%ec%84%9c-%eb%a1%9c%ea%b7%b8-%ea%b3%b5%ea%b0%9c%ec%99%80-%ec%bb%b4%ed%93%a8.html",
-      "summary": "자율 AI 에이전트가 최초로 저지른 사이버 공격 앞에서, 업계는 투명성과 방어 역량 확보를 동시에 요구받고 있다."
+      "date": "2026.07.29",
+      "link": "https://www.itworld.co.kr/article/4202513/%eb%8d%94-%ec%89%ac%ec%9b%8c%ec%a7%84-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac-%ec%84%a0%ed%83%9d-%eb%8d%94-%eb%ac%b4%ea%b1%b0%ec%9b%8c%ec%a7%84-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%b1%85.html",
+      "summary": "수개월을 잡아먹었던 SDK 논쟁은 일단락됐지만, 프로덕션 현장에서 반복적으로 등장하는 진짜 질문은 '어떤 프레임워크를 쓸 것인가'가 아닌 '이 시스템에 에이전트가 정말 필요한가'로 바뀌고 있다. Credit: bluestork - shutterstock.com 지난 1년 동안 AI 이니셔티브를 시작하는 거의 모든 팀과 같은 대화를 나눴다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
+      "title": "1년만의 AMD 신작 라데온 RX 9050, 4GB VRAM으로의 퇴보",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.28",
-      "link": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
-      "summary": "오픈AI가 자체 샌드박스를 뚫고 충돌하는 지침을 완수한 미공개 AI 모델의 개발을 일시 중단했다. Credit: Ben Patterson/Foundry 최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다."
+      "date": "2026.07.29",
+      "link": "https://www.itworld.co.kr/article/4202498/1%eb%85%84%eb%a7%8c%ec%9d%98-amd-%ec%8b%a0%ec%9e%91-%eb%9d%bc%eb%8d%b0%ec%98%a8-rx-9050-4gb-vram%ec%9c%bc%eb%a1%9c%ec%9d%98-%ed%87%b4%eb%b3%b4.html",
+      "summary": "AMD가 새 보급형 그래픽 카드 라데온 RX 9050을 공개했지만, 일부 완제품 데스크톱 PC용 변형 모델에는 단 4GB의 GDDR6 메모리만 탑재될 것으로 알려졌다. Credit: ASRock 터무니없이 비싸거나 부끄러울 정도로 성능이 낮은 노트북 가운데 하나를 골라야 하는 최악의 상황이 RAM 부족 사태의 극단이라고 생각했다면 오산이다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "속도는 앞섰지만 깊이는 멈춘 구글, 제미나이 플래시 3종 출시",
+      "title": "허깅페이스가 오픈AI에 내민 청구서 “로그 공개와 컴퓨팅 자원 지원”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.07.28",
-      "link": "https://www.itworld.co.kr/article/4199751/%ec%86%8d%eb%8f%84%eb%8a%94-%ec%95%9e%ec%84%b0%ec%a7%80%eb%a7%8c-%ea%b9%8a%ec%9d%b4%eb%8a%94-%eb%a9%88%ec%b6%98-%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ed%94%8c%eb%9e%98%ec%8b%9c-3.html",
-      "summary": "구글이 제미나이 플래시 신모델 3종을 선보였으나, AI 경쟁의 핵심인 프론티어 모델 공백은 여전히 해소되지 않고 있다. Credit: Koshiro K / Shutterstock 구글이 빠르고 효율적인 제미나이 플래시 모델 신버전 3종을 선보였다. 다목적 범용 모델과 사이버보안 특화 모델이 포함됐다."
+      "date": "2026.07.29",
+      "link": "https://www.itworld.co.kr/article/4202030/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%ea%b0%80-%ec%98%a4%ed%94%88ai%ec%97%90-%eb%82%b4%eb%af%bc-%ec%b2%ad%ea%b5%ac%ec%84%9c-%eb%a1%9c%ea%b7%b8-%ea%b3%b5%ea%b0%9c%ec%99%80-%ec%bb%b4%ed%93%a8.html",
+      "summary": "자율 AI 에이전트가 최초로 저지른 사이버 공격 앞에서, 업계는 투명성과 방어 역량 확보를 동시에 요구받고 있다."
     }
   ]
 }
