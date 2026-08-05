@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-04T02:12:25.806Z",
-  "collectionDate": "2026.08.03",
-  "displayDate": "2026.08.04",
+  "updatedAt": "2026-08-05T02:11:44.771Z",
+  "collectionDate": "2026.08.04",
+  "displayDate": "2026.08.05",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "클라이온, 강원 'AI 소상공인 안심경영 지원 서비스' 주사업자 됐다",
+      "title": "파두, FMS 2026서 Gen6 실물 SSD 첫 공개",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.03",
-      "link": "https://zdnet.co.kr/view/?no=20260804111144",
-      "summary": "AI 클라우드 서비스 전문기업 클라이온이 '강원 AI 소상공인 안심경영 지원 서비스' 구축 사업 주사업자로 선정됐다. 이 사업은 강원특별자치도와 한국지능정보사회진흥원(NIA)이 발주했다."
+      "date": "2026.08.04",
+      "link": "https://zdnet.co.kr/view/?no=20260805103610",
+      "summary": "데이터센터 반도체 기업 파두가 인공지능(AI) 데이터센터 시장 공략을 위한 사업 비전을 발표했다. 파두는 미국 산타클라라에서 개최된 'FMS 2026(Future of Memory and Storage 2026)'에서 '파두 2.0' 비전을 선포하고 AI 데이터센터 특화 솔루션 로드맵을 공개했다고 5일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "맥쿼리 \"가비아 공개매수 중요정보 모두 공시\"…얼라인 진정 정면 반박",
+      "title": "SKT, 실적으로 'AI 기업' 증명...'AIDC' 매출 92% 급증",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.03",
-      "link": "https://zdnet.co.kr/view/?no=20260804104925",
-      "summary": "맥쿼리자산운용그룹이 가비아 공개매수를 둘러싼 정보공개 논란에 대해 법적으로 공시해야 할 중요정보는 모두 공개했다며 행동주의 펀드 얼라인파트너스의 금융감독원 진정 내용을 정면 반박했다. 얼라인이 추가 공개를 요구한 기업가치 전망과 종속회사 상장폐지 계획 등은 공시 의무가 없거나 오히려 자본시장법상 위법 소지가 있는 예측정보라는 입장이다."
+      "date": "2026.08.04",
+      "link": "https://zdnet.co.kr/view/?no=20260805105112",
+      "summary": "SK텔레콤이 AI 데이터센터(AIDC) 사업에서 연간 두 배에 가까운 성장세를 보였다. 회사는 AIDC 사업을 전담하는 신설 법인 SK하이퍼를 앞세워 AI 인프라 시장 선점에 속도를 낸다는 계획이다. SK텔레콤은 5일 연결기준 2분기 매출 4조 3591억원, 영업이익 5660억원, 당기순이익 4660억원을 기록했다고 밝혔다. 전년 동기 대비 매출은 0."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "국가유산청, 선암사 측간 등 사찰 '해우소' 3곳 국가민속문화유산 지정 예고",
+      "title": "방송영상 AI 학습 데이터 117만 건, 국민에 개방",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.03",
-      "link": "https://zdnet.co.kr/view/?no=20260804105810",
-      "summary": "전남 순천 선암사 측간을 비롯한 전통 사찰 뒷간(해우소) 3곳이 국가민속문화유산으로 지정될 예정이다. 국가유산청은 '순천 선암사 측간', '영월 보덕사 해우소', '합천 해인사 국일암 해우소' 등 사찰 해우소 3개소를 국가민속문화유산으로 지정 예고했다고 4일 밝혔다."
+      "date": "2026.08.04",
+      "link": "https://zdnet.co.kr/view/?no=20260805110109",
+      "summary": "방송영상 이미지와 배경, 인물, 한글 서체와 자막 등 우리나라 정서와 문화적 요소를 반영한 방송영상 데이터 117만여 건이 국민에 개방된다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "KT엠모바일 \"8월도 일본∙중국∙베트남∙대만 데이터무제한 하루 990원\"",
+      "title": "국내 AI 모델 '모티프-2', 마이크로소프트 플랫폼에서 바로 쓴다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.03",
-      "link": "https://zdnet.co.kr/view/?no=20260804110631",
-      "summary": "KT엠모바일이 8월 한 달간 하루 990원에 일본∙중국∙베트남∙대만 등 아시아 4개국 데이터를 무제한 제공한다. KT엠모바일은 eSIM 로밍 서비스 '모비(mobi)' 일본∙중국∙베트남∙대만 등 아시아 4개국 데이터 무제한 상품을 하루 990원에 제공하는 '제휴 페스티벌'을 8월 내내 운영한다고 4일 밝혔다."
+      "date": "2026.08.04",
+      "link": "https://zdnet.co.kr/view/?no=20260805105640",
+      "summary": "국내 인공지능(AI) 기업이 개발한 독자 모델이 처음으로 마이크로소프트 공식 AI모델 카탈로그에 이름을 올렸다. 5일 임정환 모티프테크놀로지스(이하 모티프) 대표는 링크드인을 통해 추론 특화 언어모델 '모티프-2'가 마이크로소프트 파운드리에 정식 탑재됐다고 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "카스퍼스키, 컨테이너 시큐리티 솔루션 신규 기능 업데이트",
+      "title": "SOOP, '여자 U-17 배구선수권 대회' 韓 경기 독점 생중계",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.03",
-      "link": "https://zdnet.co.kr/view/?no=20260804110929",
-      "summary": "글로벌 사이버보안 기업 카스퍼스키(한국지사장 이효은)는 4일 컨테이너화된 애플리케이션의 전체 수명주기를 보호하는 보안 솔루션 '카스퍼스키 컨테이너 시큐리티(KCS)'의 신규 기능을 공개했다."
+      "date": "2026.08.04",
+      "link": "https://zdnet.co.kr/view/?no=20260805103325",
+      "summary": "SOOP은 오는 7일부터 17일까지 칠레에서 열리는 'FIVB 세계 여자 U-17 배구선수권대회' 대한민국 대표팀 경기를 온라인 독점 생중계한다고 5일 밝혔다. 국제배구연맹(FIVB)이 주관하는 이번 대회에는 세계 24개국이 참가한다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "앤트로픽, AI 안전성 평가 중 클로드의 실제 기업 해킹 인정",
+      "title": "AI 에이전트의 IT 업무 자동화, 인간 감독이 결정적 변수",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.03",
-      "link": "https://www.itworld.co.kr/article/4204702/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%95%88%ec%a0%84%ec%84%b1-%ed%8f%89%ea%b0%80-%ec%a4%91-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ea%b8%b0%ec%97%85-%ed%95%b4%ed%82%b9.html",
-      "summary": "앤트로픽의 클로드 모델이 AI 역량 평가 도중 실제 기업을 해킹하고 악성 파이썬 패키지를 공개 저장소에 업로드까지 한 사실이 드러났다. Credit: Foundry 앤트로픽은 가상 네트워크 환경에서 클로드 오퍼스 4.7, 클로드 미토스 5, 내부 테스트 모델의 정보 탐색 역량을 검증하는 평가를 진행했다."
+      "date": "2026.08.04",
+      "link": "https://www.itworld.co.kr/article/4205385/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-it-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ec%9d%b8%ea%b0%84-%ea%b0%90%eb%8f%85%ec%9d%b4-%ea%b2%b0%ec%a0%95%ec%a0%81-%eb%b3%80%ec%88%98.html",
+      "summary": "약 15만 건의 실제 에이전트 행동을 분석한 결과, AI는 반복 가능한 저위험 IT 업무에서 빠르게 자리를 잡고 있지만 인간의 지속적인 피드백 없이는 고도화가 불가능한 것으로 나타났다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI 데이터센터가 촉발한 메모리 대란, 2027년 이후에도 해소 불투명",
+      "title": "스마트 글라스 촬영 논란, 보안 컨퍼런스 입장 금지로 확산",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.03",
-      "link": "https://www.itworld.co.kr/article/4204693/ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ea%b0%80-%ec%b4%89%eb%b0%9c%ed%95%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%8c%80%eb%9e%80-2027%eb%85%84-%ec%9d%b4%ed%9b%84%ec%97%90%eb%8f%84-%ed%95%b4.html",
-      "summary": "Credit: Shutterstock AI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다. 내년에도 상황이 개선될 기미는 보이지 않는다."
+      "date": "2026.08.04",
+      "link": "https://www.itworld.co.kr/article/4205359/%ec%8a%a4%eb%a7%88%ed%8a%b8-%ea%b8%80%eb%9d%bc%ec%8a%a4-%ec%b4%ac%ec%98%81-%eb%85%bc%eb%9e%80-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8d%bc%eb%9f%b0%ec%8a%a4-%ec%9e%85%ec%9e%a5-%ea%b8%88%ec%a7%80%eb%a1%9c.html",
+      "summary": "스마트 글라스 시장이 급성장하는 가운데, 보안 컨퍼런스 데프콘이 녹화 기능 탑재 안경을 입장 금지 목록에 추가하며 사생활 보호 논쟁을 촉발했다. Credit: Mark Hachman / Foundry 보안 컨퍼런스 데프콘이 오디오·비디오 녹화 금지 기기 목록에 스마트 글라스를 추가했다. 시대 변화를 단적으로 보여주는 결정이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "아이폰 18 프로·울트라, 올가을 가격 인상 초읽기",
+      "title": "아이폰과 윈도우 PC 간 클립보드 공유, 2027년 EU서 현실화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.03",
-      "link": "https://www.itworld.co.kr/article/4204688/%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c%c2%b7%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%98%ac%ea%b0%80%ec%9d%84-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81-%ec%b4%88%ec%9d%bd%ea%b8%b0.html",
-      "summary": "다음 달 출시를 앞둔 아이폰 18 프로와 아이폰 울트라의 가격이 최소 100~200달러 인상될 것이라는 예측이 제기됐다. Credit: Ida Blix 애플이 지난달 가격을 인상했을 때, 눈에 띄게 가격 동결을 유지한 제품이 있었다. 바로 아이폰이다."
+      "date": "2026.08.04",
+      "link": "https://www.itworld.co.kr/article/4205340/%ec%95%84%ec%9d%b4%ed%8f%b0%ea%b3%bc-%ec%9c%88%eb%8f%84%ec%9a%b0-pc-%ea%b0%84-%ed%81%b4%eb%a6%bd%eb%b3%b4%eb%93%9c-%ea%b3%b5%ec%9c%a0-2027%eb%85%84-eu%ec%84%9c-%ed%98%84%ec%8b%a4%ed%99%94.html",
+      "summary": "아이폰과 윈도우 PC 간 복사·붙여넣기 연동 기능이 EU에 한해 2027년 가을 출시될 것으로 보인다. Credit: Foundry 유니버설 클립보드(Universal Clipboard)는 애플 생태계에서 가장 저평가된 기능이라 할 수 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“제때 살 수 있을까” 올가을 아이폰 18, 품귀 현상 예고",
+      "title": "앤트로픽, AI 안전성 평가 중 클로드의 실제 기업 해킹 인정",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.03",
-      "link": "https://www.itworld.co.kr/article/4204226/%ec%a0%9c%eb%95%8c-%ec%82%b4-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c-%ec%98%ac%ea%b0%80%ec%9d%84-%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%92%88%ea%b7%80-%ed%98%84%ec%83%81-%ec%98%88%ea%b3%a0.html",
-      "summary": "RAM 가격 급등과 공급 부족이 겹치며 아이폰 18 울트라를 비롯한 신제품의 수급 불안이 가시화되고 있다. Credit: Foundry 8월로 달력이 넘어가면서 업계의 시선이 애플의 가을 행사와 함께 새 아이폰에 쏠리고 있다."
+      "date": "2026.08.04",
+      "link": "https://www.itworld.co.kr/article/4204702/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%95%88%ec%a0%84%ec%84%b1-%ed%8f%89%ea%b0%80-%ec%a4%91-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ea%b8%b0%ec%97%85-%ed%95%b4%ed%82%b9.html",
+      "summary": "앤트로픽의 클로드 모델이 AI 역량 평가 도중 실제 기업을 해킹하고 악성 파이썬 패키지를 공개 저장소에 업로드까지 한 사실이 드러났다. Credit: Foundry 앤트로픽은 가상 네트워크 환경에서 클로드 오퍼스 4.7, 클로드 미토스 5, 내부 테스트 모델의 정보 탐색 역량을 검증하는 평가를 진행했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "데이터-명령 구분 불가한 AI의 한계, 워드 문서 보안 위기로",
+      "title": "AI 데이터센터가 촉발한 메모리 대란, 2027년 이후에도 해소 불투명",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.03",
-      "link": "https://www.itworld.co.kr/article/4204223/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%aa%85%eb%a0%b9-%ea%b5%ac%eb%b6%84-%eb%b6%88%ea%b0%80%ed%95%9c-ai%ec%9d%98-%ed%95%9c%ea%b3%84-%ec%9b%8c%eb%93%9c-%eb%ac%b8%ec%84%9c-%eb%b3%b4%ec%95%88-%ec%9c%84.html",
-      "summary": "생성형 AI가 데이터와 명령을 구분하지 못하는 고질적 취약점이 코파일럿 기반 문서 워크플로를 통한 악성 명령 전파로 이어질 수 있다는 연구 결과가 공개됐다."
+      "date": "2026.08.04",
+      "link": "https://www.itworld.co.kr/article/4204693/ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ea%b0%80-%ec%b4%89%eb%b0%9c%ed%95%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%8c%80%eb%9e%80-2027%eb%85%84-%ec%9d%b4%ed%9b%84%ec%97%90%eb%8f%84-%ed%95%b4.html",
+      "summary": "Credit: Shutterstock AI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다. 내년에도 상황이 개선될 기미는 보이지 않는다."
     }
   ]
 }
