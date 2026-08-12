@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-11T01:24:47.116Z",
-  "collectionDate": "2026.08.10",
-  "displayDate": "2026.08.11",
+  "updatedAt": "2026-08-12T01:42:02.985Z",
+  "collectionDate": "2026.08.11",
+  "displayDate": "2026.08.12",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "K-양극재, 상반기 희비 갈려…엘앤에프만 적재량 증가",
+      "title": "픽스업헬스, 보험 청구 자동으로 해준다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.10",
-      "link": "https://zdnet.co.kr/view/?no=20260811095257",
-      "summary": "올해 상반기 글로벌 전기차용 양극재 시장을 분석한 결과 국내 주요 업체 중 엘앤에프는 적재량이 증가한 반면 에코프로, 포스코퓨처엠 등은 적재량이 감소한 것으로 나타났다. 11일 시장조사업체 SNE리서치에 따르면 이 기간 전체 양극재 적재량은 137만4000톤으로 전년 동기 112만9000톤 대비 21.6% 증가했다."
+      "date": "2026.08.11",
+      "link": "https://zdnet.co.kr/view/?no=20260812101349",
+      "summary": "AI 기반 원격 재활 치료 모니터링(이하 RTM) 솔루션 기업 픽스업헬스가 보험 청구를 자동으로 해주는 '빌링 엔진'을 도입했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "리멤버, 전사 구성원 참여 'AX 페스타' 열었다",
+      "title": "카카오뱅크 노조원, 12일부터 야간·연장·휴일 근무 안선다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.10",
-      "link": "https://zdnet.co.kr/view/?no=20260811091419",
-      "summary": "리멤버앤컴퍼니는 전사 구성원이 참여하는 사내 행사 '인공지능 전환(AX) 페스타'를 열고, 현업 부서가 직접 기획·제작한 AI 도구의 활용 사례를 공유했다고 11일 밝혔다. 리멤버는 이미 지난해 말 'AI-퍼스트 컴퍼니'를 사내 지향점으로 선언하고, 이를 실행할 전담 조직인 'AX CIC'를 신설했다."
+      "date": "2026.08.11",
+      "link": "https://zdnet.co.kr/view/?no=20260812103245",
+      "summary": "카카오뱅크 노동조합(노조)가 12일 0시부터 야간·연장·휴일 근무 등을 서지 않는다. 이날 전국화학섬유식품산업노동조합 카카오지회는 이 같이 밝히며, 카카오뱅크 노조 조합원은 평균 40시간을 초과하지 않는 범위서만 근무할 예정이라고 설명했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "저커버그 \"초지능 독점 안 돼\"…메타, 개방형 AI 복귀",
+      "title": "KIAT, 현장문제 해결하는 ‘ESTP형’ 산업정책 지원기관 거듭난다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.10",
-      "link": "https://zdnet.co.kr/view/?no=20260811092130",
-      "summary": "마크 저커버그 메타 최고경영자(CEO)가 소수 기업이 주도하는 폐쇄형 인공지능(AI)의 위험성을 경고하며 개인에 대한 AI 접근 확대를 주장했다. 메타는 이날 개인용 기기에서 구동할 수 있는 개방형 AI 모델을 공개하며 오픈소스 생태계 복귀를 선언했다."
+      "date": "2026.08.11",
+      "link": "https://zdnet.co.kr/view/?no=20260812103021",
+      "summary": "KIAT가 현장문제를 즉각 해결하는 신뢰·상생·혁신·주도(ESTP)형 산업기술 지원기관으로 거듭난다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "[AI 리더스] 레고라 \"한국 변호사 일하는 방식 바꿀 것\"",
+      "title": "라이드플럭스, 자율주행 기술 100번째 특허 등록",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.10",
-      "link": "https://zdnet.co.kr/view/?no=20260811091143",
-      "summary": "\"변호사가 법률 업무를 하는 방식 자체를 바꾸려 합니다. 한국의 모든 변호사가 레고라를 쓰게 하는 게 목표입니다.\" 헤더 패터슨 레고라 아시아·태평양 및 일본(APJ) 지역 부사장은 최근 지디넷코리아와 진행한 화상 인터뷰에서 \"미국이나 호주에서 한국 고객을 지원하는 방식만으로는 충분하지 않았다\"며 이같이 밝혔다."
+      "date": "2026.08.11",
+      "link": "https://zdnet.co.kr/view/?no=20260812102731",
+      "summary": "자율주행 소프트웨어 기업 라이드플럭스가 100번째 특허 등록을 완료하며 레벨4 자율주행 상용화를 위한 지식재산권(IP) 확보에 속도를 내고 있다. 라이드플럭스는 인지·측위와 판단·제어, 정밀지도, 원격운영 등 자율주행 소프트웨어 전반의 기술을 자체 개발하고 있으며, 관련 기술을 중심으로 특허 포트폴리오를 확대하고 있다고 12일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "홍콩 상장 앞둔 쉬인, 몸값 70% ‘뚝’",
+      "title": "고금리 특판 예·적금 속속 내놓는 은행",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.10",
-      "link": "https://zdnet.co.kr/view/?no=20260811082852",
-      "summary": "중국 패스트패션 업체 쉬인이 홍콩 증시 상장을 앞두고 기업가치를 300억 달러(약 42조 5850억원) 미만으로 제시하고 있다. 2022년 1000억 달러(약 141조 9500억원)를 웃돌았던 최고점과 비교하면 약 70% 낮아진 수준이다."
+      "date": "2026.08.11",
+      "link": "https://zdnet.co.kr/view/?no=20260812084506",
+      "summary": "증시가 출렁이면서 고객 예탁금이 100조원 초반대로 내려온 가운데, 은행들이 고객을 잡기 위해 특판 예·적금 상품을 내놓고 있다. 금융투자협회가 집계한 이달 10일 기준 고객 예탁금은 100조7180억원으로 전 거래일(7일) 대비 3조4884억원이 줄었다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "AI가 바꾸는 노동 시장, 기술 부문만 나 홀로 성장",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "link": "https://www.itworld.co.kr/article/4207560/ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%eb%85%b8%eb%8f%99-%ec%8b%9c%ec%9e%a5-%ea%b8%b0%ec%88%a0-%eb%b6%80%eb%ac%b8%eb%a7%8c-%eb%82%98-%ed%99%80%eb%a1%9c-%ec%84%b1%ec%9e%a5.html",
       "summary": "전체 고용이 감소하는 추세 속에서도 AI·데이터센터 수요가 기술 부문 채용을 끌어올리며, 직종과 산업별 양극화가 심화되고 있다. Credit: Rob Schultz / Unsplash 7월 미국 전체 일자리가 2만 3,000개 감소한 가운데, AI 혁명이 가속화하면서 기술 부문 고용은 반등했다."
     },
@@ -74,39 +74,39 @@
       "title": "AI로 무장한 사이버 범죄, 가드레일 우회부터 공급망 침투까지",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.10",
+      "date": "2026.08.11",
       "link": "https://www.itworld.co.kr/article/4207554/ai%eb%a1%9c-%eb%ac%b4%ec%9e%a5%ed%95%9c-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b2%94%ec%a3%84-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ec%9a%b0%ed%9a%8c%eb%b6%80%ed%84%b0-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ec%b9%a8.html",
       "summary": "시스코 탈로스와 크라우드스트라이크의 보고서가 AI가 공격자의 일상 작전 전반에 자리 잡은 실태를 구체적으로 공개했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AGI에 올인한 구글, 알파벳 수석 과학자로 하사비스 선임",
+      "title": "오픈텍스트, 9월 개인정보 보호법 개정 대응…콘텐츠 거버넌스로 규제 선제 대응",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.10",
-      "link": "https://www.itworld.co.kr/article/4207011/agi%ec%97%90-%ec%98%ac%ec%9d%b8%ed%95%9c-%ea%b5%ac%ea%b8%80-%ec%95%8c%ed%8c%8c%eb%b2%b3-%ec%88%98%ec%84%9d-%ea%b3%bc%ed%95%99%ec%9e%90%eb%a1%9c-%ed%95%98%ec%82%ac%eb%b9%84%ec%8a%a4-%ec%84%a0%ec%9e%84.html",
-      "summary": "AGI 실현을 필생의 과업으로 삼아온 데미스 하사비스가 알파벳 수석 과학자직을 맡아, AGI 전략 수립 전면에 나선다. Credit: IB Photography / Shutterstock 구글 딥마인드의 핵심 동력이었던 구글 딥마인드 CEO 데미스 하사비스가 구글 모회사 알파벳의 수석 과학자직에 올랐다."
+      "date": "2026.08.11",
+      "link": "https://www.itworld.co.kr/article/4207710/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-9%ec%9b%94-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%b2%95-%ea%b0%9c%ec%a0%95-%eb%8c%80%ec%9d%91%ec%bd%98%ed%85%90%ec%b8%a0.html",
+      "summary": "곧 개정되는 『개인정보 보호법』 시행을 앞두고 기업들의 정보 거버넌스 체계 정비가 시급해지고 있다. Credit: Sundry Photography / shutterstock 오는 9월 11일 개정되는 『개인정보 보호법』 시행을 앞두고 기업들의 개인정보 보호체계 정비가 시급한 과제로 떠오르고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI 에이전트의 IT 업무 자동화, 인간 감독이 결정적 변수",
+      "title": "AGI에 올인한 구글, 알파벳 수석 과학자로 하사비스 선임",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.10",
-      "link": "https://www.itworld.co.kr/article/4205385/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-it-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ec%9d%b8%ea%b0%84-%ea%b0%90%eb%8f%85%ec%9d%b4-%ea%b2%b0%ec%a0%95%ec%a0%81-%eb%b3%80%ec%88%98.html",
-      "summary": "약 15만 건의 실제 에이전트 행동을 분석한 결과, AI는 반복 가능한 저위험 IT 업무에서 빠르게 자리를 잡고 있지만 인간의 지속적인 피드백 없이는 고도화가 불가능한 것으로 나타났다."
+      "date": "2026.08.11",
+      "link": "https://www.itworld.co.kr/article/4207011/agi%ec%97%90-%ec%98%ac%ec%9d%b8%ed%95%9c-%ea%b5%ac%ea%b8%80-%ec%95%8c%ed%8c%8c%eb%b2%b3-%ec%88%98%ec%84%9d-%ea%b3%bc%ed%95%99%ec%9e%90%eb%a1%9c-%ed%95%98%ec%82%ac%eb%b9%84%ec%8a%a4-%ec%84%a0%ec%9e%84.html",
+      "summary": "AGI 실현을 필생의 과업으로 삼아온 데미스 하사비스가 알파벳 수석 과학자직을 맡아, AGI 전략 수립 전면에 나선다. Credit: IB Photography / Shutterstock 구글 딥마인드의 핵심 동력이었던 구글 딥마인드 CEO 데미스 하사비스가 구글 모회사 알파벳의 수석 과학자직에 올랐다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "스마트 글라스 촬영 논란, 보안 컨퍼런스 입장 금지로 확산",
+      "title": "AI 에이전트의 IT 업무 자동화, 인간 감독이 결정적 변수",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.10",
-      "link": "https://www.itworld.co.kr/article/4205359/%ec%8a%a4%eb%a7%88%ed%8a%b8-%ea%b8%80%eb%9d%bc%ec%8a%a4-%ec%b4%ac%ec%98%81-%eb%85%bc%eb%9e%80-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8d%bc%eb%9f%b0%ec%8a%a4-%ec%9e%85%ec%9e%a5-%ea%b8%88%ec%a7%80%eb%a1%9c.html",
-      "summary": "스마트 글라스 시장이 급성장하는 가운데, 보안 컨퍼런스 데프콘이 녹화 기능 탑재 안경을 입장 금지 목록에 추가하며 사생활 보호 논쟁을 촉발했다. Credit: Mark Hachman / Foundry 보안 컨퍼런스 데프콘이 오디오·비디오 녹화 금지 기기 목록에 스마트 글라스를 추가했다. 시대 변화를 단적으로 보여주는 결정이다."
+      "date": "2026.08.11",
+      "link": "https://www.itworld.co.kr/article/4205385/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-it-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ec%9d%b8%ea%b0%84-%ea%b0%90%eb%8f%85%ec%9d%b4-%ea%b2%b0%ec%a0%95%ec%a0%81-%eb%b3%80%ec%88%98.html",
+      "summary": "약 15만 건의 실제 에이전트 행동을 분석한 결과, AI는 반복 가능한 저위험 IT 업무에서 빠르게 자리를 잡고 있지만 인간의 지속적인 피드백 없이는 고도화가 불가능한 것으로 나타났다."
     }
   ]
 }
