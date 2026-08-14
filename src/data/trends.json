@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-13T01:44:21.445Z",
-  "collectionDate": "2026.08.12",
-  "displayDate": "2026.08.13",
+  "updatedAt": "2026-08-14T01:42:26.617Z",
+  "collectionDate": "2026.08.13",
+  "displayDate": "2026.08.14",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "[유미's 픽] \"챗GPT에 회사 띄워준다\"…AEO·GEO 열풍에 과장 영업 기승",
+      "title": "삼성전자, AI 딥러닝·데이터 전문가 영입...반도체·제조 경쟁력 강화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.12",
-      "link": "https://zdnet.co.kr/view/?no=20260813103254",
-      "summary": "챗GPT 등 생성형 인공지능(AI) 답변에 기업과 제품을 노출하려는 수요가 커지면서 답변 엔진 최적화(AEO)·생성형 엔진 최적화(GEO) 시장도 빠르게 확대되고 있다. 성과 측정 기준과 방법론이 아직 충분히 정립되지 않은 가운데 일부 업체의 과장 영업 사례까지 잇따르면서 시장 신뢰도를 둘러싼 우려도 커지고 있다."
+      "date": "2026.08.13",
+      "link": "https://zdnet.co.kr/view/?no=20260814085819",
+      "summary": "삼성전자가 반도체 초격차 확보를 위한 AI 혁신에 나선다. 이를 위해 최근 반도체 연구개발(R&D)에 특화된 AI 모델 및 데이터 기반을 구축할 핵심 인재를 확보한 것으로 알려졌다. 14일 업계에 따르면 삼성전자는 딥러닝·비전 AI 분야 권위자 한보형 펠로우(Fellow)와 데이터 엔지니어링 전문가 한태린 상무를 영입했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "'고체 전해질' 기업 솔리비스, 시리즈C 투자 유치…글로벌 공략 본격화",
+      "title": "라온시큐어, '2026 코스닥 라이징스타' 신규 선정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.12",
-      "link": "https://zdnet.co.kr/view/?no=20260813100927",
-      "summary": "고체전해질 전문 기업 솔리비스가 230억원 규모 시리즈C 투자 유치를 마무리하면서 글로벌 사업 확대에 본격 나선다. 고체전해질 전문 기업 솔리비스(대표 신동욱)는 13일 시리즈C 투자 유치를 마무리했다며 이같이 밝혔다. 유치한 투자금은 글로벌 사업 기반 강화를 위한 운영 자금으로 활용하는 등 차세대 배터리 소재 시장 공략에 나설 계획이다."
+      "date": "2026.08.13",
+      "link": "https://zdnet.co.kr/view/?no=20260814103901",
+      "summary": "AI 보안·인증 플랫폼 기업 라온시큐어(대표 이순형·이정아)가 한국거래소가 주관하는 ‘2026 코스닥 라이징스타’에 새로 선정됐다. 코스닥 라이징스타는 한국거래소가 우수한 기술력과 재무 안정성, 성장 가능성을 갖춘 코스닥 상장기업을 발굴·육성하기 위해 2009년부터 운영하고 있는 제도다. 올해 총 18개사가 선정됐다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "코오롱스페이스웍스, 국산 복합소재로 우주·방산 공략",
+      "title": "\"인테리어 상담할 때 AI·3D 구현 이미지 주의하세요\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.12",
-      "link": "https://zdnet.co.kr/view/?no=20260813103257",
-      "summary": "코오롱스페이스웍스가 자체 개발한 복합소재를 국내 민간 우주발사체 핵심 부품에 적용하며 우주·방산 시장 공략에 나선다. 코오롱스페이스웍스는 오는 19일 브라질 알칸타라 우주센터에서 발사될 예정인 이노스페이스 다목적 준궤도 로켓 '세빛'에 복합소재 가압탱크를 공급한다고 13일 밝혔다."
+      "date": "2026.08.13",
+      "link": "https://zdnet.co.kr/view/?no=20260814103850",
+      "summary": "\"AI와 3D로 구현된 이미지가 정교하더라도 이를 최종 시공 기준으로 봐서는 안 돼요.\" 한국프롭테크포럼 AI인테리어협의는 AI·3D 기반 인테리어 상담과 계약 과정에서 소비자가 사전에 확인해야 할 주요 내용을 담은 ‘AI 인테리어 상담 전 소비자 확인 가이드라인’을 발표했다고 14일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈",
+      "title": "캐논코리아, 단국대·대광HIS와 AI 주사 시스템 개발 나서",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.12",
-      "link": "https://zdnet.co.kr/view/?no=20260813084929",
-      "summary": "오픈AI 고위 임원인 브래드 라이트캡이 새로운 벤처를 시작하기 위해 회사를 떠난다고 밝혔다. 오픈AI가 인공지능(AI) 수요 확대 속에 기업공개(IPO)를 준비하는 시점과 맞물리면서 이번 결정에 관심이 쏠린다."
+      "date": "2026.08.13",
+      "link": "https://zdnet.co.kr/view/?no=20260814103126",
+      "summary": "캐논코리아는 14일 단국대학교 산학협력단, 대광HIS와 차세대 무릎 관절강 치료 솔루션 개발 및 상용화를 위한 업무협약(MOU)을 맺었다고 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "문체부, '제18회 대통령 배 아마추어 이스포츠 대회' 결선 개최 예고",
+      "title": "국가유산청, 2026년 하반기 '덕수궁 밤의 석조전' 행사 운영...대한제국을 만나다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.12",
-      "link": "https://zdnet.co.kr/view/?no=20260813095303",
-      "summary": "문화체육관광부(이하 문체부)는 경주실내체육관에서 ‘제18회 대통령 배 아마추어 이스포츠 대회’ 전국 결선을 개최할 예정이라고 13일 밝혔다. 15일부터 16일까지 진행하는 이번 대회는 네이버 치지직·숲(SOOP)·유튜브를 통해 온라인으로 생중계하며, 누구나 현장에서 무료로 관람할 수 있다."
+      "date": "2026.08.13",
+      "link": "https://zdnet.co.kr/view/?no=20260814094110",
+      "summary": "국가유산청 궁능유적본부(본부장 조규형)는 국가유산진흥원과 함께 오는 2026년 하반기 ‘덕수궁 밤의 석조전’ 행사를 개최한다고 14일 밝혔다. 올해 이 행사는 다음달 9일부터 10월 18일까지 진행한다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "베타 코드에 숨겨진 6종의 아이폰, 애플이 준비 중인 것은",
+      "title": "AI 토큰을 많이 소비할수록 우수한 개발자인가",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.12",
-      "link": "https://www.itworld.co.kr/article/4208398/%eb%b2%a0%ed%83%80-%ec%bd%94%eb%93%9c%ec%97%90-%ec%88%a8%ea%b2%a8%ec%a7%84-6%ec%a2%85%ec%9d%98-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%a4%80%eb%b9%84-%ec%a4%91%ec%9d%b8-%ea%b2%83.html",
-      "summary": "애플 최신 베타 소프트웨어 내부 코드에서 아이폰 에어 2와 아이폰 울트라를 포함한 미출시 아이폰 6종의 코드명이 발견됐다. Credit: Ida Blix 애플이 일주일간의 지연 끝에 월요일, 개발자를 대상으로 iOS 27 베타 5를 공개했다. 다음 달 정식 출시를 앞두고 추가 변경사항과 개선 사항이 반영됐다."
+      "date": "2026.08.13",
+      "link": "https://www.itworld.co.kr/article/4209009/ai-%ed%86%a0%ed%81%b0%ec%9d%84-%eb%a7%8e%ec%9d%b4-%ec%86%8c%eb%b9%84%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9a%b0%ec%88%98%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%b8%ea%b0%80.html",
+      "summary": "AI 코딩 도구 도입이 가속화되는 가운데, 토큰 소비량을 개발자 우수성의 척도로 삼는 '토큰맥싱'이 코드 품질과 기업 재정을 동시에 갉아먹는 소프트웨어 공학계의 위험한 트렌드로 부상했다. Credit: Sergey Tinyakov / Shutterstock 요즘 들어 이런 생각이 든다. AI 없이 소프트웨어를 어떻게 만들었을까?"
     },
     {
       "id": 7,
       "number": "07",
-      "title": "보이지 않지만 지워지지 않는 워터마크, 클로드가 심는다",
+      "title": "코드를 모르는 개발자의 시대가 온다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.12",
-      "link": "https://www.itworld.co.kr/article/4208389/%eb%b3%b4%ec%9d%b4%ec%a7%80-%ec%95%8a%ec%a7%80%eb%a7%8c-%ec%a7%80%ec%9b%8c%ec%a7%80%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%9b%8c%ed%84%b0%eb%a7%88%ed%81%ac-%ed%81%b4%eb%a1%9c%eb%93%9c%ea%b0%80-%ec%8b%ac.html",
-      "summary": "EU AI 법 준수를 위해 앤트로픽이 클로드로 생성하거나 편집한 모든 콘텐츠에 비가시 워터마크를 삽입하는 기능을 곧 도입한다. Credit: Foundry AI가 생성한 텍스트를 식별하기가 훨씬 쉬워질 전망이다. 앤트로픽이 클로드로 생성된 모든 콘텐츠에 보이지 않는 AI 워터마크를 곧 삽입하겠다고 발표했다."
+      "date": "2026.08.13",
+      "link": "https://www.itworld.co.kr/article/4208967/%ec%bd%94%eb%93%9c%eb%a5%bc-%eb%aa%a8%eb%a5%b4%eb%8a%94-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%98%a8%eb%8b%a4.html",
+      "summary": "대규모 언어 모델이 프로그래밍 언어의 추상적 개념을 체득하는 시점이 오면, 인간이 읽을 수 있는 중간 언어 단계는 사라지고 자연어에서 기계어로 직행하는 새로운 개발 패러다임이 열릴 것으로 보인다. Credit: Matthew Henry 최초의 컴파일러 개발이 얼마나 획기적인 진전이었는지는 누구나 잘 알 것이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI가 바꾸는 노동 시장, 기술 부문만 나 홀로 성장",
+      "title": "“AI 글래스·딥페이크 대응 시급” 마에스트로 포렌식, 차세대 포렌식 솔루션 선보여",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.12",
-      "link": "https://www.itworld.co.kr/article/4207560/ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%eb%85%b8%eb%8f%99-%ec%8b%9c%ec%9e%a5-%ea%b8%b0%ec%88%a0-%eb%b6%80%eb%ac%b8%eb%a7%8c-%eb%82%98-%ed%99%80%eb%a1%9c-%ec%84%b1%ec%9e%a5.html",
-      "summary": "전체 고용이 감소하는 추세 속에서도 AI·데이터센터 수요가 기술 부문 채용을 끌어올리며, 직종과 산업별 양극화가 심화되고 있다. Credit: Rob Schultz / Unsplash 7월 미국 전체 일자리가 2만 3,000개 감소한 가운데, AI 혁명이 가속화하면서 기술 부문 고용은 반등했다."
+      "date": "2026.08.13",
+      "link": "https://www.itworld.co.kr/article/4208932/ai-%ea%b8%80%eb%9e%98%ec%8a%a4%c2%b7%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac-%eb%8c%80%ec%9d%91-%ec%8b%9c%ea%b8%89-%eb%a7%88%ec%97%90%ec%8a%a4%ed%8a%b8%eb%a1%9c-%ed%8f%ac%eb%a0%8c%ec%8b%9d-%ec%b0%a8.html",
+      "summary": "AI 기술의 발전이 범죄 수단으로 악용되는 현상이 심화되고 있다. 생성형 AI의 불법 악용은 물론 스마트 안경까지 범죄에 활용되면서, 기존 디지털 포렌식 체계로는 범죄 규명이 어려워지는 상황이 벌어지고 있다. Credit: Maestro Porensics AI 기반 범죄가 PC·스마트폰을 넘어 새로운 기기로 확산되고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI로 무장한 사이버 범죄, 가드레일 우회부터 공급망 침투까지",
+      "title": "브라우저 속 AI 기능, 파이어폭스에서 한번에 차단하는 법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.12",
-      "link": "https://www.itworld.co.kr/article/4207554/ai%eb%a1%9c-%eb%ac%b4%ec%9e%a5%ed%95%9c-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b2%94%ec%a3%84-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ec%9a%b0%ed%9a%8c%eb%b6%80%ed%84%b0-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ec%b9%a8.html",
-      "summary": "시스코 탈로스와 크라우드스트라이크의 보고서가 AI가 공격자의 일상 작전 전반에 자리 잡은 실태를 구체적으로 공개했다."
+      "date": "2026.08.13",
+      "link": "https://www.itworld.co.kr/article/4208374/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80-%ec%86%8d-ai-%ea%b8%b0%eb%8a%a5-%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4%ec%97%90%ec%84%9c-%ed%95%9c%eb%b2%88%ec%97%90-%ec%b0%a8%eb%8b%a8%ed%95%98%eb%8a%94.html",
+      "summary": "파이어폭스가 번역, 챗봇 등 각종 AI 기능을 클릭 한 번으로 비활성화하는 킬 스위치를 선보였다. Credit: Getty Images Bank 모질라는 파이어폭스 브라우저에 AI 기능 킬 스위치를 새로 추가했다. AI과 관련된 모든 기능을 클릭 한 번으로 비활성화할 수 있다. 먼저 파이어폭스 148 버전이 설치되어 있어야 한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "오픈텍스트, 9월 개인정보 보호법 개정 대응…콘텐츠 거버넌스로 규제 선제 대응",
+      "title": "베타 코드에 숨겨진 6종의 아이폰, 애플이 준비 중인 것은",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.12",
-      "link": "https://www.itworld.co.kr/article/4207710/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-9%ec%9b%94-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%b2%95-%ea%b0%9c%ec%a0%95-%eb%8c%80%ec%9d%91%ec%bd%98%ed%85%90%ec%b8%a0.html",
-      "summary": "곧 개정되는 『개인정보 보호법』 시행을 앞두고 기업들의 정보 거버넌스 체계 정비가 시급해지고 있다. Credit: Sundry Photography / shutterstock 오는 9월 11일 개정되는 『개인정보 보호법』 시행을 앞두고 기업들의 개인정보 보호체계 정비가 시급한 과제로 떠오르고 있다."
+      "date": "2026.08.13",
+      "link": "https://www.itworld.co.kr/article/4208398/%eb%b2%a0%ed%83%80-%ec%bd%94%eb%93%9c%ec%97%90-%ec%88%a8%ea%b2%a8%ec%a7%84-6%ec%a2%85%ec%9d%98-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%a4%80%eb%b9%84-%ec%a4%91%ec%9d%b8-%ea%b2%83.html",
+      "summary": "애플 최신 베타 소프트웨어 내부 코드에서 아이폰 에어 2와 아이폰 울트라를 포함한 미출시 아이폰 6종의 코드명이 발견됐다. Credit: Ida Blix 애플이 일주일간의 지연 끝에 월요일, 개발자를 대상으로 iOS 27 베타 5를 공개했다. 다음 달 정식 출시를 앞두고 추가 변경사항과 개선 사항이 반영됐다."
     }
   ]
 }
