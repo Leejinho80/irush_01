@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T01:04:54.668Z",
-  "collectionDate": "2026.08.16",
-  "displayDate": "2026.08.17",
+  "updatedAt": "2026-08-18T01:02:52.746Z",
+  "collectionDate": "2026.08.17",
+  "displayDate": "2026.08.18",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"영상 보고 AI 쓰고\"...이통3사, 5G·LTE 통합 요금제에 OTT·AI 구독 장착",
+      "title": "중장년층 맞춤 우체국 체크카드 출시...우체국 쇼핑 10% 캐시백",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.16",
-      "link": "https://zdnet.co.kr/view/?no=20260814222156",
-      "summary": "SK텔레콤, KT, LG유플러스 등 이통 3사가 최근 영상 소비와 AI 활용이 급증하는 추세에 따라 중고가 5G·LTE 통합 요금제에 OTT·AI 구독 서비스를 기본 구성으로 포함해 무료로 제공하고 있다."
+      "date": "2026.08.17",
+      "link": "https://zdnet.co.kr/view/?no=20260818095215",
+      "summary": "우체국쇼핑 10% 캐시백, 외식·건강·운동 5% 캐시백 이벤트가 담긴 우체국 체크카드가 출시된다. 우정사업본부는 중장년층 가입자 주요 소비패턴과 선호 서비스를 반영한 ‘우체국 마이 올데이(MY ALL DAY) 체크카드’를 선보인다고 18일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "[AI 고속도로] AI 데이터센터 수혜 본격화…서버 기업들 잇따라 '역대급 실적'",
+      "title": "삼성전자, 삼성D 차입금 '20조' 미리 다 갚았다…AI 메모리 효과",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.16",
-      "link": "https://zdnet.co.kr/view/?no=20260817074610",
-      "summary": "빅테크 기업들의 인공지능(AI) 인프라 구축 경쟁이 본격화되면서 서버 기업과 클라우드 기업들이 일제히 수혜를 입고 있다. 17일 업계에 따르면 최근 실적을 발표한 슈퍼마이크로와 레노버를 비롯해 델테크놀로지스와 휴렛팩커드엔터프라이즈(HPE) 등 주요 서버 기업들이 AI 인프라 수요 확대에 힘입어 잇따라 시장 기대치를 웃도는 실적을 기록하고 있다."
+      "date": "2026.08.17",
+      "link": "https://zdnet.co.kr/view/?no=20260818094220",
+      "summary": "삼성전자가 과거 삼성디스플레이로부터 빌렸던 차입금 20조원을 전액 조기 상환했다. 인공지능(AI) 산업 주도로 메모리 슈퍼사이클이 본격화하면서 삼성전자가 보유한 현금성 자산도 급증한 결과다. 18일 금융감독원 전자공시시스템에 따르면 삼성전자는 삼성디스플레이로부터 차입한 무담보차입금 20조원을 올 2분기 중 전액 상환했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "AI가 알아서 처리한다…앤트로픽, 클로드 코드 자동 모드 기본 탑재",
+      "title": "[인사] 보건복지부",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.16",
-      "link": "https://zdnet.co.kr/view/?no=20260817092453",
-      "summary": "앤트로픽(Anthropic)이 8월 14일부터 코딩 도구 클로드 코드(Claude Code)의 자동 모드(auto mode)를 기본값으로 전환한다. 테크크런치(TechCrunch)에 따르면 프로(Pro), 맥스(Max), 팀(Team) 요금제 사용자가 대상이다."
+      "date": "2026.08.17",
+      "link": "https://zdnet.co.kr/view/?no=20260814124227",
+      "summary": "◇과장급 <전보> ▲아동학대대응과장 양진혁 ▲생명윤리정책과장 모두순 ▲필수의료정책과장 백경순 (2026. 08. 18."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "여성 창업 스타트업이 엑시트 성공 확률 높이는 방법",
+      "title": "수소충전소, 승용차 넘어 버스·트럭으로…2040년 4732개소 전망",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.16",
-      "link": "https://zdnet.co.kr/view/?no=20260816221634",
-      "summary": "스타트업 창업가들의 최종 관문으로 불리는 기업공개(IPO)나 인수합병(M&A) 등 '투자회수'(이하 엑시트) 시장에서 여성 창업가들이 겪는 '유리 벽'을 깰 실마리가 제시됐다. 여성 창업자가 이끄는 스타트업이 최고경영진에 여성 임원을 함께 배치할 경우, 엑시트 성공률이 최대 5배까지 급증한다는 연구 결과다."
+      "date": "2026.08.17",
+      "link": "https://zdnet.co.kr/view/?no=20260818094427",
+      "summary": "세계 수소충전소 시장이 승용차 중심에서 버스·트럭과 물류거점 중심으로 재편되면서 2040년 누적 충전소가 기준 시나리오에서 4732개소에 이를 것이라는 전망이 나왔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "붉은 행성에 루비 존재할까…NASA 로버, 화성서 보석 광물 발견 [우주로 간다]",
+      "title": "디엘지, 일본 SAKURA 법률사무소와 협력…한일 기업 법률지원 강화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.16",
-      "link": "https://zdnet.co.kr/view/?no=20260815063504",
-      "summary": "화성에서 활동 중인 미국 항공우주국(NASA)의 탐사 로버 ‘퍼서비어런스’가 화성 암석에서 지금까지 발견된 적 없는 희귀 광물을 찾아냈다. 지구에서 루비와 사파이어의 원석이 되는 광물인 만큼, 화성의 지질학적 변화와 과거 환경을 밝혀낼 새로운 단서가 될 것으로 기대된다."
+      "date": "2026.08.17",
+      "link": "https://zdnet.co.kr/view/?no=20260818094305",
+      "summary": "법무법인 디엘지(DLG Law Corporation, 대표변호사 조원희·안희철)가 일본 SAKURA 법률사무소와 한일 기업의 시장 진출 및 국경 간 거래에 관한 법률지원을 강화하기 위한 업무협약(MOU)을 14일 체결했다. 두 회사가 축적한 전문 지식과 실무 경험, 인적 자원 및 국제 네트워크를 결합해 사안별 특성에 맞는 공동 전문가팀을 구성한다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 토큰을 많이 소비할수록 우수한 개발자인가",
+      "title": "“매출 400억 달러, 윤리 책임자 0명” 오픈AI의 AI 수장들 잇단 이탈",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.16",
-      "link": "https://www.itworld.co.kr/article/4209009/ai-%ed%86%a0%ed%81%b0%ec%9d%84-%eb%a7%8e%ec%9d%b4-%ec%86%8c%eb%b9%84%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9a%b0%ec%88%98%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%b8%ea%b0%80.html",
-      "summary": "AI 코딩 도구 도입이 가속화되는 가운데, 토큰 소비량을 개발자 우수성의 척도로 삼는 '토큰맥싱'이 코드 품질과 기업 재정을 동시에 갉아먹는 소프트웨어 공학계의 위험한 트렌드로 부상했다. Credit: Sergey Tinyakov / Shutterstock 요즘 들어 이런 생각이 든다. AI 없이 소프트웨어를 어떻게 만들었을까?"
+      "date": "2026.08.17",
+      "link": "https://www.itworld.co.kr/article/4210731/%eb%a7%a4%ec%b6%9c-400%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%9c%a4%eb%a6%ac-%ec%b1%85%ec%9e%84%ec%9e%90-0%eb%aa%85-%ec%98%a4%ed%94%88ai%ec%9d%98-ai-%ec%88%98%ec%9e%a5%eb%93%a4-%ec%9e%87%eb%8b%a8.html",
+      "summary": "오픈AI에서 안전·윤리 부문 고위 임원들이 연이어 이탈하며, IPO를 앞둔 기업 거버넌스를 향한 의문이 갈수록 깊어지고 있다. Credit: Shutterstock / doomu 파이낸셜타임즈가 오픈AI의 AI 윤리 책임자 클로에 바칼라르가 합류 1년 만에 퇴사했다고 보도했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "코드를 모르는 개발자의 시대가 온다",
+      "title": "씨클리너 위장 악성코드, 크롬을 자격증명 탈취 감시 도구로 악용",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.16",
-      "link": "https://www.itworld.co.kr/article/4208967/%ec%bd%94%eb%93%9c%eb%a5%bc-%eb%aa%a8%eb%a5%b4%eb%8a%94-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%98%a8%eb%8b%a4.html",
-      "summary": "대규모 언어 모델이 프로그래밍 언어의 추상적 개념을 체득하는 시점이 오면, 인간이 읽을 수 있는 중간 언어 단계는 사라지고 자연어에서 기계어로 직행하는 새로운 개발 패러다임이 열릴 것으로 보인다. Credit: Matthew Henry 최초의 컴파일러 개발이 얼마나 획기적인 진전이었는지는 누구나 잘 알 것이다."
+      "date": "2026.08.17",
+      "link": "https://www.itworld.co.kr/article/4210717/%ec%94%a8%ed%81%b4%eb%a6%ac%eb%84%88-%ec%9c%84%ec%9e%a5-%ec%95%85%ec%84%b1%ec%bd%94%eb%93%9c-%ed%81%ac%eb%a1%ac%ec%9d%84-%ec%9e%90%ea%b2%a9%ec%a6%9d%eb%aa%85-%ed%83%88%ec%b7%a8-%ea%b0%90%ec%8b%9c.html",
+      "summary": "씨클리너(CCleaner)를 사칭한 다운로드 사이트가 크롬을 가로채 자격증명과 쿠키, 인증 토큰을 탈취하고 키입력과 스크린샷까지 기록하는 다단계 악성코드를 유포하고 있다. Credit: CCCleaner 널리 사용되는 씨클리너 유틸리티의 정교한 위조 버전이 다단계 윈도우 악성코드를 배포하는 수단으로 악용되고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“AI 글래스·딥페이크 대응 시급” 마에스트로 포렌식, 차세대 포렌식 솔루션 선보여",
+      "title": "AI 토큰을 많이 소비할수록 우수한 개발자인가",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.16",
-      "link": "https://www.itworld.co.kr/article/4208932/ai-%ea%b8%80%eb%9e%98%ec%8a%a4%c2%b7%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac-%eb%8c%80%ec%9d%91-%ec%8b%9c%ea%b8%89-%eb%a7%88%ec%97%90%ec%8a%a4%ed%8a%b8%eb%a1%9c-%ed%8f%ac%eb%a0%8c%ec%8b%9d-%ec%b0%a8.html",
-      "summary": "AI 기술의 발전이 범죄 수단으로 악용되는 현상이 심화되고 있다. 생성형 AI의 불법 악용은 물론 스마트 안경까지 범죄에 활용되면서, 기존 디지털 포렌식 체계로는 범죄 규명이 어려워지는 상황이 벌어지고 있다. Credit: Maestro Porensics AI 기반 범죄가 PC·스마트폰을 넘어 새로운 기기로 확산되고 있다."
+      "date": "2026.08.17",
+      "link": "https://www.itworld.co.kr/article/4209009/ai-%ed%86%a0%ed%81%b0%ec%9d%84-%eb%a7%8e%ec%9d%b4-%ec%86%8c%eb%b9%84%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9a%b0%ec%88%98%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%b8%ea%b0%80.html",
+      "summary": "AI 코딩 도구 도입이 가속화되는 가운데, 토큰 소비량을 개발자 우수성의 척도로 삼는 '토큰맥싱'이 코드 품질과 기업 재정을 동시에 갉아먹는 소프트웨어 공학계의 위험한 트렌드로 부상했다. Credit: Sergey Tinyakov / Shutterstock 요즘 들어 이런 생각이 든다. AI 없이 소프트웨어를 어떻게 만들었을까?"
     },
     {
       "id": 9,
       "number": "09",
-      "title": "브라우저 속 AI 기능, 파이어폭스에서 한번에 차단하는 법",
+      "title": "코드를 모르는 개발자의 시대가 온다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.16",
-      "link": "https://www.itworld.co.kr/article/4208374/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80-%ec%86%8d-ai-%ea%b8%b0%eb%8a%a5-%ed%8c%8c%ec%9d%b4%ec%96%b4%ed%8f%ad%ec%8a%a4%ec%97%90%ec%84%9c-%ed%95%9c%eb%b2%88%ec%97%90-%ec%b0%a8%eb%8b%a8%ed%95%98%eb%8a%94.html",
-      "summary": "파이어폭스가 번역, 챗봇 등 각종 AI 기능을 클릭 한 번으로 비활성화하는 킬 스위치를 선보였다. Credit: Getty Images Bank 모질라는 파이어폭스 브라우저에 AI 기능 킬 스위치를 새로 추가했다. AI과 관련된 모든 기능을 클릭 한 번으로 비활성화할 수 있다. 먼저 파이어폭스 148 버전이 설치되어 있어야 한다."
+      "date": "2026.08.17",
+      "link": "https://www.itworld.co.kr/article/4208967/%ec%bd%94%eb%93%9c%eb%a5%bc-%eb%aa%a8%eb%a5%b4%eb%8a%94-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%98-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%98%a8%eb%8b%a4.html",
+      "summary": "대규모 언어 모델이 프로그래밍 언어의 추상적 개념을 체득하는 시점이 오면, 인간이 읽을 수 있는 중간 언어 단계는 사라지고 자연어에서 기계어로 직행하는 새로운 개발 패러다임이 열릴 것으로 보인다. Credit: Matthew Henry 최초의 컴파일러 개발이 얼마나 획기적인 진전이었는지는 누구나 잘 알 것이다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "베타 코드에 숨겨진 6종의 아이폰, 애플이 준비 중인 것은",
+      "title": "“AI 글래스·딥페이크 대응 시급” 마에스트로 포렌식, 차세대 포렌식 솔루션 선보여",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.16",
-      "link": "https://www.itworld.co.kr/article/4208398/%eb%b2%a0%ed%83%80-%ec%bd%94%eb%93%9c%ec%97%90-%ec%88%a8%ea%b2%a8%ec%a7%84-6%ec%a2%85%ec%9d%98-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%a4%80%eb%b9%84-%ec%a4%91%ec%9d%b8-%ea%b2%83.html",
-      "summary": "애플 최신 베타 소프트웨어 내부 코드에서 아이폰 에어 2와 아이폰 울트라를 포함한 미출시 아이폰 6종의 코드명이 발견됐다. Credit: Ida Blix 애플이 일주일간의 지연 끝에 월요일, 개발자를 대상으로 iOS 27 베타 5를 공개했다. 다음 달 정식 출시를 앞두고 추가 변경사항과 개선 사항이 반영됐다."
+      "date": "2026.08.17",
+      "link": "https://www.itworld.co.kr/article/4208932/ai-%ea%b8%80%eb%9e%98%ec%8a%a4%c2%b7%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac-%eb%8c%80%ec%9d%91-%ec%8b%9c%ea%b8%89-%eb%a7%88%ec%97%90%ec%8a%a4%ed%8a%b8%eb%a1%9c-%ed%8f%ac%eb%a0%8c%ec%8b%9d-%ec%b0%a8.html",
+      "summary": "AI 기술의 발전이 범죄 수단으로 악용되는 현상이 심화되고 있다. 생성형 AI의 불법 악용은 물론 스마트 안경까지 범죄에 활용되면서, 기존 디지털 포렌식 체계로는 범죄 규명이 어려워지는 상황이 벌어지고 있다. Credit: Maestro Porensics AI 기반 범죄가 PC·스마트폰을 넘어 새로운 기기로 확산되고 있다."
     }
   ]
 }
