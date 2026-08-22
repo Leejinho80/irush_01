@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T01:06:36.915Z",
-  "collectionDate": "2026.08.20",
-  "displayDate": "2026.08.21",
+  "updatedAt": "2026-08-22T01:03:14.822Z",
+  "collectionDate": "2026.08.21",
+  "displayDate": "2026.08.22",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "닷밀, 몰입형 전시 '드래곤볼 히어로즈 라이즈 아시아투어 서울' 그랜드 오픈 D-1",
+      "title": "휴머노이드, 대규모 양산 본격화…상위권 中 기업이 싹쓸이",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.20",
-      "link": "https://zdnet.co.kr/view/?no=20260821100550",
-      "summary": "콘텐츠 기반 공간 솔루션 기업 닷밀(대표 정해운)은 몰입형 인터랙티브 전시 ‘드래곤볼 히어로즈 라이즈 아시아 투어 인 서울(DRAGON BALL HEROES RISE ASIA TOUR IN SEOUL)’의 그랜드 오픈이 하루 앞으로 다가왔다고 21일 밝혔다."
+      "date": "2026.08.21",
+      "link": "https://zdnet.co.kr/view/?no=20260821170045",
+      "summary": "글로벌 휴머노이드 시장이 단순 기술 실증(PoC) 단계를 넘어 대규모 상업화 국면에 진입했다. 제조 라인과 물류 현장, 무인 리테일 등으로 적용 영역이 확대되는 가운데, 중국 기업들이 시장 점유율 상위권을 장악한 것으로 나타났다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "인도, BRICS 통신장관회의 의장국 개최",
+      "title": "'맥북 울트라' 다음 달 나오나…6가지 신기능은?",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.20",
-      "link": "https://zdnet.co.kr/view/?no=20260821091515",
-      "summary": "인도가 브라질 브라질·러시아·인도·중국·남아프리카공화국 등 브릭스(BRICS) 국가 의장국으로서 제12차 BRICS 통신장관회의를 개최한다. 20일(현지시간) 인도 언론사 프리프레스저널 등에 따르면, 조티라디티아 신디아 인도 통신부 장관이 의장을 맡아 21일 인도 푸네에서 BRICS 통신장관회의를 진행한다."
+      "date": "2026.08.21",
+      "link": "https://zdnet.co.kr/view/?no=20260821153619",
+      "summary": "애플이 다음 달 ‘울트라’ 라인업 확대의 일환으로 새로운 맥북 울트라를 출시할 것이라는 전망이 나오고 있다. IT매체 나인투파이브맥은 최근 보도를 통해 맥북 울트라에 탑재될 것으로 예상되는 6가지 주요 신기능을 소개했다. 1. 더 얇고 가벼운 새 디자인 블룸버그에 따르면 새 맥북 현재 맥북 프로보다 얇고 가벼운 새로운 디자인을 채택할 것으로 알려졌다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "SSG닷컴, '데뷔 40주년' 조수미 기념메달 판매",
+      "title": "삼성전자, 올 상반기 TV 출하량 1위 수성…미니 LED TV 약진",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.20",
-      "link": "https://zdnet.co.kr/view/?no=20260821084419",
-      "summary": "SSG닷컴은 한국조폐공사와 협력해 소프라노 조수미의 세계 무대 데뷔 40주년을 기념하는 공식 메달을 제작해 판매하며 귀금속 분야 경쟁력을 높인다고 21일 밝혔다. 지난 20일 서울 중구에서 열린 출시 기념행사에는 소프라노 조수미와 최택원 SSG닷컴 대표, 성창훈 한국조폐공사 사장이 참석해 기념메달을 공개했다."
+      "date": "2026.08.21",
+      "link": "https://zdnet.co.kr/view/?no=20260821233749",
+      "summary": "삼성전자의 올 상반기 TV 출하량이 전년 동기 대비 6.3% 증가한 1760만대로 집계됐다. 업계 1위 규모로, 특히 미니 LED TV 라인업 강화가 주요한 영향을 미친 것으로 풀이된다. 22일 시장조사업체 트렌드포스에 따르면 올 상반기 글로벌 TV 출하량은 전분기 대비 1.3% 증가한 9374만대로 집계됐다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "콴델라, 상온 광자기반 양자컴퓨팅 한국보급 나서",
+      "title": "우주인 '빨래 고민' 끝…옷 세탁하는 총 나왔다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.20",
-      "link": "https://zdnet.co.kr/view/?no=20260821100241",
-      "summary": "\"양자컴퓨팅 관점에서 콴델라가 보는 한국시장 장점은 양자컴 제조공정이 반도체 제조공정과 80% 이상 같다는 것이다.\" 글로벌 광자 기반 양자컴퓨팅 기업 콴델라(Quandela)의 김유석 한국 지시장이 최근 한국의 퀀텀 AI 전문기업 큐에이아이(대표 임세만, QAI)와 전략적 업무협약을 체결하고 사업 확대에 함께 나서기로 한 배경이다."
+      "date": "2026.08.21",
+      "link": "https://zdnet.co.kr/view/?no=20260821153133",
+      "summary": "우주에 체류하는 우주비행사들의 골칫거리 중 하나는 빨래였다. 우주에서는 빨래를 할 수 없어 같은 옷을 몇 주동안 입어야 했다. 우주에서 입던 옷은 밀폐된 봉투에 담아 지구로 가져와 세탁하거나 대기권 진입 시 태워버리는 방식이 일반적이었다. 단기 우주 임무를 수행할 때는 이런 방법을 사용해도 큰 무리는 없었다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "스마일게이트, 댓츠노문 개발 '크로스파이어' 액션 어드벤처 장르 다큐멘터리 1편 공개",
+      "title": "[영상] \"보고서에만 AI 쓰는 기업, 결국 뒤처진다\"…포티투마루의 AX 생존법",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.20",
-      "link": "https://zdnet.co.kr/view/?no=20260821095925",
-      "summary": "스마일게이트는 글로벌 개발사 댓츠노문(That’s No Moon)이 제작 중인 AAA 싱글 플레이 액션 어드벤처 신작 ‘크로스파이어(Crossfire)’의 개발 철학과 핵심 기술 개발 과정을 담은 비하인드 다큐멘터리 1편을 공개했다고 21일 밝혔다."
+      "date": "2026.08.21",
+      "link": "https://zdnet.co.kr/view/?no=20260821164652",
+      "summary": "\"보고서 쓸 때, 자료 정리할 때만 인공지능(AI)을 쓰는 게 아닙니다. 이제 AI는 모든 활동에서 자연스럽게 활용하는 '반려 기술'이라고 생각해야 합니다.\" 김동환 포티투마루 대표는 21일 영상 인터뷰에서 AI를 특정 업무에만 한정해 적용하는 방식으로는 AI 전환(AX)의 본질을 구현할 수 없다고 강조했다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "카메라 없이도 침입 감지, 라우터가 감시 장치로 진화하는 시대",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "link": "https://www.itworld.co.kr/article/4211719/%ec%b9%b4%eb%a9%94%eb%9d%bc-%ec%97%86%ec%9d%b4%eb%8f%84-%ec%b9%a8%ec%9e%85-%ea%b0%90%ec%a7%80-%eb%9d%bc%ec%9a%b0%ed%84%b0%ea%b0%80-%ea%b0%90%ec%8b%9c-%ec%9e%a5%ec%b9%98%eb%a1%9c-%ec%a7%84%ed%99%94.html",
       "summary": "컴캐스트의 와이파이 모션은 기존 라우터를 실내 모션 감지 장치로 전환하는 기술로, 편의성과 프라이버시 침해 가능성이라는 두 가지 상반된 평가를 동시에 받고 있다. Credit: New Africa/Shutterstock."
     },
@@ -74,7 +74,7 @@
       "title": "윈도우 XP 시대의 유산 WMIC는 퇴장, 파워셸은 부상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "link": "https://www.itworld.co.kr/article/4211245/%ec%9c%88%eb%8f%84%ec%9a%b0-xp-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%9c%a0%ec%82%b0-wmic%eb%8a%94-%ed%87%b4%ec%9e%a5-%ed%8c%8c%ec%9b%8c%ec%85%b8%ec%9d%80-%eb%b6%80%ec%83%81.html",
       "summary": "윈도우 11 프리뷰 업데이트 KB5120998이 WMIC를 완전히 삭제하면서, 관련 스크립트를 운용 중인 IT 관리자의 빠른 대응이 요구된다."
     },
@@ -84,7 +84,7 @@
       "title": "“매출 400억 달러, 윤리 책임자 0명” 오픈AI의 AI 수장들 잇단 이탈",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "link": "https://www.itworld.co.kr/article/4210731/%eb%a7%a4%ec%b6%9c-400%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%9c%a4%eb%a6%ac-%ec%b1%85%ec%9e%84%ec%9e%90-0%eb%aa%85-%ec%98%a4%ed%94%88ai%ec%9d%98-ai-%ec%88%98%ec%9e%a5%eb%93%a4-%ec%9e%87%eb%8b%a8.html",
       "summary": "오픈AI에서 안전·윤리 부문 고위 임원들이 연이어 이탈하며, IPO를 앞둔 기업 거버넌스를 향한 의문이 갈수록 깊어지고 있다. Credit: Shutterstock / doomu 파이낸셜타임즈가 오픈AI의 AI 윤리 책임자 클로에 바칼라르가 합류 1년 만에 퇴사했다고 보도했다."
     },
@@ -94,7 +94,7 @@
       "title": "씨클리너 위장 악성코드, 크롬을 자격증명 탈취 감시 도구로 악용",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "link": "https://www.itworld.co.kr/article/4210717/%ec%94%a8%ed%81%b4%eb%a6%ac%eb%84%88-%ec%9c%84%ec%9e%a5-%ec%95%85%ec%84%b1%ec%bd%94%eb%93%9c-%ed%81%ac%eb%a1%ac%ec%9d%84-%ec%9e%90%ea%b2%a9%ec%a6%9d%eb%aa%85-%ed%83%88%ec%b7%a8-%ea%b0%90%ec%8b%9c.html",
       "summary": "씨클리너(CCleaner)를 사칭한 다운로드 사이트가 크롬을 가로채 자격증명과 쿠키, 인증 토큰을 탈취하고 키입력과 스크린샷까지 기록하는 다단계 악성코드를 유포하고 있다. Credit: CCCleaner 널리 사용되는 씨클리너 유틸리티의 정교한 위조 버전이 다단계 윈도우 악성코드를 배포하는 수단으로 악용되고 있다."
     },
@@ -104,7 +104,7 @@
       "title": "AI 토큰을 많이 소비할수록 우수한 개발자인가",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.20",
+      "date": "2026.08.21",
       "link": "https://www.itworld.co.kr/article/4209009/ai-%ed%86%a0%ed%81%b0%ec%9d%84-%eb%a7%8e%ec%9d%b4-%ec%86%8c%eb%b9%84%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9a%b0%ec%88%98%ed%95%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90%ec%9d%b8%ea%b0%80.html",
       "summary": "AI 코딩 도구 도입이 가속화되는 가운데, 토큰 소비량을 개발자 우수성의 척도로 삼는 '토큰맥싱'이 코드 품질과 기업 재정을 동시에 갉아먹는 소프트웨어 공학계의 위험한 트렌드로 부상했다. Credit: Sergey Tinyakov / Shutterstock 요즘 들어 이런 생각이 든다. AI 없이 소프트웨어를 어떻게 만들었을까?"
     }
