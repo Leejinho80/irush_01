@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T01:07:09.859Z",
-  "collectionDate": "2026.08.25",
-  "displayDate": "2026.08.26",
+  "updatedAt": "2026-08-27T07:13:05.294Z",
+  "collectionDate": "2026.08.26",
+  "displayDate": "2026.08.27",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "퀄컴 \"새 오라이언 CPU, 모바일 최초 작동클록 5GHz 돌파\"",
+      "title": "삼성전자 DX부문, AI로 특허출원비 10~30% 절감...AX 차원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.25",
-      "link": "https://zdnet.co.kr/view/?no=20260826090104",
-      "summary": "퀄컴이 25일(현지시간) 스마트폰용 차세대 스냅드래곤 시스템반도체(SoC)의 최대 작동 클록이 5GHz를 넘길 것이라고 밝혔다. 퀄컴이 작년 공개한 스마트폰용 SoC인 스냅드래곤8 엘리트 5세대의 최대 작동 클록은 4.6GHz였다. 삼성전자 스마트폰에만 공급되는 갤럭시용 스냅드래곤8 엘리트 5세대의 최대 작동 클록은 4.74GHz였다."
+      "date": "2026.08.26",
+      "link": "https://zdnet.co.kr/view/?no=20260827154855",
+      "summary": "삼성전자 완제품(DX)부문이 인공지능(AI)을 활용해 특허 출원(신청) 비용을 10~30% 낮추는 방안을 시행 중인 것으로 27일 파악됐다. 중요도가 낮은 특허에 우선 적용 중이다. 특허 출원을 준비하는 기술의 신규성과 진보성을 파악하기 위해 선행기술을 조사하고, 특허명세서 작성 과정에 AI 활용을 확대하는 것이 뼈대다. AI 전환(AX) 차원이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "\"최대 15% 적립\"…네이버, '현대카드 에디션3' 내놨다",
+      "title": "유럽 접수한 BYD PHEV 한국 상륙…'씨라이언 6' 국내 출고 시동",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.25",
-      "link": "https://zdnet.co.kr/view/?no=20260826094330",
-      "summary": "네이버는 현대카드와 협력해 네이버플러스 스토어의 사용 빈도가 높은 이용자에게 보다 많은 혜택을 제공하도록 설계된 '네이버 현대카드 에디션3'를 선보인다고 26일 밝혔다. 양사는 이전 버전 대비 쇼핑 적립 혜택을 강화하는 동시에 연회비와 전월 이용실적 기준도 낮췄다."
+      "date": "2026.08.26",
+      "link": "https://zdnet.co.kr/view/?no=20260827154756",
+      "summary": "유럽 플러그인하이브리드(PHEV) 시장에서 판매 1위를 기록한 BYD '씨라이언 6 DM-i'가 국내 고객 인도를 시작했다. 유럽에서 기존 완성차 업체의 주력 모델을 제친 검증된 상품성과 3750만원의 가격을 앞세워 올 하반기 국내 친환경차 시장의 기대주로 떠오를 전망이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "LG CNS-네이버클라우드, 액체냉각 AI 인프라 구축한다…'베라 루빈' 고발열 대응",
+      "title": "엔비디아·리벨리온, 왜 만났나?…업계 \"인수 가능성 낮아\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.25",
-      "link": "https://zdnet.co.kr/view/?no=20260826090643",
-      "summary": "LG CNS가 인공지능(AI) 팩토리 인프라 시장 선점을 목표로 첨단 그래픽처리장치(GPU)의 고발열·고밀도 전력에 대응 가능한 액체냉각 적용에 앞장선다. LG CNS는 네이버클라우드와 손잡고 차세대 냉각 기술인 액체냉각 인프라 구축에 나선다고 26일 밝혔다."
+      "date": "2026.08.26",
+      "link": "https://zdnet.co.kr/view/?no=20260827151542",
+      "summary": "최근 젠슨 황 엔비디아 최고경영자(CEO)와 국내 대표 인공지능(AI) 반도체 팹리스 리벨리온의 박성현 대표가 회동한 가운데 구체적인 협력 방안에 대해 업계의 이목이 쏠리고 있다. 일부 외신 보도를 중심으로 인수합병(M&A) 추진설까지 제기됐지만, 복잡하게 얽힌 주주 구성과 정부의 AI 주권 육성 기조가 맞물려 성사되기 어렵다는 분석이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "LG전자, 세계 최초 FHD 1000Hz 게이밍 모니터 출시",
+      "title": "신현송 \"연속 금리인상 선제대응\"…경제성장률 전망치 3.3%로 상향 조정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.25",
-      "link": "https://zdnet.co.kr/view/?no=20260826092146",
-      "summary": "LG전자가 세계 최초로 풀HD(FHD) 해상도에서 1000헤르츠(Hz) 초고주사율을 기본 지원하는 차세대 프리미엄 게이밍 모니터를 선보인다. LG전자는 네이티브 1000Hz를 구현한 'LG 울트라기어' 신제품(모델명: 25G590B)을 국내 시장에 출시한다고 26일 밝혔다."
+      "date": "2026.08.26",
+      "link": "https://zdnet.co.kr/view/?no=20260827141235",
+      "summary": "한국은행이 기준금리를 7월에 이어 8월에도 2개월 연속 인상했다. 이에 대해 신현송 한은 총재는 물가 인상이 더 확산되기 전 선제 대응하기 위한 차원이라고 밝히며, 올해 국내 경제성장률 전망치는 반도체 경기 호조에 힘입어 지난 5월 전망(2.6%) 때보다 0.7%p 상향 조정한 3.3%라고 관측했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "핵심 업무도 AI가 한다…롯데백화점, ‘브랜드 AI’ 도입",
+      "title": "넥슨 '헬로메이플', 코딩 만화 2권 연계 신규 월드 2종 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.25",
-      "link": "https://zdnet.co.kr/view/?no=20260826091735",
-      "summary": "롯데백화점이 백화점의 핵심 업무인 MD(브랜드·상품기획)에 사내 인공지능(AI) 접목한다. AI의 역할을 ‘업무 효율화 도구’를 넘어 실무진의 사고를 돕는 ‘생산성 파트너’로 확장하는 것이다. 롯데백화점은 사내 AI 시스템 ‘브랜드 AI’를 구축해 현업에 도입했다고 26일 밝혔다."
+      "date": "2026.08.26",
+      "link": "https://zdnet.co.kr/view/?no=20260827150334",
+      "summary": "넥슨이 블록 코딩 플랫폼 ‘헬로메이플’에 과학 만화 ‘헬로메이플 2’와 연계한 신규 월드 2종을 선보이며 에듀테크 콘텐츠 확장에 나섰다. 넥슨코리아(공동대표 강대현, 김정욱)는 코딩 사고력 과학 만화 ‘헬로메이플 2’ 연계 신규 월드 2종을 헬로메이플 플랫폼에 출시했다고 27일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "링크드인 ‘AI 슬롭 신고’ 버튼, 출시 3주 만에 100만 클릭 돌파",
+      "title": "슬랙, 개발자·비기술 직원 함께 쓰는 AI 코딩 채널 ‘슬랙 코드’ 출시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.25",
-      "link": "https://www.itworld.co.kr/article/4213312/%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-ai-%ec%8a%ac%eb%a1%ad-%ec%8b%a0%ea%b3%a0-%eb%b2%84%ed%8a%bc-%ec%b6%9c%ec%8b%9c-3%ec%a3%bc-%eb%a7%8c%ec%97%90-100%eb%a7%8c-%ed%81%b4%eb%a6%ad-%eb%8f%8c.html",
-      "summary": "사용자 신고 버튼 하나로 AI 스팸 게시물 조회수가 최대 40% 감소했다. Credit: Foundry 몇 주 전, 링크드인은 소셜미디어 플랫폼 내 스팸 의심 게시물을 신고하는 “AI 슬롭 같음(seems like AI slop)”을 신고하는 버튼 테스트를 시작했다. ‘AI 슬롭’은 AI가 생성한 저품질·무성의 콘텐츠를 일컫는 신조어다."
+      "date": "2026.08.26",
+      "link": "https://www.itworld.co.kr/article/4214539/%ec%8a%ac%eb%9e%99-%ea%b0%9c%eb%b0%9c%ec%9e%90%c2%b7%eb%b9%84%ea%b8%b0%ec%88%a0-%ec%a7%81%ec%9b%90-%ed%95%a8%ea%bb%98-%ec%93%b0%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%b1%84%eb%84%90-%ec%8a%ac%eb%9e%99.html",
+      "summary": "슬랙의 새 '코드 채널'은 소프트웨어 개발자와 비기술 직원이 공유 공간에서 코딩 에이전트와 함께 협업할 수 있도록 설계됐다. Credit: Slack 슬랙이 이번 주 ‘슬랙 코드(Slack Code)’ 채널을 출시하며 개발자와 비기술 직원이 코딩 에이전트와 협업하는 새로운 방식을 선보였다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI가 설명할수록 인간 판단력 저하…LLM 추천 근거의 역설",
+      "title": "폴더블 아이폰 드디어 공개되나, 애플 9월 9일 행사 기대 제품 총정리",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.25",
-      "link": "https://www.itworld.co.kr/article/4212648/ai%ea%b0%80-%ec%84%a4%eb%aa%85%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9d%b8%ea%b0%84-%ed%8c%90%eb%8b%a8%eb%a0%a5-%ec%a0%80%ed%95%98llm-%ec%b6%94%ec%b2%9c-%ea%b7%bc%ea%b1%b0%ec%9d%98-%ec%97%ad.html",
-      "summary": "LLM이 블랙박스 방식이 아닌 서술형 설명을 제공할 때, 오히려 인간의 생산적인 이견이 억제되고 우수 아이디어 탈락률이 높아지는 것으로 나타났다."
+      "date": "2026.08.26",
+      "link": "https://www.itworld.co.kr/article/4214485/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%9c%eb%94%94%ec%96%b4-%ea%b3%b5%ea%b0%9c%eb%90%98%eb%82%98-%ec%95%a0%ed%94%8c-9%ec%9b%94-9%ec%9d%bc-%ed%96%89%ec%82%ac-%ea%b8%b0%eb%8c%80.html",
+      "summary": "신임 CEO 존 터너스 체제의 첫 애플 행사가 9월 9일로 확정된 가운데, 아이폰 울트라·아이폰 18 프로·애플워치 시리즈 12 등 다수 신제품 공개가 예상된다. Credit: Apple 애플이 9월 아이폰 발표 행사 일자를 공식 발표했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "오퍼스 모델 언어 혼선, 토큰 비용 2배·개발 속도 저하로 이어져",
+      "title": "AI 지출 폭증 시대가 요구하는 것 ‘검증된 귀속 데이터’",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.25",
-      "link": "https://www.itworld.co.kr/article/4212644/%ec%98%a4%ed%8d%bc%ec%8a%a4-%eb%aa%a8%eb%8d%b8-%ec%96%b8%ec%96%b4-%ed%98%bc%ec%84%a0-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-2%eb%b0%b0%c2%b7%ea%b0%9c%eb%b0%9c-%ec%86%8d%eb%8f%84-%ec%a0%80%ed%95%98.html",
-      "summary": "반복 수정을 요구하는 AI 출력 오류가 생산성 저하와 운영 리스크로 이어질 수 있다는 우려가 커지고 있다. Credit: Gorodenkoff AI 코딩 어시스턴트는 개발자의 의도를 작동 가능한 소프트웨어로 전환하는 데 필요한 작업량을 줄이기 위해 설계된 도구다. 그러나 앤트로픽의 오퍼스 4."
+      "date": "2026.08.26",
+      "link": "https://www.itworld.co.kr/article/4213924/ai-%ec%a7%80%ec%b6%9c-%ed%8f%ad%ec%a6%9d-%ec%8b%9c%eb%8c%80%ea%b0%80-%ec%9a%94%ea%b5%ac%ed%95%98%eb%8a%94-%ea%b2%83-%ea%b2%80%ec%a6%9d%eb%90%9c-%ea%b7%80%ec%86%8d-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
+      "summary": "템포가 AI 활동과 비용을 지라 작업 항목 단위에 연결하는 워크포스 인텔리전스를 출시했다. 기업의 AI ROI 증명 부담을 덜어줄 첫 아틀라시안 마켓플레이스 앱이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "카메라 없이도 침입 감지, 라우터가 감시 장치로 진화하는 시대",
+      "title": "“AI 전환의 성패는 기술이 아닌 변화 관리에서” 오픈텍스트, 거버넌스 우선 접근 강조",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.25",
-      "link": "https://www.itworld.co.kr/article/4211719/%ec%b9%b4%eb%a9%94%eb%9d%bc-%ec%97%86%ec%9d%b4%eb%8f%84-%ec%b9%a8%ec%9e%85-%ea%b0%90%ec%a7%80-%eb%9d%bc%ec%9a%b0%ed%84%b0%ea%b0%80-%ea%b0%90%ec%8b%9c-%ec%9e%a5%ec%b9%98%eb%a1%9c-%ec%a7%84%ed%99%94.html",
-      "summary": "컴캐스트의 와이파이 모션은 기존 라우터를 실내 모션 감지 장치로 전환하는 기술로, 편의성과 프라이버시 침해 가능성이라는 두 가지 상반된 평가를 동시에 받고 있다. Credit: New Africa/Shutterstock."
+      "date": "2026.08.26",
+      "link": "https://www.itworld.co.kr/article/4214073/ai-%ec%a0%84%ed%99%98%ec%9d%98-%ec%84%b1%ed%8c%a8%eb%8a%94-%ea%b8%b0%ec%88%a0%ec%9d%b4-%ec%95%84%eb%8b%8c-%eb%b3%80%ed%99%94-%ea%b4%80%eb%a6%ac%ec%97%90%ec%84%9c-%ec%98%a4%ed%94%88%ed%85%8d.html",
+      "summary": "프로세스 정비와 단계적 도입으로 장애 대응을 최대 70% 줄인 사례에서 보듯, AI 전환의 성패는 기술 도입 순서가 아닌 조직의 변화 관리 역량에 달려 있으며, AI 기본법 시행을 앞두고 거버넌스 체계부터 점검해야 한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "윈도우 XP 시대의 유산 WMIC는 퇴장, 파워셸은 부상",
+      "title": "경력자에겐 날개, 청년에겐 벽…저연차 청년 직군부터 강타하는 AI 고용 충격",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.25",
-      "link": "https://www.itworld.co.kr/article/4211245/%ec%9c%88%eb%8f%84%ec%9a%b0-xp-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%9c%a0%ec%82%b0-wmic%eb%8a%94-%ed%87%b4%ec%9e%a5-%ed%8c%8c%ec%9b%8c%ec%85%b8%ec%9d%80-%eb%b6%80%ec%83%81.html",
-      "summary": "윈도우 11 프리뷰 업데이트 KB5120998이 WMIC를 완전히 삭제하면서, 관련 스크립트를 운용 중인 IT 관리자의 빠른 대응이 요구된다."
+      "date": "2026.08.26",
+      "link": "https://www.itworld.co.kr/article/4213910/%ea%b2%bd%eb%a0%a5%ec%9e%90%ec%97%90%ea%b2%90-%eb%82%a0%ea%b0%9c-%ec%b2%ad%eb%85%84%ec%97%90%ea%b2%90-%eb%b2%bd-%ec%a0%80%ec%97%b0%ec%b0%a8-%ec%b2%ad%eb%85%84-%ec%a7%81%ea%b5%b0%eb%b6%80%ed%84%b0.html",
+      "summary": "스탠퍼드대·골드만삭스·ILO가 잇달아 같은 결론을 내놨다. AI 고용 충격은 이미 시작됐으며, 타격은 경력을 막 시작한 청년층에 집중되고 있다. Credit: Pra Chid - shutterstock.com AI가 노동 시장에 미치는 영향이 가시화되면서, 그 충격이 경력을 막 시작한 청년층에 집중되고 있다는 연구 결과가 나왔다."
     }
   ]
 }
