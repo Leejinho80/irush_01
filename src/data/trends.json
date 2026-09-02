@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T03:29:40.144Z",
-  "collectionDate": "2026.08.31",
-  "displayDate": "2026.09.01",
+  "updatedAt": "2026-09-02T02:47:37.870Z",
+  "collectionDate": "2026.09.01",
+  "displayDate": "2026.09.02",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "한림대학교의료원, 제21대 이재준 의료원장 취임",
+      "title": "다날, 가상자산사업자와 스테이블코인 결제·정산망 구축 나서",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.31",
-      "link": "https://zdnet.co.kr/view/?no=20260901122504",
-      "summary": "한림대학교의료원 제21대 의료원장에 이재준(마취통증의학) 한림대학교춘천성심병원장이 9월1일자로 취임했다. 임기는 2028년 8월31일까지이며, 한림대학교 의무부총장을 겸임한다."
+      "date": "2026.09.01",
+      "link": "https://zdnet.co.kr/view/?no=20260902113655",
+      "summary": "다날이 가상자산사업자(VASP)와 스테이블코인 결제, 정산망 구축에 나섰다. 다날은 디지털자산 금융 인프라 기업 인피니티익스체인지코리아(이하 인엑스)와 디지털자산 기반 결제·정산 인프라 결합을 위한 업무협약을 체결했다고 2일 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "과기정통부, 내년 AI 예산 85% 증액…9.4조 투입해 모델·산업·국민 AI 키운다",
+      "title": "\"일본 숨은 명소로 떠나자”…마이리얼트립, 소도시 여행 최대 60만원 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.31",
-      "link": "https://zdnet.co.kr/view/?no=20260901104934",
-      "summary": "과학기술정보통신부가 내년 인공지능(AI) 예산을 9조원대로 끌어올리며 AI 경쟁력 확보에 재정 투입을 대폭 확대한다."
+      "date": "2026.09.01",
+      "link": "https://zdnet.co.kr/view/?no=20260902113040",
+      "summary": "트래블테크 플랫폼 마이리얼트립이 일본정부관광국(JNTO)과 함께 일본 소도시 여행 특별전을 개최한다. 2일 회사에 따르면, 이번 특별전은 다음달 6일까지 진행된다. 마이리얼트립은 교원투어·노랑풍선·모두투어·씨앤유투어 등 4개 여행사와 손잡고 가가와·오키나와·돗토리·에히메·시즈오카·사가·나가사키 등 7개 현의 패키지 및 에어텔 상품을 순차적으로 선보인다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "정부, 독자 AI에 5조6천억원 쏟는다…GPU 1만장 확충해 '프론티어' 도전",
+      "title": "롯데百 본점 외벽이 전시장으로…팬톤·모리야마 작품 입힌다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.31",
-      "link": "https://zdnet.co.kr/view/?no=20260901094137",
-      "summary": "정부가 독자 인공지능(AI) 모델과 차세대 AI 기술 확보에 내년 약 5조 6000억원에 달하는 예산을 투입한다. 지난해부터 속도를 높여온 그래픽처리장치(GPU) 확충과 독자 AI 파운데이션 모델 개발을 발판으로 내년에는 첨단 GPU 1만 장과 대규모 학습 데이터를 추가 투입해 글로벌 최상위급 프론티어 AI 모델 개발에 도전한다는 목표다."
+      "date": "2026.09.01",
+      "link": "https://zdnet.co.kr/view/?no=20260902110718",
+      "summary": "롯데백화점이 서울 명동 본점 외벽을 대형 전시장으로 활용한다. 덴마크 디자이너 베르너 팬톤의 강렬한 색채와 일본 사진가 다이도 모리야마의 흑백 사진을 차례로 건물 외관에 입혀 도심에서 예술 작품을 접할 수 있도록 한다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "정부, '모두의 AI'에 2500억원 투입…\"주민등록·KTX 예약도 AI로\"",
+      "title": "빗썸에 AI 붙었다…코인 종목 분석부터 상승·하락 신호까지",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.31",
-      "link": "https://zdnet.co.kr/view/?no=20260901101812",
-      "summary": "정부가 독자 인공지능(AI) 모델 개발에 집중했던 예산 지원 범위를 전 국민을 위한 AI 서비스로 넓힌다. 대국민 챗봇과 AI 에이전트를 구축해 누구나 쉽고 부담 없이 AI를 활용할 수 있는 기반을 마련한다는 구상이다. 과학기술정보통신부는 대국민 AI 서비스 '모두의 AI' 개발·제공에 2500억원을 신규 편성했다고 1일 밝혔다."
+      "date": "2026.09.01",
+      "link": "https://zdnet.co.kr/view/?no=20260902111807",
+      "summary": "가상자산 거래소 빗썸이 인공지능(AI)으로 시장 흐름을 분석하고 맞춤형 정보를 제공한다. 빗썸은 이러한 기능을 제공하는 ‘빗썸 AI' 서비스를 출시했다고 2일 밝혔다. 빗썸 AI는 ▲AI 종목시그널 ▲AI 종목분석 ▲AI 데일리시황 ▲AI 추천질문 4종으로 이뤄졌다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "지역 AX 3345억원으로 확대…의료·농업·제조 AI 확산 가속",
+      "title": "펄어비스 '검은사막', 생활 장비 가문 통합 업데이트 적용",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.08.31",
-      "link": "https://zdnet.co.kr/view/?no=20260901100141",
-      "summary": "과학기술정보통신부가 지역 산업과 공공서비스의 인공지능(AI) 전환(AX)을 촉진하기 위해 지역 인공지능(AI) 전환(AX) 예산을 2배 가까이 확대한다. 정부는 대경·서남·전북·동남 등 4대 권역을 중심으로 농업·의료·에너지·제조 분야의 AI 적용을 늘리고, 민간 AI 개발자를 활용한 국민 서비스·행정 혁신에도 나선다는 방침이다."
+      "date": "2026.09.01",
+      "link": "https://zdnet.co.kr/view/?no=20260902111428",
+      "summary": "펄어비스가 MMORPG '검은사막'에 생활 장비 가문 통합을 포함한 생활 콘텐츠 개편 업데이트를 단행했다. 펄어비스는 '검은사막' 이용자의 편의성을 높이기 위해 생활 장비 가문 통합 업데이트를 진행했다고 2일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 투자 급증의 역설 “개인 생산성이 기업에 짐이 된다면”",
+      "title": "AI를 바라보는 세대 격차 “디지털 네이티브의 AI 공포”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.31",
-      "link": "https://www.itworld.co.kr/article/4215595/ai-%ed%88%ac%ec%9e%90-%ea%b8%89%ec%a6%9d%ec%9d%98-%ec%97%ad%ec%84%a4-%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4-%ea%b8%b0%ec%97%85%ec%97%90-%ec%a7%90%ec%9d%b4-%eb%90%9c%eb%8b%a4.html",
-      "summary": "AI는 문서를 쏟아내는 속도를 높이지만, 그 결과물을 처리해야 하는 기업 전체에는 과부하를 전가한다. Credit: Thinkstock 1987년, 노벨 경제학상 수상자 로버트 솔로는 ” “컴퓨터 혁명은 세상 모든 곳에 왔다. 생산성 통계만 빼고”라고 말한 바 있다. 오늘날 AI에 대해서도 같은 말을 할 수 있다."
+      "date": "2026.09.01",
+      "link": "https://www.itworld.co.kr/article/4217234/ai%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%eb%8c%80-%ea%b2%a9%ec%b0%a8-%eb%94%94%ec%a7%80%ed%84%b8-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c%ec%9d%98-ai-%ea%b3%b5%ed%8f%ac.html",
+      "summary": "구인·구직 플랫폼 글래스도어 조사에서 X세대 직장인의 절반 가까이가 AI에 긍정적인 반면, Z세대는 3명 중 1명에 그친 것으로 나타났다. Credit: Shutterstock/Elnur 구인·구직 플랫폼 글래스도어(Glassdoor)의 신규 조사에 따르면, 연령대가 높은 직장인일수록 AI에 더 긍정적인 시각을 보이는 것으로 나타났다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "받은 편지함의 이메일, AI는 다른 내용을 읽는다?",
+      "title": "“발열 관리가 성능 좌우” 레노버 씽크스테이션 P4, 워크스테이션 수랭식 냉각으로 안정성 강화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.31",
-      "link": "https://www.itworld.co.kr/article/4215550/%eb%b0%9b%ec%9d%80-%ed%8e%b8%ec%a7%80%ed%95%a8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc-ai%eb%8a%94-%eb%8b%a4%eb%a5%b8-%eb%82%b4%ec%9a%a9%ec%9d%84-%ec%9d%bd%eb%8a%94%eb%8b%a4.html",
-      "summary": "숨겨진 HTML 명령어가 AI 이메일 요약기에 침투해 요약 결과를 조용히 바꿔치기하는 공격 기법이 공개됐다. Credit: Markus Mainka | shutterstock.com 보안 연구진이 사용자와 AI 어시스턴트가 서로 다른 이메일을 읽는 상황이 실제로 가능하다고 주장하고 나섰다."
+      "date": "2026.09.01",
+      "link": "https://www.itworld.co.kr/article/4216764/%eb%b0%9c%ec%97%b4-%ea%b4%80%eb%a6%ac%ea%b0%80-%ec%84%b1%eb%8a%a5-%ec%a2%8c%ec%9a%b0-%eb%a0%88%eb%85%b8%eb%b2%84-%ec%94%bd%ed%81%ac%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%85%98-p4-%ec%9b%8c%ed%81%ac.html",
+      "summary": "칩 성능이 해마다 급상승하면서 이를 안정적으로 구현하는 냉각 기술이 워크스테이션의 핵심 차별화 요소로 부상하고 있다. Credit: Erin Hur / Foundry 온디바이스 AI 시대가 본격화되면서 고성능 데스크톱 워크스테이션 수요가 빠르게 증가하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "학습 데이터 삭제해도 이미지는 그대로, MIT가 밝힌 확산 모델의 맹점",
+      "title": "AI 투자 급증의 역설 “개인 생산성이 기업에 짐이 된다면”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.31",
-      "link": "https://www.itworld.co.kr/article/4212715/%ed%95%99%ec%8a%b5-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ad%ec%a0%9c%ed%95%b4%eb%8f%84-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%8a%94-%ea%b7%b8%eb%8c%80%eb%a1%9c-mit%ea%b0%80-%eb%b0%9d%ed%9e%8c-%ed%99%95%ec%82%b0.html",
-      "summary": "MIT 연구진이 확산 모델의 규모가 커질수록 개별 학습 데이터가 출력에 미치는 영향이 줄어드는 '귀속 소멸' 현상을 발견하며, AI 저작권과 감사 체계에 근본적인 과제를 제기했다. Credit: Getty Images Bank 확산 모델의 정교함은 이제 원본에 접근할 수 없는 상황에서도 이미지를 재현할 수 있을 정도로 발전했다."
+      "date": "2026.09.01",
+      "link": "https://www.itworld.co.kr/article/4215595/ai-%ed%88%ac%ec%9e%90-%ea%b8%89%ec%a6%9d%ec%9d%98-%ec%97%ad%ec%84%a4-%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4-%ea%b8%b0%ec%97%85%ec%97%90-%ec%a7%90%ec%9d%b4-%eb%90%9c%eb%8b%a4.html",
+      "summary": "AI는 문서를 쏟아내는 속도를 높이지만, 그 결과물을 처리해야 하는 기업 전체에는 과부하를 전가한다. Credit: Thinkstock 1987년, 노벨 경제학상 수상자 로버트 솔로는 ” “컴퓨터 혁명은 세상 모든 곳에 왔다. 생산성 통계만 빼고”라고 말한 바 있다. 오늘날 AI에 대해서도 같은 말을 할 수 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "슬랙, 개발자·비기술 직원 함께 쓰는 AI 코딩 채널 ‘슬랙 코드’ 출시",
+      "title": "받은 편지함의 이메일, AI는 다른 내용을 읽는다?",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.31",
-      "link": "https://www.itworld.co.kr/article/4214539/%ec%8a%ac%eb%9e%99-%ea%b0%9c%eb%b0%9c%ec%9e%90%c2%b7%eb%b9%84%ea%b8%b0%ec%88%a0-%ec%a7%81%ec%9b%90-%ed%95%a8%ea%bb%98-%ec%93%b0%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%b1%84%eb%84%90-%ec%8a%ac%eb%9e%99.html",
-      "summary": "슬랙의 새 '코드 채널'은 소프트웨어 개발자와 비기술 직원이 공유 공간에서 코딩 에이전트와 함께 협업할 수 있도록 설계됐다. Credit: Slack 슬랙이 이번 주 ‘슬랙 코드(Slack Code)’ 채널을 출시하며 개발자와 비기술 직원이 코딩 에이전트와 협업하는 새로운 방식을 선보였다."
+      "date": "2026.09.01",
+      "link": "https://www.itworld.co.kr/article/4215550/%eb%b0%9b%ec%9d%80-%ed%8e%b8%ec%a7%80%ed%95%a8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc-ai%eb%8a%94-%eb%8b%a4%eb%a5%b8-%eb%82%b4%ec%9a%a9%ec%9d%84-%ec%9d%bd%eb%8a%94%eb%8b%a4.html",
+      "summary": "숨겨진 HTML 명령어가 AI 이메일 요약기에 침투해 요약 결과를 조용히 바꿔치기하는 공격 기법이 공개됐다. Credit: Markus Mainka | shutterstock.com 보안 연구진이 사용자와 AI 어시스턴트가 서로 다른 이메일을 읽는 상황이 실제로 가능하다고 주장하고 나섰다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "폴더블 아이폰 드디어 공개되나, 애플 9월 9일 행사 기대 제품 총정리",
+      "title": "학습 데이터 삭제해도 이미지는 그대로, MIT가 밝힌 확산 모델의 맹점",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.08.31",
-      "link": "https://www.itworld.co.kr/article/4214485/%ed%8f%b4%eb%8d%94%eb%b8%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%9c%eb%94%94%ec%96%b4-%ea%b3%b5%ea%b0%9c%eb%90%98%eb%82%98-%ec%95%a0%ed%94%8c-9%ec%9b%94-9%ec%9d%bc-%ed%96%89%ec%82%ac-%ea%b8%b0%eb%8c%80.html",
-      "summary": "신임 CEO 존 터너스 체제의 첫 애플 행사가 9월 9일로 확정된 가운데, 아이폰 울트라·아이폰 18 프로·애플워치 시리즈 12 등 다수 신제품 공개가 예상된다. Credit: Apple 애플이 9월 아이폰 발표 행사 일자를 공식 발표했다."
+      "date": "2026.09.01",
+      "link": "https://www.itworld.co.kr/article/4212715/%ed%95%99%ec%8a%b5-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ad%ec%a0%9c%ed%95%b4%eb%8f%84-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%8a%94-%ea%b7%b8%eb%8c%80%eb%a1%9c-mit%ea%b0%80-%eb%b0%9d%ed%9e%8c-%ed%99%95%ec%82%b0.html",
+      "summary": "MIT 연구진이 확산 모델의 규모가 커질수록 개별 학습 데이터가 출력에 미치는 영향이 줄어드는 '귀속 소멸' 현상을 발견하며, AI 저작권과 감사 체계에 근본적인 과제를 제기했다. Credit: Getty Images Bank 확산 모델의 정교함은 이제 원본에 접근할 수 없는 상황에서도 이미지를 재현할 수 있을 정도로 발전했다."
     }
   ]
 }
