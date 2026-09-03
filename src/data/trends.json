@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-02T02:47:37.870Z",
-  "collectionDate": "2026.09.01",
-  "displayDate": "2026.09.02",
+  "updatedAt": "2026-09-03T02:52:08.022Z",
+  "collectionDate": "2026.09.02",
+  "displayDate": "2026.09.03",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "다날, 가상자산사업자와 스테이블코인 결제·정산망 구축 나서",
+      "title": "SC제일은행 모바일·인터넷뱅킹 해외송금, 환율 90% 우대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.01",
-      "link": "https://zdnet.co.kr/view/?no=20260902113655",
-      "summary": "다날이 가상자산사업자(VASP)와 스테이블코인 결제, 정산망 구축에 나섰다. 다날은 디지털자산 금융 인프라 기업 인피니티익스체인지코리아(이하 인엑스)와 디지털자산 기반 결제·정산 인프라 결합을 위한 업무협약을 체결했다고 2일 밝혔다."
+      "date": "2026.09.02",
+      "link": "https://zdnet.co.kr/view/?no=20260902085454",
+      "summary": "SC제일은행은 모바일·인터넷뱅킹 해외송금을 이용하는 개인 고객에게 해외송금 시 90% 환율 우대 혜택을 제공하는 이벤트를 오는 11월 30일까지 실시한다고 3일 밝혔다. 미국 달러·유로·엔화 등 모든 결제 통화에 대해 90% 환율 우대 혜택을 받을 수 있다. SC제일은행의 모바일·인터넷뱅킹 해외송금 서비스는 해외송금 수수료가 상시 면제된다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "\"일본 숨은 명소로 떠나자”…마이리얼트립, 소도시 여행 최대 60만원 지원",
+      "title": "폴라리스AI, 휴머노이드 앞세워 산업안전 시장 공략…피지컬 AI 실증 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.01",
-      "link": "https://zdnet.co.kr/view/?no=20260902113040",
-      "summary": "트래블테크 플랫폼 마이리얼트립이 일본정부관광국(JNTO)과 함께 일본 소도시 여행 특별전을 개최한다. 2일 회사에 따르면, 이번 특별전은 다음달 6일까지 진행된다. 마이리얼트립은 교원투어·노랑풍선·모두투어·씨앤유투어 등 4개 여행사와 손잡고 가가와·오키나와·돗토리·에히메·시즈오카·사가·나가사키 등 7개 현의 패키지 및 에어텔 상품을 순차적으로 선보인다."
+      "date": "2026.09.02",
+      "link": "https://zdnet.co.kr/view/?no=20260903114039",
+      "summary": "폴라리스AI가 휴머노이드 로봇과 현장형 인공지능(AI) 기술을 결합한 산업안전 솔루션을 공개하며 피지컬 AI 사업 확대에 속도를 내고 있다. 단순 로봇 공급을 넘어 실제 산업 현장에 적용 가능한 AI·로봇 융합 모델을 검증하고 상용화 기반을 확보하겠다는 전략이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "롯데百 본점 외벽이 전시장으로…팬톤·모리야마 작품 입힌다",
+      "title": "LGU+, IPTV서 제천국제음악영화제 특별관 운영",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.01",
-      "link": "https://zdnet.co.kr/view/?no=20260902110718",
-      "summary": "롯데백화점이 서울 명동 본점 외벽을 대형 전시장으로 활용한다. 덴마크 디자이너 베르너 팬톤의 강렬한 색채와 일본 사진가 다이도 모리야마의 흑백 사진을 차례로 건물 외관에 입혀 도심에서 예술 작품을 접할 수 있도록 한다."
+      "date": "2026.09.02",
+      "link": "https://zdnet.co.kr/view/?no=20260903114003",
+      "summary": "LG유플러스는 자사 IPTV 서비스 U+tv에서 제22회 제천국제음악영화제 특별관을 운영한다고 3일 밝혔다. 특별관에선 U+tv 음악영화와 공연, 예술 관련 작품을 영화제 성격에 맞춰 제공해, 음악과 영화가 어우러진 콘텐츠를 즐길 수 있다. 영화제 개막일엔 U+tv 콘텐츠 큐레이션 프로그램 ‘유플tv 매거진’ 영화제 특집도 선보인다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "빗썸에 AI 붙었다…코인 종목 분석부터 상승·하락 신호까지",
+      "title": "수능 D-77...SKT가 알려주는 ‘응원의 정석’",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.01",
-      "link": "https://zdnet.co.kr/view/?no=20260902111807",
-      "summary": "가상자산 거래소 빗썸이 인공지능(AI)으로 시장 흐름을 분석하고 맞춤형 정보를 제공한다. 빗썸은 이러한 기능을 제공하는 ‘빗썸 AI' 서비스를 출시했다고 2일 밝혔다. 빗썸 AI는 ▲AI 종목시그널 ▲AI 종목분석 ▲AI 데일리시황 ▲AI 추천질문 4종으로 이뤄졌다."
+      "date": "2026.09.02",
+      "link": "https://zdnet.co.kr/view/?no=20260903112038",
+      "summary": "SK텔레콤은 2027학년도 수능을 77일 앞두고 학부모와 수험생을 위한 온라인 캠페인 ‘수능응원백서’를 진행한다고 3일 밝혔다. 캠페인은 통신사 상관없이 공식 홈페이지를 통해 참여할 수 있으모, 크게 3가지 프로그램으로 구성됐다. SK텔레콤은 캠페인에 참여한 모든 수험생에게 수능 이후 자사 직영몰 T다이렉트샵 이용권을 제공한다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "펄어비스 '검은사막', 생활 장비 가문 통합 업데이트 적용",
+      "title": "[현장] SK텔레콤 \"차기 독파모 핵심은 '에이전트', 실행력 높인다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.01",
-      "link": "https://zdnet.co.kr/view/?no=20260902111428",
-      "summary": "펄어비스가 MMORPG '검은사막'에 생활 장비 가문 통합을 포함한 생활 콘텐츠 개편 업데이트를 단행했다. 펄어비스는 '검은사막' 이용자의 편의성을 높이기 위해 생활 장비 가문 통합 업데이트를 진행했다고 2일 밝혔다."
+      "date": "2026.09.02",
+      "link": "https://zdnet.co.kr/view/?no=20260903110401",
+      "summary": "SK텔레콤이 인공지능(AI)이 실제 업무를 스스로 수행하는 '에이전트 AI' 경쟁에 속도를 낸다. 현재 개발 중인 차기 독자 AI 파운데이션 모델의 실행 능력을 높여 복잡하고 장시간이 필요한 업무까지 처리하도록 고도화할 계획이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI를 바라보는 세대 격차 “디지털 네이티브의 AI 공포”",
+      "title": "“모델보다 인프라, 기술보다 거버넌스” AI Infrastructure & Data 2026 에이전틱 AI 수용 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.01",
-      "link": "https://www.itworld.co.kr/article/4217234/ai%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%eb%8c%80-%ea%b2%a9%ec%b0%a8-%eb%94%94%ec%a7%80%ed%84%b8-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c%ec%9d%98-ai-%ea%b3%b5%ed%8f%ac.html",
-      "summary": "구인·구직 플랫폼 글래스도어 조사에서 X세대 직장인의 절반 가까이가 AI에 긍정적인 반면, Z세대는 3명 중 1명에 그친 것으로 나타났다. Credit: Shutterstock/Elnur 구인·구직 플랫폼 글래스도어(Glassdoor)의 신규 조사에 따르면, 연령대가 높은 직장인일수록 AI에 더 긍정적인 시각을 보이는 것으로 나타났다."
+      "date": "2026.09.02",
+      "link": "https://www.itworld.co.kr/article/4217744/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b8%b0%ec%88%a0%eb%b3%b4%eb%8b%a4-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-ai-infrastructure-data-2026-%ec%97%90%ec%9d%b4.html",
+      "summary": "Credit: Foundry 2026년 기업의 생존 전략은 개별 AI 모델의 도입을 넘어, AI가 기업의 모든 의사결정에 스며드는 ‘에이전틱 워크플로우(Agentic Workflow)’의 완성에 달려 있다. 기업이 직면한 과제는 더 이상 AI 도입의 유무가 아니라, 경쟁사보다 먼저 AI를 정통하게 이해하고 운영하는 역량의 확보다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“발열 관리가 성능 좌우” 레노버 씽크스테이션 P4, 워크스테이션 수랭식 냉각으로 안정성 강화",
+      "title": "AI를 바라보는 세대 격차 “디지털 네이티브의 AI 공포”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.01",
-      "link": "https://www.itworld.co.kr/article/4216764/%eb%b0%9c%ec%97%b4-%ea%b4%80%eb%a6%ac%ea%b0%80-%ec%84%b1%eb%8a%a5-%ec%a2%8c%ec%9a%b0-%eb%a0%88%eb%85%b8%eb%b2%84-%ec%94%bd%ed%81%ac%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%85%98-p4-%ec%9b%8c%ed%81%ac.html",
-      "summary": "칩 성능이 해마다 급상승하면서 이를 안정적으로 구현하는 냉각 기술이 워크스테이션의 핵심 차별화 요소로 부상하고 있다. Credit: Erin Hur / Foundry 온디바이스 AI 시대가 본격화되면서 고성능 데스크톱 워크스테이션 수요가 빠르게 증가하고 있다."
+      "date": "2026.09.02",
+      "link": "https://www.itworld.co.kr/article/4217234/ai%eb%a5%bc-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%eb%8c%80-%ea%b2%a9%ec%b0%a8-%eb%94%94%ec%a7%80%ed%84%b8-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c%ec%9d%98-ai-%ea%b3%b5%ed%8f%ac.html",
+      "summary": "구인·구직 플랫폼 글래스도어 조사에서 X세대 직장인의 절반 가까이가 AI에 긍정적인 반면, Z세대는 3명 중 1명에 그친 것으로 나타났다. Credit: Shutterstock/Elnur 구인·구직 플랫폼 글래스도어(Glassdoor)의 신규 조사에 따르면, 연령대가 높은 직장인일수록 AI에 더 긍정적인 시각을 보이는 것으로 나타났다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 투자 급증의 역설 “개인 생산성이 기업에 짐이 된다면”",
+      "title": "“발열 관리가 성능 좌우” 레노버 씽크스테이션 P4, 워크스테이션 수랭식 냉각으로 안정성 강화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.01",
-      "link": "https://www.itworld.co.kr/article/4215595/ai-%ed%88%ac%ec%9e%90-%ea%b8%89%ec%a6%9d%ec%9d%98-%ec%97%ad%ec%84%a4-%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4-%ea%b8%b0%ec%97%85%ec%97%90-%ec%a7%90%ec%9d%b4-%eb%90%9c%eb%8b%a4.html",
-      "summary": "AI는 문서를 쏟아내는 속도를 높이지만, 그 결과물을 처리해야 하는 기업 전체에는 과부하를 전가한다. Credit: Thinkstock 1987년, 노벨 경제학상 수상자 로버트 솔로는 ” “컴퓨터 혁명은 세상 모든 곳에 왔다. 생산성 통계만 빼고”라고 말한 바 있다. 오늘날 AI에 대해서도 같은 말을 할 수 있다."
+      "date": "2026.09.02",
+      "link": "https://www.itworld.co.kr/article/4216764/%eb%b0%9c%ec%97%b4-%ea%b4%80%eb%a6%ac%ea%b0%80-%ec%84%b1%eb%8a%a5-%ec%a2%8c%ec%9a%b0-%eb%a0%88%eb%85%b8%eb%b2%84-%ec%94%bd%ed%81%ac%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%85%98-p4-%ec%9b%8c%ed%81%ac.html",
+      "summary": "칩 성능이 해마다 급상승하면서 이를 안정적으로 구현하는 냉각 기술이 워크스테이션의 핵심 차별화 요소로 부상하고 있다. Credit: Erin Hur / Foundry 온디바이스 AI 시대가 본격화되면서 고성능 데스크톱 워크스테이션 수요가 빠르게 증가하고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "받은 편지함의 이메일, AI는 다른 내용을 읽는다?",
+      "title": "AI 투자 급증의 역설 “개인 생산성이 기업에 짐이 된다면”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.01",
-      "link": "https://www.itworld.co.kr/article/4215550/%eb%b0%9b%ec%9d%80-%ed%8e%b8%ec%a7%80%ed%95%a8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc-ai%eb%8a%94-%eb%8b%a4%eb%a5%b8-%eb%82%b4%ec%9a%a9%ec%9d%84-%ec%9d%bd%eb%8a%94%eb%8b%a4.html",
-      "summary": "숨겨진 HTML 명령어가 AI 이메일 요약기에 침투해 요약 결과를 조용히 바꿔치기하는 공격 기법이 공개됐다. Credit: Markus Mainka | shutterstock.com 보안 연구진이 사용자와 AI 어시스턴트가 서로 다른 이메일을 읽는 상황이 실제로 가능하다고 주장하고 나섰다."
+      "date": "2026.09.02",
+      "link": "https://www.itworld.co.kr/article/4215595/ai-%ed%88%ac%ec%9e%90-%ea%b8%89%ec%a6%9d%ec%9d%98-%ec%97%ad%ec%84%a4-%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4-%ea%b8%b0%ec%97%85%ec%97%90-%ec%a7%90%ec%9d%b4-%eb%90%9c%eb%8b%a4.html",
+      "summary": "AI는 문서를 쏟아내는 속도를 높이지만, 그 결과물을 처리해야 하는 기업 전체에는 과부하를 전가한다. Credit: Thinkstock 1987년, 노벨 경제학상 수상자 로버트 솔로는 ” “컴퓨터 혁명은 세상 모든 곳에 왔다. 생산성 통계만 빼고”라고 말한 바 있다. 오늘날 AI에 대해서도 같은 말을 할 수 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "학습 데이터 삭제해도 이미지는 그대로, MIT가 밝힌 확산 모델의 맹점",
+      "title": "받은 편지함의 이메일, AI는 다른 내용을 읽는다?",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.01",
-      "link": "https://www.itworld.co.kr/article/4212715/%ed%95%99%ec%8a%b5-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ad%ec%a0%9c%ed%95%b4%eb%8f%84-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%8a%94-%ea%b7%b8%eb%8c%80%eb%a1%9c-mit%ea%b0%80-%eb%b0%9d%ed%9e%8c-%ed%99%95%ec%82%b0.html",
-      "summary": "MIT 연구진이 확산 모델의 규모가 커질수록 개별 학습 데이터가 출력에 미치는 영향이 줄어드는 '귀속 소멸' 현상을 발견하며, AI 저작권과 감사 체계에 근본적인 과제를 제기했다. Credit: Getty Images Bank 확산 모델의 정교함은 이제 원본에 접근할 수 없는 상황에서도 이미지를 재현할 수 있을 정도로 발전했다."
+      "date": "2026.09.02",
+      "link": "https://www.itworld.co.kr/article/4215550/%eb%b0%9b%ec%9d%80-%ed%8e%b8%ec%a7%80%ed%95%a8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc-ai%eb%8a%94-%eb%8b%a4%eb%a5%b8-%eb%82%b4%ec%9a%a9%ec%9d%84-%ec%9d%bd%eb%8a%94%eb%8b%a4.html",
+      "summary": "숨겨진 HTML 명령어가 AI 이메일 요약기에 침투해 요약 결과를 조용히 바꿔치기하는 공격 기법이 공개됐다. Credit: Markus Mainka | shutterstock.com 보안 연구진이 사용자와 AI 어시스턴트가 서로 다른 이메일을 읽는 상황이 실제로 가능하다고 주장하고 나섰다."
     }
   ]
 }
