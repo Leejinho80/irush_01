@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-10T03:00:22.759Z",
-  "collectionDate": "2026.09.09",
-  "displayDate": "2026.09.10",
+  "updatedAt": "2026-09-11T02:56:22.853Z",
+  "collectionDate": "2026.09.10",
+  "displayDate": "2026.09.11",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "카카오게임즈, 사회공헌 캠페인 '찾아가는 프렌즈게임 랜드' 가을 게임 운동회 실시",
+      "title": "인티그리트, 피지컬 AI 플랫폼 '에어패스' 공급 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.09",
-      "link": "https://zdnet.co.kr/view/?no=20260910110040",
-      "summary": "카카오게임즈(공동대표 김태환, 이시우)는 경기도 성남시에 위치한 성남종합운동장 야외농구장에서 사회공헌(CSR) 캠페인 ‘찾아가는 프렌즈게임 랜드’ 가을 게임 운동회를 실시했다고 10일 밝혔다. 어제(9일) 진행한 이번 행사는 성남시 관내 지역아동센터 아동 및 청소년에게 지역 대표 산업인 게임·IT 콘텐츠 체험 기회를 제공하기 위해 마련됐다."
+      "date": "2026.09.10",
+      "link": "https://zdnet.co.kr/view/?no=20260911114057",
+      "summary": "피지컬 AI 플랫폼 기업 인티그리트(Integrit)는 산업현장과 상용 로봇을 중심으로 공급해 온 엣지 AI 플랫폼 ‘에어패스(AirPath)’의 오픈 마켓 공급을 확대한다고 11일 밝혔다. 회사 측에 따르면 특화된 산업용 수요와 B2B 시장 위주로 공급되던 에어패스를 ‘엘레파츠’와 ‘디바이스 마트’ 등 전문 글로벌 유통채널로 확대하고 있다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "모티프 이의신청 결과 통보 임박, 독파모 최종전 영향 줄까",
+      "title": "AI로 무게중심 옮기는 오라클…클라우드 인프라 매출 121%↑",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.09",
-      "link": "https://zdnet.co.kr/view/?no=20260910111618",
-      "summary": "국가대표 인공지능(AI) 선발전이라고 불리는 '독자 AI 파운데이션 모델(독파모)' 프로젝트 2차 평가에서 탈락한 모티프테크놀로지스의 이의신청 결과 통보가 임박했다. 이번 심의 결과가 내년 초 최종 2개 팀을 가리기 위한 3차수 방식과 평가 체계에 영향을 미칠지 관심이 쏠린다."
+      "date": "2026.09.10",
+      "link": "https://zdnet.co.kr/view/?no=20260911113552",
+      "summary": "오라클이 인공지능(AI) 수요 확산을 계기로 사업의 무게중심을 빠르게 옮기고 있다. 대규모 데이터센터와 GPU 공급을 늘려 클라우드 인프라를 새로운 성장축으로 키우는 동시에 고객 자금까지 활용해 투자 부담을 낮추고 기존 기업용 소프트웨어(SW)에는 AI 에이전트를 접목하는 전략이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "넷마블문화재단, '2026 전국장애학생 e페스티벌' 성료",
+      "title": "오라클, AI 클라우드 3자릿수 성장…대규모 투자 우려에도 장외 주가 반등",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.09",
-      "link": "https://zdnet.co.kr/view/?no=20260910105514",
-      "summary": "넷마블문화재단(이사장 방준혁)은 국립특수교육원, 한국콘텐츠진흥원과 함께 주최하고 교육부·문화체육관광부가 후원하는 ‘2026 전국 장애학생 e페스티벌’을 성공적으로 마무리했다고 10일 밝혔다. ‘2026 전국 장애학생 e페스티벌’은 지난 8일과 9일 양일간 개최됐다."
+      "date": "2026.09.10",
+      "link": "https://zdnet.co.kr/view/?no=20260911112558",
+      "summary": "오라클이 인공지능(AI) 학습·추론 수요 확대로 시장 예상치를 웃도는 성과를 기록했다. 오라클 주가는 데이터센터 증설과 AI 인프라 투자에 따른 대규모 자본지출 부담으로 실적 발표 전 약세를 보였다. 하지만 AI 클라우드 인프라 매출의 세 자릿수 성장과 향후 클라우드 사업 가이던스에 힘입어 시간외 거래에서 반등했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "[인사] 기후에너지환경부",
+      "title": "AI가 낮춘 행정 문턱…美·英 민원 신청 최대 5배 증가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.09",
-      "link": "https://zdnet.co.kr/view/?no=20260910113031",
-      "summary": "◇고위공무원 승진 ▲전북지방환경청장 차은철 ◇과장급 전보 ▲운영지원과장 한준욱 ▲감사담당관 권병철 ▲물산업협력과장 김보미 ▲자연생태정책과장 고대현 ▲국토환경정책과장 손명균 ▲교통환과장 현성호 ▲화학안전과장 이경빈 ▲열산업혁신과장 김범직 ▲한강유역환경청 환경관리국장 정환진 ▲원주지방환경청 하천국장 김나승"
+      "date": "2026.09.10",
+      "link": "https://zdnet.co.kr/view/?no=20260911111809",
+      "summary": "생성형 인공지능(AI)이 복잡한 행정 절차 문턱을 낮추고 있다. 서류 작성과 정보 탐색을 AI가 대신하면서 복잡한 절차 탓에 포기했던 민원 제기와 각종 신청도 실제 접수로 이어지고 있는 것으로 나타났다. 10일(현지시간) 테크크런치에 따르면 영국 주택 옴부즈맨에 접수된 민원은 2022년 2600건에서 지난해 7000건 이상으로 두 배 넘게 증가했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "블록체인 기업 람다256, 노드 운영 신입 개발자 채용 나선다…10월 설명회",
+      "title": "\"아웃바운드부터 인바운드 여행까지”…마이리얼트립, 크리에이트립 인수",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.09",
-      "link": "https://zdnet.co.kr/view/?no=20260910112017",
-      "summary": "블록체인 전문기업 람다256이 노드 운영 직무 신입 개발자 채용에 나섰다. 람다256은 오프라인 채용 설명회를 10월 3일 개최한다고 밝혔다. 이번 채용 설명회는 블록체인 인프라와 노드 운영에 관심있는 대학생, 졸업 예정자, 주니어 개발자를 대상으로 한다. 장소는 강남에 위치한 업비트 라운지다."
+      "date": "2026.09.10",
+      "link": "https://zdnet.co.kr/view/?no=20260911112013",
+      "summary": "트래블테크 플랫폼 마이리얼트립이 인바운드 여행 플랫폼 크리에이트립을 인수한다. 11일 회사에 따르면, 마이리얼트립 이사회에서 크리에이트립 지분 인수 안건을 의결하고 남은 절차를 거쳐 연내 자회사로 편입할 예정이다. 이번 인수는 주식교환 방식으로 이뤄지며 지분 전량을 확보하게 된다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "아이폰, 이제는 애플의 ‘인텔리전트 퍼스널 허브’",
+      "title": "“정책에서 코드로, 규칙에서 엔진으로” AI 거버넌스의 구현 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.09",
-      "link": "https://www.itworld.co.kr/article/4220423/%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9d%b4%ec%a0%9c%eb%8a%94-%ec%95%a0%ed%94%8c%ec%9d%98-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ed%8a%b8-%ed%8d%bc%ec%8a%a4%eb%84%90-%ed%97%88%eb%b8%8c.html",
-      "summary": "애플 CEO 존 터너스가 폴더블 스마트폰 아이폰 듀오를 공개하며 AI 시대의 스마트폰을 '인텔리전트 퍼스널 허브'로 재정의했다. Credit: Apple 25년 전, 필자는 행사장 앞쪽 좌석에서 당시 애플 CEO 스티브 잡스가 애플의 ‘디지털 허브’ 전략을 발표하는 장면을 직접 목격했다."
+      "date": "2026.09.10",
+      "link": "https://www.itworld.co.kr/article/4220552/%ec%a0%95%ec%b1%85%ec%97%90%ec%84%9c-%ec%bd%94%eb%93%9c%eb%a1%9c-%ea%b7%9c%ec%b9%99%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%84%ec%9c%bc%eb%a1%9c-ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%ec%9d%98.html",
+      "summary": "결제 시스템처럼 생성형 AI도 설계부터 거버넌스 컨트롤이 내장되어야 한다. 위협 모델 정의에서 피드백 루프 운영까지, 실행 가능한 거버넌스 체계를 구축하는 방법을 제시한다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "기조연설 하루 전, 애플워치 SE 3 온라인 스토어서 돌연 ‘구매 불가’",
+      "title": "아이폰, 이제는 애플의 ‘인텔리전트 퍼스널 허브’",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.09",
-      "link": "https://www.itworld.co.kr/article/4219896/%ea%b8%b0%ec%a1%b0%ec%97%b0%ec%84%a4-%ed%95%98%eb%a3%a8-%ec%a0%84-%ec%95%a0%ed%94%8c%ec%9b%8c%ec%b9%98-se-3-%ec%98%a8%eb%9d%bc%ec%9d%b8-%ec%8a%a4%ed%86%a0%ec%96%b4%ec%84%9c-%eb%8f%8c%ec%97%b0.html",
-      "summary": "애플 행사의 기조연설 24시간을 앞두고 애플워치 SE 3 전 모델이 애플 공식 온라인 스토어에서 돌연 자취를 감추면서, 추가 워치 발표 여부에 관심이 집중되고 있다."
+      "date": "2026.09.10",
+      "link": "https://www.itworld.co.kr/article/4220423/%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9d%b4%ec%a0%9c%eb%8a%94-%ec%95%a0%ed%94%8c%ec%9d%98-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ed%8a%b8-%ed%8d%bc%ec%8a%a4%eb%84%90-%ed%97%88%eb%b8%8c.html",
+      "summary": "애플 CEO 존 터너스가 폴더블 스마트폰 아이폰 듀오를 공개하며 AI 시대의 스마트폰을 '인텔리전트 퍼스널 허브'로 재정의했다. Credit: Apple 25년 전, 필자는 행사장 앞쪽 좌석에서 당시 애플 CEO 스티브 잡스가 애플의 ‘디지털 허브’ 전략을 발표하는 장면을 직접 목격했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 3사 동시 다운, 기업 재해복구 계획의 사각지대 드러나",
+      "title": "기조연설 하루 전, 애플워치 SE 3 온라인 스토어서 돌연 ‘구매 불가’",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.09",
-      "link": "https://www.itworld.co.kr/article/4218981/ai-3%ec%82%ac-%eb%8f%99%ec%8b%9c-%eb%8b%a4%ec%9a%b4-%ea%b8%b0%ec%97%85-%ec%9e%ac%ed%95%b4%eb%b3%b5%ea%b5%ac-%ea%b3%84%ed%9a%8d%ec%9d%98-%ec%82%ac%ea%b0%81%ec%a7%80%eb%8c%80-%eb%93%9c%eb%9f%ac.html",
-      "summary": "주요 AI 플랫폼 3곳이 수 시간 동시 장애를 겪으면서, 생성형 AI 자동화 워크플로를 구축한 기업의 재해복구 계획 부재가 새로운 경영 위협으로 부상했다. Credit: G-Stock Studio / Shutterstock AI 시대를 맞은 기업이 불안한 새 질문에 직면했다. AI 에이전트가 갑자기 작동을 멈추면 어떻게 될까?"
+      "date": "2026.09.10",
+      "link": "https://www.itworld.co.kr/article/4219896/%ea%b8%b0%ec%a1%b0%ec%97%b0%ec%84%a4-%ed%95%98%eb%a3%a8-%ec%a0%84-%ec%95%a0%ed%94%8c%ec%9b%8c%ec%b9%98-se-3-%ec%98%a8%eb%9d%bc%ec%9d%b8-%ec%8a%a4%ed%86%a0%ec%96%b4%ec%84%9c-%eb%8f%8c%ec%97%b0.html",
+      "summary": "애플 행사의 기조연설 24시간을 앞두고 애플워치 SE 3 전 모델이 애플 공식 온라인 스토어에서 돌연 자취를 감추면서, 추가 워치 발표 여부에 관심이 집중되고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "엔비디아의 허깅페이스 인수, 기업 AI 전략 재편 신호탄",
+      "title": "AI 3사 동시 다운, 기업 재해복구 계획의 사각지대 드러나",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.09",
-      "link": "https://www.itworld.co.kr/article/4218969/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b8%ec%88%98-%ea%b8%b0%ec%97%85-ai-%ec%a0%84%eb%9e%b5-%ec%9e%ac%ed%8e%b8-%ec%8b%a0%ed%98%b8%ed%83%84.html",
-      "summary": "엔비디아의 허깅페이스 인수는 단순한 모델 저장소 확보가 아닌, 개발자 생태계 전체에 대한 영향력 선점 전략으로 읽힌다. Credit: Robert Way - shutterstock.com IT 업계 전문가와 애널리스트는 엔비디아가 오픈소스 AI 기업 허깅페이스(Hugging Face)를 129억 달러에 인수하겠다는 깜짝 계획을 아직도 파악하는 중이다."
+      "date": "2026.09.10",
+      "link": "https://www.itworld.co.kr/article/4218981/ai-3%ec%82%ac-%eb%8f%99%ec%8b%9c-%eb%8b%a4%ec%9a%b4-%ea%b8%b0%ec%97%85-%ec%9e%ac%ed%95%b4%eb%b3%b5%ea%b5%ac-%ea%b3%84%ed%9a%8d%ec%9d%98-%ec%82%ac%ea%b0%81%ec%a7%80%eb%8c%80-%eb%93%9c%eb%9f%ac.html",
+      "summary": "주요 AI 플랫폼 3곳이 수 시간 동시 장애를 겪으면서, 생성형 AI 자동화 워크플로를 구축한 기업의 재해복구 계획 부재가 새로운 경영 위협으로 부상했다. Credit: G-Stock Studio / Shutterstock AI 시대를 맞은 기업이 불안한 새 질문에 직면했다. AI 에이전트가 갑자기 작동을 멈추면 어떻게 될까?"
     },
     {
       "id": 10,
       "number": "10",
-      "title": "마이크로소프트, 워드·아웃룩 텍스트 예측 기능 기본 비활성화 전환",
+      "title": "엔비디아의 허깅페이스 인수, 기업 AI 전략 재편 신호탄",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.09",
-      "link": "https://www.itworld.co.kr/article/4218484/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%9b%8c%eb%93%9c%c2%b7%ec%95%84%ec%9b%83%eb%a3%a9-%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%98%88%ec%b8%a1-%ea%b8%b0%eb%8a%a5-%ea%b8%b0.html",
-      "summary": "마이크로소프트가 워드·아웃룩 텍스트 자동완성의 기본값을 비활성화로 조정하며 사용자 주도 설정 방식을 도입했다. Credit: HJBC / Shutterstock 마이크로소프트의 텍스트 예측 기능이 워드와 아웃룩 모두에서 기본 비활성화 상태로 전환된다고 더 레지스터(The Register)가 보도했다."
+      "date": "2026.09.10",
+      "link": "https://www.itworld.co.kr/article/4218969/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b8%ec%88%98-%ea%b8%b0%ec%97%85-ai-%ec%a0%84%eb%9e%b5-%ec%9e%ac%ed%8e%b8-%ec%8b%a0%ed%98%b8%ed%83%84.html",
+      "summary": "엔비디아의 허깅페이스 인수는 단순한 모델 저장소 확보가 아닌, 개발자 생태계 전체에 대한 영향력 선점 전략으로 읽힌다. Credit: Robert Way - shutterstock.com IT 업계 전문가와 애널리스트는 엔비디아가 오픈소스 AI 기업 허깅페이스(Hugging Face)를 129억 달러에 인수하겠다는 깜짝 계획을 아직도 파악하는 중이다."
     }
   ]
 }
