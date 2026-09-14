@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-13T03:03:57.516Z",
-  "collectionDate": "2026.09.12",
-  "displayDate": "2026.09.13",
+  "updatedAt": "2026-09-14T03:17:51.834Z",
+  "collectionDate": "2026.09.13",
+  "displayDate": "2026.09.14",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "앤트로픽 \"中 AI 증류 막자\"…와이콤비네이터 \"美 기업엔 허용\"",
+      "title": "\"챗GPT-5.2 이미지 가역성, 사람 절반 수준\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.12",
-      "link": "https://zdnet.co.kr/view/?no=20260912224013",
-      "summary": "미국 오픈웨이트 인공지능(AI) 기업이 프런티어 AI 모델로 증류 작업을 할 수 있어야 한다는 주장이 나왔다. AI 핵심 역량이 소수 폐쇄형 모델 기업에 집중되는 것을 막고 미국 내 오픈웨이트 AI 생태계를 확대해야 한다는 취지다."
+      "date": "2026.09.13",
+      "link": "https://zdnet.co.kr/view/?no=20260914115024",
+      "summary": "인공지능(AI)이 제대로 답을 찾았는지를 평가하는 벤치마크가 개발됐다. 챗 GPT를 사람과 비교했을 때 가역성(역으로 뒤집어 보는) 평가에서는 절반 수준에 불과한 것으로 나타났다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "파나소닉, ‘전고체’ 샘플 4Q 첫 선…로봇은 원통형으로 공략",
+      "title": "에쓰씨케이, 부산교육청 어도비 통합 라이선스 구축…예산 절감·관리 단일화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.12",
-      "link": "https://zdnet.co.kr/view/?no=20260913022421",
-      "summary": "일본 기업 파나소닉이 ‘꿈의 배터리’로 불리는 전고체 배터리 샘플을 오는 4분기부터 생산한다. 최근 잠재 성장이 큰 로봇 시장에 공급할 배터리로는 원통형 제품을 개발할 방침이다. 와타나베 쇼이치로 파나소닉에너지 최고기술책임자(CTO)는 최근 업계 컨퍼런스 현장에서 4분기 중 전고체 배터리 샘플 출하 계획을 언급했다."
+      "date": "2026.09.13",
+      "link": "https://zdnet.co.kr/view/?no=20260914114128",
+      "summary": "클라우드·IT 서비스 전문 기업 에쓰씨케이가 부산광역시교육청 소속 교원 약 3만 명을 대상으로 어도비 크리에이티브 클라우드 라이선스 공급 계약을 체결했다. 14일 회사에 따르면, 이번 도입은 부산교육청이 교원의 수업 콘텐츠 및 행정 자료 제작을 지원하기 위해 관내 초·중·고 교원 전체를 대상으로 추진됐다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "추석 소포 1433만개 쏟아진다…우체국 16일간 비상근무",
+      "title": "콜로세움, K아이돌과 중소 브랜드 日 진출 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.12",
-      "link": "https://zdnet.co.kr/view/?no=20260913080555",
-      "summary": "추석을 앞두고 전국 우체국에 1400만개가 넘는 소포가 몰릴 전망이다. 우정사업본부는 하루 평균 143만개에 달하는 명절 물량을 처리하기 위해 전국 물류시설을 최대 가동하고 16일간 비상근무에 들어간다."
+      "date": "2026.09.13",
+      "link": "https://zdnet.co.kr/view/?no=20260914113209",
+      "summary": "K아이돌의 팬덤을 활용해 국내 중소 브랜드를 일본 소비자에게 알리고 실제 판매까지 연결하는 ‘아이돌 커머스’가 일본 도쿄에서 첫선을 보였다. 글로벌 공급망 관리(SCM)·유통 기업 콜로세움코퍼레이션은 지난 11~12일 일본 도쿄 다이이치세이메이홀에서 ‘ICU콘 인 도쿄-ICHI’를 개최했다고 14일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "댄 헤이 블리자드 총괄 \"스타크래프트 슈터, 2030년 출격…RTS 영광 잇는 패키지 게임\"",
+      "title": "SOOP 플레이디, 허익서 크리에이티브 총괄 디렉터 영입",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.12",
-      "link": "https://zdnet.co.kr/view/?no=20260913115418",
-      "summary": "[애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 미국 애너하임 컨벤션 센터에서 개막한 '블리즈컨 2026'을 통해 스타크래프트 세계관을 바탕으로 한 신작 AAA 오픈 월드 슈터를 발표했다. '스타크래프트2: 공허의 유산'으로부터 70년이 지난 코프룰루 구역을 무대로, 2030년 출시를 목표로 개발 중이다."
+      "date": "2026.09.13",
+      "link": "https://zdnet.co.kr/view/?no=20260914084320",
+      "summary": "SOOP의 마케팅 계열사 플레이디는 허익서 크리에이티브 총괄 디렉터(CD)를 영입하고, 조직 재정비를 단행해 4개 본부 체제를 가동한다고 14일 밝혔다. 플레이디는 이번 조직 개편을 토대로 하반기 SOOP이 추진하는 광고·마케팅 통합 브랜드 출범에 맞춰 신사업 확대에 나설 계획이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "블리자드 와우 개발진 \"'와우: 포에버', 2004년의 낭만과 영원성 담았다\"",
+      "title": "심승필 수퍼게이트 대표, '일자리창출 유공' 대통령표창 수상",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.12",
-      "link": "https://zdnet.co.kr/view/?no=20260913113728",
-      "summary": "[애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 미국 애너하임 컨벤션 센터에서 개막한 '블리즈컨 2026'을 통해 오리지널의 정통성을 재해석한 신작 MMORPG '월드 오브 워크래프트: 포에버(이하 와우: 포에버)'를 전격 공개했다."
+      "date": "2026.09.13",
+      "link": "https://zdnet.co.kr/view/?no=20260914103149",
+      "summary": "팹리스(반도체 설계전문) 기업 수퍼게이트 심승필 대표이사가 양질의 청년 일자리 창출과 근무환경 개선 공로를 인정받아 정부 최고 훈격의 포상을 받았다. 수퍼게이트는 심 대표가 지난 10일 고용노동부가 주관한 ‘2026년 일자리창출 지원 유공 정부포상’ 수여식에서 대통령표창을 수상했다고 14일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“정책에서 코드로, 규칙에서 엔진으로” AI 거버넌스의 구현 전략",
+      "title": "설렘 뒤에 남는 아이폰 듀오의 한계 “혁신인가, 타협인가”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.12",
-      "link": "https://www.itworld.co.kr/article/4220552/%ec%a0%95%ec%b1%85%ec%97%90%ec%84%9c-%ec%bd%94%eb%93%9c%eb%a1%9c-%ea%b7%9c%ec%b9%99%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%84%ec%9c%bc%eb%a1%9c-ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%ec%9d%98.html",
-      "summary": "결제 시스템처럼 생성형 AI도 설계부터 거버넌스 컨트롤이 내장되어야 한다. 위협 모델 정의에서 피드백 루프 운영까지, 실행 가능한 거버넌스 체계를 구축하는 방법을 제시한다."
+      "date": "2026.09.13",
+      "link": "https://www.itworld.co.kr/article/4221466/%ec%84%a4%eb%a0%98-%eb%92%a4%ec%97%90-%eb%82%a8%eb%8a%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4%ec%9d%98-%ed%95%9c%ea%b3%84-%ed%98%81%ec%8b%a0%ec%9d%b8%ea%b0%80-%ed%83%80%ed%98%91%ec%9d%b8.html",
+      "summary": "애플의 첫 폴더블 스마트폰 아이폰 듀오는 폼팩터 혁신으로 주목받고 있지만, 페이스 ID 삭제·두꺼운 두께·제한적 색상·비싼 시작가 등 치명적인 약점을 고스란히 안고 있다. Credit: Apple 지난주 열린 애플의 ‘서프라이즈 앤드 샤인(Surprise and Shine)’ 프레스 행사에서 아이폰 듀오 세그먼트를 지켜보며 처음 든 생각은 단순했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "아이폰, 이제는 애플의 ‘인텔리전트 퍼스널 허브’",
+      "title": "“상시 청취하되 녹음은 없다” 애플, AI 프라이버시 보호 방법 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.12",
-      "link": "https://www.itworld.co.kr/article/4220423/%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9d%b4%ec%a0%9c%eb%8a%94-%ec%95%a0%ed%94%8c%ec%9d%98-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ed%8a%b8-%ed%8d%bc%ec%8a%a4%eb%84%90-%ed%97%88%eb%b8%8c.html",
-      "summary": "애플 CEO 존 터너스가 폴더블 스마트폰 아이폰 듀오를 공개하며 AI 시대의 스마트폰을 '인텔리전트 퍼스널 허브'로 재정의했다. Credit: Apple 25년 전, 필자는 행사장 앞쪽 좌석에서 당시 애플 CEO 스티브 잡스가 애플의 ‘디지털 허브’ 전략을 발표하는 장면을 직접 목격했다."
+      "date": "2026.09.13",
+      "link": "https://www.itworld.co.kr/article/4221452/%ec%83%81%ec%8b%9c-%ec%b2%ad%ec%b7%a8%ed%95%98%eb%90%98-%eb%85%b9%ec%9d%8c%ec%9d%80-%ec%97%86%eb%8b%a4-%ec%95%a0%ed%94%8c-ai-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c-%eb%b3%b4%ed%98%b8.html",
+      "summary": "애플워치 시리즈 12에 탑재된 오디오 인텔리전스는 음성 데이터를 수집하지 않고 텍스트로만 처리하는 방식으로 사용자 프라이버시를 보호한다. Credit: Apple 애플워치 시리즈 12와 울트라 4에서 애플은 실용적이고 흥미로운 새 음성 기반 AI 기능을 선보인다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "기조연설 하루 전, 애플워치 SE 3 온라인 스토어서 돌연 ‘구매 불가’",
+      "title": "앤트로픽, 클로드의 4번째 탈출 사례 추가 확인…클로드 탈출 사례 총 4건 집계",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.12",
-      "link": "https://www.itworld.co.kr/article/4219896/%ea%b8%b0%ec%a1%b0%ec%97%b0%ec%84%a4-%ed%95%98%eb%a3%a8-%ec%a0%84-%ec%95%a0%ed%94%8c%ec%9b%8c%ec%b9%98-se-3-%ec%98%a8%eb%9d%bc%ec%9d%b8-%ec%8a%a4%ed%86%a0%ec%96%b4%ec%84%9c-%eb%8f%8c%ec%97%b0.html",
-      "summary": "애플 행사의 기조연설 24시간을 앞두고 애플워치 SE 3 전 모델이 애플 공식 온라인 스토어에서 돌연 자취를 감추면서, 추가 워치 발표 여부에 관심이 집중되고 있다."
+      "date": "2026.09.13",
+      "link": "https://www.itworld.co.kr/article/4221424/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-4%eb%b2%88%ec%a7%b8-%ed%83%88%ec%b6%9c-%ec%82%ac%eb%a1%80-%ec%b6%94%ea%b0%80-%ed%99%95%ec%9d%b8-%ed%81%b4%eb%a1%9c%eb%93%9c.html",
+      "summary": "앤트로픽의 AI 모델 클로드가 사이버보안 역량 평가 도중 폐쇄 시스템을 벗어나 외부 기업을 공격한 사례가 총 4건으로 집계됐다. Credit: Primakov - shutterstock."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI 3사 동시 다운, 기업 재해복구 계획의 사각지대 드러나",
+      "title": "“정책에서 코드로, 규칙에서 엔진으로” AI 거버넌스의 구현 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.12",
-      "link": "https://www.itworld.co.kr/article/4218981/ai-3%ec%82%ac-%eb%8f%99%ec%8b%9c-%eb%8b%a4%ec%9a%b4-%ea%b8%b0%ec%97%85-%ec%9e%ac%ed%95%b4%eb%b3%b5%ea%b5%ac-%ea%b3%84%ed%9a%8d%ec%9d%98-%ec%82%ac%ea%b0%81%ec%a7%80%eb%8c%80-%eb%93%9c%eb%9f%ac.html",
-      "summary": "주요 AI 플랫폼 3곳이 수 시간 동시 장애를 겪으면서, 생성형 AI 자동화 워크플로를 구축한 기업의 재해복구 계획 부재가 새로운 경영 위협으로 부상했다. Credit: G-Stock Studio / Shutterstock AI 시대를 맞은 기업이 불안한 새 질문에 직면했다. AI 에이전트가 갑자기 작동을 멈추면 어떻게 될까?"
+      "date": "2026.09.13",
+      "link": "https://www.itworld.co.kr/article/4220552/%ec%a0%95%ec%b1%85%ec%97%90%ec%84%9c-%ec%bd%94%eb%93%9c%eb%a1%9c-%ea%b7%9c%ec%b9%99%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%84%ec%9c%bc%eb%a1%9c-ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%ec%9d%98.html",
+      "summary": "결제 시스템처럼 생성형 AI도 설계부터 거버넌스 컨트롤이 내장되어야 한다. 위협 모델 정의에서 피드백 루프 운영까지, 실행 가능한 거버넌스 체계를 구축하는 방법을 제시한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "엔비디아의 허깅페이스 인수, 기업 AI 전략 재편 신호탄",
+      "title": "아이폰, 이제는 애플의 ‘인텔리전트 퍼스널 허브’",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.12",
-      "link": "https://www.itworld.co.kr/article/4218969/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b8%ec%88%98-%ea%b8%b0%ec%97%85-ai-%ec%a0%84%eb%9e%b5-%ec%9e%ac%ed%8e%b8-%ec%8b%a0%ed%98%b8%ed%83%84.html",
-      "summary": "엔비디아의 허깅페이스 인수는 단순한 모델 저장소 확보가 아닌, 개발자 생태계 전체에 대한 영향력 선점 전략으로 읽힌다. Credit: Robert Way - shutterstock.com IT 업계 전문가와 애널리스트는 엔비디아가 오픈소스 AI 기업 허깅페이스(Hugging Face)를 129억 달러에 인수하겠다는 깜짝 계획을 아직도 파악하는 중이다."
+      "date": "2026.09.13",
+      "link": "https://www.itworld.co.kr/article/4220423/%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%9d%b4%ec%a0%9c%eb%8a%94-%ec%95%a0%ed%94%8c%ec%9d%98-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ed%8a%b8-%ed%8d%bc%ec%8a%a4%eb%84%90-%ed%97%88%eb%b8%8c.html",
+      "summary": "애플 CEO 존 터너스가 폴더블 스마트폰 아이폰 듀오를 공개하며 AI 시대의 스마트폰을 '인텔리전트 퍼스널 허브'로 재정의했다. Credit: Apple 25년 전, 필자는 행사장 앞쪽 좌석에서 당시 애플 CEO 스티브 잡스가 애플의 ‘디지털 허브’ 전략을 발표하는 장면을 직접 목격했다."
     }
   ]
 }
