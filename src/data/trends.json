@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-21T03:15:00.190Z",
-  "collectionDate": "2026.09.20",
-  "displayDate": "2026.09.21",
+  "updatedAt": "2026-09-22T03:14:28.892Z",
+  "collectionDate": "2026.09.21",
+  "displayDate": "2026.09.22",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "[단독] 오픈AI, 韓 엔터프라이즈 사업 강화…B2B 총괄 채용 추진",
+      "title": "개인정보 유출 CEO 줄줄이 국감장으로…티빙·메타·배민·듀오·토스 소환",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.20",
-      "link": "https://zdnet.co.kr/view/?no=20260916173946",
-      "summary": "오픈AI가 국내 기업간거래(B2B) 사업을 이끌 총괄 책임자를 선임하는 방안을 논의 중인 것으로 전해졌다. 21일 복수 IT 업계 관계자에 따르면 오픈AI코리아는 기업 고객 사업을 전담할 B2B 부문 총괄을 별도로 두는 방안을 검토하고 있다. 구체적인 선임 시기나 담당 업무 범위는 아직 확정되지 않은 상태인 것으로 파악됐다."
+      "date": "2026.09.21",
+      "link": "https://zdnet.co.kr/view/?no=20260922115929",
+      "summary": "티빙, 메타코리아, 우아한형제들, 듀오, 토스페이먼츠 등 개인정보 유출사고가 벌어진 회사들의 최고경영자(CEO)가 올해 과학기술정보방송통신위원회 국정감사 증인으로 출석하게 된다. 이동통신 3사와 쿠팡의 정보보호최고책임자(CISO)도 주요 증인에 꼽혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "이모티콘·멜론 등 한 번에…'카카오멤버십' 10월 1일 첫 선",
+      "title": "국민건강보험공단, 김지영 신임 건강보험연구원장 임명",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.20",
-      "link": "https://zdnet.co.kr/view/?no=20260921111322",
-      "summary": "카카오는 이모티콘, 증권 등 그룹의 다양한 서비스를 한 곳에 묶은 '카카오멤버십' 소프트런칭을 앞두고 오픈 알림 신청 페이지를 마련했다고 21일 밝혔다. 카카오멤버십은 ▲이모티콘 ▲톡클라우드 ▲선물하기 ▲멜론 ▲페이 ▲증권 등 여러 카카오 서비스를 연계해 혜택을 제공하는 카카오의 첫 통합 멤버십이다."
+      "date": "2026.09.21",
+      "link": "https://zdnet.co.kr/view/?no=20260922114835",
+      "summary": "·국민건강보험공단은 22일자로 신임 건강보험연구원장으로 김지영 대한산업보건협회 강원센터 관리의사를 임명했다. 김지영 신임 건강보험연구원장은 예방의학과 전문의로 서울대학교 보건학 석사와 의학 박사 학위를 취득했으며, 20년간 보건·의료 분야에서 폭넓은 연구실무 경험을 쌓아 왔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "[부음]김성년 제13대 원자력연구소장 타계",
+      "title": "솔라온케어, ‘재생에너지 발전량 예측 경진대회’ 참가자 모집",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.20",
-      "link": "https://zdnet.co.kr/view/?no=20260921113830",
-      "summary": "김성년 제13대 한국원자력연구소장이 20일 타계했다. 향년 84세. 고 김 소장은 1976년 한국원자력연구소(현 한국원자력연구원)에 입소해 하나로센터장, 부소장을 거쳐 1996년부터 1999년까지 제13대 소장으로 재임했다."
+      "date": "2026.09.21",
+      "link": "https://zdnet.co.kr/view/?no=20260922114405",
+      "summary": "태양광 발전 자산 운용 플랫폼 솔라온케어가 전국 대학생 및 대학원생을 대상으로 ‘재생에너지 발전량 예측 경진대회’를 개최한다. 22일 회사에 따르면, 솔라온케어는 포스텍·카이스트·유니스트의 ‘AI·데이터사이언스 경진대회’와 통합해 이번 대회를 진행한다. 전력 중개 시장의 핵심 과제인 가상발전소(VPP) 운영 효율화 방안을 모색하기 위한 취지다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "롯데백화점, 희망퇴직 단행…근속 20년 이상 대상",
+      "title": "보령, 이판과 '탁소텔' 중국 7년 공급 계약…3800억원 규모",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.20",
-      "link": "https://zdnet.co.kr/view/?no=20260921110525",
-      "summary": "롯데백화점이 창사 이래 두 번째 희망퇴직을 단행한다. 지난 2021년 이후 5년 만이다. 롯데백화점은 21일 사내 공지를 통해 근속 20년 이상 (GL2 이하는 15년) 직원들을 대상으로 희망퇴직을 실시한다고 밝혔다. 다음 달 5일까지 약 2주간 접수받는다. 이번 희망퇴직은 신청자에 한해 진행된다."
+      "date": "2026.09.21",
+      "link": "https://zdnet.co.kr/view/?no=20260922114128",
+      "summary": "보령이 중국 제약기업 이판제약(Yifan Pharmaceutical)과 중국 시장에 7년간 ‘탁소텔’(Taxotere, 성분명: 도세탁셀)을 공급하는 계약을 체결했다. 계약 규모는 총 2억7714만4985 달러(약 3837억원)로 보령이 체결한 공급계약 가운데 역대 최대 규모다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "토마토시스템, 美 인슈어테크 사업 본궤도…투자 보험사 정부 승인",
+      "title": "AI 에이전트 구축 컨설팅도 AI가…포스코DX, 기업 AX 속도 높인다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.20",
-      "link": "https://zdnet.co.kr/view/?no=20260921113043",
-      "summary": "토마토시스템이 지분 투자한 미국 보험사가 현지 정부의 최종 승인을 받으면서 미국 인슈어테크와 디지털 헬스케어 사업 확대에 속도를 낸다."
+      "date": "2026.09.21",
+      "link": "https://zdnet.co.kr/view/?no=20260922114023",
+      "summary": "포스코DX가 인공지능(AI) 에이전트 도입을 위한 업무 분석과 설계 과정에도 AI 에이전트를 투입한다. 컨설턴트가 수행하던 업무 진단부터 요구사항 분석, 설계서 작성까지 AI로 지원해 컨설팅·설계 기간을 절반 이상 줄이고 기업 AI 전환(AX) 속도를 높인다는 전략이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "빅테크의 AI 안전 노선 갈등과 공급 리스크의 현실화",
+      "title": "수십억 달러 투자에도 드러난 오픈AI 사이버 보안의 허점",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.20",
-      "link": "https://www.itworld.co.kr/article/4224135/%eb%b9%85%ed%85%8c%ed%81%ac%ec%9d%98-ai-%ec%95%88%ec%a0%84-%eb%85%b8%ec%84%a0-%ea%b0%88%eb%93%b1%ea%b3%bc-%ea%b3%b5%ea%b8%89-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%9d%98-%ed%98%84%ec%8b%a4%ed%99%94.html",
-      "summary": "선도 AI 기업 사이에서 안전 접근법을 둘러싼 이견이 커지면서 기업 IT에 직접적인 도전 과제로 이어지고 있다. Credit: Ed Chen 선도적인 AI 기업 사이에서 점점 강력해지는 모델의 안전 관리 방식을 둘러싼 견해 차이가 커지면서, 기업 IT에도 도전 과제로 이어지기 시작했다."
+      "date": "2026.09.21",
+      "link": "https://www.itworld.co.kr/article/4224601/%ec%88%98%ec%8b%ad%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%ec%97%90%eb%8f%84-%eb%93%9c%eb%9f%ac%eb%82%9c-%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ec%95%88%ec%9d%98-%ed%97%88.html",
+      "summary": "두 연구팀이 오픈AI의 신원 시스템과 에이전트 제어에서 각각 보안 결함을 발견했다. Credit: Shutterstock / doomu 두 연구팀이 각각 오픈AI 시스템의 보안 결함을 보고하면서, 자체 AI 기반 사이버 보안 테스트 툴 개발에 수십억 달러를 투자한 기업조차 취약점에 노출될 수 있다는 사실이 드러났다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "빠를수록 쌓이는 기술 부채, AI 생성 코드 품질 관리의 역설",
+      "title": "빅테크의 AI 안전 노선 갈등과 공급 리스크의 현실화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.20",
-      "link": "https://www.itworld.co.kr/article/4223058/%eb%b9%a0%eb%a5%bc%ec%88%98%eb%a1%9d-%ec%8c%93%ec%9d%b4%eb%8a%94-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84-ai-%ec%83%9d%ec%84%b1-%ec%bd%94%eb%93%9c-%ed%92%88%ec%a7%88-%ea%b4%80%eb%a6%ac%ec%9d%98.html",
-      "summary": "생성형 AI 코드 도구 도입이 개발 속도를 높이는 동시에 기술 부채를 기하급수적으로 키울 수 있다는 경고가 잇따르는 가운데, 개발 표준 정렬을 위한 실전 전략이 제시됐다."
+      "date": "2026.09.21",
+      "link": "https://www.itworld.co.kr/article/4224135/%eb%b9%85%ed%85%8c%ed%81%ac%ec%9d%98-ai-%ec%95%88%ec%a0%84-%eb%85%b8%ec%84%a0-%ea%b0%88%eb%93%b1%ea%b3%bc-%ea%b3%b5%ea%b8%89-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%9d%98-%ed%98%84%ec%8b%a4%ed%99%94.html",
+      "summary": "선도 AI 기업 사이에서 안전 접근법을 둘러싼 이견이 커지면서 기업 IT에 직접적인 도전 과제로 이어지고 있다. Credit: Ed Chen 선도적인 AI 기업 사이에서 점점 강력해지는 모델의 안전 관리 방식을 둘러싼 견해 차이가 커지면서, 기업 IT에도 도전 과제로 이어지기 시작했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "로봇 두뇌를 클라우드에, 제너럴 로보틱스의 GRID 전략",
+      "title": "빠를수록 쌓이는 기술 부채, AI 생성 코드 품질 관리의 역설",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.20",
-      "link": "https://www.itworld.co.kr/article/4223031/%eb%a1%9c%eb%b4%87-%eb%91%90%eb%87%8c%eb%a5%bc-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%a0%9c%eb%84%88%eb%9f%b4-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4%ec%9d%98-grid-%ec%a0%84%eb%9e%b5.html",
-      "summary": "로보틱스 기업 제너럴 로보틱스가 클라우드 기반 지능 플랫폼 GRID를 앞세워 산업용 로봇 시장을 공략하고 있다. Credit: Simon Kadula 로봇 두뇌 구축 방식을 놓고 업계의 많은 기업은 지능을 로봇 내부에 직접 탑재하는 데 집중한다. 워싱턴주에 본사를 둔 제너럴 로보틱스(General Robotics)는 다른 방향을 택했다."
+      "date": "2026.09.21",
+      "link": "https://www.itworld.co.kr/article/4223058/%eb%b9%a0%eb%a5%bc%ec%88%98%eb%a1%9d-%ec%8c%93%ec%9d%b4%eb%8a%94-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84-ai-%ec%83%9d%ec%84%b1-%ec%bd%94%eb%93%9c-%ed%92%88%ec%a7%88-%ea%b4%80%eb%a6%ac%ec%9d%98.html",
+      "summary": "생성형 AI 코드 도구 도입이 개발 속도를 높이는 동시에 기술 부채를 기하급수적으로 키울 수 있다는 경고가 잇따르는 가운데, 개발 표준 정렬을 위한 실전 전략이 제시됐다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "엔비디아, 미디어텍에 35억 달러 투자로 AI 인프라 주도권 확보",
+      "title": "로봇 두뇌를 클라우드에, 제너럴 로보틱스의 GRID 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.20",
-      "link": "https://www.itworld.co.kr/article/4221572/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%af%b8%eb%94%94%ec%96%b4%ed%85%8d%ec%97%90-35%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%eb%a1%9c-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a3%bc%eb%8f%84.html",
-      "summary": "엔비디아가 반도체 업체 미디어텍에 35억 달러를 투자하며 NV링크 퓨전 기술을 통한 AI 인프라 통합 전략을 가속화했다. Credit: Shutterstock 엔비디아가 AI 기업에 대한 대규모 투자를 이어가고 있다. 이번에는 반도체 업체 미디어텍(MediaTek)에 35억 달러를 투자하고, 그 대가로 미디어텍이 엔비디아 기술을 라이선스하기로 했다."
+      "date": "2026.09.21",
+      "link": "https://www.itworld.co.kr/article/4223031/%eb%a1%9c%eb%b4%87-%eb%91%90%eb%87%8c%eb%a5%bc-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%a0%9c%eb%84%88%eb%9f%b4-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4%ec%9d%98-grid-%ec%a0%84%eb%9e%b5.html",
+      "summary": "로보틱스 기업 제너럴 로보틱스가 클라우드 기반 지능 플랫폼 GRID를 앞세워 산업용 로봇 시장을 공략하고 있다. Credit: Simon Kadula 로봇 두뇌 구축 방식을 놓고 업계의 많은 기업은 지능을 로봇 내부에 직접 탑재하는 데 집중한다. 워싱턴주에 본사를 둔 제너럴 로보틱스(General Robotics)는 다른 방향을 택했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "설렘 뒤에 남는 아이폰 듀오의 한계 “혁신인가, 타협인가”",
+      "title": "엔비디아, 미디어텍에 35억 달러 투자로 AI 인프라 주도권 확보",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.20",
-      "link": "https://www.itworld.co.kr/article/4221466/%ec%84%a4%eb%a0%98-%eb%92%a4%ec%97%90-%eb%82%a8%eb%8a%94-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4%ec%9d%98-%ed%95%9c%ea%b3%84-%ed%98%81%ec%8b%a0%ec%9d%b8%ea%b0%80-%ed%83%80%ed%98%91%ec%9d%b8.html",
-      "summary": "애플의 첫 폴더블 스마트폰 아이폰 듀오는 폼팩터 혁신으로 주목받고 있지만, 페이스 ID 삭제·두꺼운 두께·제한적 색상·비싼 시작가 등 치명적인 약점을 고스란히 안고 있다. Credit: Apple 지난주 열린 애플의 ‘서프라이즈 앤드 샤인(Surprise and Shine)’ 프레스 행사에서 아이폰 듀오 세그먼트를 지켜보며 처음 든 생각은 단순했다."
+      "date": "2026.09.21",
+      "link": "https://www.itworld.co.kr/article/4221572/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%af%b8%eb%94%94%ec%96%b4%ed%85%8d%ec%97%90-35%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%eb%a1%9c-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a3%bc%eb%8f%84.html",
+      "summary": "엔비디아가 반도체 업체 미디어텍에 35억 달러를 투자하며 NV링크 퓨전 기술을 통한 AI 인프라 통합 전략을 가속화했다. Credit: Shutterstock 엔비디아가 AI 기업에 대한 대규모 투자를 이어가고 있다. 이번에는 반도체 업체 미디어텍(MediaTek)에 35억 달러를 투자하고, 그 대가로 미디어텍이 엔비디아 기술을 라이선스하기로 했다."
     }
   ]
 }
