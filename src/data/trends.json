@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-22T03:14:28.892Z",
-  "collectionDate": "2026.09.21",
-  "displayDate": "2026.09.22",
+  "updatedAt": "2026-09-23T03:14:40.599Z",
+  "collectionDate": "2026.09.22",
+  "displayDate": "2026.09.23",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "개인정보 유출 CEO 줄줄이 국감장으로…티빙·메타·배민·듀오·토스 소환",
+      "title": "홍지선 국토부 장관 \"주거안정에 정책역량 집중…자율주행·UAM 등 미래모빌리티 선도”",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.21",
-      "link": "https://zdnet.co.kr/view/?no=20260922115929",
-      "summary": "티빙, 메타코리아, 우아한형제들, 듀오, 토스페이먼츠 등 개인정보 유출사고가 벌어진 회사들의 최고경영자(CEO)가 올해 과학기술정보방송통신위원회 국정감사 증인으로 출석하게 된다. 이동통신 3사와 쿠팡의 정보보호최고책임자(CISO)도 주요 증인에 꼽혔다."
+      "date": "2026.09.22",
+      "link": "https://zdnet.co.kr/view/?no=20260923120531",
+      "summary": "홍지선 국토교통부 장관은 23일 “국민의 삶과 가장 맞닿아 있는 주거 안정에 정책 역량을 집중하겠다”고 밝혔다. 홍 장관은 이날 취임식에서 “주택수급 불균형과 임대차 시장의 불안, 가계부채 부담까지 서로 맞물려 있는 구조적 문제를 풀 수 있는 현장과 실용주의 주택정책으로 전환해야 한다”며 이같이 말했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "국민건강보험공단, 김지영 신임 건강보험연구원장 임명",
+      "title": "인핸스, GS칼텍스 숙련자 노하우 AI에 담는다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.21",
-      "link": "https://zdnet.co.kr/view/?no=20260922114835",
-      "summary": "·국민건강보험공단은 22일자로 신임 건강보험연구원장으로 김지영 대한산업보건협회 강원센터 관리의사를 임명했다. 김지영 신임 건강보험연구원장은 예방의학과 전문의로 서울대학교 보건학 석사와 의학 박사 학위를 취득했으며, 20년간 보건·의료 분야에서 폭넓은 연구실무 경험을 쌓아 왔다."
+      "date": "2026.09.22",
+      "link": "https://zdnet.co.kr/view/?no=20260923115057",
+      "summary": "인핸스가 제조 현장 숙련자의 경험과 판단 기준을 데이터로 구조화해 인공지능(AI)이 활용할 수 있도록 하는 기술 개발에 나선다. 인핸스는 산업통상부의 2026년도 제조암묵지기반 AI모델개발사업의 일환으로 GS칼텍스와 '제조 암묵지 기반 AI 모델 개발' 과제를 수행한다고 23일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "솔라온케어, ‘재생에너지 발전량 예측 경진대회’ 참가자 모집",
+      "title": "넥써쓰, 원체인 기반 리퀴드 스테이킹 토큰 '에스티원' 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.21",
-      "link": "https://zdnet.co.kr/view/?no=20260922114405",
-      "summary": "태양광 발전 자산 운용 플랫폼 솔라온케어가 전국 대학생 및 대학원생을 대상으로 ‘재생에너지 발전량 예측 경진대회’를 개최한다. 22일 회사에 따르면, 솔라온케어는 포스텍·카이스트·유니스트의 ‘AI·데이터사이언스 경진대회’와 통합해 이번 대회를 진행한다. 전력 중개 시장의 핵심 과제인 가상발전소(VPP) 운영 효율화 방안을 모색하기 위한 취지다."
+      "date": "2026.09.22",
+      "link": "https://zdnet.co.kr/view/?no=20260923113010",
+      "summary": "원체인에 예치된 가상자산의 보상을 유지하면서 생태계 내 전송과 거래를 지원하는 리퀴드 스테이킹 토큰이 도입된다. 넥써쓰는 원체인에 스테이킹된 원($ONE)을 토큰으로 전환해 유동성을 부여하는 리퀴드 스테이킹 토큰 '에스티원'을 출시했다고 23일 밝혔다. 에스티원은 토큰화된 금고의 입출금 및 지분 산정 표준인 ERC-4626을 기반으로 설계됐다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "보령, 이판과 '탁소텔' 중국 7년 공급 계약…3800억원 규모",
+      "title": "숭실대 스파르탄AI교육원, 중국 인력자원사회보장부 연수단과 교류",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.21",
-      "link": "https://zdnet.co.kr/view/?no=20260922114128",
-      "summary": "보령이 중국 제약기업 이판제약(Yifan Pharmaceutical)과 중국 시장에 7년간 ‘탁소텔’(Taxotere, 성분명: 도세탁셀)을 공급하는 계약을 체결했다. 계약 규모는 총 2억7714만4985 달러(약 3837억원)로 보령이 체결한 공급계약 가운데 역대 최대 규모다."
+      "date": "2026.09.22",
+      "link": "https://zdnet.co.kr/view/?no=20260923114210",
+      "summary": "숭실대학교(총장 이윤재)는 중국 인력자원사회보장부 공무원 연수단이 지난 15일 숭실대를 방문해 AI중심대학 사업과 AI 전공·AX 융합 교육 현황, AI 인재 양성 경험을 공유하고 협력 방안을 논의했다고 밝혔다. 이번 방문은 중국 인력자원사회보장부 공무원 연수 프로그램 일환으로 마련됐다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "AI 에이전트 구축 컨설팅도 AI가…포스코DX, 기업 AX 속도 높인다",
+      "title": "데브시스터즈, '쿠키런: 킹덤·크럼블' 추석 업데이트",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.21",
-      "link": "https://zdnet.co.kr/view/?no=20260922114023",
-      "summary": "포스코DX가 인공지능(AI) 에이전트 도입을 위한 업무 분석과 설계 과정에도 AI 에이전트를 투입한다. 컨설턴트가 수행하던 업무 진단부터 요구사항 분석, 설계서 작성까지 AI로 지원해 컨설팅·설계 기간을 절반 이상 줄이고 기업 AI 전환(AX) 속도를 높인다는 전략이다."
+      "date": "2026.09.22",
+      "link": "https://zdnet.co.kr/view/?no=20260923112635",
+      "summary": "'쿠키런' 지식재산권(IP) 기반 주요 모바일 게임 2종이 추석 연휴를 앞두고 대규모 콘텐츠 업데이트를 적용한다. 데브시스터즈(대표 조길현)는 스튜디오킹덤이 개발한 모바일 RPG '쿠키런: 킹덤'과 모바일 방치형 RPG '쿠키런 키우기 - 쿠키런: 크럼블(이하 쿠키런: 크럼블)'에 신규 쿠키와 전투 콘텐츠를 추가하는 업데이트를 진행한다고 23일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "수십억 달러 투자에도 드러난 오픈AI 사이버 보안의 허점",
+      "title": "구글 제미나이의 무단 침투와 7주간의 침묵",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.21",
-      "link": "https://www.itworld.co.kr/article/4224601/%ec%88%98%ec%8b%ad%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%ec%97%90%eb%8f%84-%eb%93%9c%eb%9f%ac%eb%82%9c-%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ec%95%88%ec%9d%98-%ed%97%88.html",
-      "summary": "두 연구팀이 오픈AI의 신원 시스템과 에이전트 제어에서 각각 보안 결함을 발견했다. Credit: Shutterstock / doomu 두 연구팀이 각각 오픈AI 시스템의 보안 결함을 보고하면서, 자체 AI 기반 사이버 보안 테스트 툴 개발에 수십억 달러를 투자한 기업조차 취약점에 노출될 수 있다는 사실이 드러났다."
+      "date": "2026.09.22",
+      "link": "https://www.itworld.co.kr/article/4225312/%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%9d%98-%eb%ac%b4%eb%8b%a8-%ec%b9%a8%ed%88%ac%ec%99%80-7%ec%a3%bc%ea%b0%84%ec%9d%98-%ec%b9%a8%eb%ac%b5.html",
+      "summary": "구글 제미나이 에이전트가 보안 테스트 중 실제 기업 3곳에 침투했지만, 구글은 언론 문의가 있기 전까지 사실을 공개하지 않았다. Credit: Sadi Hochmuller | shutterstock.com 구글이 월요일, 자사의 제미나이 AI 에이전트가 5월 기업 3곳에 침투했다고 확인했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "빅테크의 AI 안전 노선 갈등과 공급 리스크의 현실화",
+      "title": "“에이전트AI 시대, 기업 인프라도 ‘분산형’으로” 아카마이, 보안·성능 통합 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.21",
-      "link": "https://www.itworld.co.kr/article/4224135/%eb%b9%85%ed%85%8c%ed%81%ac%ec%9d%98-ai-%ec%95%88%ec%a0%84-%eb%85%b8%ec%84%a0-%ea%b0%88%eb%93%b1%ea%b3%bc-%ea%b3%b5%ea%b8%89-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%9d%98-%ed%98%84%ec%8b%a4%ed%99%94.html",
-      "summary": "선도 AI 기업 사이에서 안전 접근법을 둘러싼 이견이 커지면서 기업 IT에 직접적인 도전 과제로 이어지고 있다. Credit: Ed Chen 선도적인 AI 기업 사이에서 점점 강력해지는 모델의 안전 관리 방식을 둘러싼 견해 차이가 커지면서, 기업 IT에도 도전 과제로 이어지기 시작했다."
+      "date": "2026.09.22",
+      "link": "https://www.itworld.co.kr/article/4224635/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%8f%84-%eb%b6%84%ec%82%b0%ed%98%95%ec%9c%bc%eb%a1%9c-%ec%95%84%ec%b9%b4%eb%a7%88.html",
+      "summary": "에이전트AI 확산으로 공격 표면이 급증하면서 기업은 초저지연 성능과 다층 방어를 동시에 갖춘 새로운 인프라 전략이 필수가 됐다. Credit: Akamai Korea AI 도입 자체에서 벗어나 AI를 중심으로 기술과 비즈니스 전략을 재설계하는 단계로 진입했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "빠를수록 쌓이는 기술 부채, AI 생성 코드 품질 관리의 역설",
+      "title": "세일즈포스 대규모 장애가 드러낸 클라우드 의존성의 맹점",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.21",
-      "link": "https://www.itworld.co.kr/article/4223058/%eb%b9%a0%eb%a5%bc%ec%88%98%eb%a1%9d-%ec%8c%93%ec%9d%b4%eb%8a%94-%ea%b8%b0%ec%88%a0-%eb%b6%80%ec%b1%84-ai-%ec%83%9d%ec%84%b1-%ec%bd%94%eb%93%9c-%ed%92%88%ec%a7%88-%ea%b4%80%eb%a6%ac%ec%9d%98.html",
-      "summary": "생성형 AI 코드 도구 도입이 개발 속도를 높이는 동시에 기술 부채를 기하급수적으로 키울 수 있다는 경고가 잇따르는 가운데, 개발 표준 정렬을 위한 실전 전략이 제시됐다."
+      "date": "2026.09.22",
+      "link": "https://www.itworld.co.kr/article/4224645/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ec%9e%a5%ec%95%a0%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9d%98%ec%a1%b4%ec%84%b1.html",
+      "summary": "세일즈포스가 드림포스 행사 중 대규모 서비스 장애를 겪으면서, 클라우드 아키텍처의 의존성 집중 및 장애 경로 설계가 기업 복원력의 핵심 과제로 부상했다. Credit: Tada Images / Shutterstock 세일즈포스의 플래그십 드림포스 행사가 수요일 한창 진행되는 동안, 세일즈포스는 약 7시간 30분에 걸친 서비스 장애를 수습해야 했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "로봇 두뇌를 클라우드에, 제너럴 로보틱스의 GRID 전략",
+      "title": "수십억 달러 투자에도 드러난 오픈AI 사이버 보안의 허점",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.21",
-      "link": "https://www.itworld.co.kr/article/4223031/%eb%a1%9c%eb%b4%87-%eb%91%90%eb%87%8c%eb%a5%bc-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%97%90-%ec%a0%9c%eb%84%88%eb%9f%b4-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4%ec%9d%98-grid-%ec%a0%84%eb%9e%b5.html",
-      "summary": "로보틱스 기업 제너럴 로보틱스가 클라우드 기반 지능 플랫폼 GRID를 앞세워 산업용 로봇 시장을 공략하고 있다. Credit: Simon Kadula 로봇 두뇌 구축 방식을 놓고 업계의 많은 기업은 지능을 로봇 내부에 직접 탑재하는 데 집중한다. 워싱턴주에 본사를 둔 제너럴 로보틱스(General Robotics)는 다른 방향을 택했다."
+      "date": "2026.09.22",
+      "link": "https://www.itworld.co.kr/article/4224601/%ec%88%98%ec%8b%ad%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%ec%97%90%eb%8f%84-%eb%93%9c%eb%9f%ac%eb%82%9c-%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ec%95%88%ec%9d%98-%ed%97%88.html",
+      "summary": "두 연구팀이 오픈AI의 신원 시스템과 에이전트 제어에서 각각 보안 결함을 발견했다. Credit: Shutterstock / doomu 두 연구팀이 각각 오픈AI 시스템의 보안 결함을 보고하면서, 자체 AI 기반 사이버 보안 테스트 툴 개발에 수십억 달러를 투자한 기업조차 취약점에 노출될 수 있다는 사실이 드러났다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "엔비디아, 미디어텍에 35억 달러 투자로 AI 인프라 주도권 확보",
+      "title": "빅테크의 AI 안전 노선 갈등과 공급 리스크의 현실화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.21",
-      "link": "https://www.itworld.co.kr/article/4221572/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%af%b8%eb%94%94%ec%96%b4%ed%85%8d%ec%97%90-35%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%eb%a1%9c-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a3%bc%eb%8f%84.html",
-      "summary": "엔비디아가 반도체 업체 미디어텍에 35억 달러를 투자하며 NV링크 퓨전 기술을 통한 AI 인프라 통합 전략을 가속화했다. Credit: Shutterstock 엔비디아가 AI 기업에 대한 대규모 투자를 이어가고 있다. 이번에는 반도체 업체 미디어텍(MediaTek)에 35억 달러를 투자하고, 그 대가로 미디어텍이 엔비디아 기술을 라이선스하기로 했다."
+      "date": "2026.09.22",
+      "link": "https://www.itworld.co.kr/article/4224135/%eb%b9%85%ed%85%8c%ed%81%ac%ec%9d%98-ai-%ec%95%88%ec%a0%84-%eb%85%b8%ec%84%a0-%ea%b0%88%eb%93%b1%ea%b3%bc-%ea%b3%b5%ea%b8%89-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%9d%98-%ed%98%84%ec%8b%a4%ed%99%94.html",
+      "summary": "선도 AI 기업 사이에서 안전 접근법을 둘러싼 이견이 커지면서 기업 IT에 직접적인 도전 과제로 이어지고 있다. Credit: Ed Chen 선도적인 AI 기업 사이에서 점점 강력해지는 모델의 안전 관리 방식을 둘러싼 견해 차이가 커지면서, 기업 IT에도 도전 과제로 이어지기 시작했다."
     }
   ]
 }
