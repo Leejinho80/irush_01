@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-27T03:35:48.029Z",
-  "collectionDate": "2026.09.26",
-  "displayDate": "2026.09.27",
+  "updatedAt": "2026-09-28T03:33:34.714Z",
+  "collectionDate": "2026.09.27",
+  "displayDate": "2026.09.28",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "마이크 리 ‘텐더 러빙 케어’, 산세바스티안영화제 최고상…각본상까지 2관왕",
+      "title": "영풍·MBK \"최윤범 사적 유용 의혹 끝까지 규명할 것\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.26",
-      "link": "https://zdnet.co.kr/view/?no=20260927100152",
-      "summary": "영국 거장 마이크 리 감독의 신작 ‘텐더 러빙 케어(Tender Loving Care)’가 산세바스티안국제영화제 최고상인 황금조개상(Golden shell)을 품에 안았다. 각본상까지 거머쥐며 2관왕에 올랐다. 26일(현지시간) 미국 연예매체 데드라인에 따르면 텐더 러빙 케어는 올해 산세바스티안국제영화제에서 최고상인 황금조개상과 각본상을 수상했다."
+      "date": "2026.09.27",
+      "link": "https://zdnet.co.kr/view/?no=20260928104931",
+      "summary": "고려아연 최대 주주인 영풍·MBK파트너스가 경영권 분쟁 상대인 최윤범 고려아연 회장에 대한 자본 사적 유용 혐의를 제기하면서, 끝까지 진상을 규명하겠다는 입장을 밝혔다. 28일 영풍·MBK는 입장문을 내고 이같이 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "[ZD브리핑] 마이크론 최대실적 예고...개보위원장·통신3사 CEO 첫회동",
+      "title": "삼성전자, '삼성 AI 구독' 새단장...요금제 개편",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.26",
-      "link": "https://zdnet.co.kr/view/?no=20260927121709",
-      "summary": "메모리 3대장 마이크론최대실적 예고 10월1일(한국시간) 미국 마이크론이 2026회계연도 4분기(6월~8월) 실적을 발표합니다. 마이크론이 제시한 이번 분기 매출은 500억 달러(±10억 달러)로, 또 한번 역대 최대 실적을 예고하고 있습니다. 전 분기 매출(414억 6000만 달러)는 전년 동기보다 크게 증가한 바 있습니다."
+      "date": "2026.09.27",
+      "link": "https://zdnet.co.kr/view/?no=20260928111411",
+      "summary": "삼성전자가 가전 구독 서비스 출시 2주년을 맞아 브랜드와 케어 솔루션, 요금제 전반을 대대적으로 개편하고 가전 구독 시장에서의 주도권 강화에 나섰다. 삼성전자는 기존 ‘AI 구독클럽’으로 운영하던 서비스의 명칭을 ‘삼성 AI 구독’으로 변경한다고 28일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "\"안정된 소속감이 소수의견도 유용한 정보로 인식시켜\"",
+      "title": "글로벌테크놀로지, 차량용 반도체 獨 IBEE·C&S 인증 획득…",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.26",
-      "link": "https://zdnet.co.kr/view/?no=20260927100147",
-      "summary": "소속 집단에서 안정적인 상태에 있는 구성원들의 소수 의견 표현과 수용이, 그렇지 않은 집단 구성원 대비 더 적극적인 것으로 나타났다. 또 안정된 소속감은 소수 의견도 유용한 정보로 인식시키는 것으로 분석됐다."
+      "date": "2026.09.27",
+      "link": "https://zdnet.co.kr/view/?no=20260928092254",
+      "summary": "발광다이오드(LED) 구동 집적회로(LDI) 시스템반도체 기업 글로벌테크놀로지(GT)는 자체 개발한 차량용 통신 반도체 'GCV1043'이 독일 인증기관 IBEE 시험과 C&S의 적합성 테스트(Conformance Test)를 통과했다고 28일 밝혔다. C&S는 독일 차량용 네트워크 시험·컨설팅 기업이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "과기정통부, 반도체 연구시설 특별 점검",
+      "title": "YTN 대주주 자격 따져본다...방미통위, 유진이엔티 청문 착수",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.26",
-      "link": "https://zdnet.co.kr/view/?no=20260923163836",
-      "summary": "과학기술정보통신부가 이달 말 한국기술교육대학교를 시작으로 전국 22개 대학 및 정부출연연구기관 반도체 연구시설에 대한 특별 점검에 나선다. 최근 AI 데이터센터가 잇따라 지어지면서 반도체 연구도 덩달어 늘어 관련 연구실 사고가 급증하고 있다. 2023년 18건이던 것이 2025년 2년새 32건으로 두 배 급증했다."
+      "date": "2026.09.27",
+      "link": "https://zdnet.co.kr/view/?no=20260928113554",
+      "summary": "방송미디어통신위원회가 유진그룹의 YTN 최다액출자자 자격을 판단하기 위한 청문 절차에 돌입한다. 청문을 통해 유진이엔티의 최다액출자자 변경승인 과정과 관련한 사실관계와 법적 쟁점을 살핀 뒤 과거 승인 처분의 직권취소 여부를 판단한다. 방미통위는 28일 전체회의를 열어 '유진이엔티 주식회사에 대한 청문에 관한 건'을 심의하면서 다수결로 청문 실시를 의결했다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "테슬라, 전기트럭 ‘세미’ 인도 시작…자율주행 도입 예고",
+      "title": "이정문 의원 \"암표방지법 신고 폭주…전담인력은 단 2명\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.26",
-      "link": "https://zdnet.co.kr/view/?no=20260927102706",
-      "summary": "테슬라가 대형 전기 트럭 모델 ‘세미’ 인도를 시작한다. 앞서 도입을 예고했던 자율주행 기능도 탑재를 준비 중이라고 재차 언급했다. CNBC 등 외신에 따르면 테슬라는 미국 네바다주 스파크스 공장에서 지난 24일 행사를 열고 이번 주 고객군에 세미를 인도하기 시작했다고 밝혔다. 테슬라가 세미를 처음 공개한 건 2017년이다."
+      "date": "2026.09.27",
+      "link": "https://zdnet.co.kr/view/?no=20260928113006",
+      "summary": "암표방지법 시행 이후 20일 만에 암표 신고가 4900건 넘게 접수됐지만, 이를 처리할 신고센터 전담인력은 2명에 불과한 것으로 나타났다. 법 시행으로 신고가 하루 평균 36배 넘게 급증하면서 인력과 처리 시스템을 보강해야 한다는 지적이 나온다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "구글 제미나이의 무단 침투와 7주간의 침묵",
+      "title": "AI 에이전트 생애주기 관리의 새 접근법, ADLC의 부상",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.26",
-      "link": "https://www.itworld.co.kr/article/4225312/%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%9d%98-%eb%ac%b4%eb%8b%a8-%ec%b9%a8%ed%88%ac%ec%99%80-7%ec%a3%bc%ea%b0%84%ec%9d%98-%ec%b9%a8%eb%ac%b5.html",
-      "summary": "구글 제미나이 에이전트가 보안 테스트 중 실제 기업 3곳에 침투했지만, 구글은 언론 문의가 있기 전까지 사실을 공개하지 않았다. Credit: Sadi Hochmuller | shutterstock.com 구글이 월요일, 자사의 제미나이 AI 에이전트가 5월 기업 3곳에 침투했다고 확인했다."
+      "date": "2026.09.27",
+      "link": "https://www.itworld.co.kr/article/4227331/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%83%9d%ec%95%a0%ec%a3%bc%ea%b8%b0-%ea%b4%80%eb%a6%ac%ec%9d%98-%ec%83%88-%ec%a0%91%ea%b7%bc%eb%b2%95-adlc%ec%9d%98-%eb%b6%80%ec%83%81.html",
+      "summary": "AI 에이전트 도입이 기업 전반으로 확산되면서 일관된 평가·관찰·거버넌스 체계를 갖춘 에이전트 제어 플레인의 필요성이 부각되고 있다. Credit: Mauro Rodrigues / Shutterstock AI 에이전트 도입이 기업 현장 전반으로 빠르게 확산되면서, 소프트웨어 개발 방식의 근본적인 재검토가 요구되고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“에이전트AI 시대, 기업 인프라도 ‘분산형’으로” 아카마이, 보안·성능 통합 전략 제시",
+      "title": "구글, 연내 제미나이 4 출시 계획 공식화",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.26",
-      "link": "https://www.itworld.co.kr/article/4224635/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%8f%84-%eb%b6%84%ec%82%b0%ed%98%95%ec%9c%bc%eb%a1%9c-%ec%95%84%ec%b9%b4%eb%a7%88.html",
-      "summary": "에이전트AI 확산으로 공격 표면이 급증하면서 기업은 초저지연 성능과 다층 방어를 동시에 갖춘 새로운 인프라 전략이 필수가 됐다. Credit: Akamai Korea AI 도입 자체에서 벗어나 AI를 중심으로 기술과 비즈니스 전략을 재설계하는 단계로 진입했다."
+      "date": "2026.09.27",
+      "link": "https://www.itworld.co.kr/article/4227322/%ea%b5%ac%ea%b8%80-%ec%97%b0%eb%82%b4-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-4-%ec%b6%9c%ec%8b%9c-%ea%b3%84%ed%9a%8d-%ea%b3%b5%ec%8b%9d%ed%99%94.html",
+      "summary": "Credit: gguy – shutterstock.com 구글 딥마인드 대표 코레이 카부크쿠오글루가 기술 전문 미디어 더 인포메이션(The Information)이 주최한 ‘AI 어젠다 라이브 서밋’에서, 제미나이 4 AI 모델이 현재 기반 모델을 안정적으로 동작하도록 정교하게 다듬는 포스트 트레이닝 초기 단계에 있으며 연말보다 “훨씬 이른” 시기에..."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "세일즈포스 대규모 장애가 드러낸 클라우드 의존성의 맹점",
+      "title": "구글 제미나이의 무단 침투와 7주간의 침묵",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.26",
-      "link": "https://www.itworld.co.kr/article/4224645/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ec%9e%a5%ec%95%a0%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9d%98%ec%a1%b4%ec%84%b1.html",
-      "summary": "세일즈포스가 드림포스 행사 중 대규모 서비스 장애를 겪으면서, 클라우드 아키텍처의 의존성 집중 및 장애 경로 설계가 기업 복원력의 핵심 과제로 부상했다. Credit: Tada Images / Shutterstock 세일즈포스의 플래그십 드림포스 행사가 수요일 한창 진행되는 동안, 세일즈포스는 약 7시간 30분에 걸친 서비스 장애를 수습해야 했다."
+      "date": "2026.09.27",
+      "link": "https://www.itworld.co.kr/article/4225312/%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%9d%98-%eb%ac%b4%eb%8b%a8-%ec%b9%a8%ed%88%ac%ec%99%80-7%ec%a3%bc%ea%b0%84%ec%9d%98-%ec%b9%a8%eb%ac%b5.html",
+      "summary": "구글 제미나이 에이전트가 보안 테스트 중 실제 기업 3곳에 침투했지만, 구글은 언론 문의가 있기 전까지 사실을 공개하지 않았다. Credit: Sadi Hochmuller | shutterstock.com 구글이 월요일, 자사의 제미나이 AI 에이전트가 5월 기업 3곳에 침투했다고 확인했다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "수십억 달러 투자에도 드러난 오픈AI 사이버 보안의 허점",
+      "title": "“에이전트AI 시대, 기업 인프라도 ‘분산형’으로” 아카마이, 보안·성능 통합 전략 제시",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.26",
-      "link": "https://www.itworld.co.kr/article/4224601/%ec%88%98%ec%8b%ad%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%ec%97%90%eb%8f%84-%eb%93%9c%eb%9f%ac%eb%82%9c-%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ec%95%88%ec%9d%98-%ed%97%88.html",
-      "summary": "두 연구팀이 오픈AI의 신원 시스템과 에이전트 제어에서 각각 보안 결함을 발견했다. Credit: Shutterstock / doomu 두 연구팀이 각각 오픈AI 시스템의 보안 결함을 보고하면서, 자체 AI 기반 사이버 보안 테스트 툴 개발에 수십억 달러를 투자한 기업조차 취약점에 노출될 수 있다는 사실이 드러났다."
+      "date": "2026.09.27",
+      "link": "https://www.itworld.co.kr/article/4224635/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%8f%84-%eb%b6%84%ec%82%b0%ed%98%95%ec%9c%bc%eb%a1%9c-%ec%95%84%ec%b9%b4%eb%a7%88.html",
+      "summary": "에이전트AI 확산으로 공격 표면이 급증하면서 기업은 초저지연 성능과 다층 방어를 동시에 갖춘 새로운 인프라 전략이 필수가 됐다. Credit: Akamai Korea AI 도입 자체에서 벗어나 AI를 중심으로 기술과 비즈니스 전략을 재설계하는 단계로 진입했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "빅테크의 AI 안전 노선 갈등과 공급 리스크의 현실화",
+      "title": "세일즈포스 대규모 장애가 드러낸 클라우드 의존성의 맹점",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.26",
-      "link": "https://www.itworld.co.kr/article/4224135/%eb%b9%85%ed%85%8c%ed%81%ac%ec%9d%98-ai-%ec%95%88%ec%a0%84-%eb%85%b8%ec%84%a0-%ea%b0%88%eb%93%b1%ea%b3%bc-%ea%b3%b5%ea%b8%89-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%9d%98-%ed%98%84%ec%8b%a4%ed%99%94.html",
-      "summary": "선도 AI 기업 사이에서 안전 접근법을 둘러싼 이견이 커지면서 기업 IT에 직접적인 도전 과제로 이어지고 있다. Credit: Ed Chen 선도적인 AI 기업 사이에서 점점 강력해지는 모델의 안전 관리 방식을 둘러싼 견해 차이가 커지면서, 기업 IT에도 도전 과제로 이어지기 시작했다."
+      "date": "2026.09.27",
+      "link": "https://www.itworld.co.kr/article/4224645/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ec%9e%a5%ec%95%a0%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9d%98%ec%a1%b4%ec%84%b1.html",
+      "summary": "세일즈포스가 드림포스 행사 중 대규모 서비스 장애를 겪으면서, 클라우드 아키텍처의 의존성 집중 및 장애 경로 설계가 기업 복원력의 핵심 과제로 부상했다. Credit: Tada Images / Shutterstock 세일즈포스의 플래그십 드림포스 행사가 수요일 한창 진행되는 동안, 세일즈포스는 약 7시간 30분에 걸친 서비스 장애를 수습해야 했다."
     }
   ]
 }
