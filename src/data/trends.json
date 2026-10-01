@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T03:54:52.210Z",
-  "collectionDate": "2026.09.29",
-  "displayDate": "2026.09.30",
+  "updatedAt": "2026-10-01T04:04:04.829Z",
+  "collectionDate": "2026.09.30",
+  "displayDate": "2026.10.01",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "하이퍼리퀴드, 비상장 시장 주목…\"24시간 거래 수요 분명\"",
+      "title": "신한은행 2.5만명 개인정보유출…\"피해 발생 시 전액 보상\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.29",
-      "link": "https://zdnet.co.kr/view/?no=20260930124008",
-      "summary": "전통 금융권의 블록체인 도입으로 24시간 거래 수요가 커지는 가운데 향후 비상장 시장에도 이러한 흐름이 확산할 것이란 전망이 나왔다."
+      "date": "2026.09.30",
+      "link": "https://zdnet.co.kr/view/?no=20261001122309",
+      "summary": "신한은행서 개인정보와 일부 신용정보가 유출된 것으로 확인됐다. 1일 신한은행은 외부서 인증을 우회하는 비정상적인 방법으로 일부 서비스에 접근해 2만5000명의 개인정보 및 신용정보가 유출됐다고 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "엘리스그룹, '1조 몸값' 코스닥 도전…글로벌 네오클라우드 노린다",
+      "title": "韓·베트남, 과학기술 협력 확대…VKIST 중심 공동연구·인재양성",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.29",
-      "link": "https://zdnet.co.kr/view/?no=20260930123837",
-      "summary": "엘리스그룹이 기업공개(IPO)를 발판으로 국내를 넘어 글로벌 네오클라우드 기업으로 도약한다. 교육 솔루션으로 시작해 인공지능(AI) 클라우드와 데이터센터까지 사업 영역을 확장한 가운데, 상장을 통해 확보한 자금을 AI 데이터센터 인프라에 투입하고 해외 시장 공략에도 속도를 낸다는 전략이다."
+      "date": "2026.09.30",
+      "link": "https://zdnet.co.kr/view/?no=20261001125328",
+      "summary": "한국과 베트남이 한-베 과학기술연구원(VKIST)을 거점으로 공동연구와 인재양성 등 과학기술 협력을 확대한다. 배경훈 부총리 겸 과학기술정보통신부 장관은 1일 서울에서 방한 중인 부 하이 꾸언 베트남 과학기술부 장관과 만나 양국 과학기술 협력 방안을 논의했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "롯데면세점·신세계인터내셔날 \"AI 전환의 핵심은 현업\"",
+      "title": "이녹스에코엠, 정철근 신임 대표 선임",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.29",
-      "link": "https://zdnet.co.kr/view/?no=20260930120627",
-      "summary": "롯데면세점과 신세계인터내셔날이 생성형 AI를 기업 업무에 안착시키기 위한 사례를 공유했다. 두 기업은 단순히 최신 기술을 도입하는 데 그치지 않고, 실제 업무를 수행하는 현업 직원이 과제를 발굴하고 데이터와 업무 기준을 지속적으로 다듬어야 한다고 강조했다."
+      "date": "2026.09.30",
+      "link": "https://zdnet.co.kr/view/?no=20261001123554",
+      "summary": "배터리 소재업체 이녹스에코엠이 1일 임시주주총회와 이사회를 열고, 정철근 신임 대표이사를 공식 선임했다고 밝혔다. 이녹스에코엠은 정철근 신임 대표가 배터리 소재 사업전략 전문가라고 설명했다. 정 신임 대표는 LG화학에서 전지재료사업부장으로 양극재 사업을 맡았다. 리튬 기업 아카디움 리튬에서 한국법인 대표를 역임한 뒤, 지주사인 이녹스 전략기획실장를 거쳤다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "정부, AI 안전 종합계획 마련…12월 수립 목표",
+      "title": "\"AI가 만든 정보, 일단 의심하세요”",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.29",
-      "link": "https://zdnet.co.kr/view/?no=20260930092952",
-      "summary": "정부가 인공지능(AI) 위험에 대응하기 위해 민간과 힘을 모은다. 산업계와 전문가 현장 의견을 반영해 AI 안전·신뢰 기반을 강화한다는 방침이다. 과학기술정보통신부는 '(가칭)국가 AI 안전 생태계 조성 마스터플랜' 마련을 위한 민·관 실무협의체를 내달부터 운영한다고 30일 밝혔다."
+      "date": "2026.09.30",
+      "link": "https://zdnet.co.kr/view/?no=20261001124600",
+      "summary": "생성형 AI로 만든 가짜정보와 딥페이크 등 AI 악용 사례를 이용자가 직접 판별해보는 캠페인이 열린다. 방송미디어통신위원회는 1011월까지 인스타그램과 유튜브 등 공식 SNS 채널에서 'AI 시대, 확인템 장착이 국룰!' 캠페인을 진행한다고 1일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "AI 게임 품는 원스토어, '생태계 혁신' 증명할 수 있을까",
+      "title": "허위조작정보 대응 투명성센터 출범...플랫폼 보고서 검증 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.09.29",
-      "link": "https://zdnet.co.kr/view/?no=20260930111130",
-      "summary": "원스토어가 생성형 인공지능(AI)을 활용해 제작한 게임들을 위한 전용 유통로를 전면 개방한다. 구글 플레이스토어와 애플 앱스토어 등 글로벌 빅테크가 규제와 엄격한 검증 체계 속에 머뭇거리는 사이, 한발 앞서 'AI 게임 유통 허브'를 선점하겠다는 구상이다."
+      "date": "2026.09.30",
+      "link": "https://zdnet.co.kr/view/?no=20261001124156",
+      "summary": "허위조작정보에 대한 사실확인 활동을 지원하고 대규모 정보통신서비스 제공자의 법적 의무 이행을 점검하는 ‘정보통신서비스 투명성센터’가 문을 열었다. 방송미디어통신위원회와 시청자미디어재단은 개정 정보통신망 이용촉진 및 정보보호 등에 관한 법률에 따라 정보통신서비스 투명성센터가 1일 공식 출범했다고 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "아이폰 듀오의 진짜 경쟁자, 갤럭시 폴드 아닌 아이폰+아이패드 조합",
+      "title": "앤트로픽 IPO 서류가 드러낸 매출 편중 “기업에는 협상 적기”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.29",
-      "link": "https://www.itworld.co.kr/article/4228541/%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4%ec%9d%98-%ec%a7%84%ec%a7%9c-%ea%b2%bd%ec%9f%81%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ed%8f%b4%eb%93%9c-%ec%95%84%eb%8b%8c-%ec%95%84%ec%9d%b4%ed%8f%b0.html",
-      "summary": "애플의 첫 폴더블폰 아이폰 듀오가 10월 출시를 앞두고 있지만, 아이폰 18 프로와 아이패드 미니를 구입하는 것이 경제적으로도 기능적으로도 더 나은 선택이 아닐까? Credit: Foundry 수년간의 유출 정보와 기대 속에, 아이폰 듀오가 공식적으로 10월 말 출시될 예정이다."
+      "date": "2026.09.30",
+      "link": "https://www.itworld.co.kr/article/4229303/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ipo-%ec%84%9c%eb%a5%98%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%eb%a7%a4%ec%b6%9c-%ed%8e%b8%ec%a4%91-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ed%98%91%ec%83%81.html",
+      "summary": "앤트로픽 기업공개(IPO) 서류의 분석 결과, 전체 매출의 4분의 1 가까이가 단 두 고객사에서 발생한 것으로 나타났다. Credit: Primakov - shutterstock.com 앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI 에이전트가 네트워크를 스스로 우회한다면, 기업 보안은 안전한가",
+      "title": "이름만 바꾸고 규제는 없나 — 트럼프의 ‘슈퍼 인텔리전스’ 시대 선언",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.29",
-      "link": "https://www.itworld.co.kr/article/4227887/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%eb%a5%bc-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ec%9a%b0%ed%9a%8c%ed%95%9c%eb%8b%a4%eb%a9%b4-%ea%b8%b0%ec%97%85-%eb%b3%b4.html",
-      "summary": "오픈AI가 자사 연구용 AI 에이전트가 네트워크 제한을 스스로 우회해 외부 서비스와 통신한 사실을 공개하고, 관련 모델 훈련 작업을 전면 중단했다."
+      "date": "2026.09.30",
+      "link": "https://www.itworld.co.kr/article/4229291/%ec%9d%b4%eb%a6%84%eb%a7%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ea%b7%9c%ec%a0%9c%eb%8a%94-%ec%97%86%eb%82%98-%ed%8a%b8%eb%9f%bc%ed%94%84%ec%9d%98-%ec%8a%88%ed%8d%bc-%ec%9d%b8%ed%85%94%eb%a6%ac.html",
+      "summary": "트럼프 행정부가 AI를 '슈퍼 인텔리전스'로 공식 개칭하면서, 법적 정의는 그대로 유지하고 안전 규제는 업계 자율에 맡겼다. Credit: Simon Gagner 미국 도널드 트럼프 대통령이 연방 정부에 AI를 ‘슈퍼 인텔리전스’로 지칭하도록 지시했다. 기술의 법적 정의는 유지하면서, 활용 규칙 설정은 업계 자율에 맡기는 방식이다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "마이크로소프트 코파일럿+ PC 브랜드의 조용한 퇴장",
+      "title": "속도·실험·군살 빼기…터너스가 바꾸는 애플",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.29",
-      "link": "https://www.itworld.co.kr/article/4227857/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-pc-%eb%b8%8c%eb%9e%9c%eb%93%9c%ec%9d%98-%ec%a1%b0%ec%9a%a9%ed%95%9c-%ed%87%b4%ec%9e%a5.html",
-      "summary": "마이크로소프트가 윈도우 11 AI 기능의 잇따른 부진 끝에 코파일럿+ PC 브랜드를 사실상 퇴장시키고 있다는 분석이 나온다. Credit: Microsoft 2024년 초 AI PC가 처음 시장에 등장했을 때, 마이크로소프트는 대대적인 홍보와 함께 코파일럿+ PC 브랜딩으로 업계를 주도했다."
+      "date": "2026.09.30",
+      "link": "https://www.itworld.co.kr/article/4229287/%ec%86%8d%eb%8f%84%c2%b7%ec%8b%a4%ed%97%98%c2%b7%ea%b5%b0%ec%82%b4-%eb%b9%bc%ea%b8%b0%ed%84%b0%eb%84%88%ec%8a%a4%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%95%a0%ed%94%8c.html",
+      "summary": "애플이 신임 CEO 체제 아래 제품 출시 속도를 높이는 동시에 기업을 슬림화하는 방향으로 전환하고 있다. Credit: Apple 애플 신임 CEO가 인력을 줄이면서 더 많은 제품을 더 빠른 속도로 출시하라고 요구하고 있다는 보도가 나왔다. 긍정적인 소식은 실제로 더 많은 제품을 출시하려는 노력이 이루어지고 있다는 점이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI 에이전트 생애주기 관리의 새 접근법, ADLC의 부상",
+      "title": "아이폰 듀오의 진짜 경쟁자, 갤럭시 폴드 아닌 아이폰+아이패드 조합",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.29",
-      "link": "https://www.itworld.co.kr/article/4227331/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%83%9d%ec%95%a0%ec%a3%bc%ea%b8%b0-%ea%b4%80%eb%a6%ac%ec%9d%98-%ec%83%88-%ec%a0%91%ea%b7%bc%eb%b2%95-adlc%ec%9d%98-%eb%b6%80%ec%83%81.html",
-      "summary": "AI 에이전트 도입이 기업 전반으로 확산되면서 일관된 평가·관찰·거버넌스 체계를 갖춘 에이전트 제어 플레인의 필요성이 부각되고 있다. Credit: Mauro Rodrigues / Shutterstock AI 에이전트 도입이 기업 현장 전반으로 빠르게 확산되면서, 소프트웨어 개발 방식의 근본적인 재검토가 요구되고 있다."
+      "date": "2026.09.30",
+      "link": "https://www.itworld.co.kr/article/4228541/%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4%ec%9d%98-%ec%a7%84%ec%a7%9c-%ea%b2%bd%ec%9f%81%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%ed%8f%b4%eb%93%9c-%ec%95%84%eb%8b%8c-%ec%95%84%ec%9d%b4%ed%8f%b0.html",
+      "summary": "애플의 첫 폴더블폰 아이폰 듀오가 10월 출시를 앞두고 있지만, 아이폰 18 프로와 아이패드 미니를 구입하는 것이 경제적으로도 기능적으로도 더 나은 선택이 아닐까? Credit: Foundry 수년간의 유출 정보와 기대 속에, 아이폰 듀오가 공식적으로 10월 말 출시될 예정이다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "구글, 연내 제미나이 4 출시 계획 공식화",
+      "title": "AI 에이전트가 네트워크를 스스로 우회한다면, 기업 보안은 안전한가",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.09.29",
-      "link": "https://www.itworld.co.kr/article/4227322/%ea%b5%ac%ea%b8%80-%ec%97%b0%eb%82%b4-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-4-%ec%b6%9c%ec%8b%9c-%ea%b3%84%ed%9a%8d-%ea%b3%b5%ec%8b%9d%ed%99%94.html",
-      "summary": "Credit: gguy – shutterstock.com 구글 딥마인드 대표 코레이 카부크쿠오글루가 기술 전문 미디어 더 인포메이션(The Information)이 주최한 ‘AI 어젠다 라이브 서밋’에서, 제미나이 4 AI 모델이 현재 기반 모델을 안정적으로 동작하도록 정교하게 다듬는 포스트 트레이닝 초기 단계에 있으며 연말보다 “훨씬 이른” 시기에..."
+      "date": "2026.09.30",
+      "link": "https://www.itworld.co.kr/article/4227887/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%eb%a5%bc-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ec%9a%b0%ed%9a%8c%ed%95%9c%eb%8b%a4%eb%a9%b4-%ea%b8%b0%ec%97%85-%eb%b3%b4.html",
+      "summary": "오픈AI가 자사 연구용 AI 에이전트가 네트워크 제한을 스스로 우회해 외부 서비스와 통신한 사실을 공개하고, 관련 모델 훈련 작업을 전면 중단했다."
     }
   ]
 }
