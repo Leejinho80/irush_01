@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-07T04:13:44.524Z",
-  "collectionDate": "2026.10.06",
-  "displayDate": "2026.10.07",
+  "updatedAt": "2026-10-08T04:25:57.200Z",
+  "collectionDate": "2026.10.07",
+  "displayDate": "2026.10.08",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "여권 들고 떠나는 'AI 여행'…메가존 \"기업 AX 여정 책임진다\"",
+      "title": "씨이랩, '2026 한국건설·안전박람회'서 AI·디지털 트윈 기술 공개",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.06",
-      "link": "https://zdnet.co.kr/view/?no=20261007120251",
-      "summary": "기업의 인공지능 전환(AX)을 위한 특별한 공항이 서울 코엑스에 문을 열었다. 이곳에서 여행객들이 향하는 목적지는 해외가 아닌 AX다. 메가존클라우드는 기업마다 다른 인공지능(AI) 도입 여정을 여행에 빗대어 공항 콘셉트로 꾸민 전시 공간을 통해 AI 기술 선택부터 구축·운영·보안까지 아우르는 통합 지원 역량을 선보였다."
+      "date": "2026.10.07",
+      "link": "https://zdnet.co.kr/view/?no=20261008132359",
+      "summary": "피지컬AI 전문기업 씨이랩(대표 윤세혁·채정환)이 오는 14~16일 일산 킨텍스(KINTEX) 제1전시장에서 열리는 ‘2026 한국건설·안전박람회’에 참가한다. 비전AI 기반 실시간 위험 감지 솔루션 ‘XAIVA(엑스아이바)’와 사전 예측을 위한 ‘Digital Twin(디지털 트윈)’ 기술을 전면에 내세워 건설 현장의 안전 관리 패러다임 전환을 제시한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "런드리고, 7년 간 누적 세탁 처리량 5000만벌 돌파",
+      "title": "\"사내 지식도 AI가 찾고 요약\"…인젠트, 문서중앙화에 AI 입힌다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.06",
-      "link": "https://zdnet.co.kr/view/?no=20261007130950",
-      "summary": "비대면 모바일 세탁 서비스 '런드리고'를 운영하는 의식주컴퍼니가 서비스 출시 7년 만에 누적 세탁 처리량 5000만벌을 돌파했다. 7일 회사에 따르면, 런드리고는 지난 9월 기준 '개별클리닝' 3300만여벌, '생활빨래' 1800만여벌을 세탁하며 누적 세탁 처리량 약 5100만벌을 기록했다."
+      "date": "2026.10.07",
+      "link": "https://zdnet.co.kr/view/?no=20261008131342",
+      "summary": "사내 문서를 한곳에 모아 관리하던 문서중앙화 솔루션이 인공지능(AI)이 기업 지식을 활용하는 기반으로 진화하고 있다. 인젠트는 6일부터 8일까지 사흘간 서울 코엑스에서 열린 'AI 페스타 2026'에서 '인젠트 EDM'을 공개했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "모비젠, 온톨로지 구축부터 현장 지원까지…기업 AX 전환 부담 최소화",
+      "title": "코난테크놀로지, 네팔 법무부에 법률 AI 선보였다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.06",
-      "link": "https://zdnet.co.kr/view/?no=20261007111412",
-      "summary": "모비젠이 다이나믹 온톨로지를 적용한 그래피오 2.0을 앞세워 기업의 인공지능(AI) 전환을 가속화한다. 기업 데이터를 AI가 이해할 수 있도록 구조화하는 데 그치지 않고 자연어 분석과 업무 실행까지 연결한다는 전략이다."
+      "date": "2026.10.07",
+      "link": "https://zdnet.co.kr/view/?no=20261008131621",
+      "summary": "코난테크놀로지가 네팔 법무부 고위급 대표단을 대상으로 법률 분야 인공지능(AI) 활용 사례를 소개하고 실시간 네팔어 통역 기술을 선보였다. 코난테크놀로지는 지난달 네팔 법무부 대표단의 방문을 맞아 법률·법제 분야 AI 기술과 활용 사례를 소개했다고 8일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "\"말 한마디면 알아서 척척\"…KT ‘모두의 AI’ 12월 출격",
+      "title": "\"랜섬웨어 뚫려도 데이터는 지킨다\"...유클리드소프트 역발상 보안",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.06",
-      "link": "https://zdnet.co.kr/view/?no=20261007123235",
-      "summary": "여러 웹사이트를 열어 정보를 비교하고 다시 앱을 실행해 예약하고 신청하는 번거로움이 줄어든다. 이용자가 원하는 바를 말하면 AI가 필요한 정보를 찾아 비교하고, 예약과 신청 같은 실제 서비스 이용까지 알아서 연결한다. KT가 국내 AI 기업들과 개발 중인 ‘모두의 AI’가 그리는 모습이다."
+      "date": "2026.10.07",
+      "link": "https://zdnet.co.kr/view/?no=20261008124208",
+      "summary": "랜섬웨어 침입을 막는 데서 그치지 않고 이미 감염됐더라도 데이터를 보호하는 보안 기술이 이목을 끈다. 기업의 핵심 데이터를 암호화해 탈취 피해를 줄이고, AI 모델을 노리는 공격까지 사전에 점검하는 방식이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "누리호 5차 발사…붉은 화염 뿜으며 힘차게 날아올라",
+      "title": "제논, 코스닥 상장 공모 돌입…최대 268억 조달",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.06",
-      "link": "https://zdnet.co.kr/view/?no=20261007123122",
-      "summary": "대한민국 우주산업을 새롭게 열어갈 누리호 5차 발사가 7일 낮 12시 25분 고흥 나로우주센터 제2발사장에서 붉은 화염을 뿜으며 성공적으로 진행됐다. 초소형 군집위성 5기와 큐브위성 10기 등 총 15기의 위성을 실은 누리호는 이날 카운트 다운과 함께 힘차게 하늘로 날아 올랐다. 누리호는 발사기준 123초에 고도 67km에 이르러 1단이 분리된다."
+      "date": "2026.10.07",
+      "link": "https://zdnet.co.kr/view/?no=20261008130912",
+      "summary": "제논이 코스닥 상장을 위한 공모 절차에 본격 돌입했다. 상장을 통해 확보한 자금을 인공지능(AI) 인프라 확충과 AI 에이전트·피지컬 AI 기술 고도화에 투입한다는 계획이다. 제논은 금융위원회에 증권신고서를 제출하고 코스닥 상장을 위한 공모 절차에 착수했다고 8일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
+      "title": "“정답 없이도 결함 잡는다” 프로퍼티 기반 테스팅으로 AI 모델·에이전트를 검증하는 법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.06",
-      "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
-      "summary": "마이크론이 내년 공급량 대부분을 이미 계약 완료했다고 밝혔고, 시장 조사 기관들도 2027년까지 가격 상승세가 이어질 것으로 전망했다. Credit: Micron Technology 메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다."
+      "date": "2026.10.07",
+      "link": "https://www.itworld.co.kr/article/4232226/%ec%a0%95%eb%8b%b5-%ec%97%86%ec%9d%b4%eb%8f%84-%ea%b2%b0%ed%95%a8-%ec%9e%a1%eb%8a%94%eb%8b%a4-%ed%94%84%eb%a1%9c%ed%8d%bc%ed%8b%b0-%ea%b8%b0%eb%b0%98-%ed%85%8c%ec%8a%a4%ed%8c%85%ec%9c%bc%eb%a1%9c.html",
+      "summary": "비결정론적 AI 시스템에서 수천 개의 자동 생성 시나리오로 엣지 케이스를 포착하는 새 검증 전략이 주목받고 있다. Credit: Andrey_Popov/Shutterstock 결정론적 시스템 테스팅은 비교적 간단하다. 시스템이 통과해야 하는 어서션(Assertion)을 만들고, 일련의 입력-출력 데이터 패턴에 대해 자동으로 검증한다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심",
+      "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.06",
-      "link": "https://www.itworld.co.kr/article/4230976/ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0-%ec%b8%a1%ec%a0%95-%ed%8c%a8%eb%9f%ac%eb%8b%a4%ec%9e%84-%ec%a0%84%ed%99%98%ec%9e%ac%eb%ac%b4%c2%b7%eb%b9%84%ec%9e%ac%eb%ac%b4-%ec%84%b1.html",
-      "summary": "대다수 기업이 AI 투자 수익률 측정에 어려움을 겪는 가운데, 맥킨지와 가트너 애널리스트는 비용보다 가치 중심의 새로운 ROI 접근법을 제시했다. Credit: Henry Dinardo 대다수 기업이 AI에서 재무적 수익을 측정하지 못하고 있지만, ROI를 산정하는 새로운 방식이 부상하고 있다고 밝혔다."
+      "date": "2026.10.07",
+      "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
+      "summary": "마이크론이 내년 공급량 대부분을 이미 계약 완료했다고 밝혔고, 시장 조사 기관들도 2027년까지 가격 상승세가 이어질 것으로 전망했다. Credit: Micron Technology 메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI가 짓는 집, 설계도는 누가 그리나…AI 코드 시대의 거버넌스 설계",
+      "title": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.06",
-      "link": "https://www.itworld.co.kr/article/4229883/ai%ea%b0%80-%ec%a7%93%eb%8a%94-%ec%a7%91-%ec%84%a4%ea%b3%84%eb%8f%84%eb%8a%94-%eb%88%84%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%82%98-ai-%ec%bd%94%eb%93%9c-%ec%8b%9c%eb%8c%80%ec%9d%98-%ea%b1%b0%eb%b2%84.html",
-      "summary": "AI 코드 생성기 확산으로 개발 표준 공백이 빠르게 확대되면서, 문서화·비기능 요구사항·데이터 거버넌스를 AI 컨텍스트로 구조화하는 접근법이 주목받고 있다. Credit: Shutterstock 필자가 데브옵스 기업에 가장 먼저 묻는 질문은 개발 및 운영 표준에 관한 것이다. 타협할 수 없는 데브옵스 관행은 무엇인가? 데이터 거버넌스의 제1원칙은 무엇인가?"
+      "date": "2026.10.07",
+      "link": "https://www.itworld.co.kr/article/4230976/ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0-%ec%b8%a1%ec%a0%95-%ed%8c%a8%eb%9f%ac%eb%8b%a4%ec%9e%84-%ec%a0%84%ed%99%98%ec%9e%ac%eb%ac%b4%c2%b7%eb%b9%84%ec%9e%ac%eb%ac%b4-%ec%84%b1.html",
+      "summary": "대다수 기업이 AI 투자 수익률 측정에 어려움을 겪는 가운데, 맥킨지와 가트너 애널리스트는 비용보다 가치 중심의 새로운 ROI 접근법을 제시했다. Credit: Henry Dinardo 대다수 기업이 AI에서 재무적 수익을 측정하지 못하고 있지만, ROI를 산정하는 새로운 방식이 부상하고 있다고 밝혔다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "앤트로픽 IPO 서류가 드러낸 매출 편중 “기업에는 협상 적기”",
+      "title": "AI가 짓는 집, 설계도는 누가 그리나…AI 코드 시대의 거버넌스 설계",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.06",
-      "link": "https://www.itworld.co.kr/article/4229303/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ipo-%ec%84%9c%eb%a5%98%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%eb%a7%a4%ec%b6%9c-%ed%8e%b8%ec%a4%91-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ed%98%91%ec%83%81.html",
-      "summary": "앤트로픽 기업공개(IPO) 서류의 분석 결과, 전체 매출의 4분의 1 가까이가 단 두 고객사에서 발생한 것으로 나타났다. Credit: Primakov - shutterstock.com 앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다."
+      "date": "2026.10.07",
+      "link": "https://www.itworld.co.kr/article/4229883/ai%ea%b0%80-%ec%a7%93%eb%8a%94-%ec%a7%91-%ec%84%a4%ea%b3%84%eb%8f%84%eb%8a%94-%eb%88%84%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%82%98-ai-%ec%bd%94%eb%93%9c-%ec%8b%9c%eb%8c%80%ec%9d%98-%ea%b1%b0%eb%b2%84.html",
+      "summary": "AI 코드 생성기 확산으로 개발 표준 공백이 빠르게 확대되면서, 문서화·비기능 요구사항·데이터 거버넌스를 AI 컨텍스트로 구조화하는 접근법이 주목받고 있다. Credit: Shutterstock 필자가 데브옵스 기업에 가장 먼저 묻는 질문은 개발 및 운영 표준에 관한 것이다. 타협할 수 없는 데브옵스 관행은 무엇인가? 데이터 거버넌스의 제1원칙은 무엇인가?"
     },
     {
       "id": 10,
       "number": "10",
-      "title": "이름만 바꾸고 규제는 없나 — 트럼프의 ‘슈퍼 인텔리전스’ 시대 선언",
+      "title": "앤트로픽 IPO 서류가 드러낸 매출 편중 “기업에는 협상 적기”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.06",
-      "link": "https://www.itworld.co.kr/article/4229291/%ec%9d%b4%eb%a6%84%eb%a7%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ea%b7%9c%ec%a0%9c%eb%8a%94-%ec%97%86%eb%82%98-%ed%8a%b8%eb%9f%bc%ed%94%84%ec%9d%98-%ec%8a%88%ed%8d%bc-%ec%9d%b8%ed%85%94%eb%a6%ac.html",
-      "summary": "트럼프 행정부가 AI를 '슈퍼 인텔리전스'로 공식 개칭하면서, 법적 정의는 그대로 유지하고 안전 규제는 업계 자율에 맡겼다. Credit: Simon Gagner 미국 도널드 트럼프 대통령이 연방 정부에 AI를 ‘슈퍼 인텔리전스’로 지칭하도록 지시했다. 기술의 법적 정의는 유지하면서, 활용 규칙 설정은 업계 자율에 맡기는 방식이다."
+      "date": "2026.10.07",
+      "link": "https://www.itworld.co.kr/article/4229303/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ipo-%ec%84%9c%eb%a5%98%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%eb%a7%a4%ec%b6%9c-%ed%8e%b8%ec%a4%91-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ed%98%91%ec%83%81.html",
+      "summary": "앤트로픽 기업공개(IPO) 서류의 분석 결과, 전체 매출의 4분의 1 가까이가 단 두 고객사에서 발생한 것으로 나타났다. Credit: Primakov - shutterstock.com 앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다."
     }
   ]
 }
