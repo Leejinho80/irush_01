@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-11T03:54:17.619Z",
-  "collectionDate": "2026.10.10",
-  "displayDate": "2026.10.11",
+  "updatedAt": "2026-10-12T04:15:16.604Z",
+  "collectionDate": "2026.10.11",
+  "displayDate": "2026.10.12",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "외롭고 사람도 안 만나면 건강수명 줄어든다?",
+      "title": "쇼핑엔티, 웰니스 특화 멤버십 '웰리스트 클럽' 선보여",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.10",
-      "link": "https://zdnet.co.kr/view/?no=20261011101059",
-      "summary": "외로움을 느끼면서 다른 사람과 교류도 적은 사람은 그렇지 않은 사람보다 질병 없이 건강하게 지내는 기간이 짧다는 연구 결과가 나왔다. 특히 외로움을 느끼면서 사회적 교류도 적은 남성은 그렇지 않은 남성보다 우울증이나 불안장애 없이 건강하게 지낼 것으로 예상되는 기간이 평균 5.8년 짧았다."
+      "date": "2026.10.11",
+      "link": "https://zdnet.co.kr/view/?no=20261012131012",
+      "summary": "T커머스 채널 쇼핑엔티가 건강한 일상을 위한 웰니스 전문관 '웰리스트'와 관심사 기반 멤버십 '웰리스트 클럽'을 오픈한다. 12일 쇼핑엔티에 따르면, '웰리스트'는 건강식품과 웰니스 라이프스타일 상품을 고객의 필요 상황에 따라 '비움', '채움', '회복' 3가지 카테고리로 분류해 제안한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "AI 반도체 경쟁, 전력 인프라가 좌우…슈나이더 일렉트릭, 팹 공략 확대",
+      "title": "토스 결제 단말기 자회사 '토스플레이스', 세 자릿수 채용",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.10",
-      "link": "https://zdnet.co.kr/view/?no=20261011122138",
-      "summary": "인공지능(AI) 반도체 수요가 늘면서 반도체 제조시설의 전력 공급과 냉각 효율이 생산 경쟁력을 좌우하는 주요 요소로 떠오르고 있다. 슈나이더 일렉트릭은 고효율 전력 설비와 AI 기반 운영 기술을 결합해 국내 반도체 팹의 에너지 사용을 줄이고 안정적인 생산 환경을 지원한다는 전략이다."
+      "date": "2026.10.11",
+      "link": "https://zdnet.co.kr/view/?no=20261012081318",
+      "summary": "토스 결제 단말기 및 포스(POS) 솔루션 공급 자회사 '토스플레이스'가 전 직군 대상 세 자릿 수 규모의 공개 채용을 한다. 12일 토스플레이스는 오는 31일까지 채용을 진행한다고 밝혔다. 모집 직군은 ▲비즈니스·세일즈(Business & Sales) ▲데이터 ▲디자인 ▲엔지니어링 ▲파이낸스 ▲마케팅 ▲HR ▲프로덕트 ▲보안 ▲전략 등이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "김상철 한컴그룹 회장, 한글학회 '특별 공로 표창' 수상…1000만원 기부",
+      "title": "[AI는 지금] 韓 캐릭터챗 쌍두마차, 청소년 이용에 안전장치 건다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.10",
-      "link": "https://zdnet.co.kr/view/?no=20261011121549",
-      "summary": "김상철 한컴그룹 회장이 한글 기술 발전과 우리말의 세계화에 기여한 공로를 인정받아 한글학회로부터 특별 공로 표창을 받았다. 김 회장은 수상 상금 전액과 별도로 마련한 1000만원을 기부하며 한글 연구와 발전을 위한 지원을 이어갔다."
+      "date": "2026.10.11",
+      "link": "https://zdnet.co.kr/view/?no=20261012104704",
+      "summary": "인공지능(AI) 캐릭터 채팅 서비스 업계에서 청소년 과몰입을 막기 위한 이용 제한 정책이 확산하고 있다. 뤼튼테크놀로지스의 '크랙'에 이어 스캐터랩의 '제타'도 하루 이용시간과 월 결제액에 한도를 두기로 했다. 청소년의 AI 캐릭터 채팅 이용 행태가 국정감사 쟁점으로 떠오른 가운데 업계의 이용자 보호 조치도 강화되는 모습이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "포스코DX, 인핸스에 20억원 투자…산업 특화 에이전틱 AI 키운다",
+      "title": "이진숙 국감 제척 공방...과방위원장 \"재직당시 업무는 발언제한 가능\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.10",
-      "link": "https://zdnet.co.kr/view/?no=20261011121021",
-      "summary": "포스코DX가 숙련 직원의 업무 경험과 노하우까지 인공지능(AI)이 이해하고 활용할 수 있도록 하는 기술 확보에 나섰다. 기업 내부에 축적된 업무 지식을 AI 에이전트와 연결해 단순 정보 검색을 넘어 실제 업무를 수행하는 에이전틱 AI 역량을 강화한다는 목표다."
+      "date": "2026.10.11",
+      "link": "https://zdnet.co.kr/view/?no=20261012121450",
+      "summary": "이진숙 국민의힘 의원의 국정감사 참여 자격을 놓고 여야가 재차 충돌했다. 송기헌 국회 과학기술정보방송통신위원장은 전직 방송통신위원장이라는 경력만으로는 이해충돌에 해당하지 않지만 재직 당시 수행한 업무에 대해서는 질의와 표결을 제한할 수 있다는 입장을 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "한미일, XR 헤드셋 이동할 때 멀미 해결 나선다",
+      "title": "정준호 의원 \"게임위 확률형 아이템 감시 '구멍'…단기직 의존에 1월 실적 10%\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.10",
-      "link": "https://zdnet.co.kr/view/?no=20261011115612",
-      "summary": "한미일 대학과 연구기관 5곳이 XR 헤드셋을 쓰고 이동 중 발생하는 멀미 등을 해결하기 위한 연구에 나섰다. 한·미·일 대학과 연구기관 5곳이 지난 5일(현지시간) 이탈리아 바리에서 열린 ‘IEEE ISMAR 2026’에서 ‘제1회 이동형 확장현실(XR) 국제 워크숍(XRWay’26)’을 개최했다."
+      "date": "2026.10.11",
+      "link": "https://zdnet.co.kr/view/?no=20261012122012",
+      "summary": "게임물관리위원회(이하 게임위)의 확률형 아이템 사후 모니터링이 단기 계약직 조사 인력에 과도하게 의존하면서 심각한 조사 공백과 전문성 저하를 겪고 있다는 지적이 제기됐다. 12일 열린 국회 문화체육관광위원회 국정감사에서 정준호 더불어민주당 의원은 서태건 게임위 위원장을 상대로 확률형 아이템 정보공개 의무화 이후의 사후 점검 체계 부실을 집중 추궁했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "“정답 없이도 결함 잡는다” 프로퍼티 기반 테스팅으로 AI 모델·에이전트를 검증하는 법",
+      "title": "모델 선택권 앞세운 승부수…구글, 기업용 AI 에이전트 생태계 ‘관문’ 선점 시동",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.10",
-      "link": "https://www.itworld.co.kr/article/4232226/%ec%a0%95%eb%8b%b5-%ec%97%86%ec%9d%b4%eb%8f%84-%ea%b2%b0%ed%95%a8-%ec%9e%a1%eb%8a%94%eb%8b%a4-%ed%94%84%eb%a1%9c%ed%8d%bc%ed%8b%b0-%ea%b8%b0%eb%b0%98-%ed%85%8c%ec%8a%a4%ed%8c%85%ec%9c%bc%eb%a1%9c.html",
-      "summary": "비결정론적 AI 시스템에서 수천 개의 자동 생성 시나리오로 엣지 케이스를 포착하는 새 검증 전략이 주목받고 있다. Credit: Andrey_Popov/Shutterstock 결정론적 시스템 테스팅은 비교적 간단하다. 시스템이 통과해야 하는 어서션(Assertion)을 만들고, 일련의 입력-출력 데이터 패턴에 대해 자동으로 검증한다."
+      "date": "2026.10.11",
+      "link": "https://www.itworld.co.kr/article/4233525/%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ea%b6%8c-%ec%95%9e%ec%84%b8%ec%9a%b4-%ec%8a%b9%eb%b6%80%ec%88%98-%ea%b5%ac%ea%b8%80-%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
+      "summary": "구글이 제미나이 범용 에이전트를 앞세워 기업 AI 인프라의 핵심 거점 확보에 나섰다. Credit: Sadi Hochmuller | shutterstock.com 구글이 또 하나의 화려한 신규 에이전트 출시에 그치지 않고, AI 인프라 계층 전체를 장악하려는 전략적 행보를 보이고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
+      "title": "“정답 없이도 결함 잡는다” 프로퍼티 기반 테스팅으로 AI 모델·에이전트를 검증하는 법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.10",
-      "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
-      "summary": "마이크론이 내년 공급량 대부분을 이미 계약 완료했다고 밝혔고, 시장 조사 기관들도 2027년까지 가격 상승세가 이어질 것으로 전망했다. Credit: Micron Technology 메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다."
+      "date": "2026.10.11",
+      "link": "https://www.itworld.co.kr/article/4232226/%ec%a0%95%eb%8b%b5-%ec%97%86%ec%9d%b4%eb%8f%84-%ea%b2%b0%ed%95%a8-%ec%9e%a1%eb%8a%94%eb%8b%a4-%ed%94%84%eb%a1%9c%ed%8d%bc%ed%8b%b0-%ea%b8%b0%eb%b0%98-%ed%85%8c%ec%8a%a4%ed%8c%85%ec%9c%bc%eb%a1%9c.html",
+      "summary": "비결정론적 AI 시스템에서 수천 개의 자동 생성 시나리오로 엣지 케이스를 포착하는 새 검증 전략이 주목받고 있다. Credit: Andrey_Popov/Shutterstock 결정론적 시스템 테스팅은 비교적 간단하다. 시스템이 통과해야 하는 어서션(Assertion)을 만들고, 일련의 입력-출력 데이터 패턴에 대해 자동으로 검증한다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심",
+      "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.10",
-      "link": "https://www.itworld.co.kr/article/4230976/ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0-%ec%b8%a1%ec%a0%95-%ed%8c%a8%eb%9f%ac%eb%8b%a4%ec%9e%84-%ec%a0%84%ed%99%98%ec%9e%ac%eb%ac%b4%c2%b7%eb%b9%84%ec%9e%ac%eb%ac%b4-%ec%84%b1.html",
-      "summary": "대다수 기업이 AI 투자 수익률 측정에 어려움을 겪는 가운데, 맥킨지와 가트너 애널리스트는 비용보다 가치 중심의 새로운 ROI 접근법을 제시했다. Credit: Henry Dinardo 대다수 기업이 AI에서 재무적 수익을 측정하지 못하고 있지만, ROI를 산정하는 새로운 방식이 부상하고 있다고 밝혔다."
+      "date": "2026.10.11",
+      "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
+      "summary": "마이크론이 내년 공급량 대부분을 이미 계약 완료했다고 밝혔고, 시장 조사 기관들도 2027년까지 가격 상승세가 이어질 것으로 전망했다. Credit: Micron Technology 메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI가 짓는 집, 설계도는 누가 그리나…AI 코드 시대의 거버넌스 설계",
+      "title": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.10",
-      "link": "https://www.itworld.co.kr/article/4229883/ai%ea%b0%80-%ec%a7%93%eb%8a%94-%ec%a7%91-%ec%84%a4%ea%b3%84%eb%8f%84%eb%8a%94-%eb%88%84%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%82%98-ai-%ec%bd%94%eb%93%9c-%ec%8b%9c%eb%8c%80%ec%9d%98-%ea%b1%b0%eb%b2%84.html",
-      "summary": "AI 코드 생성기 확산으로 개발 표준 공백이 빠르게 확대되면서, 문서화·비기능 요구사항·데이터 거버넌스를 AI 컨텍스트로 구조화하는 접근법이 주목받고 있다. Credit: Shutterstock 필자가 데브옵스 기업에 가장 먼저 묻는 질문은 개발 및 운영 표준에 관한 것이다. 타협할 수 없는 데브옵스 관행은 무엇인가? 데이터 거버넌스의 제1원칙은 무엇인가?"
+      "date": "2026.10.11",
+      "link": "https://www.itworld.co.kr/article/4230976/ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0-%ec%b8%a1%ec%a0%95-%ed%8c%a8%eb%9f%ac%eb%8b%a4%ec%9e%84-%ec%a0%84%ed%99%98%ec%9e%ac%eb%ac%b4%c2%b7%eb%b9%84%ec%9e%ac%eb%ac%b4-%ec%84%b1.html",
+      "summary": "대다수 기업이 AI 투자 수익률 측정에 어려움을 겪는 가운데, 맥킨지와 가트너 애널리스트는 비용보다 가치 중심의 새로운 ROI 접근법을 제시했다. Credit: Henry Dinardo 대다수 기업이 AI에서 재무적 수익을 측정하지 못하고 있지만, ROI를 산정하는 새로운 방식이 부상하고 있다고 밝혔다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "앤트로픽 IPO 서류가 드러낸 매출 편중 “기업에는 협상 적기”",
+      "title": "AI가 짓는 집, 설계도는 누가 그리나…AI 코드 시대의 거버넌스 설계",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.10",
-      "link": "https://www.itworld.co.kr/article/4229303/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ipo-%ec%84%9c%eb%a5%98%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%eb%a7%a4%ec%b6%9c-%ed%8e%b8%ec%a4%91-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ed%98%91%ec%83%81.html",
-      "summary": "앤트로픽 기업공개(IPO) 서류의 분석 결과, 전체 매출의 4분의 1 가까이가 단 두 고객사에서 발생한 것으로 나타났다. Credit: Primakov - shutterstock.com 앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다."
+      "date": "2026.10.11",
+      "link": "https://www.itworld.co.kr/article/4229883/ai%ea%b0%80-%ec%a7%93%eb%8a%94-%ec%a7%91-%ec%84%a4%ea%b3%84%eb%8f%84%eb%8a%94-%eb%88%84%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%82%98-ai-%ec%bd%94%eb%93%9c-%ec%8b%9c%eb%8c%80%ec%9d%98-%ea%b1%b0%eb%b2%84.html",
+      "summary": "AI 코드 생성기 확산으로 개발 표준 공백이 빠르게 확대되면서, 문서화·비기능 요구사항·데이터 거버넌스를 AI 컨텍스트로 구조화하는 접근법이 주목받고 있다. Credit: Shutterstock 필자가 데브옵스 기업에 가장 먼저 묻는 질문은 개발 및 운영 표준에 관한 것이다. 타협할 수 없는 데브옵스 관행은 무엇인가? 데이터 거버넌스의 제1원칙은 무엇인가?"
     }
   ]
 }
