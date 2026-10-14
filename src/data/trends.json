@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-13T05:24:13.944Z",
-  "collectionDate": "2026.10.12",
-  "displayDate": "2026.10.13",
+  "updatedAt": "2026-10-14T03:28:32.639Z",
+  "collectionDate": "2026.10.13",
+  "displayDate": "2026.10.14",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "에임인텔리전스, UAE 사이버보안 기업 ‘CPX’와 전략 협력",
+      "title": "공정위, 오뚜기·대상·CJ제일제당 현장조사…가공식품 담합 의혹",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.12",
-      "link": "https://zdnet.co.kr/view/?no=20261013141817",
-      "summary": "AI 보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)가 아랍에미리트(UAE) 아부다비에 본사를 둔 사이버보안 기업 CPX 홀딩(CPX Holding, 이하 CPX)과 전략적 협력을 위한 업무협약(MOU)을 체결했다."
+      "date": "2026.10.13",
+      "link": "https://zdnet.co.kr/view/?no=20261014113437",
+      "summary": "공정거래위원회가 주요 식품업체를 대상으로 현장조사에 착수했다. 가공식품 가격 담합과 재판매가격유지행위 혐의를 들여다보는 것으로 알려졌다. 14일 공정위는 이날부터 오는 20일까지 5일간 오뚜기와 대상, CJ제일제당 등 주요 식품업체에 조사관을 보내 현장조사를 진행 중에 있다. 조사 대상 품목은 김치, 두부, 유지류, 선물세트, 즉석밥류, 장류 등 6개다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "정부, 내년 피지컬 AI에 3조1000억원 편성…산업 현장 실증 본격화",
+      "title": "ST마이크로, '크기 30% 축소' 에어컨·히트펌프·가전용 전력모듈 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.12",
-      "link": "https://zdnet.co.kr/view/?no=20261013140428",
-      "summary": "정부가 내년 중소 제조기업의 피지컬 인공지능(AI) 실증에 1728억원을 투입하고 물류·농업·항만 등 산업 현장으로 지원 범위를 넓힌다. 과학기술정보통신부와 중소벤처기업부, 농림축산식품부, 해양수산부 등은 13일 서울 코엑스에서 열린 '2027년 범부처 피지컬 AI 사업설명회'에서 내년도 신규 사업의 지원 규모와 대상, 공모 일정 등을 공개했다."
+      "date": "2026.10.13",
+      "link": "https://zdnet.co.kr/view/?no=20261014114733",
+      "summary": "ST마이크로일렉트로닉스(ST마이크로)가 산업용 드라이브, 에어컨, 히트펌프, 가전제품에 사용할 수 있는 DBC(Direct-Bonded Copper) 기술 기반 전력 모듈 SLLIMM(Small Low-Loss Intelligent Molded Module) 신제품을 출시했다고 14일 밝혔다. 신제품은 600V 3상 IGBT 인버터 브리지를 18.8x32."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "덱스터스튜디오, tvN 드라마 '100일의 거짓말' VFX 기술 참여",
+      "title": "[영상] 치열해지는 미·중 AI 경쟁…한국, 산업 AX서 경쟁력 찾아야",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.12",
-      "link": "https://zdnet.co.kr/view/?no=20261013140619",
-      "summary": "덱스터스튜디오가 1932년 일제강점기 경성의 공간과 시대적 분위기를 시각특수효과(VFX)로 복원했다. 종합 콘텐츠 기업 덱스터스튜디오(이하 덱스터)는 tvN 20주년 특별기획 새 토일드라마 '100일의 거짓말'의 VFX 기술 제작에 참여했다고 13일 밝혔다."
+      "date": "2026.10.13",
+      "link": "https://zdnet.co.kr/view/?no=20261014113816",
+      "summary": "\"인공지능(AI) 모델 경쟁이 다 끝난 뒤에 국산 AI로 산업 분야 AI 전환(AX)은 현실적으로 불가능합니다. 그사이에 현장은 이미 중국과 미국 AI 서비스로 채워질 겁니다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "HD현대·지멘스, 'AI 조선소' 맞손…건조 기간 30% 단축 목표",
+      "title": "챗GPT 제친 10대 AI 친구…이용 시간도 법으로 관리한다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.12",
-      "link": "https://zdnet.co.kr/view/?no=20261013140623",
-      "summary": "HD현대가 지멘스와 부산에 공동 개발 거점을 열고, 가상공간에서 선박 설계와 생산 공정을 미리 검증하는 지능형 조선소 구축에 속도를 낸다. HD현대 조선 부문 중간 지주사인 HD한국조선해양은 지멘스 디지털 인더스트리 소프트웨어와 13일 부산 해운대구에서 '글로벌마린센터' 개소식을 열었다고 밝혔다. 센터에는 양사 전문인력 50명이 함께 근무한다."
+      "date": "2026.10.13",
+      "link": "https://zdnet.co.kr/view/?no=20261014105006",
+      "summary": "청소년의 인공지능(AI) 챗봇 과몰입 우려가 커지면서 국회에서 미성년자 보호조치 강화를 위한 정보통신망법 개정안 발의가 잇따르고 있다. 이용자의 연령 확인과 이용시간 제한 수단 제공 등을 의무화해 청소년의 과도한 AI 이용을 예방하려는 취지다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "\"가을야구 암표 현장에서 잡는다”…문체부·경찰, 포스트시즌 전 경기 단속",
+      "title": "위믹스, 취약점 포상 체계 3단계 개편…'크리티컬' 제보 시 최대 1만 달러",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.12",
-      "link": "https://zdnet.co.kr/view/?no=20261013140321",
-      "summary": "프로야구 포스트시즌이 시작되는 14일부터 경기장 안팎에서 암표 집중 단속이 이뤄진다. 정부는 경기 시작 전 관람객이 몰리는 시간대에 매표소와 주요 출입구, 경기장 주변 집결지를 집중 점검하고, 암표 거래가 의심되는 사례를 발견하면 즉시 경찰에 전달할 방침이다."
+      "date": "2026.10.13",
+      "link": "https://zdnet.co.kr/view/?no=20261014113046",
+      "summary": "블록체인 메인넷 '위믹스3.0'의 취약점 신고 포상제(버그바운티) 프로그램이 검증된 화이트해커 중심으로 대폭 개편된다. 위믹스 재단은 글로벌 블록체인 보안 기업 '서틱'과 협력해 운영 중인 버그바운티 프로그램을 서틱의 신규 플랫폼 '서틱 헌트' 기반으로 개편해 가동한다고 14일 밝혔다. 재단은 이를 통해 '위믹스3."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 에이전트 스택에 의사결정 전문 레이어가 뜬다",
+      "title": "“선택의 자유가 경쟁력” 뉴타닉스, 통합 플랫폼으로 AI 시대 기업의 운영 부담을 덜다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.12",
-      "link": "https://www.itworld.co.kr/article/4234067/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%b0%9c%ec%a0%84%ed%95%a8%ec%97%90-%eb%94%b0%eb%9d%bc-%ea%b3%b5%ea%b8%89%ec%97%85%ec%b2%b4%eb%93%a4%ec%9d%80-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95.html",
-      "summary": "경량 의사결정 모델을 둘러싼 AWS·오픈AI·클라우드플레어의 경쟁이 기업 AI 아키텍처 재편을 예고했다. Credit: BOY ANTHONY / Shutterstock AWS와 오픈AI, 클라우드플레어가 경계가 명확한 의사결정을 처리하도록 설계된 새로운 클래스의 모델을 도입하면서, 거버넌스와 캘리브레이션, 운영 부담에 대한 논의가 본격화되고 있다."
+      "date": "2026.10.13",
+      "link": "https://www.itworld.co.kr/article/4234087/%ec%84%a0%ed%83%9d%ec%9d%98-%ec%9e%90%ec%9c%a0%ea%b0%80-%ea%b2%bd%ec%9f%81%eb%a0%a5-%eb%89%b4%ed%83%80%eb%8b%89%ec%8a%a4-%ed%86%b5%ed%95%a9-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-ai.html",
+      "summary": "클라우드, 온프레미스, 쿠버네티스, AI 인프라가 혼재되면서 운영 부담이 급증하고 있다. 뉴타닉스는 모든 워크로드를 통일된 플랫폼으로 관리하는 방식을 제안했다. Credit: Nutanix 기업 환경의 복잡성이 갈수록 심화되고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "모델 선택권 앞세운 승부수…구글, 기업용 AI 에이전트 생태계 ‘관문’ 선점 시동",
+      "title": "AI 에이전트 스택에 의사결정 전문 레이어가 뜬다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.12",
-      "link": "https://www.itworld.co.kr/article/4233525/%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ea%b6%8c-%ec%95%9e%ec%84%b8%ec%9a%b4-%ec%8a%b9%eb%b6%80%ec%88%98-%ea%b5%ac%ea%b8%80-%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
-      "summary": "구글이 제미나이 범용 에이전트를 앞세워 기업 AI 인프라의 핵심 거점 확보에 나섰다. Credit: Sadi Hochmuller | shutterstock.com 구글이 또 하나의 화려한 신규 에이전트 출시에 그치지 않고, AI 인프라 계층 전체를 장악하려는 전략적 행보를 보이고 있다."
+      "date": "2026.10.13",
+      "link": "https://www.itworld.co.kr/article/4234067/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%b0%9c%ec%a0%84%ed%95%a8%ec%97%90-%eb%94%b0%eb%9d%bc-%ea%b3%b5%ea%b8%89%ec%97%85%ec%b2%b4%eb%93%a4%ec%9d%80-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95.html",
+      "summary": "경량 의사결정 모델을 둘러싼 AWS·오픈AI·클라우드플레어의 경쟁이 기업 AI 아키텍처 재편을 예고했다. Credit: BOY ANTHONY / Shutterstock AWS와 오픈AI, 클라우드플레어가 경계가 명확한 의사결정을 처리하도록 설계된 새로운 클래스의 모델을 도입하면서, 거버넌스와 캘리브레이션, 운영 부담에 대한 논의가 본격화되고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“정답 없이도 결함 잡는다” 프로퍼티 기반 테스팅으로 AI 모델·에이전트를 검증하는 법",
+      "title": "모델 선택권 앞세운 승부수…구글, 기업용 AI 에이전트 생태계 ‘관문’ 선점 시동",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.12",
-      "link": "https://www.itworld.co.kr/article/4232226/%ec%a0%95%eb%8b%b5-%ec%97%86%ec%9d%b4%eb%8f%84-%ea%b2%b0%ed%95%a8-%ec%9e%a1%eb%8a%94%eb%8b%a4-%ed%94%84%eb%a1%9c%ed%8d%bc%ed%8b%b0-%ea%b8%b0%eb%b0%98-%ed%85%8c%ec%8a%a4%ed%8c%85%ec%9c%bc%eb%a1%9c.html",
-      "summary": "비결정론적 AI 시스템에서 수천 개의 자동 생성 시나리오로 엣지 케이스를 포착하는 새 검증 전략이 주목받고 있다. Credit: Andrey_Popov/Shutterstock 결정론적 시스템 테스팅은 비교적 간단하다. 시스템이 통과해야 하는 어서션(Assertion)을 만들고, 일련의 입력-출력 데이터 패턴에 대해 자동으로 검증한다."
+      "date": "2026.10.13",
+      "link": "https://www.itworld.co.kr/article/4233525/%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ea%b6%8c-%ec%95%9e%ec%84%b8%ec%9a%b4-%ec%8a%b9%eb%b6%80%ec%88%98-%ea%b5%ac%ea%b8%80-%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
+      "summary": "구글이 제미나이 범용 에이전트를 앞세워 기업 AI 인프라의 핵심 거점 확보에 나섰다. Credit: Sadi Hochmuller | shutterstock.com 구글이 또 하나의 화려한 신규 에이전트 출시에 그치지 않고, AI 인프라 계층 전체를 장악하려는 전략적 행보를 보이고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
+      "title": "“정답 없이도 결함 잡는다” 프로퍼티 기반 테스팅으로 AI 모델·에이전트를 검증하는 법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.12",
-      "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
-      "summary": "마이크론이 내년 공급량 대부분을 이미 계약 완료했다고 밝혔고, 시장 조사 기관들도 2027년까지 가격 상승세가 이어질 것으로 전망했다. Credit: Micron Technology 메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다."
+      "date": "2026.10.13",
+      "link": "https://www.itworld.co.kr/article/4232226/%ec%a0%95%eb%8b%b5-%ec%97%86%ec%9d%b4%eb%8f%84-%ea%b2%b0%ed%95%a8-%ec%9e%a1%eb%8a%94%eb%8b%a4-%ed%94%84%eb%a1%9c%ed%8d%bc%ed%8b%b0-%ea%b8%b0%eb%b0%98-%ed%85%8c%ec%8a%a4%ed%8c%85%ec%9c%bc%eb%a1%9c.html",
+      "summary": "비결정론적 AI 시스템에서 수천 개의 자동 생성 시나리오로 엣지 케이스를 포착하는 새 검증 전략이 주목받고 있다. Credit: Andrey_Popov/Shutterstock 결정론적 시스템 테스팅은 비교적 간단하다. 시스템이 통과해야 하는 어서션(Assertion)을 만들고, 일련의 입력-출력 데이터 패턴에 대해 자동으로 검증한다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI 투자 수익률 측정 패러다임 전환…재무·비재무 성과 연계가 핵심",
+      "title": "마이크론 “2027~2028년 메모리 공급난 더 심화”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.12",
-      "link": "https://www.itworld.co.kr/article/4230976/ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0-%ec%b8%a1%ec%a0%95-%ed%8c%a8%eb%9f%ac%eb%8b%a4%ec%9e%84-%ec%a0%84%ed%99%98%ec%9e%ac%eb%ac%b4%c2%b7%eb%b9%84%ec%9e%ac%eb%ac%b4-%ec%84%b1.html",
-      "summary": "대다수 기업이 AI 투자 수익률 측정에 어려움을 겪는 가운데, 맥킨지와 가트너 애널리스트는 비용보다 가치 중심의 새로운 ROI 접근법을 제시했다. Credit: Henry Dinardo 대다수 기업이 AI에서 재무적 수익을 측정하지 못하고 있지만, ROI를 산정하는 새로운 방식이 부상하고 있다고 밝혔다."
+      "date": "2026.10.13",
+      "link": "https://www.itworld.co.kr/article/4231547/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-20272028%eb%85%84-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ea%b3%b5%ea%b8%89%eb%82%9c-%eb%8d%94-%ec%8b%ac%ed%99%94.html",
+      "summary": "마이크론이 내년 공급량 대부분을 이미 계약 완료했다고 밝혔고, 시장 조사 기관들도 2027년까지 가격 상승세가 이어질 것으로 전망했다. Credit: Micron Technology 메모리 제조사 마이크론 테크놀로지가 2026년까지 서버, 스토리지, PC 비용을 끌어올린 글로벌 메모리 공급난이 2027년과 2028년에는 더욱 악화될 것이라고 밝혔다."
     }
   ]
 }
