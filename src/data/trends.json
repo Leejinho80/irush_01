@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-19T03:11:18.246Z",
-  "collectionDate": "2026.10.18",
-  "displayDate": "2026.10.19",
+  "updatedAt": "2026-10-20T03:19:45.218Z",
+  "collectionDate": "2026.10.19",
+  "displayDate": "2026.10.20",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "삼성전자, 99개 기업에 모바일·디스플레이 관련 기술 126건 무상 나눔",
+      "title": "SAP, 韓 성장기업 100곳 육성한다…AI·ERP 도입 장벽 완화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.18",
-      "link": "https://zdnet.co.kr/view/?no=20261019114823",
-      "summary": "삼성전자가 올해 모바일·디스플레이·가전분야 우수기술 202건을 나눔기술로 제공, 이 가운데 99개 기업에 126건을 이전했다. 올해는 삼성전자가 선도하는 모바일 분야 기술이 가장 많은 기업에 이전됐다. 가장 많은 관심을 모은 기술은 모바일·가전 분야의 ‘복수 IoT 장치 제어 방법 및 장치’였다."
+      "date": "2026.10.19",
+      "link": "https://zdnet.co.kr/view/?no=20261020120335",
+      "summary": "SAP가 국내 중소·중견기업 100곳을 대상으로 인공지능(AI)과 전사적자원관리(ERP) 도입을 지원하며 성장기업 시장 공략에 나선다. 초기 도입 비용과 전문 인력 부족으로 디지털 전환에 어려움을 겪는 기업을 위해 무료 진단부터 시스템 구축, 금융·결제 연계까지 지원하는 프로그램을 본격 가동한다는 전략이다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "세계 각국 발레단 한자리에…'서울국제발레위크' 성료",
+      "title": "노타, Arm AI 개발 도구에 모델 경량화 기술 적용",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.18",
-      "link": "https://zdnet.co.kr/view/?no=20261019113708",
-      "summary": "세계 각국의 발레단과 국내 청소년·대학생 무용수들이 한자리에 모여 클래식과 현대 발레를 아우르는 무대를 선보였다. 해외 정상급 무용수들의 공연부터 미래세대를 위한 교육 프로그램까지 다채로운 행사가 펼쳐졌다. 서울발레시어터는 서울국제발레위크를 마무리했다고 19일 밝혔다."
+      "date": "2026.10.19",
+      "link": "https://zdnet.co.kr/view/?no=20261020120231",
+      "summary": "노타의 인공지능(AI) 모델 최적화 기술이 글로벌 반도체 설계 기업 Arm의 개발 도구에 적용돼 해외 개발자 실습에 활용됐다. 노타는 20일 미국 산호세에서 열린 'Arm 크리에이트 2026' 워크숍에서 자사 AI 최적화 플랫폼 넷츠프레소를 기반으로 개발된 'Arm AI 모델 옵티마이저'의 실습을 지원했다고 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "파두, 3Q 영업익 363억원…창사 이래 최대 실적 경신",
+      "title": "샌디플로어, 중기부 팁스 선정…AI 게임 개발·배포 자동화 기술 고도화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.18",
-      "link": "https://zdnet.co.kr/view/?no=20261019113151",
-      "summary": "데이터센터 반도체 기업 파두가 2분기에 이어 3분기에도 창립 이래 최대 실적 기록을 경신하며 가파른 성장세를 증명했다. 파두는 19일 잠정실적 공시에서 올해 3분기 연결기준 매출 1436억원, 영업이익 363억원을 달성했다고 밝혔다. 이는 직전 분기 최대 실적(매출 732억원, 영업이익 162억원)을 크게 상회하는 수치다."
+      "date": "2026.10.19",
+      "link": "https://zdnet.co.kr/view/?no=20261020111427",
+      "summary": "중소 및 인디 게임 개발팀의 제작 효율을 높이는 인공지능(AI) 기반 개발·배포 자동화 기술 개발이 정부 지원을 받는다. PC·모바일 게임 개발 및 퍼블리싱 기업 샌디플로어(대표 이종창)는 라구나인베스트먼트의 투자·추천으로 중소벤처기업부의 민간투자주도형 기술창업지원 프로그램 '팁스'에 최종 선정돼 협약을 마쳤다고 20일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "누리호 타고 간 대전샛-1호 셀피 동영상 2건 공개",
+      "title": "삼성전자 \"갤럭시 버즈 온, 착용감 세계 최고\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.18",
-      "link": "https://zdnet.co.kr/view/?no=20261019113526",
-      "summary": "지난 7일 발사된 누리호 5호기 부탑재체 위성 대전샛-1호가 15일과 18일 촬영한 셀피 영상 1건을 공개했다. 공개 영상은 대전샛에 탑재된 우주용 블랙박스 카메라 'SFCAM'(부탑재체)이 지난 15일과 18일 두차례 촬영했다. 대전샛은 14일 처음 셀피로 촬영한 바 있다. 셀피는 위성이 자신을 촬영한다고 해서 셀카에 빗대 붙여진 이름이다."
+      "date": "2026.10.19",
+      "link": "https://zdnet.co.kr/view/?no=20261020114021",
+      "summary": "\"실제 써보면 알겠지만 착용감 만큼은 '갤럭시 버즈 온'이 세계 최고라고 자부한다.\" 이명환 삼성전자 그룹장은 20일 서울 중구 태평로빌딩에서 열린 기자간담회에서 \"갤럭시 웨어러블 제품은 착용감, 음질, 기기 간 연동 경험을 가장 중요하게 여긴다\"며 이렇게 말했다. 삼성전자는 이날 자사 최초 클립형 무선 이어폰 갤럭시 버즈 온을 선보였다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "현대차, 단색으로 꾸민 '아반떼 N 모노크롬' 공개",
+      "title": "레드햇, 오라클 클라우드서 리눅스 직접 공급",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.18",
-      "link": "https://zdnet.co.kr/view/?no=20261019112948",
-      "summary": "현대자동차가 단색 중심 디자인과 새로운 소재로 차별화한 아반떼 N 특별 모델을 선보인다. 현대차는 고성능 브랜드 N의 '아반떼 N 모노크롬'을 공개했다고 19일 밝혔다. 국내 판매는 오는 29일 시작하며, 이후 해외 시장에도 출시할 계획이다. 모노크롬은 하나의 색이나 같은 계열 색조로 표현하는 방식을 뜻한다."
+      "date": "2026.10.19",
+      "link": "https://zdnet.co.kr/view/?no=20261020114756",
+      "summary": "레드햇이 오라클 클라우드에서 기업용 리눅스를 직접 제공하고 자동화와 가상화 플랫폼까지 공급 범위를 넓혔다. 레드햇은 오라클 클라우드 인프라스트럭처(OCI)에서 자사 하이브리드 클라우드 제품의 제공 범위를 확대한다고 20일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 인프라 열풍의 역설, 투자금 회수는 멀었다",
+      "title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.18",
-      "link": "https://www.itworld.co.kr/article/4236850/2030%eb%85%84%ea%b9%8c%ec%a7%80-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ec%9d%98-%ec%9e%90%eb%b3%b8%ec%a7%80%ec%b6%9c%ec%9d%80-%ec%98%88%ec%83%81-%eb%a7%a4%ec%b6%9c%ec%9d%84-%ed%9b%a8.html",
-      "summary": "가트너와 베인이 AI 인프라 과잉 투자에 따른 구조적 손실 가능성을 동시에 경고하며 투자와 수익 간의 불일치가 발생할 것으로 전망하고 있다. Credit: Bernd von Darl 가트너가 투자와 수익 간 불일치를 전망하며 베인의 최근 보고서와 같은 결론을 내렸다."
+      "date": "2026.10.19",
+      "link": "https://www.itworld.co.kr/article/4237349/ai-%ec%9b%9c%ec%9d%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ec%98%a4%eb%b8%90%ea%b9%8c%ec%a7%80-%ec%9e%a5%ec%95%85%ed%95%a0%ea%b9%8c-iot-%eb%b4%87%eb%84%b7-%ec%9c%84%ed%98%91-%ec%88%98%ec%a4%80-%ec%a7%84.html",
+      "summary": "앤트로픽이 수개월 내 현실화 가능성을 경고했으나, 통제된 실험 환경과 느린 확산 속도를 고려하면 당장의 위협은 제한적이다. Credit: Max Vakhtbovych / Pexels 스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“분절된 AI 데이터 환경을 하나로” 넷앱, 멀티클라우드 통합 플랫폼 공개",
+      "title": "AI 인프라 열풍의 역설, 투자금 회수는 멀었다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.18",
-      "link": "https://www.itworld.co.kr/article/4234954/%eb%b6%84%ec%a0%88%eb%90%9c-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%99%98%ea%b2%bd%ec%9d%84-%ed%95%98%eb%82%98%eb%a1%9c-%eb%84%b7%ec%95%b1-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
-      "summary": "에이전틱 AI 도입이 가속화되고 있지만, 기업들이 마주한 현실은 엄격하다. 투자된 GPU 자원을 효율적으로 활용하지 못하고, 데이터 품질 관리는 미흡하며, 투자 수익률을 신뢰성 있게 측정할 방법조차 없다. Credit: Netapp AI의 속도로 나아가려는 기업이 마주한 현실은 역설적이다."
+      "date": "2026.10.19",
+      "link": "https://www.itworld.co.kr/article/4236850/2030%eb%85%84%ea%b9%8c%ec%a7%80-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ec%9d%98-%ec%9e%90%eb%b3%b8%ec%a7%80%ec%b6%9c%ec%9d%80-%ec%98%88%ec%83%81-%eb%a7%a4%ec%b6%9c%ec%9d%84-%ed%9b%a8.html",
+      "summary": "가트너와 베인이 AI 인프라 과잉 투자에 따른 구조적 손실 가능성을 동시에 경고하며 투자와 수익 간의 불일치가 발생할 것으로 전망하고 있다. Credit: Bernd von Darl 가트너가 투자와 수익 간 불일치를 전망하며 베인의 최근 보고서와 같은 결론을 내렸다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "“선택의 자유가 경쟁력” 뉴타닉스, 통합 플랫폼으로 AI 시대 기업의 운영 부담을 덜다",
+      "title": "“분절된 AI 데이터 환경을 하나로” 넷앱, 멀티클라우드 통합 플랫폼 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.18",
-      "link": "https://www.itworld.co.kr/article/4234087/%ec%84%a0%ed%83%9d%ec%9d%98-%ec%9e%90%ec%9c%a0%ea%b0%80-%ea%b2%bd%ec%9f%81%eb%a0%a5-%eb%89%b4%ed%83%80%eb%8b%89%ec%8a%a4-%ed%86%b5%ed%95%a9-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-ai.html",
-      "summary": "클라우드, 온프레미스, 쿠버네티스, AI 인프라가 혼재되면서 운영 부담이 급증하고 있다. 뉴타닉스는 모든 워크로드를 통일된 플랫폼으로 관리하는 방식을 제안했다. Credit: Nutanix 기업 환경의 복잡성이 갈수록 심화되고 있다."
+      "date": "2026.10.19",
+      "link": "https://www.itworld.co.kr/article/4234954/%eb%b6%84%ec%a0%88%eb%90%9c-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%99%98%ea%b2%bd%ec%9d%84-%ed%95%98%eb%82%98%eb%a1%9c-%eb%84%b7%ec%95%b1-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
+      "summary": "에이전틱 AI 도입이 가속화되고 있지만, 기업들이 마주한 현실은 엄격하다. 투자된 GPU 자원을 효율적으로 활용하지 못하고, 데이터 품질 관리는 미흡하며, 투자 수익률을 신뢰성 있게 측정할 방법조차 없다. Credit: Netapp AI의 속도로 나아가려는 기업이 마주한 현실은 역설적이다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI 에이전트 스택에 의사결정 전문 레이어가 뜬다",
+      "title": "“선택의 자유가 경쟁력” 뉴타닉스, 통합 플랫폼으로 AI 시대 기업의 운영 부담을 덜다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.18",
-      "link": "https://www.itworld.co.kr/article/4234067/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%b0%9c%ec%a0%84%ed%95%a8%ec%97%90-%eb%94%b0%eb%9d%bc-%ea%b3%b5%ea%b8%89%ec%97%85%ec%b2%b4%eb%93%a4%ec%9d%80-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95.html",
-      "summary": "경량 의사결정 모델을 둘러싼 AWS·오픈AI·클라우드플레어의 경쟁이 기업 AI 아키텍처 재편을 예고했다. Credit: BOY ANTHONY / Shutterstock AWS와 오픈AI, 클라우드플레어가 경계가 명확한 의사결정을 처리하도록 설계된 새로운 클래스의 모델을 도입하면서, 거버넌스와 캘리브레이션, 운영 부담에 대한 논의가 본격화되고 있다."
+      "date": "2026.10.19",
+      "link": "https://www.itworld.co.kr/article/4234087/%ec%84%a0%ed%83%9d%ec%9d%98-%ec%9e%90%ec%9c%a0%ea%b0%80-%ea%b2%bd%ec%9f%81%eb%a0%a5-%eb%89%b4%ed%83%80%eb%8b%89%ec%8a%a4-%ed%86%b5%ed%95%a9-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-ai.html",
+      "summary": "클라우드, 온프레미스, 쿠버네티스, AI 인프라가 혼재되면서 운영 부담이 급증하고 있다. 뉴타닉스는 모든 워크로드를 통일된 플랫폼으로 관리하는 방식을 제안했다. Credit: Nutanix 기업 환경의 복잡성이 갈수록 심화되고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "모델 선택권 앞세운 승부수…구글, 기업용 AI 에이전트 생태계 ‘관문’ 선점 시동",
+      "title": "AI 에이전트 스택에 의사결정 전문 레이어가 뜬다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.18",
-      "link": "https://www.itworld.co.kr/article/4233525/%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ea%b6%8c-%ec%95%9e%ec%84%b8%ec%9a%b4-%ec%8a%b9%eb%b6%80%ec%88%98-%ea%b5%ac%ea%b8%80-%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
-      "summary": "구글이 제미나이 범용 에이전트를 앞세워 기업 AI 인프라의 핵심 거점 확보에 나섰다. Credit: Sadi Hochmuller | shutterstock.com 구글이 또 하나의 화려한 신규 에이전트 출시에 그치지 않고, AI 인프라 계층 전체를 장악하려는 전략적 행보를 보이고 있다."
+      "date": "2026.10.19",
+      "link": "https://www.itworld.co.kr/article/4234067/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%b0%9c%ec%a0%84%ed%95%a8%ec%97%90-%eb%94%b0%eb%9d%bc-%ea%b3%b5%ea%b8%89%ec%97%85%ec%b2%b4%eb%93%a4%ec%9d%80-%ec%9d%98%ec%82%ac%ea%b2%b0%ec%a0%95.html",
+      "summary": "경량 의사결정 모델을 둘러싼 AWS·오픈AI·클라우드플레어의 경쟁이 기업 AI 아키텍처 재편을 예고했다. Credit: BOY ANTHONY / Shutterstock AWS와 오픈AI, 클라우드플레어가 경계가 명확한 의사결정을 처리하도록 설계된 새로운 클래스의 모델을 도입하면서, 거버넌스와 캘리브레이션, 운영 부담에 대한 논의가 본격화되고 있다."
     }
   ]
 }
