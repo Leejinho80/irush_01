@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T03:20:22.002Z",
-  "collectionDate": "2026.10.21",
-  "displayDate": "2026.10.22",
+  "updatedAt": "2026-10-23T03:19:17.678Z",
+  "collectionDate": "2026.10.22",
+  "displayDate": "2026.10.23",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "인핸스, 자동차 소모품 교체부터 구매까지 AI로 연결한다",
+      "title": "[인사] 국가철도공단",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.21",
-      "link": "https://zdnet.co.kr/view/?no=20261022121828",
-      "summary": "인핸스가 모빌리티 라이프 전문기업과 손잡고 인공지능(AI) 에이전트를 활용한 자동차 커머스 자동화에 나선다. 상품 탐색과 가격 분석부터 판매·운영 업무까지 AI 적용 범위를 넓히고 향후 차량 소모품 구매와 구독 서비스로 확장한다는 구상이다. 인핸스는 오토앤과 'AI 네이티브 커머스' 구축을 위한 업무협약(MOU)을 체결했다고 22일 밝혔다."
+      "date": "2026.10.22",
+      "link": "https://zdnet.co.kr/view/?no=20261023120737",
+      "summary": "◇상임이사 ▲건설본부장 이명석 ▲시설본부장 이호룡 ▲SE융합본부장 전공준 ▲경영본부장 우현구 ◇본부장급 ▲수도권본부장 우기하 ▲GTX본부장 김현성 ▲영남본부장 송혜춘 ▲강원본부장 사덕환 ◇처장급 ▲SE융합본부 에너지인프라처장 안성석"
     },
     {
       "id": 2,
       "number": "02",
-      "title": "쿠팡 ‘납치광고’ 제재 임박…방미통위 \"심의·의결 단계”",
+      "title": "영상·음향장비 41개사 협력 다짐…기술 역량 강화 추진",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.21",
-      "link": "https://zdnet.co.kr/view/?no=20261022121041",
-      "summary": "휴대전화에서 광고를 누르지 않았는데도 쿠팡으로 강제 이동하는 이른바 '납치광고'와 관련해 방송미디어통신위원회가 전기통신사업법 위반 여부에 대한 제재 심의를 앞두고 있다. 개인정보보호위원회가 개인정보 무단 수집 문제로 과징금을 부과한 데 이어 방미통위 차원의 조치까지 나오는 것이다."
+      "date": "2026.10.22",
+      "link": "https://zdnet.co.kr/view/?no=20261023104447",
+      "summary": "임익찬 한국방송장비산업협의회장이 \"국내 방송장비 업계가 협력해 산업과 기업 모두의 발전을 도모해야 한다\"고 강조했다. 협력을 통해 제품 간 연동 최적화, 인공지능(AI) 등 신기술 융합 연구개발을 추진하자는 뜻으로 풀이된다. 협의회는 22일 서울 여의도 켄싱턴호텔에서 하반기 최고경영자(CEO) 세미나를 열었다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "‘이진숙 제척’ 헌재 판단 두고 한 시간 넘게 여야 공방",
+      "title": "KT스튜디오지니 로맨스 2편, 국내외 OTT서 흥행",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.21",
-      "link": "https://zdnet.co.kr/view/?no=20261022111437",
-      "summary": "방송미디어통신위원회, 방송미디어통심심의위원회 대상으로 하는 22일 종합감사도 이진숙 의원에 대한 공방이 되풀이됐다. 오전 10시에 시작된 감사에서 첫 질의는 11시 13분에나 진행됐다."
+      "date": "2026.10.22",
+      "link": "https://zdnet.co.kr/view/?no=20261023115507",
+      "summary": "KT스튜디오지니가 10월 선보인 로맨스 드라마 2편이 국내외 OTT에서 성과를 거두고 있다. ENA 드라마 '연애박사'는 디즈니+ 글로벌 순위 상위권에 올랐고, 티빙 오리지널 '내가 떨릴 수 있게'도 공개 첫 주 구독기여 순위 2위를 기록했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "\"아동·청소년 온라인 범죄 노출\"...방미통위, 플랫폼 보호책임 높이겠다",
+      "title": "노키아, AI·클라우드 매출 123% 급증...영업익 35% 증가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.21",
-      "link": "https://zdnet.co.kr/view/?no=20261022115208",
-      "summary": "아동청소년이 온라인 플랫폼에서 낯선 사람의 부적절한 접근에 노출되고 있다는 국회 지적에 방송미디어통신위원회가 플랫폼 사업자의 보호 책임을 강화하겠다고 밝혔다. 보호자의 사전 설정이나 사후 신고에 의존하는 현행 체계의 한계를 보완하기 위해 청소년 보호책임자 제도와 행정제재를 강화하겠다는 취지다."
+      "date": "2026.10.22",
+      "link": "https://zdnet.co.kr/view/?no=20261023115054",
+      "summary": "노키아가 AI 데이터센터와 클라우드 인프라 수요 확대에 힘입어 올해 3분기 시장 예상치를 웃도는 실적을 거뒀다. AI 클라우드 고객 매출이 전년 대비 2배 이상 늘었고, 조정 영업이익도 35% 증가했다. 기존 통신사업자 중심의 장비 공급에서 AI 인프라로 사업 영역을 넓히는 전략이 실적에 반영된 셈이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "'페이커' 기념우표 굿즈 나온다...메탈카드 507개 한정 판매",
+      "title": "삼성전자, 테일러 1공장 후속 설비투자…2나노 생산거점 완성 수순",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.21",
-      "link": "https://zdnet.co.kr/view/?no=20261022115007",
-      "summary": "'리그오브레전드(LoL)' 전설 페이커 이상혁 선수의 기념우표가 메탈카드와 포토카드 등 수집용 굿즈로 출시된다. 기념우표를 활용한 메탈카드는 507개 한정판으로 제작돼 팬들의 관심을 끌 것으로 보인다. 우정사업본부는 페이커 기념우표 발행을 기념해 기념우표카드와 나만의우표, 나만의우표카드 등 부가상품(굿즈)을 23일부터 판매한다고 밝혔다."
+      "date": "2026.10.22",
+      "link": "https://zdnet.co.kr/view/?no=20261023110604",
+      "summary": "삼성전자가 미국 테일러 1공장 후속 설비투자를 시작했다. 기존 유휴공간을 모두 채우는 마무리 투자 개념이다. 내년 하반기에는 2나노미터(nm) 공정 생산능력을 모두 월 2만장까지 확보할 수 있다. 테일러 1공장은 삼성전자의 미국 내 첫 파운드리 양산라인이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI가 먼저 찾아낸 PHP의 허점 “패치를 미루지 마라”",
+      "title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.21",
-      "link": "https://www.itworld.co.kr/article/4238838/%eb%91%90-%ea%b0%80%ec%a7%80-%ec%a4%91%eb%8c%80%ed%95%9c-php-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9c%bc%eb%a1%9c-%ec%9d%b8%ed%95%b4-%ec%9b%b9-%ec%97%85%ea%b3%84%ea%b0%80-%ea%b2%bd%ea%b3%84-%ed%83%9c.html",
-      "summary": "웹사이트 상당수를 구동하는 PHP에서 원격 코드 실행 취약점 2건이 드러나 유럽 정부 웹사이트까지 오프라인으로 전환됐다. Credit: DC Studio / Shutterstock 전 세계 기업이 인터넷 상당 부분을 구동하는 널리 쓰이는 코드에서 치명적 취약점 2건이 공개된 뒤 대응에 분주하다."
+      "date": "2026.10.22",
+      "link": "https://www.itworld.co.kr/article/4238852/%eb%aa%b8%ea%b0%92-%eb%86%92%ec%9d%b4%eb%a0%a4%eb%a9%b4-ai%eb%b6%80%ed%84%b0-2026%eb%85%84-it-%ec%b1%84%ec%9a%a9%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%a4%80.html",
+      "summary": "기업이 IT 인재를 정밀하게 선별하는 가운데 전문 AI 역량을 갖춘 인력에는 더 높은 연봉이 주어지고 있다. Credit: insta_photos / Shutterstock 기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "AI가 틀려도 책임은 사용자가…메타의 새 약관, AI 오류 책임은 기업 고객 몫",
+      "title": "AI가 먼저 찾아낸 PHP의 허점 “패치를 미루지 마라”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.21",
-      "link": "https://www.itworld.co.kr/article/4238166/ai%ea%b0%80-%ed%8b%80%eb%a0%a4%eb%8f%84-%ec%b1%85%ec%9e%84%ec%9d%80-%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%eb%a9%94%ed%83%80%ec%9d%98-%ec%83%88-%ec%95%bd%ea%b4%80-ai-%ec%98%a4%eb%a5%98-%ec%b1%85.html",
-      "summary": "10월 30일부터 시행될 예정인 메타의 새 약관은 고객이 파트너사를 통해 이용하는 콘텐츠까지 기업의 책임을 확대한다. Credit: Skorzewiak / Shutterstock 10월 30일 시행 예정인 메타 상업 약관 개정안에 따라, 메타는 자사 AI 모델이 일으키는 모든 오류의 책임을 기업 고객에게 넘기게 된다."
+      "date": "2026.10.22",
+      "link": "https://www.itworld.co.kr/article/4238838/%eb%91%90-%ea%b0%80%ec%a7%80-%ec%a4%91%eb%8c%80%ed%95%9c-php-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9c%bc%eb%a1%9c-%ec%9d%b8%ed%95%b4-%ec%9b%b9-%ec%97%85%ea%b3%84%ea%b0%80-%ea%b2%bd%ea%b3%84-%ed%83%9c.html",
+      "summary": "웹사이트 상당수를 구동하는 PHP에서 원격 코드 실행 취약점 2건이 드러나 유럽 정부 웹사이트까지 오프라인으로 전환됐다. Credit: DC Studio / Shutterstock 전 세계 기업이 인터넷 상당 부분을 구동하는 널리 쓰이는 코드에서 치명적 취약점 2건이 공개된 뒤 대응에 분주하다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
+      "title": "AI가 틀려도 책임은 사용자가…메타의 새 약관, AI 오류 책임은 기업 고객 몫",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.21",
-      "link": "https://www.itworld.co.kr/article/4237349/ai-%ec%9b%9c%ec%9d%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ec%98%a4%eb%b8%90%ea%b9%8c%ec%a7%80-%ec%9e%a5%ec%95%85%ed%95%a0%ea%b9%8c-iot-%eb%b4%87%eb%84%b7-%ec%9c%84%ed%98%91-%ec%88%98%ec%a4%80-%ec%a7%84.html",
-      "summary": "앤트로픽이 수개월 내 현실화 가능성을 경고했으나, 통제된 실험 환경과 느린 확산 속도를 고려하면 당장의 위협은 제한적이다. Credit: Max Vakhtbovych / Pexels 스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다."
+      "date": "2026.10.22",
+      "link": "https://www.itworld.co.kr/article/4238166/ai%ea%b0%80-%ed%8b%80%eb%a0%a4%eb%8f%84-%ec%b1%85%ec%9e%84%ec%9d%80-%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%eb%a9%94%ed%83%80%ec%9d%98-%ec%83%88-%ec%95%bd%ea%b4%80-ai-%ec%98%a4%eb%a5%98-%ec%b1%85.html",
+      "summary": "10월 30일부터 시행될 예정인 메타의 새 약관은 고객이 파트너사를 통해 이용하는 콘텐츠까지 기업의 책임을 확대한다. Credit: Skorzewiak / Shutterstock 10월 30일 시행 예정인 메타 상업 약관 개정안에 따라, 메타는 자사 AI 모델이 일으키는 모든 오류의 책임을 기업 고객에게 넘기게 된다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI 인프라 열풍의 역설, 투자금 회수는 멀었다",
+      "title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.21",
-      "link": "https://www.itworld.co.kr/article/4236850/2030%eb%85%84%ea%b9%8c%ec%a7%80-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ec%9d%98-%ec%9e%90%eb%b3%b8%ec%a7%80%ec%b6%9c%ec%9d%80-%ec%98%88%ec%83%81-%eb%a7%a4%ec%b6%9c%ec%9d%84-%ed%9b%a8.html",
-      "summary": "가트너와 베인이 AI 인프라 과잉 투자에 따른 구조적 손실 가능성을 동시에 경고하며 투자와 수익 간의 불일치가 발생할 것으로 전망하고 있다. Credit: Bernd von Darl 가트너가 투자와 수익 간 불일치를 전망하며 베인의 최근 보고서와 같은 결론을 내렸다."
+      "date": "2026.10.22",
+      "link": "https://www.itworld.co.kr/article/4237349/ai-%ec%9b%9c%ec%9d%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ec%98%a4%eb%b8%90%ea%b9%8c%ec%a7%80-%ec%9e%a5%ec%95%85%ed%95%a0%ea%b9%8c-iot-%eb%b4%87%eb%84%b7-%ec%9c%84%ed%98%91-%ec%88%98%ec%a4%80-%ec%a7%84.html",
+      "summary": "앤트로픽이 수개월 내 현실화 가능성을 경고했으나, 통제된 실험 환경과 느린 확산 속도를 고려하면 당장의 위협은 제한적이다. Credit: Max Vakhtbovych / Pexels 스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "“분절된 AI 데이터 환경을 하나로” 넷앱, 멀티클라우드 통합 플랫폼 공개",
+      "title": "AI 인프라 열풍의 역설, 투자금 회수는 멀었다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.21",
-      "link": "https://www.itworld.co.kr/article/4234954/%eb%b6%84%ec%a0%88%eb%90%9c-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ed%99%98%ea%b2%bd%ec%9d%84-%ed%95%98%eb%82%98%eb%a1%9c-%eb%84%b7%ec%95%b1-%eb%a9%80%ed%8b%b0%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
-      "summary": "에이전틱 AI 도입이 가속화되고 있지만, 기업들이 마주한 현실은 엄격하다. 투자된 GPU 자원을 효율적으로 활용하지 못하고, 데이터 품질 관리는 미흡하며, 투자 수익률을 신뢰성 있게 측정할 방법조차 없다. Credit: Netapp AI의 속도로 나아가려는 기업이 마주한 현실은 역설적이다."
+      "date": "2026.10.22",
+      "link": "https://www.itworld.co.kr/article/4236850/2030%eb%85%84%ea%b9%8c%ec%a7%80-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ec%9d%98-%ec%9e%90%eb%b3%b8%ec%a7%80%ec%b6%9c%ec%9d%80-%ec%98%88%ec%83%81-%eb%a7%a4%ec%b6%9c%ec%9d%84-%ed%9b%a8.html",
+      "summary": "가트너와 베인이 AI 인프라 과잉 투자에 따른 구조적 손실 가능성을 동시에 경고하며 투자와 수익 간의 불일치가 발생할 것으로 전망하고 있다. Credit: Bernd von Darl 가트너가 투자와 수익 간 불일치를 전망하며 베인의 최근 보고서와 같은 결론을 내렸다."
     }
   ]
 }
