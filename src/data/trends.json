@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25T03:07:53.604Z",
-  "collectionDate": "2026.10.24",
-  "displayDate": "2026.10.25",
+  "updatedAt": "2026-10-26T03:08:04.734Z",
+  "collectionDate": "2026.10.25",
+  "displayDate": "2026.10.26",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "하정우 부위원장, 뉴립스 이어 ICML 심사도 맡는다",
+      "title": "전자파 인체영향 연구 30년 성과 점검...29일 안전포럼 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.24",
-      "link": "https://zdnet.co.kr/view/?no=20261025112423",
-      "summary": "하정우 국가인공지능전략위원회 부위원장이 세계 3대 인공지능(AI) 학회에서 논문 심사를 이끄는 중책을 맡는다. 하 부위원장은 내년 열리는 국제머신러닝학회(ICML) 2027에서 수석지역위원장(SAC)으로 활동한다고 25일 밝혔다. 지난해와 올해 뉴립스(NeurIPS)에서 같은 역할을 맡은 데 이어 국제 주요 AI 학회에서 심사 활동을 이어간다."
+      "date": "2026.10.25",
+      "link": "https://zdnet.co.kr/view/?no=20261026094814",
+      "summary": "전자파 안전성에 관한 국제 연구가 30년을 맞은 가운데 그동안 축적된 과학적 근거와 향후 관리 정책을 살펴보는 공개 행사가 열린다. 국립전파연구원은 오는 29일 서울 한국프레스센터에서 제14회 전자파 안전포럼을 연다고 밝혔다. 행사 주제는 '전자파 안전 30년, 신뢰로 잇는 미래'다. 올해 행사는 세계보건기구(WHO)의 관련 연구 30주년에 맞춰 기획됐다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "풀무원, 구조 동물 위해 사료·간식 2톤 기부",
+      "title": "4분기 은행 신용대출·마통 여전히 빗장 걸어잠근다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.24",
-      "link": "https://zdnet.co.kr/view/?no=20261025113256",
-      "summary": "풀무원이 구조 동물의 건강한 식생활을 지원하기 위해 반려동물 사료와 간식 약 2톤을 기부하고, 임직원 봉사활동을 진행했다. 풀무원은 지난 23일 동물보호단체 '길동무와나누미천사'가 운영하는 쉼터에 펫푸드 브랜드 '풀무원아미오' 제품을 전달했다고 25일 밝혔다."
+      "date": "2026.10.25",
+      "link": "https://zdnet.co.kr/view/?no=20261026090518",
+      "summary": "4분기에도 국내 은행권은 가계대출 집행 수준을 크게 늘리지 않을 전망이다. 26일 한국은행이 9월 2~16일까지 총 203개 금융기관 여신업무 총괄담당 책임자를 대상으로 진행한 대출 행태 서베이 결과 국내은행은 올해 4분기 주택 관련 대출 기조는 전 분기와 비슷하게 유지하고 신용대출·마이너스통장과 같은 일반 대출에 대해서는 총량 강화에 나설 예정이라고..."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "중동 긴장 고조에 비트코인 약세…이번주 FOMC 주목",
+      "title": "AI 데이터센터 전력 10%만 써도 기본요금은 30%",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.24",
-      "link": "https://zdnet.co.kr/view/?no=20261025100518",
-      "summary": "중동 지역 지정학적 긴장이 고조되면서 비트코인이 한 달여 만에 최저 수준으로 떨어졌다. 25일 코인마켓캡에 따르면 비트코인은 전일 대비 0.27% 상승한 8만 769 달러에 거래되고 있다. 일주일 전과 비교하면 0.76% 하락한 수준이다. 이날 한때 비트코인은 7만 9000 달러 선까지 하락했으나 이후 반등하며 8만 달러 선을 회복했다. 비트코인."
+      "date": "2026.10.25",
+      "link": "https://zdnet.co.kr/view/?no=20261026115910",
+      "summary": "AI 데이터센터(AIDC)가 계약한 전력의 10%만 사용하더라도 기본요금은 계약전력의 30%를 기준으로 부담할 수 있는 현행 전기요금 체계를 개선해야 한다는 지적이 제기됐다. 서버를 단계적으로 도입하는 데이터센터의 특성을 반영하지 못해 초기 투자 부담이 커질 수 있다는 우려에 따른 것이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "인간 언어는 행복보다 안전을 선호한다?",
+      "title": "AI 주권 경쟁에 높아진 규제장벽...SKT, 국제 공동검증 강조",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.24",
-      "link": "https://zdnet.co.kr/view/?no=20261025104852",
-      "summary": "사람들이 일상에서 사용하는 언어에는 행복이나 긍정적인 감정을 표현하려는 경향보다 안전을 중시하는 특성이 더 근본적으로 자리 잡고 있을 수 있다는 연구 결과가 나왔다."
+      "date": "2026.10.25",
+      "link": "https://zdnet.co.kr/view/?no=20261026114538",
+      "summary": "AI 주권을 확보하려는 국가 간 경쟁이 심화되면서 서로 다른 규제체계가 글로벌 AI 시장의 진입 장벽으로 떠오르고 있다. 국가별 안전성 검증 절차가 기업의 부담을 키우고 중소기업의 해외 진출을 어렵게 만들 수 있다는 지적이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "롯데백화점, 롤 팝업스토어 연다…'페이커' 기념우표도 판매",
+      "title": "서울 공연장 매진인데, 지역에선 공연 볼 곳 없어",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.24",
-      "link": "https://zdnet.co.kr/view/?no=20261025113104",
-      "summary": "롯데백화점이 인기 게임 '리그 오브 레전드(LoL)'의 음악과 e스포츠를 결합한 팝업스토어를 선보인다. 프로게이머 '페이커' 이상혁 선수의 공식 기념우표를 비롯해 다양한 한정판 상품과 체험 콘텐츠를 마련했다. 롯데백화점은 오는 11월 1일까지 서울 잠실 롯데월드몰 1층 아트리움에서 '라이엇 게임즈 뮤직 앤 월즈 2026' 팝업스토어를 운영한다고 밝혔다."
+      "date": "2026.10.25",
+      "link": "https://zdnet.co.kr/view/?no=20261026092527",
+      "summary": "국내 공연시장이 성장세를 이어가고 있지만 지역 간 문화 향유 격차는 여전히 큰 것으로 나타났다. 국민 세금으로 운영되는 국립 예술단체마저 서울 중심으로 공연을 편성하면서 비수도권 주민의 관람 기회가 제한된다는 지적이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 사용자의 비판적 사고를 장려하는 7가지 방법",
+      "title": "유럽 공공 부문서 힘 받는 매트릭스 프로토콜, 팀즈 대체는 또 다른 문제",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.24",
-      "link": "https://www.itworld.co.kr/article/4237514/ai-%ec%82%ac%ec%9a%a9%ec%9e%90%ec%9d%98-%eb%b9%84%ed%8c%90%ec%a0%81-%ec%82%ac%ea%b3%a0%eb%a5%bc-%ec%9e%a5%eb%a0%a4%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
-      "summary": "기업이 AI에서 최대한의 가치를 끌어내기 위해서는 우수한 비판적 사고 능력을 갖춘 직원이 필요하다. Credit: voronaman / Shutterstock 기업에서 대규모 언어 모델(LLM)과 AI 에이전트를 업무에 사용하는 직원들이 늘어나고 있다."
+      "date": "2026.10.25",
+      "link": "https://www.itworld.co.kr/article/4240062/%ec%9c%a0%eb%9f%bd-%ea%b3%b5%ea%b3%b5-%eb%b6%80%eb%ac%b8%ec%84%9c-%ed%9e%98-%eb%b0%9b%eb%8a%94-%eb%a7%a4%ed%8a%b8%eb%a6%ad%ec%8a%a4-%ed%94%84%eb%a1%9c%ed%86%a0%ec%bd%9c-%ed%8c%80%ec%a6%88-%eb%8c%80.html",
+      "summary": "유럽연합 집행위원회와 스웨덴 정부 기관이 개방형 표준 매트릭스를 앞세워 통신 데이터 통제권 확보에 나서고 있다. Credit: Christian Lue | Unsplash 매트릭스 기반 메시징 도구가 민감한 통신 데이터에 대한 통제력을 높이고 미국 기술 공급업체 의존도를 줄이려는 유럽 각국 정부 사이에서 주목받고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
+      "title": "구글, 절전에 돈을 건다…데이터센터 전력난 푸는 가상 발전소 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.24",
-      "link": "https://www.itworld.co.kr/article/4238852/%eb%aa%b8%ea%b0%92-%eb%86%92%ec%9d%b4%eb%a0%a4%eb%a9%b4-ai%eb%b6%80%ed%84%b0-2026%eb%85%84-it-%ec%b1%84%ec%9a%a9%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%a4%80.html",
-      "summary": "기업이 IT 인재를 정밀하게 선별하는 가운데 전문 AI 역량을 갖춘 인력에는 더 높은 연봉이 주어지고 있다. Credit: insta_photos / Shutterstock 기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다."
+      "date": "2026.10.25",
+      "link": "https://www.itworld.co.kr/article/4240042/%ea%b5%ac%ea%b8%80%ec%9d%80-%ec%9e%90%ec%82%ac-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%84%bc%ed%84%b0%ea%b0%80-%ec%a0%84%eb%a0%a5%ec%9d%84-%eb%8d%94-%eb%a7%8e%ec%9d%b4-%ec%82%ac%ec%9a%a9%ed%95%a0-%ec%88%98.html",
+      "summary": "구글이 볼터스와 1기가와트 규모 가상 발전소를 구축해 전기를 아끼는 기업에 대가를 지급한다. Credit: Shutterstock / yerv 구글이 데이터센터 건설로 불거진 전력 공급 문제 일부에 해법을 내놓았다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI가 먼저 찾아낸 PHP의 허점 “패치를 미루지 마라”",
+      "title": "오픈클로 창시자 “지난달 AI 토큰에 1000만 달러 썼다”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.24",
-      "link": "https://www.itworld.co.kr/article/4238838/%eb%91%90-%ea%b0%80%ec%a7%80-%ec%a4%91%eb%8c%80%ed%95%9c-php-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9c%bc%eb%a1%9c-%ec%9d%b8%ed%95%b4-%ec%9b%b9-%ec%97%85%ea%b3%84%ea%b0%80-%ea%b2%bd%ea%b3%84-%ed%83%9c.html",
-      "summary": "웹사이트 상당수를 구동하는 PHP에서 원격 코드 실행 취약점 2건이 드러나 유럽 정부 웹사이트까지 오프라인으로 전환됐다. Credit: DC Studio / Shutterstock 전 세계 기업이 인터넷 상당 부분을 구동하는 널리 쓰이는 코드에서 치명적 취약점 2건이 공개된 뒤 대응에 분주하다."
+      "date": "2026.10.25",
+      "link": "https://www.itworld.co.kr/article/4240034/%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ec%b0%bd%ec%8b%9c%ec%9e%90-%ec%a7%80%eb%82%9c%eb%8b%ac-ai-%ed%86%a0%ed%81%b0%ec%97%90-1000%eb%a7%8c-%eb%8b%ac%eb%9f%ac-%ec%8d%bc%eb%8b%a4.html",
+      "summary": "오픈AI에서 일하는 피터 스타인버거가 클라우드플레어 행사에서 막대한 토큰 사용량을 공개하면서 기업의 AI 비용 부담에 관심이 쏠리고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "AI가 틀려도 책임은 사용자가…메타의 새 약관, AI 오류 책임은 기업 고객 몫",
+      "title": "AI 사용자의 비판적 사고를 장려하는 7가지 방법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.24",
-      "link": "https://www.itworld.co.kr/article/4238166/ai%ea%b0%80-%ed%8b%80%eb%a0%a4%eb%8f%84-%ec%b1%85%ec%9e%84%ec%9d%80-%ec%82%ac%ec%9a%a9%ec%9e%90%ea%b0%80-%eb%a9%94%ed%83%80%ec%9d%98-%ec%83%88-%ec%95%bd%ea%b4%80-ai-%ec%98%a4%eb%a5%98-%ec%b1%85.html",
-      "summary": "10월 30일부터 시행될 예정인 메타의 새 약관은 고객이 파트너사를 통해 이용하는 콘텐츠까지 기업의 책임을 확대한다. Credit: Skorzewiak / Shutterstock 10월 30일 시행 예정인 메타 상업 약관 개정안에 따라, 메타는 자사 AI 모델이 일으키는 모든 오류의 책임을 기업 고객에게 넘기게 된다."
+      "date": "2026.10.25",
+      "link": "https://www.itworld.co.kr/article/4237514/ai-%ec%82%ac%ec%9a%a9%ec%9e%90%ec%9d%98-%eb%b9%84%ed%8c%90%ec%a0%81-%ec%82%ac%ea%b3%a0%eb%a5%bc-%ec%9e%a5%eb%a0%a4%ed%95%98%eb%8a%94-7%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
+      "summary": "기업이 AI에서 최대한의 가치를 끌어내기 위해서는 우수한 비판적 사고 능력을 갖춘 직원이 필요하다. Credit: voronaman / Shutterstock 기업에서 대규모 언어 모델(LLM)과 AI 에이전트를 업무에 사용하는 직원들이 늘어나고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
+      "title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.24",
-      "link": "https://www.itworld.co.kr/article/4237349/ai-%ec%9b%9c%ec%9d%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ec%98%a4%eb%b8%90%ea%b9%8c%ec%a7%80-%ec%9e%a5%ec%95%85%ed%95%a0%ea%b9%8c-iot-%eb%b4%87%eb%84%b7-%ec%9c%84%ed%98%91-%ec%88%98%ec%a4%80-%ec%a7%84.html",
-      "summary": "앤트로픽이 수개월 내 현실화 가능성을 경고했으나, 통제된 실험 환경과 느린 확산 속도를 고려하면 당장의 위협은 제한적이다. Credit: Max Vakhtbovych / Pexels 스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다."
+      "date": "2026.10.25",
+      "link": "https://www.itworld.co.kr/article/4238852/%eb%aa%b8%ea%b0%92-%eb%86%92%ec%9d%b4%eb%a0%a4%eb%a9%b4-ai%eb%b6%80%ed%84%b0-2026%eb%85%84-it-%ec%b1%84%ec%9a%a9%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%a4%80.html",
+      "summary": "기업이 IT 인재를 정밀하게 선별하는 가운데 전문 AI 역량을 갖춘 인력에는 더 높은 연봉이 주어지고 있다. Credit: insta_photos / Shutterstock 기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다."
     }
   ]
 }
