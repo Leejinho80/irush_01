@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T04:18:20.119Z",
-  "collectionDate": "2026.10.29",
-  "displayDate": "2026.10.30",
+  "updatedAt": "2026-10-31T03:58:48.303Z",
+  "collectionDate": "2026.10.30",
+  "displayDate": "2026.10.31",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "SK그룹, 부회장 승진 없었다…최창원 체제 후 달라진 인사 공식",
+      "title": "[AI는 지금] 나스닥 급락에 오픈AI도 '흔들'…AI 투자 열기 식나",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.29",
-      "link": "https://zdnet.co.kr/view/?no=20261030102749",
-      "summary": "SK그룹이 부회장 승진을 제한하는 가운데 사장급 경영진 역할과 책임을 확대하고 있다. 주요 사업군을 이끌 부회장급 사령탑을 보강하던 과거와 달리, 사업 재편과 수익성 개선, 글로벌 고객 확보 등 구체적인 과제에 맞춰 사장급 인사를 배치하는 흐름이다."
+      "date": "2026.10.30",
+      "link": "https://zdnet.co.kr/view/?no=20261031124538",
+      "summary": "인공지능(AI) 인프라 투자에 대한 우려가 커지면서 미국 뉴욕 증시에서 기술주를 중심으로 매도세가 확산하고 있다. AI 투자 열풍을 주도했던 기업들의 수익성에 대한 의구심이 커지는 가운데 챗GPT 개발사 오픈AI도 자금조달 목표를 대폭 낮춘 것으로 알려졌다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "\"소아응급실 압수수색, 의사들 소아과 선택 주저하게 만들어\"",
+      "title": "디에스앤지, 고대 해커톤 '2026 InThon' B300 서버 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.29",
-      "link": "https://zdnet.co.kr/view/?no=20261030115427",
-      "summary": "소아응급실 압수수색에 대한 의료계 분노가 수그러들 기미를 보이지 않고 있다. 특히 해당 병원의 소아과의사가 대거 사의를 표명한 것으로 알려지며 지역 소아의료체계 붕괴 우려까지 나오고 있다."
+      "date": "2026.10.30",
+      "link": "https://zdnet.co.kr/view/?no=20261031121310",
+      "summary": "AI 인프라 전문기업 디에스앤지(DS&G, 대표 서정열)는 10월 31일부터 11월 1일까지 고려대학교 정보대학이 개최하는 ‘2026 InThon’ 해커톤·데이터톤 대회에 엔비디아 'HGX B300 8-GPU' 서버 2대를 후원한다. 올해 4회째를 맞은 ‘2026 InThon’은 고려대학교 정보대학, 정보대학 학생회, AI 중심대학이 공동 주관한다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "위고페어, 화장품 가품 단속 위한 ‘시범구매’ 기능 정식 도입",
+      "title": "제네시스 방일단, 후쿠시마 방문·교류축제 부스 경험 공유",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.29",
-      "link": "https://zdnet.co.kr/view/?no=20261030114808",
-      "summary": "AI 기반 온라인 브랜드 보호 기업 위고페어가 뷰티 브랜드의 위조상품(가품) 단속 실효성을 높이기 위해 의심 상품을 직접 구매해 진위를 가려내는 '시범구매' 기능을 정식 서비스로 선보였다. 30일 회사에 따르면, 최근 화장품 가품 유통은 해외 플랫폼뿐 아니라 국내 오픈마켓, 소셜미디어 라이브 방송과 공동구매 등으로 빠르게 확산하고 있다."
+      "date": "2026.10.30",
+      "link": "https://zdnet.co.kr/view/?no=20261030170643",
+      "summary": "가토리 요시노리 일한문화교류기금 이사장이 30일 \"시민과 시민의 교류로 비로소 마음이 이어진 관계를 만들 수 있다\"고 말했다. 가토리 이사장은 주한일본대사관 공보문화원과 일한문화교류기금이 이날 한국프레스센터에서 개최한 '제네시스(JENESYS) 2026 한국재팬리포터 방일단 성과보고회 및 동창회'에서 영상 메시지를 통해 이 같이 말했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "KISIA, 'FISCON' 정보보호 기업 전시회 개최",
+      "title": "알티베이스 \"일본 시장 공략\"...‘DB 테크 쇼케이스 2026' 참가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.29",
-      "link": "https://zdnet.co.kr/view/?no=20261030114736",
-      "summary": "한국정보보호산업협회(KISIA)가 11월 12일 서울 영등포구 콘래드 호텔에서 '금융정보보호 컨퍼런스(FISCON 2026)' 부대행사인 기업 전시회를 개최한다고 30일 밝혔다. FISCON은 금융보안원, 금융정보보호협의회, 금융보안포럼이 공동 주최하는 금융 정보보호 컨퍼런스다. 올해는 'Now for Next Finance'라는 주제로 개최된다."
+      "date": "2026.10.30",
+      "link": "https://zdnet.co.kr/view/?no=20261031114349",
+      "summary": "국내 대표 데이터베이스(DBMS) 전문기업 알티베이스(ALTIBASE)가 오는 5~6일 이틀간 일본 도쿄에서 열리는 'DB테크 쇼케이스 2026(DB TECH SHOWCASE 2026)’에 골드 스폰서(Gold Sponsor)로 참여한다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "가상자산 과세 네 번째 유예되나…민주당 \"11월 말까지 결정\"",
+      "title": "\"기술과 예술 융합\"...이상한댄스, 다음달 7일 '미동' 공연",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.29",
-      "link": "https://zdnet.co.kr/view/?no=20261030114507",
-      "summary": "더불어민주당이 내년 시행 예정인 가상자산 과세 유예 여부를 늦어도 다음 달 말까지 결정할 방침이다. 업계에서는 최근 청와대가 과세 유예 검토에 나선 점 등을 고려하면 네 번째 유예 가능성이 높다고 보고 있다."
+      "date": "2026.10.30",
+      "link": "https://zdnet.co.kr/view/?no=20261031111044",
+      "summary": "현대무용 기반 예술실험 전문기업 이상한댄스컴퍼니(대표 이상훈)가 다음달 7일 대구 씨어터 우전소극장에서 올해 마지막 공연인 '만다라 워킹-미동'을 개최한다. 이번 공연은 이상한댄스컴퍼니가 한 해 동안 진행해 온 예술과 기술 융합 창작 실험의 성과를 공유하기 위해 기획한 자리다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "link": "https://www.itworld.co.kr/article/4242324/%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%84-%ea%b0%96%ec%b6%98-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ec%85%98-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%98-6%ea%b0%80%ec%a7%80.html",
       "summary": "전문가가 AI 에이전트 수천 개를 운영 환경에서 안정적으로 관리하는 핵심 역량으로 성과 측정부터 컨텍스트 계층 개선까지 6가지를 꼽았다. Credit: Rob Schultz / Shutterstock 다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다."
     },
@@ -74,7 +74,7 @@
       "title": "퇴직 제안으로 속도를 내는 마이크로소프트의 인력 감축…AI 개발 팀까지 포함",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "link": "https://www.itworld.co.kr/article/4241438/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%eb%b0%8f-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%8c%80-%ec%a7%81%ec%9b%90%ec%9d%84-%ed%8f%ac%ed%95%a8%ed%95%9c-%ec%88%98%ec%b2%9c.html",
       "summary": "마이크로소프트가 4월 장기 근속 미국 직원 대상 은퇴 프로그램에 이어, 나이와 근속 연수에 관계없이 4개국 직원이 대상인 자발적 퇴직 제안을 내놨다."
     },
@@ -84,7 +84,7 @@
       "title": "클라우드 토큰 비용 부담에 PC로 옮겨가는 AI 작업",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "link": "https://www.itworld.co.kr/article/4241424/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-%eb%b6%80%eb%8b%b4%ec%97%90-pc%eb%a1%9c-%ec%98%ae%ea%b2%a8%ea%b0%80%eb%8a%94-ai-%ec%9e%91%ec%97%85.html",
       "summary": "마이크로소프트와 엔비디아, HP가 가벼운 작업은 PC에서, 고난도 작업은 클라우드에서 처리하는 구조를 앞세워 에이전틱 AI PC 시장 공략에 나섰다. Credit: Pixels Hunter / Shutterstock AI 비용이 불어나면서 기업이 토큰 비용 절감에 나서고 있다. 해법은 더 많은 AI 작업을 PC로 옮기는 것이다."
     },
@@ -94,7 +94,7 @@
       "title": "“AI 시대 보안은 속도 싸움” 쿤텍, 가시화·탐지·대응 시간 단축 전략 공개",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "link": "https://www.itworld.co.kr/article/4240701/ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%86%8d%eb%8f%84-%ec%8b%b8%ec%9b%80-%ec%bf%a4%ed%85%8d-%ea%b0%80%ec%8b%9c%ed%99%94%c2%b7%ed%83%90%ec%a7%80%c2%b7%eb%8c%80.html",
       "summary": "AI 에이전트가 정상 권한과 API를 사용해 의도치 않은 행동을 수행하는 사례가 늘면서, 위협을 완벽히 막는 것보다 얼마나 빨리 발견하고 차단하느냐가 보안의 새로운 경쟁력으로 떠오르고 있다. Credit: Coontec AI 에이전트가 기업 업무 깊숙이 들어오면서 보안의 초점이 ‘악성코드 차단’에서 ‘AI의 행동 통제’로 옮겨가고 있다."
     },
@@ -104,7 +104,7 @@
       "title": "“게임은 라이선스가 아닌 소유물” 사용자 권리 회복을 겨냥한 입법 시도",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.29",
+      "date": "2026.10.30",
       "link": "https://www.itworld.co.kr/article/4240113/%ea%b2%8c%ec%9e%84%ec%9d%80-%eb%9d%bc%ec%9d%b4%ec%84%a0%ec%8a%a4%ea%b0%80-%ec%95%84%eb%8b%8c-%ec%86%8c%ec%9c%a0%eb%ac%bc-%ec%82%ac%ec%9a%a9%ec%9e%90-%ea%b6%8c%eb%a6%ac-%ed%9a%8c%eb%b3%b5%ec%9d%84.html",
       "summary": "미국 하원의원 리치 토레스가 게임 구매자에게 라이선스가 아닌 소유권을 보장하는 법안을 발의했다. Credit: Louis Velazquez on Unsplash 뉴욕 15선거구 출신 미국 하원의원 리치 토레스가 이번 달 사용자가 구매한 게임의 소유권을 보장하는 법안을 제안해 화제를 모으고 있다."
     }
