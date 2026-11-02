@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-01T04:17:47.515Z",
-  "collectionDate": "2026.10.31",
-  "displayDate": "2026.11.01",
+  "updatedAt": "2026-11-02T04:19:44.954Z",
+  "collectionDate": "2026.11.01",
+  "displayDate": "2026.11.02",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "MBK의 골프존카운티 엑시트, 동반매도·임대차계약 놓고 공방",
+      "title": "'애플 폴더블폰' 아이폰 듀오, 14만 번 접었더니",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.31",
-      "link": "https://zdnet.co.kr/view/?no=20261030192709",
-      "summary": "MBK파트너스의 골프존카운티 매각을 둘러싼 주주 간 갈등이 법적 분쟁으로 번질 조짐이다. 골프존홀딩스는 당초 투자 유치 당시의 경영권 보장 약속에 어긋난다며 반발하고, MBK는 주주 간 계약에 따른 매각이라고 맞서고 있다."
+      "date": "2026.11.01",
+      "link": "https://zdnet.co.kr/view/?no=20261102095925",
+      "summary": "폴더블 스마트폰은 장기간 사용하면 화면을 접었다 펴는 과정에서 접힘 자국이 점차 두드러지기 마련이다. 애플의 첫 폴더블 스마트폰 '아이폰 듀오'가 화면을 장시간 반복해서 접었다 펴도 화면 주름이 크게 눈에 띄지 않는 것으로 나타났다. IT매체 씨넷은 최근 아이폰 듀오를 대상으로 진행한 화면 내구성 테스트 결과를 보도했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원",
+      "title": "‘온라인 사찰’에 60만명 운집…메타버스가 다시 뜨나",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.31",
-      "link": "https://zdnet.co.kr/view/?no=20261101130513",
-      "summary": "공무원이 별도 인터넷망에 접속하지 않고도 정부 업무망에서 인공지능(AI)을 이용해 최신 정보를 검색할 수 있게 됐다. 다음 달부터 기존 업무자료를 활용해 한글 보고서 초안을 작성하는 기능도 제공된다. 행정안전부는 공무원용 지능형 업무관리 플랫폼 '온AI'에 웹 검색과 문서 작성, 협업 기능을 순차적으로 추가한다고 1일 밝혔다."
+      "date": "2026.11.01",
+      "link": "https://zdnet.co.kr/view/?no=20261102093015",
+      "summary": "안녕하세요 AMEET 기자입니다. 최근 온라인상에서 동자승 캐릭터와 함께 108배를 하고 염주를 돌리는 ‘온라인절’이 큰 화제가 되고 있죠. 단순히 호기심에 한 번 클릭해보는 수준을 넘어, 이제는 온라인 교회와 가상 정원처럼 마음을 쉬게 하는 디지털 공간들이 우후죽순 생겨나고 있습니다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "뚜레쥬르, 몽골 진출 10주년…현지 매장 28곳으로 확대",
+      "title": "\"애플, 내년 상반기 아이패드 3종 출시…에어도 OLED 탑재\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.31",
-      "link": "https://zdnet.co.kr/view/?no=20261101123815",
-      "summary": "CJ푸드빌이 운영하는 뚜레쥬르가 몽골 진출 10주년을 맞았다. 1일 회사는 뚜레쥬르가 지난달 31일 몽골 울란바타르에서 현지 마스터 프랜차이즈사 아티산 LLC와 10주년 기념식을 개최했다고 밝혔다. 행사에는 약 300명의 관계자가 참석했다. 양사는 지난 10년간의 사업 성과를 돌아보고 향후 몽골 사업 확대 방향을 공유했다."
+      "date": "2026.11.01",
+      "link": "https://zdnet.co.kr/view/?no=20261102084456",
+      "summary": "최근 OLED 아이패드 미니를 내놓은 애플이 내년 상반기 새로운 아이패드 3종을 출시할 계획이라고 블룸버그통신이 1일(현지시간) 보도했다. 블룸버그의 마크 거먼은 파워온 뉴스레터를 통해 애플이 내년 상반기 신형 아이패드 에어와 아이패드 프로, 보급형 아이패드 모델을 선보일 계획이라고 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "40만개 팔린 그 케이크가 통째로…스타벅스, 홀케이크 4종 출시",
+      "title": "게임업계 3분기 실적 윤곽…매출 성장 속 수익성 과제",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.31",
-      "link": "https://zdnet.co.kr/view/?no=20261101123234",
-      "summary": "스타벅스 코리아가 연말 시즌을 맞아 홀케이크 4종을 출시했다. 기존 인기 조각 케이크를 홀케이크로 확대한 제품과 새로운 맛을 더한 제품으로 소비자 선택의 폭을 넓혔다. 1일 스타벅스는 ‘모찌 품은 바스크 치즈 케이크’, ‘보늬밤 몽블랑 치즈 케이크’, ‘진한 얼 그레이 카라멜 넛츠 케이크’, ‘티라미수 크레이프 케이크’ 등 4종을 출시했다고 밝혔다."
+      "date": "2026.11.01",
+      "link": "https://zdnet.co.kr/view/?no=20261102112027",
+      "summary": "국내 주요 게임사가 이번 주 3분기 실적을 잇달아 발표한다. 기존 흥행 지식재산권(IP)을 앞세운 기업은 매출 성장세를 이어갈 것으로 예상되지만, 개발 및 마케팅 비용 부담으로 영업이익은 감소할 전망이다. 일부 기업은 신작 효과와 기저효과에 힘입어 흑자 전환이 예상되는 등 기업별 실적 흐름도 엇갈릴 것으로 보인다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정",
+      "title": "ST마이크로, '가속도·자이로 센서 통합' 차량 센서 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.10.31",
-      "link": "https://zdnet.co.kr/view/?no=20261101122821",
-      "summary": "배달의민족이 운영하는 이륜차 안전교육기관 ‘배민라이더스쿨’이 국내외 건축상을 수상했다. 1일 배달의민족 운영사 우아한형제들은 배민라이더스쿨이 ‘2026년 제49회 한국건축가협회 건축상’에서 한국건축가협회상을 받았다고 밝혔다. 한국건축가협회 건축상은 건축가의 창작 활동과 건축주·시공자의 기여 등을 평가하는 상이다."
+      "date": "2026.11.01",
+      "link": "https://zdnet.co.kr/view/?no=20261102115904",
+      "summary": "ST마이크로일렉트로닉스(ST마이크로)가 다축 가속도 센서와 자이로스코프(각속도 센서)를 통합한 차량 센서를 출시했다고 2일 밝혔다. 신제품은 ST마이크로가 올해 초 NXP로부터 차량·산업용 미세전자기계시스템(MEMS) 센서 사업을 인수한 뒤 대중 시장에 처음 선보이는 제품이다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
+      "title": "위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.31",
-      "link": "https://www.itworld.co.kr/article/4242324/%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%84-%ea%b0%96%ec%b6%98-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ec%85%98-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%98-6%ea%b0%80%ec%a7%80.html",
-      "summary": "전문가가 AI 에이전트 수천 개를 운영 환경에서 안정적으로 관리하는 핵심 역량으로 성과 측정부터 컨텍스트 계층 개선까지 6가지를 꼽았다. Credit: Rob Schultz / Shutterstock 다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다."
+      "date": "2026.11.01",
+      "link": "https://www.itworld.co.kr/article/4243085/%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%98%a4%ed%94%88ai%eb%8a%94-%ec%9c%84%ed%97%98%ed%95%9c-ai%ec%9d%98-%ea%b0%80%eb%8f%99%ec%9d%84-%ec%a4%91%eb%8b%a8%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%a3%bc.html",
+      "summary": "캘리포니아 주지사에게 제출한 별도 의견서에서 두 업체는 프런티어 AI 감독 강화에는 뜻을 같이했지만 위험 모델을 멈추는 주체에서는 갈렸다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "퇴직 제안으로 속도를 내는 마이크로소프트의 인력 감축…AI 개발 팀까지 포함",
+      "title": "앤트로픽 사칭한 피싱 초대장, 구글·마이크로소프트 계정 노린다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.31",
-      "link": "https://www.itworld.co.kr/article/4241438/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%eb%b0%8f-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%8c%80-%ec%a7%81%ec%9b%90%ec%9d%84-%ed%8f%ac%ed%95%a8%ed%95%9c-%ec%88%98%ec%b2%9c.html",
-      "summary": "마이크로소프트가 4월 장기 근속 미국 직원 대상 은퇴 프로그램에 이어, 나이와 근속 연수에 관계없이 4개국 직원이 대상인 자발적 퇴직 제안을 내놨다."
+      "date": "2026.11.01",
+      "link": "https://www.itworld.co.kr/article/4243058/%ea%b0%80%ec%a7%9c-%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%eb%af%b8%eb%a6%ac%eb%b3%b4%ea%b8%b0%ea%b0%80-%ec%a7%80%eb%82%98%ec%b9%98%ea%b2%8c-%ec%97%b4%ec%84%b1%ec%a0%81%ec%9d%b8.html",
+      "summary": "앤트로픽의 비공개 AI 프리뷰 초대를 사칭한 피싱 메일이 고투웨비나 초대장으로 위장해 기업 직원의 구글·마이크로소프트 로그인 정보를 빼내고 있다. Credit: janews - Shutterstock.com 모두가 앤트로픽의 행보를 궁금해하는 상황을 해커들이 신나게 악용하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "클라우드 토큰 비용 부담에 PC로 옮겨가는 AI 작업",
+      "title": "같은 질문인데 요금은 몇 배…AI 모델의 언어별 비용 격차",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.31",
-      "link": "https://www.itworld.co.kr/article/4241424/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%86%a0%ed%81%b0-%eb%b9%84%ec%9a%a9-%eb%b6%80%eb%8b%b4%ec%97%90-pc%eb%a1%9c-%ec%98%ae%ea%b2%a8%ea%b0%80%eb%8a%94-ai-%ec%9e%91%ec%97%85.html",
-      "summary": "마이크로소프트와 엔비디아, HP가 가벼운 작업은 PC에서, 고난도 작업은 클라우드에서 처리하는 구조를 앞세워 에이전틱 AI PC 시장 공략에 나섰다. Credit: Pixels Hunter / Shutterstock AI 비용이 불어나면서 기업이 토큰 비용 절감에 나서고 있다. 해법은 더 많은 AI 작업을 PC로 옮기는 것이다."
+      "date": "2026.11.01",
+      "link": "https://www.itworld.co.kr/article/4243015/%eb%8d%9c-%ed%9d%94%ed%95%9c-%ec%96%b8%ec%96%b4%ec%9d%98-%ea%b2%bd%ec%9a%b0-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9%ec%9d%b4-%ed%9b%a8%ec%94%ac-%eb%8d%94-%eb%b9%84%ec%8b%b8%eb%8b%a4.html",
+      "summary": "언어 평등 AI 연구 연합이 소수 언어 사용자의 비용 부담 실태를 분석했다. Credit: Shutterstock 언어 평등 AI 연구 연합(Coalition for Language Equity in AI Research)이 발표한 새 연구에 따르면, AI 모델이 특정 언어를 처리할 때 다른 언어보다 훨씬 많은 토큰이 필요한 것으로 나타났다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“AI 시대 보안은 속도 싸움” 쿤텍, 가시화·탐지·대응 시간 단축 전략 공개",
+      "title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.31",
-      "link": "https://www.itworld.co.kr/article/4240701/ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%86%8d%eb%8f%84-%ec%8b%b8%ec%9b%80-%ec%bf%a4%ed%85%8d-%ea%b0%80%ec%8b%9c%ed%99%94%c2%b7%ed%83%90%ec%a7%80%c2%b7%eb%8c%80.html",
-      "summary": "AI 에이전트가 정상 권한과 API를 사용해 의도치 않은 행동을 수행하는 사례가 늘면서, 위협을 완벽히 막는 것보다 얼마나 빨리 발견하고 차단하느냐가 보안의 새로운 경쟁력으로 떠오르고 있다. Credit: Coontec AI 에이전트가 기업 업무 깊숙이 들어오면서 보안의 초점이 ‘악성코드 차단’에서 ‘AI의 행동 통제’로 옮겨가고 있다."
+      "date": "2026.11.01",
+      "link": "https://www.itworld.co.kr/article/4242324/%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%84-%ea%b0%96%ec%b6%98-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ec%85%98-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%98-6%ea%b0%80%ec%a7%80.html",
+      "summary": "전문가가 AI 에이전트 수천 개를 운영 환경에서 안정적으로 관리하는 핵심 역량으로 성과 측정부터 컨텍스트 계층 개선까지 6가지를 꼽았다. Credit: Rob Schultz / Shutterstock 다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "“게임은 라이선스가 아닌 소유물” 사용자 권리 회복을 겨냥한 입법 시도",
+      "title": "퇴직 제안으로 속도를 내는 마이크로소프트의 인력 감축…AI 개발 팀까지 포함",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.10.31",
-      "link": "https://www.itworld.co.kr/article/4240113/%ea%b2%8c%ec%9e%84%ec%9d%80-%eb%9d%bc%ec%9d%b4%ec%84%a0%ec%8a%a4%ea%b0%80-%ec%95%84%eb%8b%8c-%ec%86%8c%ec%9c%a0%eb%ac%bc-%ec%82%ac%ec%9a%a9%ec%9e%90-%ea%b6%8c%eb%a6%ac-%ed%9a%8c%eb%b3%b5%ec%9d%84.html",
-      "summary": "미국 하원의원 리치 토레스가 게임 구매자에게 라이선스가 아닌 소유권을 보장하는 법안을 발의했다. Credit: Louis Velazquez on Unsplash 뉴욕 15선거구 출신 미국 하원의원 리치 토레스가 이번 달 사용자가 구매한 게임의 소유권을 보장하는 법안을 제안해 화제를 모으고 있다."
+      "date": "2026.11.01",
+      "link": "https://www.itworld.co.kr/article/4241438/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-ai-%eb%b0%8f-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%8c%80-%ec%a7%81%ec%9b%90%ec%9d%84-%ed%8f%ac%ed%95%a8%ed%95%9c-%ec%88%98%ec%b2%9c.html",
+      "summary": "마이크로소프트가 4월 장기 근속 미국 직원 대상 은퇴 프로그램에 이어, 나이와 근속 연수에 관계없이 4개국 직원이 대상인 자발적 퇴직 제안을 내놨다."
     }
   ]
 }
