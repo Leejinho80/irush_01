@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-04T04:46:28.387Z",
-  "collectionDate": "2026.11.03",
-  "displayDate": "2026.11.04",
+  "updatedAt": "2026-11-05T05:01:12.936Z",
+  "collectionDate": "2026.11.04",
+  "displayDate": "2026.11.05",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "링크드인 경영진과 회동한 잡플래닛…韓 채용 시장 미래 논의",
+      "title": "오픈AI, '이미지 2.6' 공개…챗GPT·코덱스에 탑재",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.03",
-      "link": "https://zdnet.co.kr/view/?no=20261104103329",
-      "summary": "잡플래닛은 지난달 19일 서울 서초구 본사에서 글로벌 HR 플랫폼 링크드인 경영진과 만나 한국 채용 시장과 인공지능(AI) 기반 채용 혁신에 대한 의견을 교류했다고 4일 밝혔다. 이번 만남에는 링크드인 임원 약 20명이 방문했다. 하리 스리니바산 최고제품책임자(CPO)와 AI 플랫폼 및 탤런트 솔루션·러닝 담당 부사장급 인사들이 포함됐다."
+      "date": "2026.11.04",
+      "link": "https://zdnet.co.kr/view/?no=20261105135557",
+      "summary": "오픈AI가 인공지능(AI) 서비스 챗GPT·코덱스의 이미지 생성 속도와 편집 기능을 강화했다. 오픈AI는 '이미지 2.6'을 공개했다고 5일 밝혔다. 이 모델은 기존보다 이미지를 50% 빠르게 생성할 수 있다. 챗GPT와 코덱스에서 작동하며, 데스크톱·모바일·웹에서 사용 가능하다. 새 모델은 움직이는 이미지 파일인 GIF 제작을 지원한다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "윤시우 핵융합연 부원장 \"K-문샷 성공하려면 PD에 책임·권한 줘야\"",
+      "title": "스튜디오드래곤, 3분기 영업익 151억원...전년비 44%↑",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.03",
-      "link": "https://zdnet.co.kr/view/?no=20261104132701",
-      "summary": "K-문샷이 성공하기 위해서는 PD에게 통합 관리 및 기관 간 이해관계를 조정할 책임과 막강한 권한이 주어져야 한다는 주장이 제기됐다."
+      "date": "2026.11.04",
+      "link": "https://zdnet.co.kr/view/?no=20261105134909",
+      "summary": "스튜디오드래곤이 글로벌 OTT 대상 콘텐츠 판매 확대와 제작비 효율화에 힘입어 3분기 실적 개선을 이어갔다. 스튜디오드래곤은 3분기 연결 기준 매출 1590억원, 영업이익 151억원을 기록했다고 5일 밝혔다. 지난해 같은 기간보다 매출은 16.5%, 영업이익은 44.4% 증가했다. 영업이익률은 9.5%로 1.8%포인트 상승했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "타이어부터 배터리·열관리 총출동…한국앤컴퍼니, 북미 애프터마켓 공략",
+      "title": "[1보] 에코프로머티, 3분기 영업손실 290억…전년비 15.2% 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.03",
-      "link": "https://zdnet.co.kr/view/?no=20261104132132",
-      "summary": "한국앤컴퍼니그룹이 배터리와 열관리 시스템, 타이어 사업을 결합해 북미 자동차 애프터마켓 공략에 나선다. 한국앤컴퍼니그룹은 한국앤컴퍼니·한온시스템·한국타이어앤테크놀로지 등 계열사 3사가 3일부터 5일(현지시간)까지 미국 라스베이거스에서 열리는 자동차 부품 전시회 'AAPEX 2026'에 공동 참가한다고 4일 밝혔다."
+      "date": "2026.11.04",
+      "link": "https://zdnet.co.kr/view/?no=20261105134818",
+      "summary": "에코프로머티리얼즈는 올해 3분기 연결기준 잠정 실적으로 매출 1811억원, 영업손실 290억원, 순손실 909억원을 기록했다고 5일 공시했다. 전년 동기 대비 매출은 186.8% 증가한 반면 영업손실 규모는 15.2% 확대됐다. 순이익은 적자전환했다. 전분기 대비 매출은 1.3% 늘고 영업손실 규모는 173.7% , 순손실 규모는 630.1% 커졌다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "니콘, 시네마 카메라 ZR 펌웨어 2.00 정식 공개",
+      "title": "LG화학, 배터리 성장에도 석유화학 부진이 발목…3분기 수익성 뒷걸음",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.03",
-      "link": "https://zdnet.co.kr/view/?no=20261104131636",
-      "summary": "니콘이 4일 시네마 특화 미러리스 카메라 'ZR' 대상으로 영상 표현력 유연성과 조작성을 강화한 펌웨어 버전 2.00을 정식 공개했다. ZR은 니콘이 인수한 미국 시네마 카메라 회사 '레드'의 기술력을 적용한 첫 카메라로 2025년 9월 글로벌 출시됐다. 이번 버전에는 H."
+      "date": "2026.11.04",
+      "link": "https://zdnet.co.kr/view/?no=20261105134738",
+      "summary": "LG화학이 배터리와 첨단소재 사업 성장에도 석유화학 부진으로 매출 증가와 이익 감소가 엇갈린 성적표를 받았다. LG화학은 올해 3분기 연결 기준 매출 15조 4960억원, 영업이익 5612억원을 기록했다고 5일 밝혔다. 지난해 같은 기간보다 매출은 34.0% 늘었지만 영업이익은 17.4% 줄었다. 전분기와 비교해도 매출은 9."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "BMW코리아, 더 뉴 7시리즈 출시…가격 1억6190만원부터",
+      "title": "일본 헤집은 해킹 쓰나미, AI 침입 도구까지 동원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.03",
-      "link": "https://zdnet.co.kr/view/?no=20261104131542",
-      "summary": "BMW코리아가 플래그십 세단 7시리즈의 부분변경 모델을 국내 시장에 선보였다. 가솔린 모델과 순수전기차를 먼저 투입하고 디젤·플러그인하이브리드·고성능 모델을 순차적으로 추가할 계획이다. BMW코리아는 4일 '더 뉴 BMW 7시리즈'를 국내에 공식 출시한다고 밝혔다."
+      "date": "2026.11.04",
+      "link": "https://zdnet.co.kr/view/?no=20261105094646",
+      "summary": "일본 공공, 민간 분야에서 9월 말부터 한 달간 전례 없는 규모의 사이버 공격에 노출됐다. 그 결과 올해 공표된 피해가 659건으로 2024년 한 해 645건을 넘어섰다. 카셰어링 업체 타임스카(タイムズカー)에서는 약 660만 계정이 부정 접속을 당했고, 공격 쪽에서 인공지능(AI)이 쓰인 사실도 처음 확인됐다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "보안 리더 67%, “비즈니스 요구 따라가기 버겁다”",
+      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.03",
-      "link": "https://www.itworld.co.kr/article/4244290/%eb%b3%b4%ec%95%88-%eb%a6%ac%eb%8d%94-67-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%9a%94%ea%b5%ac-%eb%94%b0%eb%9d%bc%ea%b0%80%ea%b8%b0-%eb%b2%84%ea%b2%81%eb%8b%a4.html",
-      "summary": "AI와 아이덴티티 기반 공격이 이미 빠듯한 사이버 보안팀을 압박하는 가운데, 인력 감축까지 겹치고 있다. Credit: BalanceFormCreative / Shutterstock AI, 아이덴티티 기반 공격, 디지털 운영 확대가 이미 인력이 빠듯한 사이버 보안팀을 압박하고 있다."
+      "date": "2026.11.04",
+      "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
+      "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "데브옵스 엔지니어 노트북 침해로 시작된 바이낸스 63억 달러 유출 사고",
+      "title": "요금 폭탄 뒤에 숨은 LLM 접근 권한 탈취 공격",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.03",
-      "link": "https://www.itworld.co.kr/article/4244283/%eb%b3%b4%ec%95%88-%ec%b9%a8%ed%95%b4%eb%a5%bc-%eb%8b%b9%ed%95%9c-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4devops%ec%9a%a9-%eb%85%b8%ed%8a%b8%eb%b6%81%ec%9d%b4-63%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b7%9c-2.html",
-      "summary": "바이낸스가 침해된 직원 노트북이 출금 처리 단계로 이어진 경로였다고 밝혔으며, FBI는 북한 해킹 조직을 배후로 지목했다. Credit: Shutterstock 대형 암호화폐 거래소인 바이낸스가 금요일 공개한 업데이트에서 사용자 자산 보호 기금(SAFU)과 회사 자금으로 모든 손실을 보전한다고 밝혔다."
+      "date": "2026.11.04",
+      "link": "https://www.itworld.co.kr/article/4244927/%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%80-%ec%a3%bc%eb%ac%b8%ed%95%9c-%ec%a0%81%eb%8f%84-%ec%97%86%eb%8a%94-ai%ec%97%90-%ed%95%98%eb%a3%a8-10%eb%a7%8c-%eb%8b%ac%eb%9f%ac%eb%a5%bc-%ec%a7%80%eb%b6%88.html",
+      "summary": "구글은 하루 10만 달러, 누적 100만 달러에 달하는 허위 요금을 낳는 LLM재킹에 맞서 자격 증명 관리 강화를 권고했다. Credit: Gecko Studio / Shutterstock 운영 환경에 대규모 언어 모델(LLM)을 배치한 기업이 알지 못하는 사이 타인의 AI 사업 비용을 대신 내고 있을 수 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법",
+      "title": "보안 리더 67%, “비즈니스 요구 따라가기 버겁다”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.03",
-      "link": "https://www.itworld.co.kr/article/4243085/%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%98%a4%ed%94%88ai%eb%8a%94-%ec%9c%84%ed%97%98%ed%95%9c-ai%ec%9d%98-%ea%b0%80%eb%8f%99%ec%9d%84-%ec%a4%91%eb%8b%a8%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%a3%bc.html",
-      "summary": "캘리포니아 주지사에게 제출한 별도 의견서에서 두 업체는 프런티어 AI 감독 강화에는 뜻을 같이했지만 위험 모델을 멈추는 주체에서는 갈렸다."
+      "date": "2026.11.04",
+      "link": "https://www.itworld.co.kr/article/4244290/%eb%b3%b4%ec%95%88-%eb%a6%ac%eb%8d%94-67-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%9a%94%ea%b5%ac-%eb%94%b0%eb%9d%bc%ea%b0%80%ea%b8%b0-%eb%b2%84%ea%b2%81%eb%8b%a4.html",
+      "summary": "AI와 아이덴티티 기반 공격이 이미 빠듯한 사이버 보안팀을 압박하는 가운데, 인력 감축까지 겹치고 있다. Credit: BalanceFormCreative / Shutterstock AI, 아이덴티티 기반 공격, 디지털 운영 확대가 이미 인력이 빠듯한 사이버 보안팀을 압박하고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "앤트로픽 사칭한 피싱 초대장, 구글·마이크로소프트 계정 노린다",
+      "title": "데브옵스 엔지니어 노트북 침해로 시작된 바이낸스 63억 달러 유출 사고",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.03",
-      "link": "https://www.itworld.co.kr/article/4243058/%ea%b0%80%ec%a7%9c-%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%eb%af%b8%eb%a6%ac%eb%b3%b4%ea%b8%b0%ea%b0%80-%ec%a7%80%eb%82%98%ec%b9%98%ea%b2%8c-%ec%97%b4%ec%84%b1%ec%a0%81%ec%9d%b8.html",
-      "summary": "앤트로픽의 비공개 AI 프리뷰 초대를 사칭한 피싱 메일이 고투웨비나 초대장으로 위장해 기업 직원의 구글·마이크로소프트 로그인 정보를 빼내고 있다. Credit: janews - Shutterstock.com 모두가 앤트로픽의 행보를 궁금해하는 상황을 해커들이 신나게 악용하고 있다."
+      "date": "2026.11.04",
+      "link": "https://www.itworld.co.kr/article/4244283/%eb%b3%b4%ec%95%88-%ec%b9%a8%ed%95%b4%eb%a5%bc-%eb%8b%b9%ed%95%9c-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4devops%ec%9a%a9-%eb%85%b8%ed%8a%b8%eb%b6%81%ec%9d%b4-63%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b7%9c-2.html",
+      "summary": "바이낸스가 침해된 직원 노트북이 출금 처리 단계로 이어진 경로였다고 밝혔으며, FBI는 북한 해킹 조직을 배후로 지목했다. Credit: Shutterstock 대형 암호화폐 거래소인 바이낸스가 금요일 공개한 업데이트에서 사용자 자산 보호 기금(SAFU)과 회사 자금으로 모든 손실을 보전한다고 밝혔다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "같은 질문인데 요금은 몇 배…AI 모델의 언어별 비용 격차",
+      "title": "위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.03",
-      "link": "https://www.itworld.co.kr/article/4243015/%eb%8d%9c-%ed%9d%94%ed%95%9c-%ec%96%b8%ec%96%b4%ec%9d%98-%ea%b2%bd%ec%9a%b0-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9%ec%9d%b4-%ed%9b%a8%ec%94%ac-%eb%8d%94-%eb%b9%84%ec%8b%b8%eb%8b%a4.html",
-      "summary": "언어 평등 AI 연구 연합이 소수 언어 사용자의 비용 부담 실태를 분석했다. Credit: Shutterstock 언어 평등 AI 연구 연합(Coalition for Language Equity in AI Research)이 발표한 새 연구에 따르면, AI 모델이 특정 언어를 처리할 때 다른 언어보다 훨씬 많은 토큰이 필요한 것으로 나타났다."
+      "date": "2026.11.04",
+      "link": "https://www.itworld.co.kr/article/4243085/%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%98%a4%ed%94%88ai%eb%8a%94-%ec%9c%84%ed%97%98%ed%95%9c-ai%ec%9d%98-%ea%b0%80%eb%8f%99%ec%9d%84-%ec%a4%91%eb%8b%a8%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%a3%bc.html",
+      "summary": "캘리포니아 주지사에게 제출한 별도 의견서에서 두 업체는 프런티어 AI 감독 강화에는 뜻을 같이했지만 위험 모델을 멈추는 주체에서는 갈렸다."
     }
   ]
 }
