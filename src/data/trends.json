@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T05:01:12.936Z",
-  "collectionDate": "2026.11.04",
-  "displayDate": "2026.11.05",
+  "updatedAt": "2026-11-06T05:00:43.436Z",
+  "collectionDate": "2026.11.05",
+  "displayDate": "2026.11.06",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "오픈AI, '이미지 2.6' 공개…챗GPT·코덱스에 탑재",
+      "title": "그라비티 게임 테크, 7일 방콕서 ‘라그나로크 페스타 2026’ 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.04",
-      "link": "https://zdnet.co.kr/view/?no=20261105135557",
-      "summary": "오픈AI가 인공지능(AI) 서비스 챗GPT·코덱스의 이미지 생성 속도와 편집 기능을 강화했다. 오픈AI는 '이미지 2.6'을 공개했다고 5일 밝혔다. 이 모델은 기존보다 이미지를 50% 빠르게 생성할 수 있다. 챗GPT와 코덱스에서 작동하며, 데스크톱·모바일·웹에서 사용 가능하다. 새 모델은 움직이는 이미지 파일인 GIF 제작을 지원한다."
+      "date": "2026.11.05",
+      "link": "https://zdnet.co.kr/view/?no=20261106135203",
+      "summary": "그라비티 게임 테크가 e스포츠 대회와 신작 체험을 결합한 라그나로크 IP 글로벌 게임 페스티벌을 연다. 그라비티의 태국 지사 그라비티 게임 테크는 오는 7일 태국 방콕 엠스피어 몰 내 유오비 라이브홀에서 ‘라그나로크 페스타 2026’을 개최한다. 행사장은 게임 속 항구도시 알베르타를 모티브로 한 ‘멜로디 오브 알베르타’를 테마로 꾸민다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "스튜디오드래곤, 3분기 영업익 151억원...전년비 44%↑",
+      "title": "시프트업, ‘스텔라 블레이드 컴플리트 에디션’ 스위치2 글로벌 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.04",
-      "link": "https://zdnet.co.kr/view/?no=20261105134909",
-      "summary": "스튜디오드래곤이 글로벌 OTT 대상 콘텐츠 판매 확대와 제작비 효율화에 힘입어 3분기 실적 개선을 이어갔다. 스튜디오드래곤은 3분기 연결 기준 매출 1590억원, 영업이익 151억원을 기록했다고 5일 밝혔다. 지난해 같은 기간보다 매출은 16.5%, 영업이익은 44.4% 증가했다. 영업이익률은 9.5%로 1.8%포인트 상승했다."
+      "date": "2026.11.05",
+      "link": "https://zdnet.co.kr/view/?no=20261106134711",
+      "summary": "시프트업이 ‘스텔라 블레이드’의 닌텐도 콘솔 첫 출시작을 선보이며 서비스 플랫폼을 확대했다. 시프트업은 액션 어드벤처 게임 ‘스텔라 블레이드’의 닌텐도 스위치2 버전인 ‘스텔라 블레이드 컴플리트 에디션’을 전 세계 정식 출시했다고 6일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "[1보] 에코프로머티, 3분기 영업손실 290억…전년비 15.2% 확대",
+      "title": "한미마이크로닉스, AI 워크스테이션용 고출력 PSU 출시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.04",
-      "link": "https://zdnet.co.kr/view/?no=20261105134818",
-      "summary": "에코프로머티리얼즈는 올해 3분기 연결기준 잠정 실적으로 매출 1811억원, 영업손실 290억원, 순손실 909억원을 기록했다고 5일 공시했다. 전년 동기 대비 매출은 186.8% 증가한 반면 영업손실 규모는 15.2% 확대됐다. 순이익은 적자전환했다. 전분기 대비 매출은 1.3% 늘고 영업손실 규모는 173.7% , 순손실 규모는 630.1% 커졌다."
+      "date": "2026.11.05",
+      "link": "https://zdnet.co.kr/view/?no=20261106133601",
+      "summary": "한미마이크로닉스가 6일 AI 워크스테이션용 고출력 전원공급장치 '위즈맥스 P-3000W 워크스테이션 ATX3.1'을 출시했다. 이 제품은 딥러닝, 대용량 AI 모델 학습, 3D 렌더링 등에 필요한 고성능 프로세서와 멀티 GPU 환경에 맞게 설계됐다. 전원 커넥터를 재구성하고 장시간 고부하 작업을 고려한 전력 설계와 냉각 구조를 적용했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "LG화학, 배터리 성장에도 석유화학 부진이 발목…3분기 수익성 뒷걸음",
+      "title": "코웨이, 3분기 영업익 2608억원…전년比 7.3% 증가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.04",
-      "link": "https://zdnet.co.kr/view/?no=20261105134738",
-      "summary": "LG화학이 배터리와 첨단소재 사업 성장에도 석유화학 부진으로 매출 증가와 이익 감소가 엇갈린 성적표를 받았다. LG화학은 올해 3분기 연결 기준 매출 15조 4960억원, 영업이익 5612억원을 기록했다고 5일 밝혔다. 지난해 같은 기간보다 매출은 34.0% 늘었지만 영업이익은 17.4% 줄었다. 전분기와 비교해도 매출은 9."
+      "date": "2026.11.05",
+      "link": "https://zdnet.co.kr/view/?no=20261106124434",
+      "summary": "코웨이는 연결 기준 올해 3분기 매출액 1조 4261억원, 영업이익 2608억원을 기록했다고 6일 밝혔다. 전년 동기 대비 매출은 13.7%, 영업이익은 7.3% 늘어난 수치다. 국내 사업 매출은 전년 동기 대비 2.0% 증가한 7549억원을 기록했다. 프로모션 효과로 얼음정수기, 비렉스 매트리스 및 안마의자 등 주요 품목이 안정적으로 팔렸다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "일본 헤집은 해킹 쓰나미, AI 침입 도구까지 동원",
+      "title": "韓, 전기차 양극재 시장 점유율 9.1%…中은 87.2%",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.04",
-      "link": "https://zdnet.co.kr/view/?no=20261105094646",
-      "summary": "일본 공공, 민간 분야에서 9월 말부터 한 달간 전례 없는 규모의 사이버 공격에 노출됐다. 그 결과 올해 공표된 피해가 659건으로 2024년 한 해 645건을 넘어섰다. 카셰어링 업체 타임스카(タイムズカー)에서는 약 660만 계정이 부정 접속을 당했고, 공격 쪽에서 인공지능(AI)이 쓰인 사실도 처음 확인됐다."
+      "date": "2026.11.05",
+      "link": "https://zdnet.co.kr/view/?no=20261106090447",
+      "summary": "올해 1월부터 9월까지 글로벌 전기차 시장을 조사한 결과, 중국계 법인의 점유율이 87.2%를 기록해 전년 동기 83.8%보다 3.4%p 증가했다는 분석이 나왔다. 6일 시장조사업체 SNE리서치는 이같은 시장 조사 결과를 발표했다. 한국계 법인 점유율은 9.1%, 일본계는 3.7%로 전년 동기 12.1%, 4.1%보다 감소했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
+      "title": "현미경으로 들여다본 아이폰 듀오 나노텍스처 화면…”단순 무광 화면 아냐”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.04",
-      "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
-      "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
+      "date": "2026.11.05",
+      "link": "https://www.itworld.co.kr/article/4245433/%ed%98%84%eb%af%b8%ea%b2%bd%ec%9c%bc%eb%a1%9c-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b8-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%82%98%eb%85%b8%ed%85%8d%ec%8a%a4%ec%b2%98-%ed%99%94%eb%a9%b4.html",
+      "summary": "현미경으로 관찰한 결과, 아이폰 듀오의 나노텍스처는 일반 무광 보호필름이나 전자잉크 화면보다 훨씬 작고 선명한 패턴을 갖춘 것으로 확인됐다. Credit: Foundry 지난달 출시된 아이폰 듀오는 엇갈린 평가를 받았지만, 다양한 기술적 성취와 혁신을 담고 있다. 이 가운데 하나가 내부 화면에 적용된 나노텍스처 처리다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "요금 폭탄 뒤에 숨은 LLM 접근 권한 탈취 공격",
+      "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.04",
-      "link": "https://www.itworld.co.kr/article/4244927/%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%80-%ec%a3%bc%eb%ac%b8%ed%95%9c-%ec%a0%81%eb%8f%84-%ec%97%86%eb%8a%94-ai%ec%97%90-%ed%95%98%eb%a3%a8-10%eb%a7%8c-%eb%8b%ac%eb%9f%ac%eb%a5%bc-%ec%a7%80%eb%b6%88.html",
-      "summary": "구글은 하루 10만 달러, 누적 100만 달러에 달하는 허위 요금을 낳는 LLM재킹에 맞서 자격 증명 관리 강화를 권고했다. Credit: Gecko Studio / Shutterstock 운영 환경에 대규모 언어 모델(LLM)을 배치한 기업이 알지 못하는 사이 타인의 AI 사업 비용을 대신 내고 있을 수 있다."
+      "date": "2026.11.05",
+      "link": "https://www.itworld.co.kr/article/4245426/%eb%9e%99%eb%8b%b9-600kw-%ec%8b%9c%eb%8c%80-%ec%a0%84%eb%a0%a5%ec%9d%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%9d%98-%ea%b4%80%ea%b1%b4-%ec%9d%b8%ed%94%bc%eb%8b%88%ec%96%b8-%ea%b7%b8%eb%a6%ac.html",
+      "summary": "랙당 전력이 메가와트급을 향해 가는 상황에서 전력 변환 단계를 줄이고 손실을 낮추는 것이 핵심 과제로 떠오르면서, 반도체 변압기와 반도체 차단기 같은 새로운 전력 반도체 기반 솔루션이 주목받고 있다. Credit: Foundry AI 연산 수요가 커지면서 데이터센터의 전력 확보가 인프라 확장의 가장 큰 변수로 떠오르고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "보안 리더 67%, “비즈니스 요구 따라가기 버겁다”",
+      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.04",
-      "link": "https://www.itworld.co.kr/article/4244290/%eb%b3%b4%ec%95%88-%eb%a6%ac%eb%8d%94-67-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%9a%94%ea%b5%ac-%eb%94%b0%eb%9d%bc%ea%b0%80%ea%b8%b0-%eb%b2%84%ea%b2%81%eb%8b%a4.html",
-      "summary": "AI와 아이덴티티 기반 공격이 이미 빠듯한 사이버 보안팀을 압박하는 가운데, 인력 감축까지 겹치고 있다. Credit: BalanceFormCreative / Shutterstock AI, 아이덴티티 기반 공격, 디지털 운영 확대가 이미 인력이 빠듯한 사이버 보안팀을 압박하고 있다."
+      "date": "2026.11.05",
+      "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
+      "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "데브옵스 엔지니어 노트북 침해로 시작된 바이낸스 63억 달러 유출 사고",
+      "title": "요금 폭탄 뒤에 숨은 LLM 접근 권한 탈취 공격",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.04",
-      "link": "https://www.itworld.co.kr/article/4244283/%eb%b3%b4%ec%95%88-%ec%b9%a8%ed%95%b4%eb%a5%bc-%eb%8b%b9%ed%95%9c-%eb%8d%b0%eb%b8%8c%ec%98%b5%ec%8a%a4devops%ec%9a%a9-%eb%85%b8%ed%8a%b8%eb%b6%81%ec%9d%b4-63%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b7%9c-2.html",
-      "summary": "바이낸스가 침해된 직원 노트북이 출금 처리 단계로 이어진 경로였다고 밝혔으며, FBI는 북한 해킹 조직을 배후로 지목했다. Credit: Shutterstock 대형 암호화폐 거래소인 바이낸스가 금요일 공개한 업데이트에서 사용자 자산 보호 기금(SAFU)과 회사 자금으로 모든 손실을 보전한다고 밝혔다."
+      "date": "2026.11.05",
+      "link": "https://www.itworld.co.kr/article/4244927/%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%80-%ec%a3%bc%eb%ac%b8%ed%95%9c-%ec%a0%81%eb%8f%84-%ec%97%86%eb%8a%94-ai%ec%97%90-%ed%95%98%eb%a3%a8-10%eb%a7%8c-%eb%8b%ac%eb%9f%ac%eb%a5%bc-%ec%a7%80%eb%b6%88.html",
+      "summary": "구글은 하루 10만 달러, 누적 100만 달러에 달하는 허위 요금을 낳는 LLM재킹에 맞서 자격 증명 관리 강화를 권고했다. Credit: Gecko Studio / Shutterstock 운영 환경에 대규모 언어 모델(LLM)을 배치한 기업이 알지 못하는 사이 타인의 AI 사업 비용을 대신 내고 있을 수 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법",
+      "title": "보안 리더 67%, “비즈니스 요구 따라가기 버겁다”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.04",
-      "link": "https://www.itworld.co.kr/article/4243085/%ec%95%88%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%98%a4%ed%94%88ai%eb%8a%94-%ec%9c%84%ed%97%98%ed%95%9c-ai%ec%9d%98-%ea%b0%80%eb%8f%99%ec%9d%84-%ec%a4%91%eb%8b%a8%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%a3%bc.html",
-      "summary": "캘리포니아 주지사에게 제출한 별도 의견서에서 두 업체는 프런티어 AI 감독 강화에는 뜻을 같이했지만 위험 모델을 멈추는 주체에서는 갈렸다."
+      "date": "2026.11.05",
+      "link": "https://www.itworld.co.kr/article/4244290/%eb%b3%b4%ec%95%88-%eb%a6%ac%eb%8d%94-67-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%9a%94%ea%b5%ac-%eb%94%b0%eb%9d%bc%ea%b0%80%ea%b8%b0-%eb%b2%84%ea%b2%81%eb%8b%a4.html",
+      "summary": "AI와 아이덴티티 기반 공격이 이미 빠듯한 사이버 보안팀을 압박하는 가운데, 인력 감축까지 겹치고 있다. Credit: BalanceFormCreative / Shutterstock AI, 아이덴티티 기반 공격, 디지털 운영 확대가 이미 인력이 빠듯한 사이버 보안팀을 압박하고 있다."
     }
   ]
 }
