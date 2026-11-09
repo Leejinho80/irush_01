@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-08T04:21:42.974Z",
-  "collectionDate": "2026.11.07",
-  "displayDate": "2026.11.08",
+  "updatedAt": "2026-11-09T04:35:38.798Z",
+  "collectionDate": "2026.11.08",
+  "displayDate": "2026.11.09",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "제조기업 10곳 중 3곳만 '전기화'…초기 투자비 최대 난관",
+      "title": "엔비디아 \"AI 데이터센터, 건물 전체를 하나의 컴퓨터로 관리한다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.07",
-      "link": "https://zdnet.co.kr/view/?no=20261108125758",
-      "summary": "제조기업의 화석연료 설비를 전기로 바꾸는 '전기화'가 초기 단계에 머무는 가운데 투자비와 전력비 부담을 낮출 지원책이 필요하다는 목소리가 나온다. 대한상공회의소는 제조업체 307개사를 대상으로 실시한 '기업의 전기화 현황과 정책과제 조사'에서 전기화를 추진 중이라는 응답이 31.9%로 집계됐다고 8일 밝혔다. 추진 예정인 기업은 5.2%였고, 나머지 62."
+      "date": "2026.11.08",
+      "link": "https://zdnet.co.kr/view/?no=20261109130717",
+      "summary": "엔비디아가 인공지능(AI) 데이터센터 전력 효율을 높여 동일한 전력으로 더 많은 그래픽처리장치(GPU)를 운영하고 AI 연산 처리량을 확대하는 전략을 제시했다. 서버와 네트워크뿐 아니라 데이터센터 건물 전체를 단일 컴퓨터로 관리하는 기술을 앞세워 AI 인프라 운영 효율을 극대화한다는 목표다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "AI도 가성비 시대…카페24, '토큰 비용' 관리 나선다",
+      "title": "파리협정 이행 가속화 논의할 ‘제31차 유엔기후변화협약 총회’ 개막",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.07",
-      "link": "https://zdnet.co.kr/view/?no=20261108123219",
-      "summary": "생성형 인공지능(AI) 활용 일상화로 적은 토큰으로도 고품질의 작업을 수행할 수 있는 ‘토큰 가성비’가 주요 경쟁력으로 부상하고 있다. 작업의 유형과 난이도에 따라 적합한 모델을 고르는 ‘모델 라우팅’ 기술이 핵심 요소로 떠오르면서 카페24, KT 등 국내 기업들이 관련 서비스를 연이어 공개하고 있다."
+      "date": "2026.11.08",
+      "link": "https://zdnet.co.kr/view/?no=20261109124703",
+      "summary": "지난해에 이어 파리협정 이행 가속화를 논의할 ‘제31차 유엔기후변화협약 당사국총회(UNFCCC COP31)’가 9일부터 20일까지 튀르키예 안탈리아에서 열린다. COP31에는 협약 당사국 정부 대표단을 포함해 10만여 명이 참석할 예정이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "챗GPT, 한국서 1800만명 넘게 쓴다…이용시간도 2배 급증",
+      "title": "엔비디아 \"AI 에이전트, 차세대 컴퓨팅 플랫폼으로 진화\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.07",
-      "link": "https://zdnet.co.kr/view/?no=20261108123102",
-      "summary": "오픈AI 인공지능(AI) 챗봇 '챗GPT'를 사용하는 국내 모바일 앱 이용자가 1800만명을 넘어섰다. 1년 새 이용자 수가 40% 넘게 늘어난 가운데 전체 사용시간은 두 배 이상 증가했다. 앤트로픽 '클로드'도 가파른 성장세를 보이며 국내 AI 앱 시장에서 존재감을 키우고 있다."
+      "date": "2026.11.08",
+      "link": "https://zdnet.co.kr/view/?no=20261109122336",
+      "summary": "엔비디아가 인공지능(AI) 에이전트를 차세대 컴퓨팅 플랫폼으로 육성하고 기업용 AI 시장 공략에 속도를 낸다. AI 모델을 업무에 맞게 선택하고 운영 비용을 줄이는 기술을 앞세워 기업 AI 도입 장벽을 낮추는 가운데 네이버클라우드·SK텔레콤 등 국내 기업과 협력도 확대한다는 목표다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "매디슨 황, 방한 하루 앞두고 돌연 취소...정부·기업 면담 무산",
+      "title": "[써보고서] \"다르게 생각하랬지\"…깨진 폴더블폰 저격한 잡스, AI 테마파크 가보니",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.07",
-      "link": "https://zdnet.co.kr/view/?no=20261108115633",
-      "summary": "젠슨 황 엔비디아 최고경영자(CEO) 장녀인 매디슨 황 엔비디아 옴니버스·로보틱스 제품 마케팅 수석이사가 방한을 돌연 취소했다. 국내 주요 기업 및 정부 관계자들과 예정됐던 협력 논의도 무산됐다. 엔비디아는 황 수석이사의 불참과 관계없이 '엔비디아 AI 데이 서울 2026'을 예정대로 개최한다."
+      "date": "2026.11.08",
+      "link": "https://zdnet.co.kr/view/?no=20261108073035",
+      "summary": "\"내가 '다르게 생각하라'고 했지, 전화기를 두 개로 쪼개라고 하진 않았어.\" 스티브 잡스 애플 공동창업자 이름으로 폴더블폰을 비꼬는 글을 올렸다. 화면 파손 문제를 애플 광고 문구인 '다르게 생각하라(Think Different)'에 빗댄 농담이었다. 이번에는 이건희 삼성 선대회장으로 역할을 바꿔 댓글을 달았다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "김용하 총괄 PD, ‘블루 아카이브’ 5주년 현장서 이용자와 소통",
+      "title": "[크립토하나] 비트코인, 美 물가지표 관건…국내선 두나무 기업결합 심의",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.07",
-      "link": "https://zdnet.co.kr/view/?no=20261108113011",
-      "summary": "김용하 넥슨게임즈 총괄 PD가 ‘블루 아카이브’ 글로벌 서비스 5주년을 기념하는 축제 현장에서 이용자들과 함께 게임을 즐기며 소통했다. 김 PD는 8일 경기 고양시 킨텍스 제2전시장 9홀에서 진행 중인 ‘블루 아카이브 5주년 페스티벌’을 찾았다. 이날 김 PD는 현장 게임에 직접 이용자들과 함께 참여하고 굿즈를 직접 나눠주며 팬들과 만났다."
+      "date": "2026.11.08",
+      "link": "https://zdnet.co.kr/view/?no=20261109083204",
+      "summary": "매주 월요일 오전, 이번 주 디지털자산 시장을 미리 읽어드립니다. 국내외 주요 거시경제 일정을 하나씩 짚고, 각 이벤트가 투자심리와 디지털자산 시장에 미칠 영향을 분석합니다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "현미경으로 들여다본 아이폰 듀오 나노텍스처 화면…”단순 무광 화면 아냐”",
+      "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.07",
-      "link": "https://www.itworld.co.kr/article/4245433/%ed%98%84%eb%af%b8%ea%b2%bd%ec%9c%bc%eb%a1%9c-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b8-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%82%98%eb%85%b8%ed%85%8d%ec%8a%a4%ec%b2%98-%ed%99%94%eb%a9%b4.html",
-      "summary": "현미경으로 관찰한 결과, 아이폰 듀오의 나노텍스처는 일반 무광 보호필름이나 전자잉크 화면보다 훨씬 작고 선명한 패턴을 갖춘 것으로 확인됐다. Credit: Foundry 지난달 출시된 아이폰 듀오는 엇갈린 평가를 받았지만, 다양한 기술적 성취와 혁신을 담고 있다. 이 가운데 하나가 내부 화면에 적용된 나노텍스처 처리다."
+      "date": "2026.11.08",
+      "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
+      "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
+      "title": "Meta does a U-turn on controversial new AI terms for businesses",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.07",
-      "link": "https://www.itworld.co.kr/article/4245426/%eb%9e%99%eb%8b%b9-600kw-%ec%8b%9c%eb%8c%80-%ec%a0%84%eb%a0%a5%ec%9d%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%9d%98-%ea%b4%80%ea%b1%b4-%ec%9d%b8%ed%94%bc%eb%8b%88%ec%96%b8-%ea%b7%b8%eb%a6%ac.html",
-      "summary": "랙당 전력이 메가와트급을 향해 가는 상황에서 전력 변환 단계를 줄이고 손실을 낮추는 것이 핵심 과제로 떠오르면서, 반도체 변압기와 반도체 차단기 같은 새로운 전력 반도체 기반 솔루션이 주목받고 있다. Credit: Foundry AI 연산 수요가 커지면서 데이터센터의 전력 확보가 인프라 확장의 가장 큰 변수로 떠오르고 있다."
+      "date": "2026.11.08",
+      "link": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
+      "summary": "A customer backlash has prompted Meta to pause its claims on enterprise content."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
+      "title": "현미경으로 들여다본 아이폰 듀오 나노텍스처 화면…”단순 무광 화면 아냐”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.07",
-      "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
-      "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
+      "date": "2026.11.08",
+      "link": "https://www.itworld.co.kr/article/4245433/%ed%98%84%eb%af%b8%ea%b2%bd%ec%9c%bc%eb%a1%9c-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b8-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%82%98%eb%85%b8%ed%85%8d%ec%8a%a4%ec%b2%98-%ed%99%94%eb%a9%b4.html",
+      "summary": "현미경으로 관찰한 결과, 아이폰 듀오의 나노텍스처는 일반 무광 보호필름이나 전자잉크 화면보다 훨씬 작고 선명한 패턴을 갖춘 것으로 확인됐다. Credit: Foundry 지난달 출시된 아이폰 듀오는 엇갈린 평가를 받았지만, 다양한 기술적 성취와 혁신을 담고 있다. 이 가운데 하나가 내부 화면에 적용된 나노텍스처 처리다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "요금 폭탄 뒤에 숨은 LLM 접근 권한 탈취 공격",
+      "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.07",
-      "link": "https://www.itworld.co.kr/article/4244927/%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%80-%ec%a3%bc%eb%ac%b8%ed%95%9c-%ec%a0%81%eb%8f%84-%ec%97%86%eb%8a%94-ai%ec%97%90-%ed%95%98%eb%a3%a8-10%eb%a7%8c-%eb%8b%ac%eb%9f%ac%eb%a5%bc-%ec%a7%80%eb%b6%88.html",
-      "summary": "구글은 하루 10만 달러, 누적 100만 달러에 달하는 허위 요금을 낳는 LLM재킹에 맞서 자격 증명 관리 강화를 권고했다. Credit: Gecko Studio / Shutterstock 운영 환경에 대규모 언어 모델(LLM)을 배치한 기업이 알지 못하는 사이 타인의 AI 사업 비용을 대신 내고 있을 수 있다."
+      "date": "2026.11.08",
+      "link": "https://www.itworld.co.kr/article/4245426/%eb%9e%99%eb%8b%b9-600kw-%ec%8b%9c%eb%8c%80-%ec%a0%84%eb%a0%a5%ec%9d%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%9d%98-%ea%b4%80%ea%b1%b4-%ec%9d%b8%ed%94%bc%eb%8b%88%ec%96%b8-%ea%b7%b8%eb%a6%ac.html",
+      "summary": "랙당 전력이 메가와트급을 향해 가는 상황에서 전력 변환 단계를 줄이고 손실을 낮추는 것이 핵심 과제로 떠오르면서, 반도체 변압기와 반도체 차단기 같은 새로운 전력 반도체 기반 솔루션이 주목받고 있다. Credit: Foundry AI 연산 수요가 커지면서 데이터센터의 전력 확보가 인프라 확장의 가장 큰 변수로 떠오르고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "보안 리더 67%, “비즈니스 요구 따라가기 버겁다”",
+      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.07",
-      "link": "https://www.itworld.co.kr/article/4244290/%eb%b3%b4%ec%95%88-%eb%a6%ac%eb%8d%94-67-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%9a%94%ea%b5%ac-%eb%94%b0%eb%9d%bc%ea%b0%80%ea%b8%b0-%eb%b2%84%ea%b2%81%eb%8b%a4.html",
-      "summary": "AI와 아이덴티티 기반 공격이 이미 빠듯한 사이버 보안팀을 압박하는 가운데, 인력 감축까지 겹치고 있다. Credit: BalanceFormCreative / Shutterstock AI, 아이덴티티 기반 공격, 디지털 운영 확대가 이미 인력이 빠듯한 사이버 보안팀을 압박하고 있다."
+      "date": "2026.11.08",
+      "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
+      "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
     }
   ]
 }
