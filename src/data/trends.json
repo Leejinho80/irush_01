@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T05:53:34.950Z",
-  "collectionDate": "2026.11.09",
-  "displayDate": "2026.11.10",
+  "updatedAt": "2026-11-11T04:38:56.583Z",
+  "collectionDate": "2026.11.10",
+  "displayDate": "2026.11.11",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "리얼월드, 엔비디와 손잡고 로봇 손 조작 벤치마크 '덱스벤치' 공개",
+      "title": "비트고, 앱토스 생태계 지원 확대…기관 수탁·DEX 연결 강화",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.09",
-      "link": "https://zdnet.co.kr/view/?no=20261110135514",
-      "summary": "피지컬 인공지능(AI) 기업 리얼월드가 엔비디아와 협력해 휴머노이드의 정밀 손 조작 능력을 평가하는 벤치마크 '덱스벤치(DexBench)'를 10일 공개했다. 리얼월드는 서울 코엑스에서 엔비디아가 주최한 'AI 데이 서울 2026'에서 덱스벤치의 기능과 성과를 발표했다."
+      "date": "2026.11.10",
+      "link": "https://zdnet.co.kr/view/?no=20261111133430",
+      "summary": "미국 디지털자산 인프라 기업 비트고가 레이어1 블록체인 앱토스와 협력을 강화한다. 기존 디지털자산 수탁·스테이킹 부문에 더해 특정 가상자산에 대한 서비스를 추가했다. 비트고는 10일(현지시간) 앱토스 네트워크에서 사용하는 가상자산 APT에 전략적 포지션을 확보했다고 밝혔다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "길이 67m 비행선, 풍력 발전기로 변신…첫 도심 인근 시험 마쳐",
+      "title": "[르포] GPU부터 보안·산업용 무선망까지…新 기술 뽐낸 시스코, 'AI 올라운더' 입증",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.09",
-      "link": "https://zdnet.co.kr/view/?no=20261110135059",
-      "summary": "중국의 한 에너지 기술 기업이 도시 인근에 친환경 전력을 공급할 수 있는 공중 풍력 발전 시스템을 시험 가동해 주목받고 있다. 과학매체 인터레스팅엔지니어링은 중국 린이윈촨 에너지 테크놀로지가 지난 6일 후난성 웨양에서 공중 풍력 발전 시스템 'S4000'을 시험 가동했다고 최근 보도했다."
+      "date": "2026.11.10",
+      "link": "https://zdnet.co.kr/view/?no=20261111131053",
+      "summary": "[멜버른(호주)=장유미 기자] \"기업들이 인공지능(AI) 인프라에 막대한 투자를 하고 있지만 실제 서비스를 가동하기까지 상당한 시간이 걸립니다. 이제는 서버와 네트워크를 연결하고 문제를 해결하는 데 시간을 낭비할 수 없습니다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "에이버튼, ‘건즈앤드래곤즈’ 3차 글로벌 테스트…‘저주받은 숲’ 공개",
+      "title": "벤츠, 7인승 디젤 MPV 'V-클래스' 국내 첫 출시…1억2400만원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.09",
-      "link": "https://zdnet.co.kr/view/?no=20261110144557",
-      "summary": "에이버튼이 협동 로그라이트 FPS ‘건즈앤드래곤즈’의 세 번째 글로벌 테스트에서 신규 지역 ‘저주받은 숲’과 개편한 성장 시스템을 선보인다. 에이버튼은 스팀과 에픽게임즈 스토어에서 ‘건즈앤드래곤즈’ 3차 글로벌 플레이테스트를 시작하고 신규 플레이 영상을 공개했다고 10일 밝혔다."
+      "date": "2026.11.10",
+      "link": "https://zdnet.co.kr/view/?no=20261111124758",
+      "summary": "메르세데스-벤츠가 7인승 프리미엄 다목적차량(MPV) 'V-클래스'를 국내 시장에 처음 선보인다. 가족·레저용 차량부터 비즈니스·VIP 의전 수요까지 겨냥한 모델이다. 메르세데스-벤츠 코리아는 '더 뉴 메르세데스-벤츠 V-클래스'를 국내에 공식 출시한다고 11일 밝혔다. 국내 판매 모델은 'V 300 d 4MATIC EXCLUSIVE' 단일 트림이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "안 쓰는 갤럭시 팔면 5만원 더 준다...30일까지 신청",
+      "title": "\"AI 가능성, 생산성으로 입증해야\"...IITP, 내년 AI·ICT 10대 이슈 선정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.09",
-      "link": "https://zdnet.co.kr/view/?no=20261110144547",
-      "summary": "LG유플러스 자회사 미디어로그가 운영하는 중고폰 판매 플랫폼 셀로(sello)가 블랙프라이데이를 맞아 갤럭시 중고폰 판매 고객에게 현금 5만원을 추가 지급한다. 미디어로그는 30일까지 갤럭시 주요 모델을 대상으로 '셀로 에브리원 보상' 이벤트를 진행한다고 밝혔다."
+      "date": "2026.11.10",
+      "link": "https://zdnet.co.kr/view/?no=20261111120847",
+      "summary": "2027년 AI 경쟁의 핵심으로 업무 완수 능력과 운영 효율이 떠오를 전망이다. 여러 AI 에이전트가 협업해 복잡한 임무를 처리하고, 반도체와 데이터센터는 작업에 드는 비용과 전력을 줄이는 방향으로 진화한다. AI 활용 범위가 산업 현장과 통신망으로 넓어지면서 권한 검증과 안전 통제, 인프라 운영 주권도 중요해질 것으로 예상됐다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "IPX, NBA와 글로벌 파트너십…'브라운' 입은 레이커스·셀틱스 굿즈 출시",
+      "title": "삼성전자, 동반성장지수 15년 연속 '최우수' 국내 유일",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.09",
-      "link": "https://zdnet.co.kr/view/?no=20261110144323",
-      "summary": "디지털 지식재산권(IP) 엔터테인먼트 기업 IPX가 미국프로농구(NBA)와 글로벌 파트너십을 체결하고 캐릭터 '브라운(BROWN)'을 활용한 협업 상품을 선보인다. 시카고 불스와 LA 레이커스, 보스턴 셀틱스 등 NBA 주요 구단의 상징을 캐릭터 디자인에 접목해 스포츠 팬과 캐릭터 팬을 동시에 공략한다."
+      "date": "2026.11.10",
+      "link": "https://zdnet.co.kr/view/?no=20261111105105",
+      "summary": "삼성전자는 동반성장위원회가 발표한 '2026년도 동반성장지수 평가'에서 최우수 등급을 받았다고 11일 밝혔다. 2011년 제도 도입 이래 15년 연속 최우수 등급을 획득한 기업은 삼성전자가 유일하다. 삼성전자는 1·2·3차 협력회사는 물론 거래 관계가 없는 중소기업까지 지원 범위를 넓히며 상생 모델을 구축하고 있다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.09",
+      "date": "2026.11.10",
       "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
       "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
     },
@@ -74,7 +74,7 @@
       "title": "Meta does a U-turn on controversial new AI terms for businesses",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.09",
+      "date": "2026.11.10",
       "link": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
       "summary": "A customer backlash has prompted Meta to pause its claims on enterprise content."
     },
@@ -84,7 +84,7 @@
       "title": "현미경으로 들여다본 아이폰 듀오 나노텍스처 화면…”단순 무광 화면 아냐”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.09",
+      "date": "2026.11.10",
       "link": "https://www.itworld.co.kr/article/4245433/%ed%98%84%eb%af%b8%ea%b2%bd%ec%9c%bc%eb%a1%9c-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b8-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%82%98%eb%85%b8%ed%85%8d%ec%8a%a4%ec%b2%98-%ed%99%94%eb%a9%b4.html",
       "summary": "현미경으로 관찰한 결과, 아이폰 듀오의 나노텍스처는 일반 무광 보호필름이나 전자잉크 화면보다 훨씬 작고 선명한 패턴을 갖춘 것으로 확인됐다. Credit: Foundry 지난달 출시된 아이폰 듀오는 엇갈린 평가를 받았지만, 다양한 기술적 성취와 혁신을 담고 있다. 이 가운데 하나가 내부 화면에 적용된 나노텍스처 처리다."
     },
@@ -94,7 +94,7 @@
       "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.09",
+      "date": "2026.11.10",
       "link": "https://www.itworld.co.kr/article/4245426/%eb%9e%99%eb%8b%b9-600kw-%ec%8b%9c%eb%8c%80-%ec%a0%84%eb%a0%a5%ec%9d%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%9d%98-%ea%b4%80%ea%b1%b4-%ec%9d%b8%ed%94%bc%eb%8b%88%ec%96%b8-%ea%b7%b8%eb%a6%ac.html",
       "summary": "랙당 전력이 메가와트급을 향해 가는 상황에서 전력 변환 단계를 줄이고 손실을 낮추는 것이 핵심 과제로 떠오르면서, 반도체 변압기와 반도체 차단기 같은 새로운 전력 반도체 기반 솔루션이 주목받고 있다. Credit: Foundry AI 연산 수요가 커지면서 데이터센터의 전력 확보가 인프라 확장의 가장 큰 변수로 떠오르고 있다."
     },
@@ -104,7 +104,7 @@
       "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.09",
+      "date": "2026.11.10",
       "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
       "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
     }
