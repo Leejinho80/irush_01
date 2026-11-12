@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-11T04:38:56.583Z",
-  "collectionDate": "2026.11.10",
-  "displayDate": "2026.11.11",
+  "updatedAt": "2026-11-12T05:42:07.798Z",
+  "collectionDate": "2026.11.11",
+  "displayDate": "2026.11.12",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "비트고, 앱토스 생태계 지원 확대…기관 수탁·DEX 연결 강화",
+      "title": "[AI 리더스] 오픈 모델 강자도 놀랐다…\"韓 개발자 세계 5위권\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.10",
-      "link": "https://zdnet.co.kr/view/?no=20261111133430",
-      "summary": "미국 디지털자산 인프라 기업 비트고가 레이어1 블록체인 앱토스와 협력을 강화한다. 기존 디지털자산 수탁·스테이킹 부문에 더해 특정 가상자산에 대한 서비스를 추가했다. 비트고는 10일(현지시간) 앱토스 네트워크에서 사용하는 가상자산 APT에 전략적 포지션을 확보했다고 밝혔다."
+      "date": "2026.11.11",
+      "link": "https://zdnet.co.kr/view/?no=20261112142830",
+      "summary": "한국 개발자들의 글로벌 오픈 모델 플랫폼 이용이 빠르게 늘고 있다. 올해 초 대비 국내 올라마(Ollama) 클라우드 사용량은 100배 이상 증가했고 유료 개발자 규모도 세계 5위권에 진입했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "[르포] GPU부터 보안·산업용 무선망까지…新 기술 뽐낸 시스코, 'AI 올라운더' 입증",
+      "title": "웹젠 'R2 ORIGIN', 모바일 원격 플레이 서비스 '웹젠 링크' 도입",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.10",
-      "link": "https://zdnet.co.kr/view/?no=20261111131053",
-      "summary": "[멜버른(호주)=장유미 기자] \"기업들이 인공지능(AI) 인프라에 막대한 투자를 하고 있지만 실제 서비스를 가동하기까지 상당한 시간이 걸립니다. 이제는 서버와 네트워크를 연결하고 문제를 해결하는 데 시간을 낭비할 수 없습니다."
+      "date": "2026.11.11",
+      "link": "https://zdnet.co.kr/view/?no=20261112141610",
+      "summary": "웹젠이 MMORPG 'R2 ORIGIN'에 모바일 스트리밍 서비스 '웹젠 링크'를 도입해 원격 플레이 기능을 강화한다. 웹젠(대표 김태영)은 R2 ORIGIN에 모바일 스트리밍 서비스 웹젠 링크를 도입한다고 12일 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "벤츠, 7인승 디젤 MPV 'V-클래스' 국내 첫 출시…1억2400만원",
+      "title": "[AI 리더스] 로민 CTO \"확신 없는 답엔 낮은 점수…문서 AI 신뢰 높인다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.10",
-      "link": "https://zdnet.co.kr/view/?no=20261111124758",
-      "summary": "메르세데스-벤츠가 7인승 프리미엄 다목적차량(MPV) 'V-클래스'를 국내 시장에 처음 선보인다. 가족·레저용 차량부터 비즈니스·VIP 의전 수요까지 겨냥한 모델이다. 메르세데스-벤츠 코리아는 '더 뉴 메르세데스-벤츠 V-클래스'를 국내에 공식 출시한다고 11일 밝혔다. 국내 판매 모델은 'V 300 d 4MATIC EXCLUSIVE' 단일 트림이다."
+      "date": "2026.11.11",
+      "link": "https://zdnet.co.kr/view/?no=20261112142029",
+      "summary": "\"인공지능(AI)이 문서를 읽어줘도 직원이 처음부터 끝까지 다시 확인해야 한다면 일을 크게 줄일 수 없습니다. 우리는 AI가 읽은 내용이 얼마나 확실한지 점수로 알려주는 기술을 개발했습니다. 직원은 점수가 낮은 내용만 확인하면 돼 업무 시간을 줄일 수 있습니다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "\"AI 가능성, 생산성으로 입증해야\"...IITP, 내년 AI·ICT 10대 이슈 선정",
+      "title": "엔씨 'TL', 글로벌 직접 서비스 전환…PC·콘솔 환경 통합",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.10",
-      "link": "https://zdnet.co.kr/view/?no=20261111120847",
-      "summary": "2027년 AI 경쟁의 핵심으로 업무 완수 능력과 운영 효율이 떠오를 전망이다. 여러 AI 에이전트가 협업해 복잡한 임무를 처리하고, 반도체와 데이터센터는 작업에 드는 비용과 전력을 줄이는 방향으로 진화한다. AI 활용 범위가 산업 현장과 통신망으로 넓어지면서 권한 검증과 안전 통제, 인프라 운영 주권도 중요해질 것으로 예상됐다."
+      "date": "2026.11.11",
+      "link": "https://zdnet.co.kr/view/?no=20261112141409",
+      "summary": "엔씨가 MMORPG '쓰론 앤 리버티(TL)'의 글로벌 서비스를 통합하고 직접 운영 체제로 전환했다. 엔씨(공동대표 김택진, 박병무)는 아마존 게임 스튜디오가 담당하던 TL 글로벌 서비스의 이관 작업을 완료했다고 12일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "삼성전자, 동반성장지수 15년 연속 '최우수' 국내 유일",
+      "title": "솔루스첨단소재, 3분기 영업손실 301억…전년비 15.9% 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.10",
-      "link": "https://zdnet.co.kr/view/?no=20261111105105",
-      "summary": "삼성전자는 동반성장위원회가 발표한 '2026년도 동반성장지수 평가'에서 최우수 등급을 받았다고 11일 밝혔다. 2011년 제도 도입 이래 15년 연속 최우수 등급을 획득한 기업은 삼성전자가 유일하다. 삼성전자는 1·2·3차 협력회사는 물론 거래 관계가 없는 중소기업까지 지원 범위를 넓히며 상생 모델을 구축하고 있다."
+      "date": "2026.11.11",
+      "link": "https://zdnet.co.kr/view/?no=20261112140443",
+      "summary": "솔루스첨단소재가 전지박과 OLED 사업의 동반 성장에 힘입어 3분기 매출 성장세를 이어갔다. 솔루스첨단소재는 올해 3분기 연결기준 잠정 매출 1255억원, 영업손실 301억원을 기록했다고 밝혔다. 매출은 전년 동기 685억 원 대비 83.1% 증가했다. 영업손실은 15.9% 확대됐다. 전분기 대비 매출은 23.2% 증가했다. 영업손실 규모는 38."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.10",
+      "date": "2026.11.11",
       "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
       "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
     },
@@ -74,7 +74,7 @@
       "title": "Meta does a U-turn on controversial new AI terms for businesses",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.10",
+      "date": "2026.11.11",
       "link": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
       "summary": "A customer backlash has prompted Meta to pause its claims on enterprise content."
     },
@@ -84,7 +84,7 @@
       "title": "현미경으로 들여다본 아이폰 듀오 나노텍스처 화면…”단순 무광 화면 아냐”",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.10",
+      "date": "2026.11.11",
       "link": "https://www.itworld.co.kr/article/4245433/%ed%98%84%eb%af%b8%ea%b2%bd%ec%9c%bc%eb%a1%9c-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b8-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%82%98%eb%85%b8%ed%85%8d%ec%8a%a4%ec%b2%98-%ed%99%94%eb%a9%b4.html",
       "summary": "현미경으로 관찰한 결과, 아이폰 듀오의 나노텍스처는 일반 무광 보호필름이나 전자잉크 화면보다 훨씬 작고 선명한 패턴을 갖춘 것으로 확인됐다. Credit: Foundry 지난달 출시된 아이폰 듀오는 엇갈린 평가를 받았지만, 다양한 기술적 성취와 혁신을 담고 있다. 이 가운데 하나가 내부 화면에 적용된 나노텍스처 처리다."
     },
@@ -94,7 +94,7 @@
       "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.10",
+      "date": "2026.11.11",
       "link": "https://www.itworld.co.kr/article/4245426/%eb%9e%99%eb%8b%b9-600kw-%ec%8b%9c%eb%8c%80-%ec%a0%84%eb%a0%a5%ec%9d%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%9d%98-%ea%b4%80%ea%b1%b4-%ec%9d%b8%ed%94%bc%eb%8b%88%ec%96%b8-%ea%b7%b8%eb%a6%ac.html",
       "summary": "랙당 전력이 메가와트급을 향해 가는 상황에서 전력 변환 단계를 줄이고 손실을 낮추는 것이 핵심 과제로 떠오르면서, 반도체 변압기와 반도체 차단기 같은 새로운 전력 반도체 기반 솔루션이 주목받고 있다. Credit: Foundry AI 연산 수요가 커지면서 데이터센터의 전력 확보가 인프라 확장의 가장 큰 변수로 떠오르고 있다."
     },
@@ -104,7 +104,7 @@
       "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.10",
+      "date": "2026.11.11",
       "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
       "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
     }
