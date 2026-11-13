@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T05:42:07.798Z",
-  "collectionDate": "2026.11.11",
-  "displayDate": "2026.11.12",
+  "updatedAt": "2026-11-13T04:59:04.761Z",
+  "collectionDate": "2026.11.12",
+  "displayDate": "2026.11.13",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "[AI 리더스] 오픈 모델 강자도 놀랐다…\"韓 개발자 세계 5위권\"",
+      "title": "\"보고 싶은 콘텐츠 어딨지?\"...OTT간 통합 검색·추천 필요성↑",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.11",
-      "link": "https://zdnet.co.kr/view/?no=20261112142830",
-      "summary": "한국 개발자들의 글로벌 오픈 모델 플랫폼 이용이 빠르게 늘고 있다. 올해 초 대비 국내 올라마(Ollama) 클라우드 사용량은 100배 이상 증가했고 유료 개발자 규모도 세계 5위권에 진입했다."
+      "date": "2026.11.12",
+      "link": "https://zdnet.co.kr/view/?no=20261113093555",
+      "summary": "온라인동영상서비스(OTT) 여러 개를 동시에 구독하는 경향은 늘어났지만, 정작 이용자는 자신이 원하는 콘텐츠를 찾지 못해 탐색 피로도를 크게 느끼는 나타났다. 이는 구독 취소에까지 영향을 미치는 모습이다. 최근 닐슨이 6개국 OTT 이용자를 대상으로 진행한 조사 결과, 단일 OTT만 구독하는 비중은 지난해 약 24%에서 올해 약 20%로 감소했다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "웹젠 'R2 ORIGIN', 모바일 원격 플레이 서비스 '웹젠 링크' 도입",
+      "title": "방미통위, 현대홈쇼핑 법인분할 조건부 승인…재무건전성·협력사 보호 주문",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.11",
-      "link": "https://zdnet.co.kr/view/?no=20261112141610",
-      "summary": "웹젠이 MMORPG 'R2 ORIGIN'에 모바일 스트리밍 서비스 '웹젠 링크'를 도입해 원격 플레이 기능을 강화한다. 웹젠(대표 김태영)은 R2 ORIGIN에 모바일 스트리밍 서비스 웹젠 링크를 도입한다고 12일 밝혔다."
+      "date": "2026.11.12",
+      "link": "https://zdnet.co.kr/view/?no=20261113132414",
+      "summary": "방송미디어통신위원회가 현대홈쇼핑 법인분할을 조건부 승인했다. 현대백화점그룹이 추진 중인 지주회사 중심의 지배구조 개편에 속도가 붙을 전망이다. 다만 법인분할 이후 홈쇼핑 사업의 재무건전성이 악화할 수 있다는 우려에 따라 경영 투명성과 자금 운용, 협력사 보호 등을 위한 조건을 부과했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "[AI 리더스] 로민 CTO \"확신 없는 답엔 낮은 점수…문서 AI 신뢰 높인다\"",
+      "title": "젠슨 황 퇴진…AI 붐에는 어떤 후폭풍?",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.11",
-      "link": "https://zdnet.co.kr/view/?no=20261112142029",
-      "summary": "\"인공지능(AI)이 문서를 읽어줘도 직원이 처음부터 끝까지 다시 확인해야 한다면 일을 크게 줄일 수 없습니다. 우리는 AI가 읽은 내용이 얼마나 확실한지 점수로 알려주는 기술을 개발했습니다. 직원은 점수가 낮은 내용만 확인하면 돼 업무 시간을 줄일 수 있습니다."
+      "date": "2026.11.12",
+      "link": "https://zdnet.co.kr/view/?no=20261113133935",
+      "summary": "젠슨 황 엔비디아 최고경영자(CEO)가 결국 사임하면서 뜨겁게 달아오르던 인공지능(AI) 붐에 어떤 후폭풍을 몰고 올 지 관심이 쏠린다. 월스트리트저널을 비롯한 외신들에 따르면 엔비디아 이사회는 12일(현지시간) 젠슨 황이 회장 겸 경영자(CEO) 자리에서 사임한다고 발표했다. 이사회 이사 직에서도 물러난다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "엔씨 'TL', 글로벌 직접 서비스 전환…PC·콘솔 환경 통합",
+      "title": "한컴위드, 3분기 영업익 94억원…한컴 연결 편입 효과",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.11",
-      "link": "https://zdnet.co.kr/view/?no=20261112141409",
-      "summary": "엔씨가 MMORPG '쓰론 앤 리버티(TL)'의 글로벌 서비스를 통합하고 직접 운영 체제로 전환했다. 엔씨(공동대표 김택진, 박병무)는 아마존 게임 스튜디오가 담당하던 TL 글로벌 서비스의 이관 작업을 완료했다고 12일 밝혔다."
+      "date": "2026.11.12",
+      "link": "https://zdnet.co.kr/view/?no=20261113132449",
+      "summary": "한컴위드가 한컴을 연결 종속회사로 편입하면서 올해 3분기 영업이익이 전년 동기 대비 약 6배로 늘었다. 한컴위드는 3분기 연결 기준 매출 1288억원, 영업이익 94억원을 기록했다고 13일 밝혔다. 전년 동기 대비 매출은 14.4% 감소했지만 영업이익은 약 487.5% 증가했다. 영업이익은 지난해 같은 기간 16억원에서 증가했으며 영업이익률은 7."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "솔루스첨단소재, 3분기 영업손실 301억…전년비 15.9% 확대",
+      "title": "배민, 외식업주용 AI 도구 27종 공개…메뉴 개발·손익 관리 지원",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.11",
-      "link": "https://zdnet.co.kr/view/?no=20261112140443",
-      "summary": "솔루스첨단소재가 전지박과 OLED 사업의 동반 성장에 힘입어 3분기 매출 성장세를 이어갔다. 솔루스첨단소재는 올해 3분기 연결기준 잠정 매출 1255억원, 영업손실 301억원을 기록했다고 밝혔다. 매출은 전년 동기 685억 원 대비 83.1% 증가했다. 영업손실은 15.9% 확대됐다. 전분기 대비 매출은 23.2% 증가했다. 영업손실 규모는 38."
+      "date": "2026.11.12",
+      "link": "https://zdnet.co.kr/view/?no=20261113105904",
+      "summary": "배달의민족이 외식업주가 매장 운영에 활용할 수 있는 인공지능(AI) 도구 27종을 공개했다. 배민 운영사 우아한형제들은 배민아카데미 누리집에 ‘배민 외식업 AI플레이북’을 공개했다고 13일 밝혔다. AI플레이북은 가게 마케팅과 SNS 운영, 메뉴 개발, 손익 관리, 인력 관리, 배민 서비스 등 6개 영역으로 구성됐다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
+      "title": "고객 봇에 문을 닫는 기업의 확산, 유나이티드항공까지 가세",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.11",
-      "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
-      "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
+      "date": "2026.11.12",
+      "link": "https://www.itworld.co.kr/article/4248233/%ea%b3%a0%ea%b0%9d-%eb%b4%87%ec%97%90-%eb%ac%b8%ec%9d%84-%eb%8b%ab%eb%8a%94-%ea%b8%b0%ec%97%85%ec%9d%98-%ed%99%95%ec%82%b0-%ec%9c%a0%eb%82%98%ec%9d%b4%ed%8b%b0%eb%93%9c%ed%95%ad%ea%b3%b5%ea%b9%8c.html",
+      "summary": "유나이티드항공이 월마트, 타깃, 아마존에 이어 승인받지 않은 개인 AI 에이전트의 접근을 제한하고 나섰다. Credit: Maderla / Shutterstock 세계 2위 항공사인 유나이티드항공은 수요일 고객 봇을 차단한 최신 기업이 됐다. 앞서 월마트, 타깃(Target), 아마존도 비슷한 조치를 취했다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "Meta does a U-turn on controversial new AI terms for businesses",
+      "title": "정상 업무 메일까지 막은 마이크로소프트의 이메일 인증 오류",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.11",
-      "link": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
-      "summary": "A customer backlash has prompted Meta to pause its claims on enterprise content."
+      "date": "2026.11.12",
+      "link": "https://www.itworld.co.kr/article/4248207/%ec%a0%95%ec%83%81-%ec%97%85%eb%ac%b4-%eb%a9%94%ec%9d%bc%ea%b9%8c%ec%a7%80-%eb%a7%89%ec%9d%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc.html",
+      "summary": "마이크로소프트가 사전 안내 없이 소규모 발신자의 메일을 반송하면서 오류 메시지가 엉뚱한 원인을 가리켜 혼란이 커졌다. Credit: Markus Mainka / Shutterstock 사용자를 악성 메시지로부터 보호하려는 마이크로소프트의 이메일 필터가 오히려 정상 메시지까지 거부하고 있는 것으로 보인다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "현미경으로 들여다본 아이폰 듀오 나노텍스처 화면…”단순 무광 화면 아냐”",
+      "title": "에이전틱 AI 시대에 인텔이 내세운 개방형 이기종 컴퓨팅 전략…인텔 AI 서밋",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.11",
-      "link": "https://www.itworld.co.kr/article/4245433/%ed%98%84%eb%af%b8%ea%b2%bd%ec%9c%bc%eb%a1%9c-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b8-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%93%80%ec%98%a4-%eb%82%98%eb%85%b8%ed%85%8d%ec%8a%a4%ec%b2%98-%ed%99%94%eb%a9%b4.html",
-      "summary": "현미경으로 관찰한 결과, 아이폰 듀오의 나노텍스처는 일반 무광 보호필름이나 전자잉크 화면보다 훨씬 작고 선명한 패턴을 갖춘 것으로 확인됐다. Credit: Foundry 지난달 출시된 아이폰 듀오는 엇갈린 평가를 받았지만, 다양한 기술적 성취와 혁신을 담고 있다. 이 가운데 하나가 내부 화면에 적용된 나노텍스처 처리다."
+      "date": "2026.11.12",
+      "link": "https://www.itworld.co.kr/article/4247657/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%9d%b8%ed%85%94%ec%9d%b4-%eb%82%b4%ec%84%b8%ec%9a%b4-%ea%b0%9c%eb%b0%a9%ed%98%95-%ec%9d%b4%ea%b8%b0%ec%a2%85-%ec%bb%b4%ed%93%a8.html",
+      "summary": "Credit: Intel AI 활용이 모델 학습 중심에서 추론과 에이전트 실행 중심으로 옮겨가면서, 기업의 AI 인프라 고민도 단일 칩 성능 경쟁에서 시스템 전체의 설계와 운영 효율로 확장되고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
+      "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.11",
-      "link": "https://www.itworld.co.kr/article/4245426/%eb%9e%99%eb%8b%b9-600kw-%ec%8b%9c%eb%8c%80-%ec%a0%84%eb%a0%a5%ec%9d%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%ec%9d%98-%ea%b4%80%ea%b1%b4-%ec%9d%b8%ed%94%bc%eb%8b%88%ec%96%b8-%ea%b7%b8%eb%a6%ac.html",
-      "summary": "랙당 전력이 메가와트급을 향해 가는 상황에서 전력 변환 단계를 줄이고 손실을 낮추는 것이 핵심 과제로 떠오르면서, 반도체 변압기와 반도체 차단기 같은 새로운 전력 반도체 기반 솔루션이 주목받고 있다. Credit: Foundry AI 연산 수요가 커지면서 데이터센터의 전력 확보가 인프라 확장의 가장 큰 변수로 떠오르고 있다."
+      "date": "2026.11.12",
+      "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
+      "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
+      "title": "Meta does a U-turn on controversial new AI terms for businesses",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.11",
-      "link": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
-      "summary": "AI 집중 사용자는 집중 세션이 22% 짧고 앱 전환이 15% 잦은 것으로 확인돼, AI 생산성 측정의 어려움이 드러났다."
+      "date": "2026.11.12",
+      "link": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
+      "summary": "A customer backlash has prompted Meta to pause its claims on enterprise content."
     }
   ]
 }
