@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T04:59:04.761Z",
-  "collectionDate": "2026.11.12",
-  "displayDate": "2026.11.13",
+  "updatedAt": "2026-11-14T04:52:31.603Z",
+  "collectionDate": "2026.11.13",
+  "displayDate": "2026.11.14",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "\"보고 싶은 콘텐츠 어딨지?\"...OTT간 통합 검색·추천 필요성↑",
+      "title": "뉴로메카, 3분기 영업손실 70억원…적자 폭 2.2배↑",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.12",
-      "link": "https://zdnet.co.kr/view/?no=20261113093555",
-      "summary": "온라인동영상서비스(OTT) 여러 개를 동시에 구독하는 경향은 늘어났지만, 정작 이용자는 자신이 원하는 콘텐츠를 찾지 못해 탐색 피로도를 크게 느끼는 나타났다. 이는 구독 취소에까지 영향을 미치는 모습이다. 최근 닐슨이 6개국 OTT 이용자를 대상으로 진행한 조사 결과, 단일 OTT만 구독하는 비중은 지난해 약 24%에서 올해 약 20%로 감소했다."
+      "date": "2026.11.13",
+      "link": "https://zdnet.co.kr/view/?no=20261113232530",
+      "summary": "로봇 기업 뉴로메카의 3분기 적자 폭이 커졌다. 매출은 줄고 비용은 늘었다. 대규모 유상증자로 재무구조는 좋아졌다. 14일 올해 3분기 분기보고서에 따르면 뉴로메카의 3분기 연결 기준 매출은 28억원이다. 지난해 같은 기간 45억원보다 37.8% 줄었다. 영업손실은 70억원으로 전년 동기 32억원의 약 2.2배다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "방미통위, 현대홈쇼핑 법인분할 조건부 승인…재무건전성·협력사 보호 주문",
+      "title": "\"말 안 들으면 잡아간다\" 민속촌 귀신 참교육 막 내린다",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.12",
-      "link": "https://zdnet.co.kr/view/?no=20261113132414",
-      "summary": "방송미디어통신위원회가 현대홈쇼핑 법인분할을 조건부 승인했다. 현대백화점그룹이 추진 중인 지주회사 중심의 지배구조 개편에 속도가 붙을 전망이다. 다만 법인분할 이후 홈쇼핑 사업의 재무건전성이 악화할 수 있다는 우려에 따라 경영 투명성과 자금 운용, 협력사 보호 등을 위한 조건을 부과했다."
+      "date": "2026.11.13",
+      "link": "https://zdnet.co.kr/view/?no=20261114101455",
+      "summary": "“우리 아이가 밥을 너무 안 먹어요” 부모의 고민을 들은 귀신이 아이에게 다가가 무서운 표정으로 한마디를 건넨다. “밥 안 먹으면 잡아간다” 평소 부모의 잔소리에는 꿈쩍하지 않던 아이도 귀신의 호통 앞에서는 금세 얌전해진다. 경기 용인 한국민속촌에서 펼쳐진 이색 체험 프로그램 ‘귀신 참교육’의 한 장면이다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "젠슨 황 퇴진…AI 붐에는 어떤 후폭풍?",
+      "title": "허준·심양홍 \"SWC 월드 파이널, 10년 비결은 누구나 즐기는 재미\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.12",
-      "link": "https://zdnet.co.kr/view/?no=20261113133935",
-      "summary": "젠슨 황 엔비디아 최고경영자(CEO)가 결국 사임하면서 뜨겁게 달아오르던 인공지능(AI) 붐에 어떤 후폭풍을 몰고 올 지 관심이 쏠린다. 월스트리트저널을 비롯한 외신들에 따르면 엔비디아 이사회는 12일(현지시간) 젠슨 황이 회장 겸 경영자(CEO) 자리에서 사임한다고 발표했다. 이사회 이사 직에서도 물러난다."
+      "date": "2026.11.13",
+      "link": "https://zdnet.co.kr/view/?no=20261114133000",
+      "summary": "컴투스의 글로벌 이스포츠 대회 '서머너즈 워 월드 아레나 챔피언십(SWC)'이 올해로 10회차를 맞은 가운데, 오랜 기간 대회 중계를 맡아온 허준 캐스터와 심양홍 해설위원이 장기 흥행의 비결로 누구나 쉽게 즐길 수 있는 게임성과 전략 깊이를 꼽았다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "한컴위드, 3분기 영업익 94억원…한컴 연결 편입 효과",
+      "title": "엑셈, 3분기 누적 연결매출 348억...작년비 17% 증가",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.12",
-      "link": "https://zdnet.co.kr/view/?no=20261113132449",
-      "summary": "한컴위드가 한컴을 연결 종속회사로 편입하면서 올해 3분기 영업이익이 전년 동기 대비 약 6배로 늘었다. 한컴위드는 3분기 연결 기준 매출 1288억원, 영업이익 94억원을 기록했다고 13일 밝혔다. 전년 동기 대비 매출은 14.4% 감소했지만 영업이익은 약 487.5% 증가했다. 영업이익은 지난해 같은 기간 16억원에서 증가했으며 영업이익률은 7."
+      "date": "2026.11.13",
+      "link": "https://zdnet.co.kr/view/?no=20261114120332",
+      "summary": "AI 및 IT 인프라 성능 관리 솔루션 전문 기업 엑셈(대표 조종암, 고평석)이 2026년 3분기 실적을 13일 공시했다. 엑셈은 3분기 누적 연결 기준 매출액 348억 7백만 원, 영업손실 2억 48백만 원, 당기순이익 112억 67백만 원을 기록했다. 엑셈에 따르면, 3분기 누적 매출액은 연결과 별도 모두 역대 최대치를 경신한 것이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "배민, 외식업주용 AI 도구 27종 공개…메뉴 개발·손익 관리 지원",
+      "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.12",
-      "link": "https://zdnet.co.kr/view/?no=20261113105904",
-      "summary": "배달의민족이 외식업주가 매장 운영에 활용할 수 있는 인공지능(AI) 도구 27종을 공개했다. 배민 운영사 우아한형제들은 배민아카데미 누리집에 ‘배민 외식업 AI플레이북’을 공개했다고 13일 밝혔다. AI플레이북은 가게 마케팅과 SNS 운영, 메뉴 개발, 손익 관리, 인력 관리, 배민 서비스 등 6개 영역으로 구성됐다."
+      "date": "2026.11.13",
+      "link": "https://zdnet.co.kr/view/?no=20261113165818",
+      "summary": "배달의민족(배민)이 입점업주 부담을 줄이기 위해 할인 금액에 대한 수수료 공제 범위를 확대하면서 경쟁사인 쿠팡이츠의 대응에 관심이 쏠리고 있다. 공정거래위원회의 불공정약관 시정명령과 소상공인 단체들의 개선 요구가 맞물리면서 배달앱 시장 전반의 수수료 산정 방식에 변화가 나타날지 주목된다."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "고객 봇에 문을 닫는 기업의 확산, 유나이티드항공까지 가세",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.12",
+      "date": "2026.11.13",
       "link": "https://www.itworld.co.kr/article/4248233/%ea%b3%a0%ea%b0%9d-%eb%b4%87%ec%97%90-%eb%ac%b8%ec%9d%84-%eb%8b%ab%eb%8a%94-%ea%b8%b0%ec%97%85%ec%9d%98-%ed%99%95%ec%82%b0-%ec%9c%a0%eb%82%98%ec%9d%b4%ed%8b%b0%eb%93%9c%ed%95%ad%ea%b3%b5%ea%b9%8c.html",
       "summary": "유나이티드항공이 월마트, 타깃, 아마존에 이어 승인받지 않은 개인 AI 에이전트의 접근을 제한하고 나섰다. Credit: Maderla / Shutterstock 세계 2위 항공사인 유나이티드항공은 수요일 고객 봇을 차단한 최신 기업이 됐다. 앞서 월마트, 타깃(Target), 아마존도 비슷한 조치를 취했다."
     },
@@ -74,7 +74,7 @@
       "title": "정상 업무 메일까지 막은 마이크로소프트의 이메일 인증 오류",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.12",
+      "date": "2026.11.13",
       "link": "https://www.itworld.co.kr/article/4248207/%ec%a0%95%ec%83%81-%ec%97%85%eb%ac%b4-%eb%a9%94%ec%9d%bc%ea%b9%8c%ec%a7%80-%eb%a7%89%ec%9d%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc.html",
       "summary": "마이크로소프트가 사전 안내 없이 소규모 발신자의 메일을 반송하면서 오류 메시지가 엉뚱한 원인을 가리켜 혼란이 커졌다. Credit: Markus Mainka / Shutterstock 사용자를 악성 메시지로부터 보호하려는 마이크로소프트의 이메일 필터가 오히려 정상 메시지까지 거부하고 있는 것으로 보인다."
     },
@@ -84,7 +84,7 @@
       "title": "에이전틱 AI 시대에 인텔이 내세운 개방형 이기종 컴퓨팅 전략…인텔 AI 서밋",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.12",
+      "date": "2026.11.13",
       "link": "https://www.itworld.co.kr/article/4247657/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%9d%b8%ed%85%94%ec%9d%b4-%eb%82%b4%ec%84%b8%ec%9a%b4-%ea%b0%9c%eb%b0%a9%ed%98%95-%ec%9d%b4%ea%b8%b0%ec%a2%85-%ec%bb%b4%ed%93%a8.html",
       "summary": "Credit: Intel AI 활용이 모델 학습 중심에서 추론과 에이전트 실행 중심으로 옮겨가면서, 기업의 AI 인프라 고민도 단일 칩 성능 경쟁에서 시스템 전체의 설계와 운영 효율로 확장되고 있다."
     },
@@ -94,7 +94,7 @@
       "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.12",
+      "date": "2026.11.13",
       "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
       "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
     },
@@ -104,7 +104,7 @@
       "title": "Meta does a U-turn on controversial new AI terms for businesses",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.12",
+      "date": "2026.11.13",
       "link": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
       "summary": "A customer backlash has prompted Meta to pause its claims on enterprise content."
     }
