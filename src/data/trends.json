@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-15T04:44:21.183Z",
-  "collectionDate": "2026.11.14",
-  "displayDate": "2026.11.15",
+  "updatedAt": "2026-11-16T04:41:31.527Z",
+  "collectionDate": "2026.11.15",
+  "displayDate": "2026.11.16",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "스타벅스, 크리스마스 홀케이크 사전예약…26일까지 10% 할인",
+      "title": "삼성 초기업노조, 총회 경품서 테슬라 모델Y 제외...고가 논란 여파",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.14",
-      "link": "https://zdnet.co.kr/view/?no=20261115132538",
-      "summary": "스타벅스 코리아가 크리스마스와 연말연시를 겨냥한 홀케이크 사전예약을 진행한다. 15일 스타벅스는 다음 달 11일까지 사이렌오더를 통해 크리스마스 홀케이크 예약을 받는다고 밝혔다. 예약 상품은 다음 달 19일부터 27일까지 지정한 매장에서 받을 수 있다. 이번 홀케이크는 캐릭터 디자인과 딸기·초콜릿·치즈 등을 활용한 제품으로 구성했다."
+      "date": "2026.11.15",
+      "link": "https://zdnet.co.kr/view/?no=20261116123618",
+      "summary": "삼성전자 최대 노동조합인 삼성그룹 초기업노조가 내년 임금·단체협약(임단협) 요구안 확정 투표에 1억 5000만~2억원 규모 경품을 내걸었다. 당초 1등 경품은 6700만원 상당의 테슬라 전기차 모델Y였지만, 고가 논란이 일자 노조는 이를 삼성전자 노트북 갤럭시북6프로로 바꿨다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "풀무원, 임직원이 AI 에이전트 직접 개발…AX 해커톤 개최",
+      "title": "지로 ‘드롭샷 AI’ 콘텐츠 생성 7개월 만에 10배 성장",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.14",
-      "link": "https://zdnet.co.kr/view/?no=20261115131827",
-      "summary": "풀무원이 임직원이 직접 업무용 인공지능(AI) 에이전트를 개발하는 ‘AX 해커톤’을 열고 사내 AI 활용 확대에 나섰다. 풀무원은 지난 12~13일 서울 강남구 수서 본사에서 전사 임직원을 대상으로 AX 해커톤을 개최했다고 15일 밝혔다."
+      "date": "2026.11.15",
+      "link": "https://zdnet.co.kr/view/?no=20261116133245",
+      "summary": "지로가 운영하는 이미지·영상 생성 인공지능(AI) 플랫폼 드롭샷 AI의 누적 콘텐츠 생성 건수가 440만 건을 넘어섰다. 지난 4월 42만 건을 기록한 이후 약 7개월 만에 10배 이상 증가한 수치다. 지로는 16일 이 같은 성과를 발표하며 드롭샷 AI의 누적 가입자가 51만 명을 기록했다고 밝혔다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "[ZD브리핑] 삼성전자 갤럭시링 특허 분쟁 결론 임박...지스타·MS 이그나이트 개막",
+      "title": "문체부, 문화·체육·관광 AI 전환 속도…디지털혁신 포럼",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.14",
-      "link": "https://zdnet.co.kr/view/?no=20261115124937",
-      "summary": "지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다."
+      "date": "2026.11.15",
+      "link": "https://zdnet.co.kr/view/?no=20261116132707",
+      "summary": "문화체육관광부가 문화·체육·관광 분야의 인공지능(AI) 활용 사례를 공유하고 산업별 AI 전환(AX) 전략을 논의하는 자리를 마련한다. 문체부는 오는 17일 서울 서초구 엘타워에서 ‘인공지능으로 만나는 새로운 문화’를 주제로 ‘제4회 문화·체육·관광 디지털혁신 포럼’을 개최한다고 16일 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "일본 회전초밥집에 연어알 대신 '송어알'...왜",
+      "title": "[동정]박진호 켄텍 총장대행, 국제태양광학술대회 최고상 수상",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.14",
-      "link": "https://zdnet.co.kr/view/?no=20261115123021",
-      "summary": "일본 초밥집과 주먹밥 매장에서 흔히 볼 수 있던 연어알 ‘이쿠라’가 가격 급등으로 메뉴에서 사라질 가능성이 커지고 있다. 러시아와 알래스카의 야생 연어 어획량이 급감하면서 공급 부족이 심화하고 있기 때문이다. 14일(현지시간) 파이낸셜타임스 보도에 따르면 올해 러시아의 주요 야생 연어 어획량은 60% 감소했다."
+      "date": "2026.11.15",
+      "link": "https://zdnet.co.kr/view/?no=20261116132601",
+      "summary": "박진호 한국에너지공과대학교(KENTECH) 총장직무대행이 국제태양광학술대회(PVSEC) 최고상인 ‘PVSEC 어워드'를 수상했다. PVSEC는 16일 대전 DCC에서 개최됐다. 이 행사는 미국 IEEE PVSC, 유럽 EU PVSEC와 함께 세계 3대 태양광 전문 학술대회로 꼽힌다. 박 대행은 태양광과 수소, 반도체 공정 분야 전문가다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "코인원 고객상담 수탁사 해킹…주민번호·계좌번호 등 개인정보 유출",
+      "title": "카카오·티맵, 대리기사 보험 중복가입 개선…공정위 동의의결 절차 개시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.14",
-      "link": "https://zdnet.co.kr/view/?no=20261115131536",
-      "summary": "가상자산 거래소 코인원 고객상담 업무 수탁업체가 해킹 공격을 받아 이용자 개인정보가 유출됐다. 이름과 전화번호를 비롯해 주민등록번호, 계좌번호, 가상자산 지갑주소 등 민감한 정보가 포함돼 2차 피해 우려가 제기된다."
+      "date": "2026.11.15",
+      "link": "https://zdnet.co.kr/view/?no=20261116111204",
+      "summary": "카카오모빌리티와 티맵모빌리티가 대리운전 기사에게 단체보험 중복가입을 요구하고 기사등급제를 통해 판매목표를 사실상 강제했다는 의혹과 관련해 자진 시정에 나선다. 공정거래위원회는 이들 기업이 제시한 개선안을 검토하기 위한 동의의결 절차를 개시했다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "고객 봇에 문을 닫는 기업의 확산, 유나이티드항공까지 가세",
+      "title": "네트워크 용량 업그레이드가 부른 마이크로소프트 365 대규모 장애",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.14",
-      "link": "https://www.itworld.co.kr/article/4248233/%ea%b3%a0%ea%b0%9d-%eb%b4%87%ec%97%90-%eb%ac%b8%ec%9d%84-%eb%8b%ab%eb%8a%94-%ea%b8%b0%ec%97%85%ec%9d%98-%ed%99%95%ec%82%b0-%ec%9c%a0%eb%82%98%ec%9d%b4%ed%8b%b0%eb%93%9c%ed%95%ad%ea%b3%b5%ea%b9%8c.html",
-      "summary": "유나이티드항공이 월마트, 타깃, 아마존에 이어 승인받지 않은 개인 AI 에이전트의 접근을 제한하고 나섰다. Credit: Maderla / Shutterstock 세계 2위 항공사인 유나이티드항공은 수요일 고객 봇을 차단한 최신 기업이 됐다. 앞서 월마트, 타깃(Target), 아마존도 비슷한 조치를 취했다."
+      "date": "2026.11.15",
+      "link": "https://www.itworld.co.kr/article/4248815/%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ec%9a%a9%eb%9f%89-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c%ea%b0%80-%eb%b6%80%eb%a5%b8-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-365.html",
+      "summary": "마이크로소프트 365 서비스를 전 세계에서 마비시킨 장애가 시작된 지 24시간 넘게 지나서야 마이크로소프트가 근본 원인을 해결했다고 발표했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 장기간 이어진 마이크로소프트 365 장애로 전 세계 비즈니스에 차질이 빚어진 끝에 고객 대상 서비스를 복구하고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "정상 업무 메일까지 막은 마이크로소프트의 이메일 인증 오류",
+      "title": "고객 봇에 문을 닫는 기업의 확산, 유나이티드항공까지 가세",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.14",
-      "link": "https://www.itworld.co.kr/article/4248207/%ec%a0%95%ec%83%81-%ec%97%85%eb%ac%b4-%eb%a9%94%ec%9d%bc%ea%b9%8c%ec%a7%80-%eb%a7%89%ec%9d%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc.html",
-      "summary": "마이크로소프트가 사전 안내 없이 소규모 발신자의 메일을 반송하면서 오류 메시지가 엉뚱한 원인을 가리켜 혼란이 커졌다. Credit: Markus Mainka / Shutterstock 사용자를 악성 메시지로부터 보호하려는 마이크로소프트의 이메일 필터가 오히려 정상 메시지까지 거부하고 있는 것으로 보인다."
+      "date": "2026.11.15",
+      "link": "https://www.itworld.co.kr/article/4248233/%ea%b3%a0%ea%b0%9d-%eb%b4%87%ec%97%90-%eb%ac%b8%ec%9d%84-%eb%8b%ab%eb%8a%94-%ea%b8%b0%ec%97%85%ec%9d%98-%ed%99%95%ec%82%b0-%ec%9c%a0%eb%82%98%ec%9d%b4%ed%8b%b0%eb%93%9c%ed%95%ad%ea%b3%b5%ea%b9%8c.html",
+      "summary": "유나이티드항공이 월마트, 타깃, 아마존에 이어 승인받지 않은 개인 AI 에이전트의 접근을 제한하고 나섰다. Credit: Maderla / Shutterstock 세계 2위 항공사인 유나이티드항공은 수요일 고객 봇을 차단한 최신 기업이 됐다. 앞서 월마트, 타깃(Target), 아마존도 비슷한 조치를 취했다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "에이전틱 AI 시대에 인텔이 내세운 개방형 이기종 컴퓨팅 전략…인텔 AI 서밋",
+      "title": "정상 업무 메일까지 막은 마이크로소프트의 이메일 인증 오류",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.14",
-      "link": "https://www.itworld.co.kr/article/4247657/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%9d%b8%ed%85%94%ec%9d%b4-%eb%82%b4%ec%84%b8%ec%9a%b4-%ea%b0%9c%eb%b0%a9%ed%98%95-%ec%9d%b4%ea%b8%b0%ec%a2%85-%ec%bb%b4%ed%93%a8.html",
-      "summary": "Credit: Intel AI 활용이 모델 학습 중심에서 추론과 에이전트 실행 중심으로 옮겨가면서, 기업의 AI 인프라 고민도 단일 칩 성능 경쟁에서 시스템 전체의 설계와 운영 효율로 확장되고 있다."
+      "date": "2026.11.15",
+      "link": "https://www.itworld.co.kr/article/4248207/%ec%a0%95%ec%83%81-%ec%97%85%eb%ac%b4-%eb%a9%94%ec%9d%bc%ea%b9%8c%ec%a7%80-%eb%a7%89%ec%9d%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc.html",
+      "summary": "마이크로소프트가 사전 안내 없이 소규모 발신자의 메일을 반송하면서 오류 메시지가 엉뚱한 원인을 가리켜 혼란이 커졌다. Credit: Markus Mainka / Shutterstock 사용자를 악성 메시지로부터 보호하려는 마이크로소프트의 이메일 필터가 오히려 정상 메시지까지 거부하고 있는 것으로 보인다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
+      "title": "에이전틱 AI 시대에 인텔이 내세운 개방형 이기종 컴퓨팅 전략…인텔 AI 서밋",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.14",
-      "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
-      "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
+      "date": "2026.11.15",
+      "link": "https://www.itworld.co.kr/article/4247657/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%9d%b8%ed%85%94%ec%9d%b4-%eb%82%b4%ec%84%b8%ec%9a%b4-%ea%b0%9c%eb%b0%a9%ed%98%95-%ec%9d%b4%ea%b8%b0%ec%a2%85-%ec%bb%b4%ed%93%a8.html",
+      "summary": "Credit: Intel AI 활용이 모델 학습 중심에서 추론과 에이전트 실행 중심으로 옮겨가면서, 기업의 AI 인프라 고민도 단일 칩 성능 경쟁에서 시스템 전체의 설계와 운영 효율로 확장되고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "Meta does a U-turn on controversial new AI terms for businesses",
+      "title": "8GB RAM PC도 쾌적하게…윈도우 11 멀티태스킹 최대 40% 개선",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.14",
-      "link": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
-      "summary": "A customer backlash has prompted Meta to pause its claims on enterprise content."
+      "date": "2026.11.15",
+      "link": "https://www.itworld.co.kr/article/4246132/8gb-ram-pc%eb%8f%84-%ec%be%8c%ec%a0%81%ed%95%98%ea%b2%8c%ec%9c%88%eb%8f%84%ec%9a%b0-11-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9-%ec%b5%9c%eb%8c%80-40-%ea%b0%9c%ec%84%a0.html",
+      "summary": "마이크로소프트가 더 효율적인 메모리 압축 기법을 개발하고 시작 메뉴와 검색 등을 최적화했다. 자사 앱의 메모리 사용량은 최대 900MB 줄었다. Credit: Microsoft 마이크로소프트가 RAM이 8GB에 불과한 PC에서도 윈도우 11이 훨씬 빠르게 동작하도록 여러 최적화를 적용했다."
     }
   ]
 }
