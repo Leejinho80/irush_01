@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-17T06:28:02.871Z",
-  "collectionDate": "2026.11.16",
-  "displayDate": "2026.11.17",
+  "updatedAt": "2026-11-18T05:51:24.561Z",
+  "collectionDate": "2026.11.17",
+  "displayDate": "2026.11.18",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "석탄·석유 넘어 '전기국가'가 뜬다…AI 시대 대한민국의 미래는",
+      "title": "오픈베이스, 3분기 영업익 123.6%↑…솔루션 수주 확대",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.16",
-      "link": "https://zdnet.co.kr/view/?no=20261117152211",
-      "summary": "‘박태웅의 AI 사회’에서 받은 첫 느낌은 \"역시 박태웅\"이었다. '박태웅의 AI 강의' 시리즈로 인공지능(AI) 기술의 변화와 원리를 설명해온 저자가 ‘AI 사회’로 시선을 넓히는 것은 너무도 자연스러워 보였다. AI는 이제 단순한 기술이 아니다. 더 이상 화면 속에서 질문에 답하는 도구에 머물지 않는다."
+      "date": "2026.11.17",
+      "link": "https://zdnet.co.kr/view/?no=20261118144758",
+      "summary": "오픈베이스가 빠른 외형 성장과 수익성 개선을 동시에 이뤄내며 실적 도약을 이뤘다. 18일 금융감독원 전자공시시스템(DART)에 따르면 오픈베이스의 올해 3분기 연결기준 영업이익은 37억 1890만원으로 전년 동기 대비 123.6% 증가했다. 누적 실적 성장세는 더욱 가파르다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "무신사 뷰티 성수, 개점 5일 만에 5억원 매출…구매객 65%가 외국인",
+      "title": "다이닝브랜즈그룹, 아동복지시설에 김장김치 800kg 전달",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.16",
-      "link": "https://zdnet.co.kr/view/?no=20261117151515",
-      "summary": "무신사의 두 번째 뷰티 단독 매장 '무신사 뷰티 성수'가 개점 5일 만에 누적 거래액 5억원을 기록했다. 구매 고객 10명 중 6명 이상이 외국인으로 나타났으며, 성수 일대 다른 무신사 매장과의 교차 방문도 활발하게 이뤄졌다."
+      "date": "2026.11.17",
+      "link": "https://zdnet.co.kr/view/?no=20261118112611",
+      "summary": "다이닝브랜즈그룹이 서울 용산구 아동복지시설 혜심원에 김장김치 약 800kg과 후원 물품을 전달했다. 다이닝브랜즈그룹은 지난 17일 혜심원에서 임직원 참여형 ‘사랑의 김장 나눔’ 봉사활동을 진행했다고 18일 밝혔다. 지난해에 이어 두 번째다. 이날 봉사에는 본사 임직원 26명이 자발적으로 참여했다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "M83 자회사 피앤티링크, 네이버 향 630억원 규모 표준서버 공급 계약",
+      "title": "\"젠슨 황 귀환 없다\"…엔비디아는 왜 창업자 외면했나",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.16",
-      "link": "https://zdnet.co.kr/view/?no=20261117144637",
-      "summary": "M83 자회사 피앤티링크가 네이버에 약 630억원 규모의 표준서버를 공급한다. 피앤티링크는 네이버에 공급할 표준서버 계약을 체결했다고 17일 밝혔다. 납품은 내년 1분기부터 순차적으로 진행할 예정이다. 이번 계약 금액은 피앤티링크의 지난해 연간 매출 969억원의 약 65%에 해당한다."
+      "date": "2026.11.17",
+      "link": "https://zdnet.co.kr/view/?no=20261118140055",
+      "summary": "젠슨 황은 과연 엔비디아 최고경영자(CEO)로 복귀할 수 있을까? 불륜 논란으로 엔비디아 CEO에서 물러난 젠슨 황 복귀설이 사그라들지 않고 있다. 특히 젠슨 황이 17일(현지시간) 오전 자신의 X에 “이사회가 원한다면 CEO로 돌아오고 싶다”는 글을 올리면서 복귀설에 힘이 실리는 듯 했다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "에이피알·KLA코리아·동화약품 등 주요 기업 채용 나서",
+      "title": "세종 문화예술 10년 한눈에…세종시문화관광재단 기록전 개최",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.16",
-      "link": "https://zdnet.co.kr/view/?no=20261117151319",
-      "summary": "에이피알과 KLA코리아, 동화약품 등 주요 기업들이 11월 셋째 주 신입·경력사원 채용에 나섰다. 뱅크샐러드와 인피니언테크놀로지스코리아, 슈프리마 등도 채용연계형 인턴십 설명회와 인턴 모집을 진행한다. 17일 채용 플랫폼 진학사 캐치에 따르면 에이피알은 오는 22일까지 '마케팅 직군 대규모 특별 채용'을 진행한다."
+      "date": "2026.11.17",
+      "link": "https://zdnet.co.kr/view/?no=20261118140546",
+      "summary": "세종시문화관광재단이 창립 10주년을 맞아 지난 10년간 추진한 문화예술·관광사업의 발자취를 돌아보는 전시를 선보인다. 세종시문화관광재단은 세종시 박연문화관 1층 전시실에서 아카이브전 ‘열람(閱覽): 열 해의 기록’을 개최한다고 18일 밝혔다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "국내 로봇 3社, 적자 늪 지속...외형은 성장",
+      "title": "‘지스타 2026’ D-1…41개국 1237개 게임사 부산 집결",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.16",
-      "link": "https://zdnet.co.kr/view/?no=20261117142241",
-      "summary": "국내 대표 로봇 기업 3사의 올 3분기 실적 희비가 엇갈렸다. 두산로보틱스와 레인보우로보틱스는 매출 성장을 이뤘으나, 뉴로메카는 매출이 줄었다. 3사 모두 연구개발(R&D) 등 비용 증가로 영업적자를 이어갔다. 17일 업계에 따르면 두산로보틱스는 3분기 매출 162억원, 영업손실 134억원을 기록했다."
+      "date": "2026.11.17",
+      "link": "https://zdnet.co.kr/view/?no=20261118134042",
+      "summary": "국제게임전시회 ‘지스타 2026’이 하루 앞으로 다가왔다. 크래프톤과 호요버스 등 국내외 게임사가 대형 부스를 꾸리는 가운데, 지스타조직위원회는 해외 게임사 신작과 각국 인디 게임을 체험할 수 있는 별도 전시 공간을 마련했다. 18일 지스타조직위원회에 따르면 올해로 22회째인 지스타는 19일부터 22일까지 나흘간 부산 벡스코에서 진행된다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "에이전틱 AI 공격 시대에 코헤시티가 제시한 복구 중심 사이버 복원력 전략",
+      "title": "마이크로소프트 대규모 장애, 테스트 환경과 실제 인프라의 불일치가 불러온 연쇄 붕괴",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.16",
-      "link": "https://www.itworld.co.kr/article/4249455/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ea%b3%b5%ea%b2%a9-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%bd%94%ed%97%a4%ec%8b%9c%ed%8b%b0%ea%b0%80-%ec%a0%9c%ec%8b%9c%ed%95%9c-%eb%b3%b5%ea%b5%ac-%ec%a4%91%ec%8b%ac.html",
-      "summary": "코헤시티가 안국약품과 모트렉스 등 국내 도입 사례를 공개하며 신뢰할 수 있는 복구본 확보가 사이버 복원력의 완성이라고 밝혔다. Credit: Cohesity AI를 악용한 고도화된 사이버 공격과 연쇄 해킹 사고가 금융권을 비롯해 산업 전반으로 확산하면서, 기업의 보안 전략이 침입 차단 중심에서 공격 이후의 복구 역량까지 아우르는 방향으로 이동하고 있다."
+      "date": "2026.11.17",
+      "link": "https://www.itworld.co.kr/article/4249972/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9E%A5%EC%95%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%8B%A4%EC%A0%9C-%EC%9D%B8.html",
+      "summary": "마이크로소프트 장애 보고서가 코어 수가 많은 최신 하드웨어에서 더 심해지는 경합 문제를 원인으로 꼽았다. Credit: IB Photography - shutterstock."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "네트워크 용량 업그레이드가 부른 마이크로소프트 365 대규모 장애",
+      "title": "에이전틱 AI 공격 시대에 코헤시티가 제시한 복구 중심 사이버 복원력 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.16",
-      "link": "https://www.itworld.co.kr/article/4248815/%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ec%9a%a9%eb%9f%89-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c%ea%b0%80-%eb%b6%80%eb%a5%b8-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-365.html",
-      "summary": "마이크로소프트 365 서비스를 전 세계에서 마비시킨 장애가 시작된 지 24시간 넘게 지나서야 마이크로소프트가 근본 원인을 해결했다고 발표했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 장기간 이어진 마이크로소프트 365 장애로 전 세계 비즈니스에 차질이 빚어진 끝에 고객 대상 서비스를 복구하고 있다."
+      "date": "2026.11.17",
+      "link": "https://www.itworld.co.kr/article/4249455/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EA%B3%B5%EA%B2%A9-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%BD%94%ED%97%A4%EC%8B%9C%ED%8B%B0%EA%B0%80-%EC%A0%9C%EC%8B%9C%ED%95%9C-%EB%B3%B5%EA%B5%AC-%EC%A4%91%EC%8B%AC.html",
+      "summary": "코헤시티가 안국약품과 모트렉스 등 국내 도입 사례를 공개하며 신뢰할 수 있는 복구본 확보가 사이버 복원력의 완성이라고 밝혔다. Credit: Cohesity AI를 악용한 고도화된 사이버 공격과 연쇄 해킹 사고가 금융권을 비롯해 산업 전반으로 확산하면서, 기업의 보안 전략이 침입 차단 중심에서 공격 이후의 복구 역량까지 아우르는 방향으로 이동하고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "고객 봇에 문을 닫는 기업의 확산, 유나이티드항공까지 가세",
+      "title": "네트워크 용량 업그레이드가 부른 마이크로소프트 365 대규모 장애",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.16",
-      "link": "https://www.itworld.co.kr/article/4248233/%ea%b3%a0%ea%b0%9d-%eb%b4%87%ec%97%90-%eb%ac%b8%ec%9d%84-%eb%8b%ab%eb%8a%94-%ea%b8%b0%ec%97%85%ec%9d%98-%ed%99%95%ec%82%b0-%ec%9c%a0%eb%82%98%ec%9d%b4%ed%8b%b0%eb%93%9c%ed%95%ad%ea%b3%b5%ea%b9%8c.html",
-      "summary": "유나이티드항공이 월마트, 타깃, 아마존에 이어 승인받지 않은 개인 AI 에이전트의 접근을 제한하고 나섰다. Credit: Maderla / Shutterstock 세계 2위 항공사인 유나이티드항공은 수요일 고객 봇을 차단한 최신 기업이 됐다. 앞서 월마트, 타깃(Target), 아마존도 비슷한 조치를 취했다."
+      "date": "2026.11.17",
+      "link": "https://www.itworld.co.kr/article/4248815/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9A%A9%EB%9F%89-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EA%B0%80-%EB%B6%80%EB%A5%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-365.html",
+      "summary": "마이크로소프트 365 서비스를 전 세계에서 마비시킨 장애가 시작된 지 24시간 넘게 지나서야 마이크로소프트가 근본 원인을 해결했다고 발표했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 장기간 이어진 마이크로소프트 365 장애로 전 세계 비즈니스에 차질이 빚어진 끝에 고객 대상 서비스를 복구하고 있다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "정상 업무 메일까지 막은 마이크로소프트의 이메일 인증 오류",
+      "title": "고객 봇에 문을 닫는 기업의 확산, 유나이티드항공까지 가세",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.16",
-      "link": "https://www.itworld.co.kr/article/4248207/%ec%a0%95%ec%83%81-%ec%97%85%eb%ac%b4-%eb%a9%94%ec%9d%bc%ea%b9%8c%ec%a7%80-%eb%a7%89%ec%9d%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc.html",
-      "summary": "마이크로소프트가 사전 안내 없이 소규모 발신자의 메일을 반송하면서 오류 메시지가 엉뚱한 원인을 가리켜 혼란이 커졌다. Credit: Markus Mainka / Shutterstock 사용자를 악성 메시지로부터 보호하려는 마이크로소프트의 이메일 필터가 오히려 정상 메시지까지 거부하고 있는 것으로 보인다."
+      "date": "2026.11.17",
+      "link": "https://www.itworld.co.kr/article/4248233/%EA%B3%A0%EA%B0%9D-%EB%B4%87%EC%97%90-%EB%AC%B8%EC%9D%84-%EB%8B%AB%EB%8A%94-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%99%95%EC%82%B0-%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%ED%95%AD%EA%B3%B5%EA%B9%8C.html",
+      "summary": "유나이티드항공이 월마트, 타깃, 아마존에 이어 승인받지 않은 개인 AI 에이전트의 접근을 제한하고 나섰다. Credit: Maderla / Shutterstock 세계 2위 항공사인 유나이티드항공은 수요일 고객 봇을 차단한 최신 기업이 됐다. 앞서 월마트, 타깃(Target), 아마존도 비슷한 조치를 취했다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "에이전틱 AI 시대에 인텔이 내세운 개방형 이기종 컴퓨팅 전략…인텔 AI 서밋",
+      "title": "정상 업무 메일까지 막은 마이크로소프트의 이메일 인증 오류",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.16",
-      "link": "https://www.itworld.co.kr/article/4247657/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ec%8b%9c%eb%8c%80%ec%97%90-%ec%9d%b8%ed%85%94%ec%9d%b4-%eb%82%b4%ec%84%b8%ec%9a%b4-%ea%b0%9c%eb%b0%a9%ed%98%95-%ec%9d%b4%ea%b8%b0%ec%a2%85-%ec%bb%b4%ed%93%a8.html",
-      "summary": "Credit: Intel AI 활용이 모델 학습 중심에서 추론과 에이전트 실행 중심으로 옮겨가면서, 기업의 AI 인프라 고민도 단일 칩 성능 경쟁에서 시스템 전체의 설계와 운영 효율로 확장되고 있다."
+      "date": "2026.11.17",
+      "link": "https://www.itworld.co.kr/article/4248207/%EC%A0%95%EC%83%81-%EC%97%85%EB%AC%B4-%EB%A9%94%EC%9D%BC%EA%B9%8C%EC%A7%80-%EB%A7%89%EC%9D%80-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%9D%B4%EB%A9%94%EC%9D%BC.html",
+      "summary": "마이크로소프트가 사전 안내 없이 소규모 발신자의 메일을 반송하면서 오류 메시지가 엉뚱한 원인을 가리켜 혼란이 커졌다. Credit: Markus Mainka / Shutterstock 사용자를 악성 메시지로부터 보호하려는 마이크로소프트의 이메일 필터가 오히려 정상 메시지까지 거부하고 있는 것으로 보인다."
     }
   ]
 }
