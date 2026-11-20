@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-19T05:51:18.481Z",
-  "collectionDate": "2026.11.18",
-  "displayDate": "2026.11.19",
+  "updatedAt": "2026-11-20T05:40:12.953Z",
+  "collectionDate": "2026.11.19",
+  "displayDate": "2026.11.20",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "경제계, 수출 1조 달러 환영…\"다음 과제는 국민 체감\"",
+      "title": "[AI 리더스] 가트너가 내다본 2027년…\"AI가 기업 SW 시장 바꾼다\"",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.18",
-      "link": "https://zdnet.co.kr/view/?no=20261119144112",
-      "summary": "경제 6단체가 수출 1조 달러 달성을 환영하며 성과를 국내 투자와 일자리, 지역경제로 확산하기 위한 민관 협력을 강조했다. 경제 6단체는 19일 공동 메시지를 통해 한국이 독일·미국·중국에 이어 세계 네 번째로 수출 1조 달러를 달성한 것을 수출 역사의 새로운 이정표로 평가했다."
+      "date": "2026.11.19",
+      "link": "https://zdnet.co.kr/view/?no=20261119110158",
+      "summary": "\"인공지능(AI) 코딩 에이전트는 소프트웨어 개발에 드는 비용과 시간을 크게 줄일 수 있습니다. 이같은 변화는 비교적 단순한 기능을 제공해 낮은 비용으로도 쉽게 대체할 수 있는 일부 서비스형 소프트웨어(SaaS) 제품에 부담으로 작용할 수 있습니다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "반다이 남코, 지스타 부스에 건담 '집결'…기체 찾기·포토타임으로 팬 맞이",
+      "title": "시바견의 메카 액션 첫선…팀42 지스타 부스, 신작·팬 체험 열기 가득",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.18",
-      "link": "https://zdnet.co.kr/view/?no=20261119143255",
-      "summary": "[부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 반다이 남코 엔터테인먼트가 건담 게임 영상과 기체 찾기, 인형탈 포토타임을 마련해 지스타 2026 관람객을 맞았다. 19일 부산 벡스코 제1전시장 B05에 마련된 부스에서는 모바일 SRPG ‘SD건담 지 제네레이션 이터널’과 신작 모바일 게임 ‘건담 블리츠 오더’를 소개한다."
+      "date": "2026.11.19",
+      "link": "https://zdnet.co.kr/view/?no=20261120143400",
+      "summary": "[부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 팀42가 미공개 신작의 첫 시연과 ‘마피아42’ 팬들을 위한 체험 공간으로 지스타 2026 관람객을 맞았다. 시바견이 메카 고양이를 사냥하는 액션 RPG ‘프로젝트 메카도지’를 처음 선보이고, ‘슬라임의 세계’는 모바일·PC 시연으로 출시 전 이용자 반응을 살핀다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "대한민국 수출 1조 달러 돌파...독일·미국·중국에 이어 세계 네 번째",
+      "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.18",
-      "link": "https://zdnet.co.kr/view/?no=20261119142717",
-      "summary": "대한민국 수출이 사상 처음으로 1조 달러를 돌파했다. 산업통상자원부는 19일 오후 2시 9분 36초 기준으로 잠정 집계한 결과 연간 누계 수출액이 1조 달러를 달성했다고 밝혔다. 1964년 수출 1억 달러를 달성한 이후 62년 만에 수출 규모가 1만배로 성장했다. 수출 1조 달러는 독일·미국·중국에 이어 네 번째다."
+      "date": "2026.11.19",
+      "link": "https://zdnet.co.kr/view/?no=20261120135739",
+      "summary": "미국 캘리포니아 주 법무부가 엔비디아의 대 중국 GPU 우회 수출과 기밀 유출 등에 대한 조사에 나섰다. 미국 캘리포니아 주 법무부는 19일(현지시간) \"젠슨 황 엔비디아 전 CEO가 중국 스파이로 의심되는 인물과 부적절한 관계를 가졌다는 정황과 관련해, 롭 본타 캘리포니아 주 법무장관이 엔비디아에 조사 소환장을 발부했다\"고 밝혔다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "국립중앙박물관, 올해 관람객 650만명 돌파…역대 최다 기록 경신",
+      "title": "[인터뷰] \"게임 제작, AI로 며칠 만에” 트리포가 그리는 미래",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.18",
-      "link": "https://zdnet.co.kr/view/?no=20261119142841",
-      "summary": "국립중앙박물관이 올해 누적 관람객 650만명을 돌파하며 역대 최다 관람객 기록을 다시 썼다. 지난해 연간 관람객 수를 한 달 이상 앞서 넘어선 가운데 외국인 관람객도 전년 대비 약 91% 증가한 것으로 나타났다. 국립중앙박물관은 지난 18일 기준 올해 누적 관람객이 650만8259명으로 집계됐다고 밝혔다."
+      "date": "2026.11.19",
+      "link": "https://zdnet.co.kr/view/?no=20261120142413",
+      "summary": "[부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 게임 속 캐릭터 하나를 만드는 데 몇 주에서 길게는 수개월이 걸리던 작업을 인공지능(AI)으로 몇 시간에서 며칠 만에 끝낼 수 있는 시대가 열리고 있다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "야구팬들 제주서 응원 경쟁…디에스엠 9.81파크, 스포츠 IP 활용 눈길",
+      "title": "유라클, 신한카드·저축은행중앙회 UMS 사업 잇따라 수주",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.18",
-      "link": "https://zdnet.co.kr/view/?no=20261119142027",
-      "summary": "디에스엠(DSM)이 운영하는 9.81파크 제주가 프로야구 구단의 지식재산권(IP)을 활용한 체험형 콘텐츠로 야구 팬들의 참여를 이끌었다. 인공지능(AI)과 위치 인식 기술을 접목해 기존 야구 응원 문화를 게임으로 확장한 점이 특징이다. 디에스엠은 9."
+      "date": "2026.11.19",
+      "link": "https://zdnet.co.kr/view/?no=20261120142017",
+      "summary": "유라클이 국내 주요 금융기관의 통합 메시징 시스템(UMS) 구축 사업을 잇달아 수주하며 금융 IT 사업 확대에 속도를 낸다. 유라클은 LG CNS와 협력해 신한카드 통합 마케팅 플랫폼 구축 사업의 UMS 부문을 수주한 데 이어, SK AX와 함께 저축은행중앙회 차세대 시스템의 UMS 구축 사업도 수주했다고 20일 밝혔다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "마이크로소프트 대규모 장애, 테스트 환경과 실제 인프라의 불일치가 불러온 연쇄 붕괴",
+      "title": "앤트로픽 상장, IT 구매 담당자가 계약서에서 챙겨야 할 4가지",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.18",
-      "link": "https://www.itworld.co.kr/article/4249972/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9E%A5%EC%95%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%8B%A4%EC%A0%9C-%EC%9D%B8.html",
-      "summary": "마이크로소프트 장애 보고서가 코어 수가 많은 최신 하드웨어에서 더 심해지는 경합 문제를 원인으로 꼽았다. Credit: IB Photography - shutterstock."
+      "date": "2026.11.19",
+      "link": "https://www.itworld.co.kr/article/4250928/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EC%9D%98-%EA%B8%B0%EC%97%85%EA%B3%B5%EA%B0%9Cipo%EA%B0%80-it-%EA%B5%AC%EB%A7%A4%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C-%EC%A3%BC%EB%8A%94-%EC%9D%98%EB%AF%B8.html",
+      "summary": "애널리스트는 지금이 계약에서 가격 보호, 용량 보장, 모델 선택권, 합리적인 해지 조건을 요구할 시점이라고 입을 모은다. Credit: TechCrunch 앤트로픽이 약 1조 3,000억 달러의 기업가치를 목표로 목요일 증시에 데뷔했다. 기업공개(IPO)는 투자자의 큰 관심을 끌 전망이지만, 앤트로픽의 기업 기업에게도 시사점이 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "에이전틱 AI 공격 시대에 코헤시티가 제시한 복구 중심 사이버 복원력 전략",
+      "title": "엔비디아마저 인정한 RAM 가격 폭등, PC 수요 짓누른다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.18",
-      "link": "https://www.itworld.co.kr/article/4249455/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EA%B3%B5%EA%B2%A9-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%BD%94%ED%97%A4%EC%8B%9C%ED%8B%B0%EA%B0%80-%EC%A0%9C%EC%8B%9C%ED%95%9C-%EB%B3%B5%EA%B5%AC-%EC%A4%91%EC%8B%AC.html",
-      "summary": "코헤시티가 안국약품과 모트렉스 등 국내 도입 사례를 공개하며 신뢰할 수 있는 복구본 확보가 사이버 복원력의 완성이라고 밝혔다. Credit: Cohesity AI를 악용한 고도화된 사이버 공격과 연쇄 해킹 사고가 금융권을 비롯해 산업 전반으로 확산하면서, 기업의 보안 전략이 침입 차단 중심에서 공격 이후의 복구 역량까지 아우르는 방향으로 이동하고 있다."
+      "date": "2026.11.19",
+      "link": "https://www.itworld.co.kr/article/4250906/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EB%A7%88%EC%A0%80-%EC%9D%B8%EC%A0%95%ED%95%9C-ram-%EA%B0%80%EA%B2%A9-%ED%8F%AD%EB%93%B1-pc-%EC%88%98%EC%9A%94-%EC%A7%93%EB%88%84%EB%A5%B8%EB%8B%A4.html",
+      "summary": "AI 업계 거인 엔비디아가 주로 메모리와 관련된 3,900억 달러 규모의 향후 공급 약정을 확보한 가운데, 비싼 부품이 사용자 PC 수요를 짓누르고 있다. Credit: Nvidia 엔비디아는 AI 골드러시로 막대한 돈을 쓸어 담고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "네트워크 용량 업그레이드가 부른 마이크로소프트 365 대규모 장애",
+      "title": "마이크로소프트 대규모 장애, 테스트 환경과 실제 인프라의 불일치가 불러온 연쇄 붕괴",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.18",
-      "link": "https://www.itworld.co.kr/article/4248815/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9A%A9%EB%9F%89-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EA%B0%80-%EB%B6%80%EB%A5%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-365.html",
-      "summary": "마이크로소프트 365 서비스를 전 세계에서 마비시킨 장애가 시작된 지 24시간 넘게 지나서야 마이크로소프트가 근본 원인을 해결했다고 발표했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 장기간 이어진 마이크로소프트 365 장애로 전 세계 비즈니스에 차질이 빚어진 끝에 고객 대상 서비스를 복구하고 있다."
+      "date": "2026.11.19",
+      "link": "https://www.itworld.co.kr/article/4249972/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9E%A5%EC%95%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%8B%A4%EC%A0%9C-%EC%9D%B8.html",
+      "summary": "마이크로소프트 장애 보고서가 코어 수가 많은 최신 하드웨어에서 더 심해지는 경합 문제를 원인으로 꼽았다. Credit: IB Photography - shutterstock."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "고객 봇에 문을 닫는 기업의 확산, 유나이티드항공까지 가세",
+      "title": "에이전틱 AI 공격 시대에 코헤시티가 제시한 복구 중심 사이버 복원력 전략",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.18",
-      "link": "https://www.itworld.co.kr/article/4248233/%EA%B3%A0%EA%B0%9D-%EB%B4%87%EC%97%90-%EB%AC%B8%EC%9D%84-%EB%8B%AB%EB%8A%94-%EA%B8%B0%EC%97%85%EC%9D%98-%ED%99%95%EC%82%B0-%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C%ED%95%AD%EA%B3%B5%EA%B9%8C.html",
-      "summary": "유나이티드항공이 월마트, 타깃, 아마존에 이어 승인받지 않은 개인 AI 에이전트의 접근을 제한하고 나섰다. Credit: Maderla / Shutterstock 세계 2위 항공사인 유나이티드항공은 수요일 고객 봇을 차단한 최신 기업이 됐다. 앞서 월마트, 타깃(Target), 아마존도 비슷한 조치를 취했다."
+      "date": "2026.11.19",
+      "link": "https://www.itworld.co.kr/article/4249455/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EA%B3%B5%EA%B2%A9-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%BD%94%ED%97%A4%EC%8B%9C%ED%8B%B0%EA%B0%80-%EC%A0%9C%EC%8B%9C%ED%95%9C-%EB%B3%B5%EA%B5%AC-%EC%A4%91%EC%8B%AC.html",
+      "summary": "코헤시티가 안국약품과 모트렉스 등 국내 도입 사례를 공개하며 신뢰할 수 있는 복구본 확보가 사이버 복원력의 완성이라고 밝혔다. Credit: Cohesity AI를 악용한 고도화된 사이버 공격과 연쇄 해킹 사고가 금융권을 비롯해 산업 전반으로 확산하면서, 기업의 보안 전략이 침입 차단 중심에서 공격 이후의 복구 역량까지 아우르는 방향으로 이동하고 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "정상 업무 메일까지 막은 마이크로소프트의 이메일 인증 오류",
+      "title": "네트워크 용량 업그레이드가 부른 마이크로소프트 365 대규모 장애",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.18",
-      "link": "https://www.itworld.co.kr/article/4248207/%EC%A0%95%EC%83%81-%EC%97%85%EB%AC%B4-%EB%A9%94%EC%9D%BC%EA%B9%8C%EC%A7%80-%EB%A7%89%EC%9D%80-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9D%98-%EC%9D%B4%EB%A9%94%EC%9D%BC.html",
-      "summary": "마이크로소프트가 사전 안내 없이 소규모 발신자의 메일을 반송하면서 오류 메시지가 엉뚱한 원인을 가리켜 혼란이 커졌다. Credit: Markus Mainka / Shutterstock 사용자를 악성 메시지로부터 보호하려는 마이크로소프트의 이메일 필터가 오히려 정상 메시지까지 거부하고 있는 것으로 보인다."
+      "date": "2026.11.19",
+      "link": "https://www.itworld.co.kr/article/4248815/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9A%A9%EB%9F%89-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EA%B0%80-%EB%B6%80%EB%A5%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-365.html",
+      "summary": "마이크로소프트 365 서비스를 전 세계에서 마비시킨 장애가 시작된 지 24시간 넘게 지나서야 마이크로소프트가 근본 원인을 해결했다고 발표했다. Credit: Michael Vi / Shutterstock 마이크로소프트가 장기간 이어진 마이크로소프트 365 장애로 전 세계 비즈니스에 차질이 빚어진 끝에 고객 대상 서비스를 복구하고 있다."
     }
   ]
 }
