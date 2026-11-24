@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-23T05:41:51.376Z",
-  "collectionDate": "2026.11.22",
-  "displayDate": "2026.11.23",
+  "updatedAt": "2026-11-24T08:19:29.182Z",
+  "collectionDate": "2026.11.23",
+  "displayDate": "2026.11.24",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,102 +11,102 @@
     {
       "id": 1,
       "number": "01",
-      "title": "KT, 수자원공사와 피지컬AI 인프라 구축 협력",
+      "title": "삼성D 정기 임원인사 부사장 승진자 실적은?",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.22",
-      "link": "https://zdnet.co.kr/view/?no=20261123110308",
-      "summary": "KT가 한국수자원공사와 정수장, 댐 등 물관리 현장에 피지컬 AI를 적용하기 위한 기술 실증과 인프라 구축에 나선다. KT는 한국수자원공사(K-water)와 물관리 분야 피지컬 AI 구축을 위한 업무협약(MOU)을 체결했다고 23일 밝혔다."
+      "date": "2026.11.23",
+      "link": "https://zdnet.co.kr/view/?no=20261124170917",
+      "summary": "삼성디스플레이가 24일 발표한 2027년 정기 임원 인사에서 부사장 승진자는 5명이었다. 최근 수년간 정기 임원 인사의 부사장 승진자 숫자와 비교하면 많은 편은 아니다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "중견 완성차 3사, 내수 점유율 5%대 '뚝'…신차로 반등 모색",
+      "title": "슈프리마, '글로벌 톱 50' 보안 기업 선정",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.22",
-      "link": "https://zdnet.co.kr/view/?no=20261123104608",
-      "summary": "국내 중견 완성차 3사가 주력 차종 노후화와 신차 공백으로 내수 입지를 잃고 있다. 르노코리아와 KG모빌리티(KGM), 한국GM의 10월 합산 점유율은 5%대로 떨어졌고 누적 점유율도 감소했다. 업계에서는 기존 차종 판촉만으로는 판매 부진을 해소하기 어려운 만큼 신차 개발과 연구개발 투자를 확대해야 한다는 분석이 나온다."
+      "date": "2026.11.23",
+      "link": "https://zdnet.co.kr/view/?no=20261124163948",
+      "summary": "지능형 출입통제 및 물리보안 솔루션 전문기업 슈프리마가 16년 연속 '2026 글로벌 톱 50(Top 50) 보안 기업'에 선정됐다. 올해는 선정 기업 가운데 매출 성장률 상위 10개 사에도 이름을 올렸다."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "NHN '한게임 섯다&맞고', 주간 랭킹 콘텐츠 '칭호전' 추가",
+      "title": "\"전자 장치 없는 로봇이 이렇게 빨라?\"…시속 16㎞ 질주 성공",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.22",
-      "link": "https://zdnet.co.kr/view/?no=20261123134450",
-      "summary": "NHN이 모바일 게임 '한게임 섯다&맞고'에 주간 랭킹 경쟁 콘텐츠를 추가했다. 이용자들이 매주 승리와 베팅 등 3개 부문에서 경쟁하고 순위에 따라 보상을 받을 수 있는 시스템이다. NHN(대표 정우진)은 한게임 섯다&맞고의 스토리 기반 퀘스트 콘텐츠 '타짜의 길'에 신규 주간 경쟁 콘텐츠 '칭호전'을 도입했다고 23일 밝혔다."
+      "date": "2026.11.23",
+      "link": "https://zdnet.co.kr/view/?no=20261124160711",
+      "summary": "미국 캘리포니아대학교 샌디에이고(UCSD) 연구진이 시속 16㎞로 달릴 수 있는 소프트 로봇을 개발해 주목받고 있다고 IT매체 기즈모도는 최근 보도했다. 해당 연구 결과는 지난 18일(현지시간) 과학학술지 '사이언스 로보틱스'에 게재됐다. 이 로봇은 초당 최대 4.72m의 속도로 움직일 수 있는 6족 보행 공기압 로봇이다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "\"전 세계 또래들과 함께 떠난다\"…놀유니버스, 위로드와 맞손",
+      "title": "\"현장 축적 노하우 공유\"...이글루, '2026 개발자 컨퍼런스' 성료",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.22",
-      "link": "https://zdnet.co.kr/view/?no=20261123110223",
-      "summary": "놀유니버스는 유럽계 여행 기업 위로드와 함께 전 세계 또래들과 함께 떠나는 글로벌 커뮤니티형 여행 상품을 국내에 출시한다고 23일 밝혔다. 처음 내놓는 코스는 모두 일곱 종류로, 목적지는 네 대륙에 분포한다. ▲일본 오사카·교토 ▲인도네시아 발리 ▲카자흐스탄 ▲이탈리아 나폴리·아말피 해안 ▲멕시코 유카탄 반도 ▲미국 뉴욕 ▲튀르키예 이스탄불이 포함됐다."
+      "date": "2026.11.23",
+      "link": "https://zdnet.co.kr/view/?no=20261124171325",
+      "summary": "인공지능(AI) 기반 보안 운영·분석 플랫폼 기업 이글루코퍼레이션(대표 이득춘)이 지난 11일 서울 송파구 본사에서 ‘이글루 개발자 콘퍼런스 2026(IGLOO Developer Conference 2026, 이하 IDC 2026)’을 개최했다. 이 행사는 올해가 세 번째다. 2023년 처음 열었다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "공무원들이 만든 AI 도구 1035개 한자리에…행정 혁신 도전",
+      "title": "넥슨 신작 '아주르 프로밀리아', 사전 다운로드 개시",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.22",
-      "link": "https://zdnet.co.kr/view/?no=20261123140201",
-      "summary": "전국 공무원들이 업무 현장의 문제를 해결하기 위해 직접 개발한 인공지능(AI) 도구 1035개가 한자리에 모인다. 이 가운데 선정된 우수작은 내년부터 정식 개발과 범정부 공동 활용이 추진된다. 행정안전부는 오는 25일 경기 고양시 킨텍스에서 '2026년 공공 AI 대전환 챌린지' 결선을 개최한다고 23일 밝혔다."
+      "date": "2026.11.23",
+      "link": "https://zdnet.co.kr/view/?no=20261124164735",
+      "summary": "넥슨코리아(공동대표 강대현·김정욱)는 만쥬게임즈가 개발한 신작 판타지 월드 RPG '아주르 프로밀리아'의 사전 다운로드를 시작했다고 24일 밝혔다. 아주르 프로밀리아는 '벽람항로'를 개발한 만쥬게임즈의 신작이다. 이용자는 판타지 대륙 프로밀리아를 탐험하며 신비한 생물 '키보'와 유대를 쌓고 모험과 전투, 건설 등 다양한 콘텐츠를 즐길 수 있다."
     },
     {
       "id": 6,
       "number": "06",
-      "title": "AI 추론을 기업 데이터 곁에 두는 윈도우 서버 2028",
+      "title": "AI 에이전트 보안의 대안으로 떠오른 기밀 컴퓨팅",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.22",
-      "link": "https://www.itworld.co.kr/article/4251847/ai-%EC%B6%94%EB%A1%A0%EC%9D%84-%EA%B8%B0%EC%97%85-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%81%EC%97%90-%EB%91%90%EB%8A%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-2028.html",
-      "summary": "마이크로소프트가 윈도우 서버 2028 공개 프리뷰에 AI 인프라 기능과 함께 보안, 스토리지, 관리 기능 개선을 담았다. Credit: Shutterstock 마이크로소프트가 AI 추론이 가장 합리적인 곳에서 이뤄지는 하이브리드 미래에 베팅하고 있다. 논리적으로 보면 데이터가 이미 있는 곳, 즉 기업이 직접 통제하는 인프라다."
+      "date": "2026.11.23",
+      "link": "https://www.itworld.co.kr/article/4252379/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B3%B4%EC%95%88%EC%9D%98-%EB%8C%80%EC%95%88%EC%9C%BC%EB%A1%9C-%EB%96%A0%EC%98%A4%EB%A5%B8-%EA%B8%B0%EB%B0%80-%EC%BB%B4%ED%93%A8%ED%8C%85.html",
+      "summary": "기존 암호화가 지키지 못하는 사용 중 데이터를 보호하는 기술이 AI 모델과 에이전트를 안전하게 가둘 수단으로 관심을 받고 있다. Credit: geralt AI 에이전트가 통제를 벗어나 보안 우려를 키우는 사고가 잇따르면서, 기밀 컴퓨팅이 AI 모델을 안전한 금고에 가두는 방법으로 부상하고 있다."
     },
     {
       "id": 7,
       "number": "07",
-      "title": "앤트로픽 상장, IT 구매 담당자가 계약서에서 챙겨야 할 4가지",
+      "title": "부메랑이 된 엔비디아 CEO 교체, CIO가 점검할 공급망 위험",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.22",
-      "link": "https://www.itworld.co.kr/article/4250928/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EC%9D%98-%EA%B8%B0%EC%97%85%EA%B3%B5%EA%B0%9Cipo%EA%B0%80-it-%EA%B5%AC%EB%A7%A4%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C-%EC%A3%BC%EB%8A%94-%EC%9D%98%EB%AF%B8.html",
-      "summary": "애널리스트는 지금이 계약에서 가격 보호, 용량 보장, 모델 선택권, 합리적인 해지 조건을 요구할 시점이라고 입을 모은다. Credit: TechCrunch 앤트로픽이 약 1조 3,000억 달러의 기업가치를 목표로 목요일 증시에 데뷔했다. 기업공개(IPO)는 투자자의 큰 관심을 끌 전망이지만, 앤트로픽의 기업 기업에게도 시사점이 있다."
+      "date": "2026.11.23",
+      "link": "https://www.itworld.co.kr/article/4252368/%EB%B6%80%EB%A9%94%EB%9E%91%EC%9D%B4-%EB%90%9C-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-ceo-%EA%B5%90%EC%B2%B4-cio%EA%B0%80-%EC%A0%90%EA%B2%80%ED%95%A0-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EC%9C%84%ED%97%98.html",
+      "summary": "엔비디아 이사회가 월요일 젠슨 황의 CEO 복귀를 결정하면서 CIO 사이에서 AI 공급업체 의존과 이사회의 CEO 견제 기능에 대한 우려가 커졌다. Credit: gguy / Shutterstock 엔비디아 이사회가 월요일 CEO 젠슨 황의 복귀를 결정하면서, CIO 사이에서 이사회가 CEO를 어디까지 감독할 수 있는지에 대한 의문이 제기되고 있다."
     },
     {
       "id": 8,
       "number": "08",
-      "title": "엔비디아마저 인정한 RAM 가격 폭등, PC 수요 짓누른다",
+      "title": "AI 추론을 기업 데이터 곁에 두는 윈도우 서버 2028",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.22",
-      "link": "https://www.itworld.co.kr/article/4250906/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EB%A7%88%EC%A0%80-%EC%9D%B8%EC%A0%95%ED%95%9C-ram-%EA%B0%80%EA%B2%A9-%ED%8F%AD%EB%93%B1-pc-%EC%88%98%EC%9A%94-%EC%A7%93%EB%88%84%EB%A5%B8%EB%8B%A4.html",
-      "summary": "AI 업계 거인 엔비디아가 주로 메모리와 관련된 3,900억 달러 규모의 향후 공급 약정을 확보한 가운데, 비싼 부품이 사용자 PC 수요를 짓누르고 있다. Credit: Nvidia 엔비디아는 AI 골드러시로 막대한 돈을 쓸어 담고 있다."
+      "date": "2026.11.23",
+      "link": "https://www.itworld.co.kr/article/4251847/ai-%EC%B6%94%EB%A1%A0%EC%9D%84-%EA%B8%B0%EC%97%85-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%81%EC%97%90-%EB%91%90%EB%8A%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-2028.html",
+      "summary": "마이크로소프트가 윈도우 서버 2028 공개 프리뷰에 AI 인프라 기능과 함께 보안, 스토리지, 관리 기능 개선을 담았다. Credit: Shutterstock 마이크로소프트가 AI 추론이 가장 합리적인 곳에서 이뤄지는 하이브리드 미래에 베팅하고 있다. 논리적으로 보면 데이터가 이미 있는 곳, 즉 기업이 직접 통제하는 인프라다."
     },
     {
       "id": 9,
       "number": "09",
-      "title": "마이크로소프트 대규모 장애, 테스트 환경과 실제 인프라의 불일치가 불러온 연쇄 붕괴",
+      "title": "앤트로픽 상장, IT 구매 담당자가 계약서에서 챙겨야 할 4가지",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.22",
-      "link": "https://www.itworld.co.kr/article/4249972/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9E%A5%EC%95%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%8B%A4%EC%A0%9C-%EC%9D%B8.html",
-      "summary": "마이크로소프트 장애 보고서가 코어 수가 많은 최신 하드웨어에서 더 심해지는 경합 문제를 원인으로 꼽았다. Credit: IB Photography - shutterstock."
+      "date": "2026.11.23",
+      "link": "https://www.itworld.co.kr/article/4250928/%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD%EC%9D%98-%EA%B8%B0%EC%97%85%EA%B3%B5%EA%B0%9Cipo%EA%B0%80-it-%EA%B5%AC%EB%A7%A4%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C-%EC%A3%BC%EB%8A%94-%EC%9D%98%EB%AF%B8.html",
+      "summary": "애널리스트는 지금이 계약에서 가격 보호, 용량 보장, 모델 선택권, 합리적인 해지 조건을 요구할 시점이라고 입을 모은다. Credit: TechCrunch 앤트로픽이 약 1조 3,000억 달러의 기업가치를 목표로 목요일 증시에 데뷔했다. 기업공개(IPO)는 투자자의 큰 관심을 끌 전망이지만, 앤트로픽의 기업 기업에게도 시사점이 있다."
     },
     {
       "id": 10,
       "number": "10",
-      "title": "에이전틱 AI 공격 시대에 코헤시티가 제시한 복구 중심 사이버 복원력 전략",
+      "title": "엔비디아마저 인정한 RAM 가격 폭등, PC 수요 짓누른다",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.22",
-      "link": "https://www.itworld.co.kr/article/4249455/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-ai-%EA%B3%B5%EA%B2%A9-%EC%8B%9C%EB%8C%80%EC%97%90-%EC%BD%94%ED%97%A4%EC%8B%9C%ED%8B%B0%EA%B0%80-%EC%A0%9C%EC%8B%9C%ED%95%9C-%EB%B3%B5%EA%B5%AC-%EC%A4%91%EC%8B%AC.html",
-      "summary": "코헤시티가 안국약품과 모트렉스 등 국내 도입 사례를 공개하며 신뢰할 수 있는 복구본 확보가 사이버 복원력의 완성이라고 밝혔다. Credit: Cohesity AI를 악용한 고도화된 사이버 공격과 연쇄 해킹 사고가 금융권을 비롯해 산업 전반으로 확산하면서, 기업의 보안 전략이 침입 차단 중심에서 공격 이후의 복구 역량까지 아우르는 방향으로 이동하고 있다."
+      "date": "2026.11.23",
+      "link": "https://www.itworld.co.kr/article/4250906/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EB%A7%88%EC%A0%80-%EC%9D%B8%EC%A0%95%ED%95%9C-ram-%EA%B0%80%EA%B2%A9-%ED%8F%AD%EB%93%B1-pc-%EC%88%98%EC%9A%94-%EC%A7%93%EB%88%84%EB%A5%B8%EB%8B%A4.html",
+      "summary": "AI 업계 거인 엔비디아가 주로 메모리와 관련된 3,900억 달러 규모의 향후 공급 약정을 확보한 가운데, 비싼 부품이 사용자 PC 수요를 짓누르고 있다. Credit: Nvidia 엔비디아는 AI 골드러시로 막대한 돈을 쓸어 담고 있다."
     }
   ]
 }
