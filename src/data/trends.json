@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-27T06:38:59.829Z",
-  "collectionDate": "2026.11.26",
-  "displayDate": "2026.11.27",
+  "updatedAt": "2026-11-28T06:13:34.479Z",
+  "collectionDate": "2026.11.27",
+  "displayDate": "2026.11.28",
   "totalCount": 10,
   "sources": [
     "ZDNet Korea",
@@ -11,52 +11,52 @@
     {
       "id": 1,
       "number": "01",
-      "title": "클라우드 없이 내 PC서 AI 돌린다…래블업, 'AI:GO 2.0' 출시",
+      "title": "KTis, 과천서 장애예술인 미술 특별전 열어",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.26",
-      "link": "https://zdnet.co.kr/view/?no=20261127153208",
-      "summary": "래블업이 외부 클라우드에 의존하지 않고 개인 PC에서 인공지능(AI) 모델과 에이전트를 실행할 수 있는 서비스를 선보인다. 래블업은 로컬 AI 데스크톱 애플리케이션의 새 버전인 'AI:GO(에이아이고) 2.0'을 출시했다고 27일 밝혔다. AI:GO 2.0은 언어·비전·이미지·음성 등 다양한 로컬 AI 모델을 하나의 앱에서 실행할 수 있는 서비스다."
+      "date": "2026.11.27",
+      "link": "https://zdnet.co.kr/view/?no=20261128144735",
+      "summary": "KTis 소속 장애예술인 10명이 경기 과천에서 열리는 미술 특별전 ‘꿈을 잇다, 마음을 잇다’에서 작품을 선보인다. KTis는 27일 과천 갤러리바다에서 특별전을 열었다. 전문 작가 2명과 훈련 예술인 8명이 참여했으며, 관람은 12월 18일까지 무료다."
     },
     {
       "id": 2,
       "number": "02",
-      "title": "아무나 못 먹는 호텔 크리스마스 케이크…얼마나 올랐나 보니",
+      "title": "李대통령 \"동해 AI데이터센터, 글로벌 기업 투자 이끄는 마중물”",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.26",
-      "link": "https://zdnet.co.kr/view/?no=20261127150826",
-      "summary": "특급호텔 크리스마스 케이크의 최고가가 올해 60만원을 기록했다. 2024년 40만원, 지난해 50만원에 이어 올해도 최고가를 경신했다. 가격 상승은 초고가 한정판에만 나타난 것은 아니다. 트리 케이크와 호텔 캐릭터를 활용한 제품 등 다른 크리스마스 시즌 상품도 전년보다 높은 가격에 출시됐다."
+      "date": "2026.11.27",
+      "link": "https://zdnet.co.kr/view/?no=20261128144348",
+      "summary": "이재명 대통령은 28일 강원 동해에 들어설 GS AI데이터센터에 대해 “아시아 최대 규모의 인공지능 핵심 인프라로서 글로벌 기업의 선제적인 투자를 이끄는 마중물이 될 것”이라고 밝혔다. 이 대통령은 이날 강원 동해시에서 열린 ‘동해 GS 인공지능 데이터센터’ 착공식 축사에서 “이곳 동해에는 총 2."
     },
     {
       "id": 3,
       "number": "03",
-      "title": "AI로 지역 현안 해결한다…행안부, 지방공무원 389명 AI 역량 강화",
+      "title": "GS 동해 AI데이터센터 첫삽...메가프로젝트 첫 GW급 착공",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.26",
-      "link": "https://zdnet.co.kr/view/?no=20261127152403",
-      "summary": "정부가 인공지능(AI) 활용 능력과 현장 대응력을 갖춘 지방공무원 389명을 배출했다. 직급별 맞춤형 AI 실습과 지역 현안 해결 중심 교육을 통해 지방행정 현장으로 AI 전환(AX)을 확산한다는 목표다. 행정안전부 지방자치인재개발원은 27일 자치인재원 대강당에서 '2026년 장기교육과정' 수료식을 개최했다."
+      "date": "2026.11.27",
+      "link": "https://zdnet.co.kr/view/?no=20261128143956",
+      "summary": "GS가 강원 동해에 짓는 1.2기가와트(GW) 규모 AI 데이터센터가 착공했다. 정부 메가프로젝트로 추진되는 GW급 AI 데이터센터 가운데 첫 착공이다. 과학기술정보통신부는 인허가 일괄처리와 전력계통영향평가 면제 등 제도 정비로 후속 사업에 속도를 낸다."
     },
     {
       "id": 4,
       "number": "04",
-      "title": "코난테크놀로지, 창원에 제조 AX 거점 구축…방산·제조기업 지원",
+      "title": "인터넷우체국 해킹...등기우편 고객 정보 유출",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.26",
-      "link": "https://zdnet.co.kr/view/?no=20261127151153",
-      "summary": "코난테크놀로지가 경남 창원에 제조 인공지능 전환(AX) 기술센터를 설립하고 지역 방산·제조기업 지원에 나선다. 숙련 작업자가 쌓은 노하우를 인공지능(AI)에 담아 품질 이상 대응과 설비 점검 등에 활용하도록 지원할 계획이다."
+      "date": "2026.11.27",
+      "link": "https://zdnet.co.kr/view/?no=20261128143100",
+      "summary": "인터넷우체국이 해외 IP를 통한 해킹 공격을 받아 등기우편물 고객의 이름과 주소, 전화번호가 유출됐다. 해커가 정보를 조회한 8일 가운데 지금까지 분석을 마친 하루치에서 확인된 유출 고객은 법인 포함 11만 3855명이다."
     },
     {
       "id": 5,
       "number": "05",
-      "title": "공공 SW 대기업 참여 문턱 낮아진다…700억원 이상 사업 개방",
+      "title": "[부음] 김학수 이엠비정보통신 대표 모친상",
       "category": "IT/Tech",
       "source": "ZDNet Korea",
-      "date": "2026.11.26",
-      "link": "https://zdnet.co.kr/view/?no=20261127150841",
-      "summary": "정부가 대기업의 공공 소프트웨어(SW) 사업 참여 제한을 완화한다. 700억원 이상 대형 사업에 대기업 참여를 허용하고 설계·기획 사업을 전면 개방하는 한편 중소기업 전용 사업 범위도 확대해 기업 규모별 사업 참여 기준을 재정비한다는 방침이다."
+      "date": "2026.11.27",
+      "link": "https://zdnet.co.kr/view/?no=20261128142034",
+      "summary": "▲유안근씨(향년 89세) 별세, 김학수(이엠비정보통신 대표)·김학현·김학미씨 모친상, 김수진·김효진씨 시모상 = 서울아산병원 장례식장 1호실, 발인 11월 30일 오전 8시, 장지 양평 갑산공원."
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "title": "리만 가설이 풀려도 암호화가 버티는 이유와 AI가 앞당길 위험",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.26",
+      "date": "2026.11.27",
       "link": "https://www.itworld.co.kr/article/4253448/%EB%A6%AC%EB%A7%8C-%EA%B0%80%EC%84%A4%EC%9D%B4-%ED%92%80%EB%A0%A4%EB%8F%84-%EC%95%94%ED%98%B8%ED%99%94%EA%B0%80-%EB%B2%84%ED%8B%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-ai%EA%B0%80-%EC%95%9E%EB%8B%B9.html",
       "summary": "클로드의 도움으로 증명된 것으로 보이는 리만 가설은 RSA의 근간을 흔들지 않지만, 보안 업계는 AI가 수학적 발견을 가속하는 속도에 주목하고 있다."
     },
@@ -74,7 +74,7 @@
       "title": "‘철저하게 하라’는 프롬프트가 부르는 AI 샌드박스 이탈",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.26",
+      "date": "2026.11.27",
       "link": "https://www.itworld.co.kr/article/4253435/%EC%B2%A0%EC%A0%80%ED%95%98%EA%B2%8C-%ED%95%98%EB%9D%BC%EB%8A%94-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EA%B0%80-%EB%B6%80%EB%A5%B4%EB%8A%94-ai-%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4-%EC%9D%B4.html",
       "summary": "앤트로픽은 시스템 프롬프트 규칙과 분류기 기반 점검으로 외부 접근 비율을 크게 낮췄지만, 샌드박스 자체의 취약점은 그대로 남는다고 밝혔다. Credit: wenich_mit – shutterstock."
     },
@@ -84,7 +84,7 @@
       "title": "현실적 기업 업무를 겨냥한 오픈클로의 AI 에이전트 벤치마크",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.26",
+      "date": "2026.11.27",
       "link": "https://www.itworld.co.kr/article/4253429/%ED%98%84%EC%8B%A4%EC%A0%81-%EA%B8%B0%EC%97%85-%EC%97%85%EB%AC%B4%EB%A5%BC-%EA%B2%A8%EB%83%A5%ED%95%9C-%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C%EC%9D%98-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B2%A4.html",
       "summary": "셸벤치는 기업이 맞닥뜨리는 복잡한 업무를 시험하겠다는 취지로 설계됐지만, 과제 일부가 비공개라는 점에서 검증 가능성을 둘러싼 논란의 여지를 남겼다. Credit: Gorodenkoff | shutterstock."
     },
@@ -94,7 +94,7 @@
       "title": "AI 에이전트 보안의 대안으로 떠오른 기밀 컴퓨팅",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.26",
+      "date": "2026.11.27",
       "link": "https://www.itworld.co.kr/article/4252379/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%B3%B4%EC%95%88%EC%9D%98-%EB%8C%80%EC%95%88%EC%9C%BC%EB%A1%9C-%EB%96%A0%EC%98%A4%EB%A5%B8-%EA%B8%B0%EB%B0%80-%EC%BB%B4%ED%93%A8%ED%8C%85.html",
       "summary": "기존 암호화가 지키지 못하는 사용 중 데이터를 보호하는 기술이 AI 모델과 에이전트를 안전하게 가둘 수단으로 관심을 받고 있다. Credit: geralt AI 에이전트가 통제를 벗어나 보안 우려를 키우는 사고가 잇따르면서, 기밀 컴퓨팅이 AI 모델을 안전한 금고에 가두는 방법으로 부상하고 있다."
     },
@@ -104,7 +104,7 @@
       "title": "부메랑이 된 엔비디아 CEO 교체, CIO가 점검할 공급망 위험",
       "category": "IT/Tech",
       "source": "ITWorld Korea",
-      "date": "2026.11.26",
+      "date": "2026.11.27",
       "link": "https://www.itworld.co.kr/article/4252368/%EB%B6%80%EB%A9%94%EB%9E%91%EC%9D%B4-%EB%90%9C-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-ceo-%EA%B5%90%EC%B2%B4-cio%EA%B0%80-%EC%A0%90%EA%B2%80%ED%95%A0-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EC%9C%84%ED%97%98.html",
       "summary": "엔비디아 이사회가 월요일 젠슨 황의 CEO 복귀를 결정하면서 CIO 사이에서 AI 공급업체 의존과 이사회의 CEO 견제 기능에 대한 우려가 커졌다. Credit: gguy / Shutterstock 엔비디아 이사회가 월요일 CEO 젠슨 황의 복귀를 결정하면서, CIO 사이에서 이사회가 CEO를 어디까지 감독할 수 있는지에 대한 의문이 제기되고 있다."
     }
